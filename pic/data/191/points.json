@@ -256,5 +256,16 @@
     ],
     "origin": "Anitabi@LovelySummer Channel",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ure2jhreg",
+    "name": "梅津寺駅",
+    "image": "https://image.xinu.ink/pic/data/191/images/ure2jhreg-1744923174709.jpg",
+    "ep": 11,
+    "s": 1257,
+    "geo": [
+      33.8745,
+      132.7074
+    ]
   }
 ]

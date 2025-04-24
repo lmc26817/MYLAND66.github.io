@@ -417,5 +417,56 @@
       35.6222,
       139.4223
     ]
+  },
+  {
+    "id": "uxgcwxvfy",
+    "name": "パルテノン大通リ",
+    "image": "https://image.xinu.ink/pic/data/282/images/uxgcwxvfy-1745398436731.jpg",
+    "ep": 13,
+    "s": 1213,
+    "geo": [
+      35.6236,
+      139.4248
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uxgmqr1ui",
+    "name": "ゆうゆう桥",
+    "image": "https://image.xinu.ink/pic/data/282/images/uxgmqr1ui-1745398768836.jpg",
+    "ep": 5,
+    "s": 709,
+    "geo": [
+      35.6223,
+      139.4223
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uxgy4p1vd",
+    "name": "多摩モノレール通り",
+    "image": "https://image.xinu.ink/pic/data/282/images/uxgy4p1vd_1745399463019.jpg",
+    "ep": 5,
+    "s": 722,
+    "geo": [
+      35.6223,
+      139.4223
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uxfx89bff",
+    "name": "Shoo La Rue",
+    "image": "https://image.xinu.ink/pic/data/282/images/uxfx89bff-1745397248751.jpg",
+    "ep": null,
+    "geo": [
+      35.6228,
+      139.4244
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
   }
 ]

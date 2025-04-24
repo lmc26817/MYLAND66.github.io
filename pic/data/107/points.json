@@ -9,5 +9,162 @@
       34.6685,
       135.5046
     ]
+  },
+  {
+    "id": "uctrosxcz",
+    "name": "新大阪駅",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctrosxcz_1743785798059.jpg",
+    "s": 544,
+    "geo": [
+      34.7334,
+      135.5006
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uctu0bsus",
+    "name": "新大阪駅前",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctu0bsus_1743785810325.jpg",
+    "s": 553,
+    "geo": [
+      34.733,
+      135.5008
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uctuqb8ae",
+    "name": "片町橋",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctuqb8ae_1743785832179.jpg",
+    "s": 686,
+    "geo": [
+      34.6932,
+      135.5286
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uctuzc3rm",
+    "name": "城見1西交差点",
+    "image": "https://image.xinu.ink/pic/data/107/images/uctuzc3rm_1743785844414.jpg",
+    "s": 696,
+    "geo": [
+      34.6921,
+      135.5295
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucv3qwktq",
+    "name": "大阪府警察本部旧庁舎",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucv3qwktq_1743785859583.jpg",
+    "s": 704,
+    "geo": [
+      34.6837,
+      135.52
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucu4y3ydd",
+    "name": "今宮戎神社",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucu4y3ydd_1743785886412.jpg",
+    "s": 1178,
+    "geo": [
+      34.6551,
+      135.5024
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucu56dekk",
+    "name": "今宮戎神社 東門",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucu56dekk_1743785903115.jpg",
+    "s": 1259,
+    "geo": [
+      34.655,
+      135.5026
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucub6eukh",
+    "name": "大阪城",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucub6eukh_1743785921496.jpg",
+    "s": 1407,
+    "geo": [
+      34.6882,
+      135.5244
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucuf8l8ty",
+    "name": "通天閣",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucuf8l8ty_1743785936025.jpg",
+    "s": 1486,
+    "geo": [
+      34.6518,
+      135.506
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uculbftc6",
+    "name": "RRビル",
+    "image": "https://image.xinu.ink/pic/data/107/images/uculbftc6_1743785948918.jpg",
+    "s": 1554,
+    "geo": [
+      34.6868,
+      135.5086
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucw45qhfd",
+    "cn": "大阪巨蛋",
+    "name": "京セラ​ドーム​大阪",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucw45qhfd_1743786837228.jpg",
+    "s": 1833,
+    "geo": [
+      34.6693,
+      135.476
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucw8j4oj9",
+    "name": "天保山大橋",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucw8j4oj9_1743787172154.jpg",
+    "s": 1837,
+    "geo": [
+      34.6594,
+      135.4324
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ucwfradqs",
+    "name": "大阪・海遊館",
+    "image": "https://image.xinu.ink/pic/data/107/images/ucwfradqs_1743787559490.jpg",
+    "s": 1881,
+    "geo": [
+      34.6545,
+      135.4293
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

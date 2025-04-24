@@ -262,5 +262,344 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "qrxhvw3a8",
+    "name": "シャン・ド ・マルス公園",
+    "image": "https://image.xinu.ink/pic/data/340/images/qrxhvw3a8_1733680893141.jpg",
+    "ep": 2,
+    "s": 737,
+    "geo": [
+      48.0751,
+      7.3523
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uh2q7h0z2",
+    "cn": "巴黎北站",
+    "name": "Paris Gare du Nord",
+    "image": "https://image.xinu.ink/pic/data/340/images/uh2q7h0z2-1744114747390.jpg",
+    "ep": 6,
+    "s": 1122,
+    "geo": [
+      48.8799,
+      2.3548
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uh654kc0g",
+    "cn": "塞切尼温泉浴场",
+    "name": "Széchenyi Gyógyfürdő és Uszoda",
+    "image": "https://image.xinu.ink/pic/data/340/images/uh654kc0g-1744122120931.jpg",
+    "ep": 10,
+    "s": 624,
+    "geo": [
+      47.5179,
+      19.0826
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uo9z7t95c",
+    "name": "Rue des Marchands",
+    "image": "https://image.xinu.ink/pic/data/340/images/uo9z7t95c-1744678999723.jpg",
+    "ep": 1,
+    "s": 63,
+    "geo": [
+      48.0761,
+      7.3585
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uoab5x2sl",
+    "name": "Schwendi Fountain Fontaine Schwendi",
+    "image": "https://image.xinu.ink/pic/data/340/images/uoab5x2sl-1744679727568.jpg",
+    "ep": 5,
+    "s": 1008,
+    "geo": [
+      48.0758,
+      7.3593
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uob1ctzmk",
+    "name": "Pont Rue des Ecoles - best photo spot",
+    "image": "https://image.xinu.ink/pic/data/340/images/uob1ctzmk-1744681335425.jpg",
+    "ep": 4,
+    "s": 1368,
+    "geo": [
+      48.0743,
+      7.3597
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uob9vccp9",
+    "name": "Petite Venise",
+    "image": "https://image.xinu.ink/pic/data/340/images/uob9vccp9-1744681820878.jpg",
+    "ep": 4,
+    "s": 647,
+    "geo": [
+      48.0746,
+      7.3603
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uh2vqfu7l",
+    "cn": "吉美博物馆",
+    "name": "Musée national des arts asiatiques - Guimet",
+    "image": "https://image.xinu.ink/pic/data/340/images/uh2vqfu7l-1744115055939.jpg",
+    "ep": 2,
+    "s": 0,
+    "geo": [
+      48.8647,
+      2.2938
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a9011b5b",
+    "name": "科尔马小火车",
+    "image": "https://image.xinu.ink/pic/data/340/images/a9011b5b-1744716007465.jpg",
+    "ep": null,
+    "geo": [
+      48.0792,
+      7.3561
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=12cIsLNFSHGIPA7K68J-WziKvURk2Diol&ll=48.079241%2C7.356154&z=17"
+  },
+  {
+    "id": "uogx30wi3",
+    "name": "Rue des Boulangers",
+    "image": "https://image.xinu.ink/pic/data/340/images/uogx30wi3-1744694108536.jpg",
+    "ep": null,
+    "geo": [
+      48.0779,
+      7.3557
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uoh7y3ur8",
+    "name": "Quai de la Poissonnerie",
+    "image": "https://image.xinu.ink/pic/data/340/images/uoh7y3ur8-1744694762357.jpg",
+    "ep": null,
+    "geo": [
+      48.074,
+      7.359
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uotxbayac",
+    "name": "Les Jardins de l'Ibac",
+    "image": "https://image.xinu.ink/pic/data/340/images/uotxbayac-1744722595817.jpg",
+    "ep": "",
+    "geo": [
+      43.7318,
+      7.3593
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uoulysrhs",
+    "cn": "法蘭西學院",
+    "name": "Institut de France",
+    "image": "https://image.xinu.ink/pic/data/340/images/uoulysrhs-1744723928683.jpg",
+    "ep": "",
+    "geo": [
+      48.8576,
+      2.3371
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uoutq7dd4",
+    "name": "Legrand Filles et Fils",
+    "image": "https://image.xinu.ink/pic/data/340/images/uoutq7dd4-1744724385662.jpg",
+    "ep": null,
+    "geo": [
+      48.8663,
+      2.3398
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uovr26pfa",
+    "cn": "耶拿桥（是否为取景地存疑）",
+    "name": "Pont d'Iéna",
+    "image": "https://image.xinu.ink/pic/data/340/images/uovr26pfa-1744726397479.jpg",
+    "ep": "",
+    "geo": [
+      48.8598,
+      2.292
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upbchppn3",
+    "name": "Rue de l'Église",
+    "image": "https://image.xinu.ink/pic/data/340/images/upbchppn3-1744760343495.jpg",
+    "ep": null,
+    "geo": [
+      48.0767,
+      7.3592
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upcjjqtae",
+    "name": "Rue de la Montagne Verte",
+    "image": "https://image.xinu.ink/pic/data/340/images/upcjjqtae-1744762958477.jpg",
+    "ep": null,
+    "geo": [
+      48.0755,
+      7.3602
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upfmykk2s",
+    "name": "Rue du Rempart Sud",
+    "image": "https://image.xinu.ink/pic/data/340/images/upfmykk2s-1744769685902.jpg",
+    "ep": null,
+    "geo": [
+      48.0421,
+      7.3073
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upo8sk74x",
+    "name": "Carrousel 1900",
+    "image": "https://image.xinu.ink/pic/data/340/images/upo8sk74x-1744788922633.jpg",
+    "ep": null,
+    "geo": [
+      48.0767,
+      7.3529
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uqkjecoi9",
+    "name": "Square Adolphe Hirn(是否为取景地存疑)",
+    "image": "https://image.xinu.ink/pic/data/340/images/uqkjecoi9-1744858780697.jpg",
+    "ep": null,
+    "geo": [
+      48.0732,
+      7.3547
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uqllirx5u",
+    "name": "Pont du Diable",
+    "image": "https://image.xinu.ink/pic/data/340/images/uqllirx5u-1744861037339.jpg",
+    "ep": null,
+    "geo": [
+      43.7299,
+      7.3574
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uqlrdld3e",
+    "name": "Les Flots Bleus",
+    "image": "https://image.xinu.ink/pic/data/340/images/uqlrdld3e-1744861409799.jpg",
+    "ep": null,
+    "geo": [
+      43.7302,
+      7.366
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "urmtvk71h",
+    "name": "珈琲るぽ",
+    "image": "https://image.xinu.ink/pic/data/340/images/urmtvk71h-1744942139180.jpg",
+    "ep": null,
+    "geo": [
+      35.7811,
+      139.5306
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "urn5e0yzn",
+    "name": "神奈川​大井​射撃場",
+    "image": "https://image.xinu.ink/pic/data/340/images/urn5e0yzn-1744942761065.jpg",
+    "ep": null,
+    "geo": [
+      35.3408,
+      139.1815
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uro1xmc4z",
+    "cn": "盖勒特浴场",
+    "name": "Gellért Gyógyfürdő és Uszoda",
+    "image": "https://image.xinu.ink/pic/data/340/images/uro1xmc4z-1744944749985.jpg",
+    "ep": null,
+    "geo": [
+      47.4838,
+      19.0517
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "urpcsd82d",
+    "cn": "劳赫河",
+    "name": "Lauch River",
+    "image": "https://image.xinu.ink/pic/data/340/images/urpcsd82d-1744947568012.jpg",
+    "ep": null,
+    "geo": [
+      48.0742,
+      7.3595
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "urpe4wi1e",
+    "name": "Quai de la Poissonerie",
+    "image": "https://image.xinu.ink/pic/data/340/images/urpe4wi1e-1744947646353.jpg",
+    "ep": null,
+    "geo": [
+      48.0743,
+      7.3596
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
   }
 ]

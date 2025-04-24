@@ -1005,5 +1005,32 @@
     ],
     "origin": "Anitabi@卜卜口",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "umk0bz89g",
+    "name": "JEUGIA三条本店",
+    "image": "https://image.xinu.ink/pic/data/128/images/s9o99xc7u_1737892396531.jpg",
+    "ep": 2,
+    "s": 694,
+    "geo": [
+      35.0087,
+      135.7677
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "umk0bz2iz",
+    "cn": "艾比路 Abbey Road Crossing",
+    "name": "アビー・ロード#2",
+    "image": "https://image.xinu.ink/pic/data/128/images/25idmhd-1715881057438.jpg",
+    "ep": null,
+    "s": 3653,
+    "geo": [
+      51.532,
+      -0.1774
+    ],
+    "origin": "Anitabi@dI",
+    "originURL": "https://anitabi.cn/"
   }
 ]

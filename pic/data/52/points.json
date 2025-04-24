@@ -355,5 +355,56 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uh8zfnwtp",
+    "cn": "中之岛图书馆",
+    "name": "府立中之島図書館",
+    "image": "https://image.xinu.ink/pic/data/52/images/uh8zfnwtp-1744128335178.jpg",
+    "ep": 125,
+    "s": 347,
+    "geo": [
+      34.6936,
+      135.5029
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uh8jv17xu",
+    "name": "門真運転免許試験場",
+    "image": "https://image.xinu.ink/pic/data/52/images/uh8jv17xu-1744127400241.jpg",
+    "ep": 125,
+    "s": 182,
+    "geo": [
+      34.7287,
+      135.5929
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uugkms3wi",
+    "name": "国立競技場",
+    "image": "https://image.xinu.ink/pic/data/52/images/uugkms3wi-1745163550346.jpg",
+    "ep": "140",
+    "s": "254",
+    "geo": [
+      35.6792,
+      139.7153
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u6e75l5qv",
+    "cn": "名古屋城",
+    "name": "名古屋城",
+    "image": "https://image.xinu.ink/pic/data/52/images/u6e75l5qv-1743277649434.jpg",
+    "ep": null,
+    "geo": [
+      35.1858,
+      136.8991
+    ]
   }
 ]

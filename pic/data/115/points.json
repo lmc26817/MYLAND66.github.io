@@ -510,5 +510,17 @@
       35.6295,
       139.7747
     ]
+  },
+  {
+    "id": "4uicc0cw1",
+    "name": "デジモンアドベンチャーの看板",
+    "image": "https://image.xinu.ink/pic/data/115/images/4uicc0cw1-1744595360619.jpg",
+    "ep": null,
+    "geo": [
+      35.7593,
+      139.6293
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11_PeKeHQmnFUU8PNuG_1yICZW5I&ll=35.759366%2C139.62931&z=17"
   }
 ]

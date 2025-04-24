@@ -422,5 +422,412 @@
       34.7616,
       135.3176
     ]
+  },
+  {
+    "id": "f0c517dc",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/123/images/f0c517dc_1742908696615.jpg",
+    "geo": [
+      34.7604,
+      135.3251
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.76043%2C135.325157&z=17"
+  },
+  {
+    "id": "f730224b",
+    "name": "祝川短大前を通過",
+    "image": "https://image.xinu.ink/pic/data/123/images/f730224b_1742908703894.jpg",
+    "geo": [
+      34.7603,
+      135.323
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760322%2C135.323026&z=17"
+  },
+  {
+    "id": "578895d3",
+    "name": "キョンこの橋を渡る",
+    "image": "https://image.xinu.ink/pic/data/123/images/578895d3_1742908705943.jpg",
+    "geo": [
+      34.7616,
+      135.3175
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761647%2C135.317576&z=17"
+  },
+  {
+    "id": "265ad365",
+    "name": "祝川短大前バス停",
+    "image": "https://image.xinu.ink/pic/data/123/images/265ad365_1742908700616.jpg",
+    "geo": [
+      34.7605,
+      135.3236
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760556%2C135.323611&z=17"
+  },
+  {
+    "id": "939a07df",
+    "name": "ファミリーマートのある場所",
+    "image": "https://image.xinu.ink/pic/data/123/images/939a07df_1742908707798.jpg",
+    "geo": [
+      34.7606,
+      135.3245
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760605%2C135.324593&z=17"
+  },
+  {
+    "id": "45031dc3",
+    "name": "だんだんの水路から道を見る",
+    "image": "https://image.xinu.ink/pic/data/123/images/45031dc3_1742908709689.jpg",
+    "geo": [
+      34.7601,
+      135.3266
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760137%2C135.326698&z=17"
+  },
+  {
+    "id": "52f0c344",
+    "name": "通学路の信号がある交差点",
+    "image": "https://image.xinu.ink/pic/data/123/images/52f0c344_1742908732959.jpg",
+    "geo": [
+      34.7599,
+      135.3265
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.759966%2C135.32653&z=17"
+  },
+  {
+    "id": "9b5fcc12",
+    "name": "カーブミラー",
+    "image": "https://image.xinu.ink/pic/data/123/images/9b5fcc12_1742908734426.jpg",
+    "geo": [
+      34.7604,
+      135.3156
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760432%2C135.315682&z=17"
+  },
+  {
+    "id": "cbfffa04",
+    "name": "北高一直線の坂の下",
+    "image": "https://image.xinu.ink/pic/data/123/images/cbfffa04_1742908735871.jpg",
+    "geo": [
+      34.7603,
+      135.3156
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760338%2C135.315692&z=17"
+  },
+  {
+    "id": "8321203b",
+    "name": "下校途中に寄り道",
+    "image": "https://image.xinu.ink/pic/data/123/images/8321203b_1742908737405.jpg",
+    "geo": [
+      34.7598,
+      135.3131
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.759819%2C135.31317&z=17"
+  },
+  {
+    "id": "4384e890",
+    "name": "下校途中の橋",
+    "image": "https://image.xinu.ink/pic/data/123/images/4384e890_1742908738849.jpg",
+    "geo": [
+      34.7605,
+      135.3238
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760596%2C135.323894&z=17"
+  },
+  {
+    "id": "3cf63812",
+    "name": "長門のマンションからの帰り",
+    "image": "https://image.xinu.ink/pic/data/123/images/3cf63812_1742908741972.jpg",
+    "geo": [
+      34.7597,
+      135.3429
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.759727%2C135.342992&z=17"
+  },
+  {
+    "id": "a3212553",
+    "name": "市立図書館",
+    "image": "https://image.xinu.ink/pic/data/123/images/a3212553_1742908740525.jpg",
+    "geo": [
+      34.7308,
+      135.3297
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.730833%2C135.329722&z=17"
+  },
+  {
+    "id": "e4ce4d13",
+    "name": "キョンが走ったところ（街路樹）",
+    "image": "https://image.xinu.ink/pic/data/123/images/e4ce4d13_1742908743570.jpg",
+    "geo": [
+      34.7605,
+      135.3169
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760556%2C135.316944&z=17"
+  },
+  {
+    "id": "94fde650",
+    "name": "キョンが走ったところ（横断歩道）",
+    "image": "https://image.xinu.ink/pic/data/123/images/94fde650_1742908746655.jpg",
+    "geo": [
+      34.761,
+      135.3283
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761063%2C135.328344&z=17"
+  },
+  {
+    "id": "038a924f",
+    "name": "キョンが走ったところ（階段）",
+    "image": "https://image.xinu.ink/pic/data/123/images/038a924f_1742908748153.jpg",
+    "geo": [
+      34.7604,
+      135.3289
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760421%2C135.328977&z=17"
+  },
+  {
+    "id": "8f31afb6",
+    "name": "用水路横から見上げるカット",
+    "image": "https://image.xinu.ink/pic/data/123/images/8f31afb6_1742908745273.jpg",
+    "geo": [
+      34.761,
+      135.3275
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761012%2C135.32754&z=17"
+  },
+  {
+    "id": "8fd592d1",
+    "name": "キョンが走ったところ（光陽園駅横）",
+    "image": "https://image.xinu.ink/pic/data/123/images/8fd592d1_1742908749772.jpg",
+    "geo": [
+      34.7605,
+      135.3302
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760531%2C135.330212&z=17"
+  },
+  {
+    "id": "82893798",
+    "name": "踏切",
+    "image": "https://image.xinu.ink/pic/data/123/images/82893798_1742908752516.jpg",
+    "geo": [
+      34.7573,
+      135.3325
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.757374%2C135.332525&z=17"
+  },
+  {
+    "id": "03898e2e",
+    "name": "キョンが走ったところ（線路沿い）",
+    "image": "https://image.xinu.ink/pic/data/123/images/03898e2e_1742908751141.jpg",
+    "geo": [
+      34.7596,
+      135.3313
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.759654%2C135.3313&z=17"
+  },
+  {
+    "id": "023d9cd2",
+    "name": "光陽園学院前",
+    "image": "https://image.xinu.ink/pic/data/123/images/023d9cd2_1742908753948.jpg",
+    "geo": [
+      34.7557,
+      135.3313
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.755732%2C135.331331&z=17"
+  },
+  {
+    "id": "bd741ff3",
+    "name": "し合ったファミレス",
+    "image": "https://image.xinu.ink/pic/data/123/images/bd741ff3_1742908755671.jpg",
+    "geo": [
+      34.7541,
+      135.3302
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.754156%2C135.330254&z=17"
+  },
+  {
+    "id": "252bae8d",
+    "name": "正門",
+    "image": "https://image.xinu.ink/pic/data/123/images/252bae8d_1742908757320.jpg",
+    "geo": [
+      34.7613,
+      135.3121
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761332%2C135.312174&z=17"
+  },
+  {
+    "id": "a4906b00",
+    "name": "北高に入るための準備をした場所",
+    "image": "https://image.xinu.ink/pic/data/123/images/a4906b00_1742908759044.jpg",
+    "geo": [
+      34.761,
+      135.3119
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.76102%2C135.311938&z=17"
+  },
+  {
+    "id": "824c91c8",
+    "name": "速度注意と下に書いてあるカット",
+    "image": "https://image.xinu.ink/pic/data/123/images/824c91c8_1742908760753.jpg",
+    "geo": [
+      34.7619,
+      135.3124
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761936%2C135.312434&z=17"
+  },
+  {
+    "id": "46d98b23",
+    "name": "光陽園駅前",
+    "image": "https://image.xinu.ink/pic/data/123/images/46d98b23_1742908764199.jpg",
+    "geo": [
+      34.7609,
+      135.3297
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760934%2C135.329761&z=17"
+  },
+  {
+    "id": "d7d4a00c",
+    "name": "キョンが走ったところ（夜道）",
+    "image": "https://image.xinu.ink/pic/data/123/images/d7d4a00c_1742908762783.jpg",
+    "geo": [
+      34.7601,
+      135.3259
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760192%2C135.325972&z=17"
+  },
+  {
+    "id": "57507384",
+    "name": "キョンが走って行ったところ（公園手前）",
+    "image": "https://image.xinu.ink/pic/data/123/images/57507384_1742908765540.jpg",
+    "geo": [
+      34.7604,
+      135.3312
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760429%2C135.331206&z=17"
+  },
+  {
+    "id": "379c87f2",
+    "name": "みくる（大人ver.）と話をしているときの風景",
+    "image": "https://image.xinu.ink/pic/data/123/images/379c87f2_1742908768690.jpg",
+    "geo": [
+      34.7605,
+      135.3309
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760523%2C135.330974&z=17"
+  },
+  {
+    "id": "308aa099",
+    "name": "みくる（大人ver.）を待ち伏せた場所",
+    "image": "https://image.xinu.ink/pic/data/123/images/308aa099_1742908766866.jpg",
+    "geo": [
+      34.7608,
+      135.3328
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.760865%2C135.332804&z=17"
+  },
+  {
+    "id": "fb99e358",
+    "name": "中学生ハルヒが出てくるとこ",
+    "image": "https://image.xinu.ink/pic/data/123/images/fb99e358_1742908770509.jpg",
+    "geo": [
+      34.7551,
+      135.3269
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.755168%2C135.326954&z=17"
+  },
+  {
+    "id": "364218e6",
+    "name": "キョンが隠れていたところ",
+    "image": "https://image.xinu.ink/pic/data/123/images/364218e6_1742908772267.jpg",
+    "geo": [
+      34.7552,
+      135.327
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.755224%2C135.327056&z=17"
+  },
+  {
+    "id": "a8c7cc56",
+    "name": "長門のマンションへ行く途中",
+    "image": "https://image.xinu.ink/pic/data/123/images/a8c7cc56_1742908773809.jpg",
+    "geo": [
+      34.7612,
+      135.3298
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761286%2C135.329868&z=17"
+  },
+  {
+    "id": "5951c08b",
+    "name": "暗い闇の中の坂",
+    "image": "https://image.xinu.ink/pic/data/123/images/5951c08b_1742908777365.jpg",
+    "geo": [
+      34.7616,
+      135.3136
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761659%2C135.313661&z=17"
+  },
+  {
+    "id": "bd924caa",
+    "name": "こちら側の門にキョン達は隠れた",
+    "image": "https://image.xinu.ink/pic/data/123/images/bd924caa_1742908778849.jpg",
+    "geo": [
+      34.7616,
+      135.3134
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761687%2C135.313422&z=17"
+  },
+  {
+    "id": "1fd6bb6e",
+    "name": "甲南病院",
+    "image": "https://image.xinu.ink/pic/data/123/images/1fd6bb6e_1742908782133.jpg",
+    "geo": [
+      34.729,
+      135.2514
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.729033%2C135.251403&z=17"
+  },
+  {
+    "id": "ac66f65d",
+    "name": "高台から北高が見える",
+    "image": "https://image.xinu.ink/pic/data/123/images/ac66f65d_1742908784522.jpg",
+    "geo": [
+      34.7615,
+      135.3061
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761573%2C135.306148&z=17"
   }
 ]

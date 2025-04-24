@@ -132,5 +132,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.701296%2C139.771043&z=17"
+  },
+  {
+    "id": "kpx6og937",
+    "name": "UDX ダイビル周辺2（陸橋）",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og937-1743955158541.jpg",
+    "ep": "14",
+    "s": "10:33",
+    "geo": [
+      35.6995,
+      139.7727
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.699519%2C139.772725&z=17"
   }
 ]

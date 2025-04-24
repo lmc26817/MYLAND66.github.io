@@ -339,5 +339,156 @@
       35.3082,
       139.4921
     ]
+  },
+  {
+    "id": "u84p1yzkp",
+    "name": "鎌倉高校前駅",
+    "image": "https://image.xinu.ink/pic/data/356/images/u84p1yzkp_1743413710237.jpg",
+    "ep": 7,
+    "s": 387,
+    "geo": [
+      35.3067,
+      139.5005
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u852uzk5p",
+    "name": "鎌倉高校前駅入口",
+    "image": "https://image.xinu.ink/pic/data/356/images/u852uzk5p_1743414526779.jpg",
+    "ep": 7,
+    "s": 515,
+    "geo": [
+      35.3067,
+      139.5009
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "391f1qkh",
+    "name": "山手卓球場",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1qkh_1743414727501.jpg",
+    "ep": 7,
+    "s": 542,
+    "geo": [
+      35.7142,
+      139.7027
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_-_m5-8GjQd74CKUewkCeHrypHI&ll=35.714261%2C139.702771&z=17"
+  },
+  {
+    "id": "391f1pb8",
+    "name": "ビックカメラ池袋本店パソコン館",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1pb8_1743427088631.jpg",
+    "ep": 7,
+    "s": 562,
+    "geo": [
+      35.7315,
+      139.7135
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_-_m5-8GjQd74CKUewkCeHrypHI&ll=35.731542%2C139.713588&z=17"
+  },
+  {
+    "id": "391f1qm3",
+    "name": "池袋駅東口",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1qm3_1743427125334.jpg",
+    "ep": 7,
+    "s": 562,
+    "geo": [
+      35.7313,
+      139.7128
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_-_m5-8GjQd74CKUewkCeHrypHI&ll=35.731375%2C139.712818&z=17"
+  },
+  {
+    "id": "4yc33i259",
+    "name": "十条駅前",
+    "image": "https://image.xinu.ink/pic/data/356/images/4yc33i259.jpg",
+    "ep": 7,
+    "s": 567,
+    "geo": [
+      35.7606,
+      139.7214
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "391f1phs",
+    "name": "つるや食堂藤沢店",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1phs_1743415257110.jpg",
+    "ep": 7,
+    "s": 603,
+    "geo": [
+      35.3361,
+      139.4892
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_-_m5-8GjQd74CKUewkCeHrypHI&ll=35.33619%2C139.489272&z=17"
+  },
+  {
+    "id": "391f1q4f",
+    "cn": "横滨大栈桥",
+    "name": "大さん橋",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1q4f_1743426655689.jpg",
+    "ep": 7,
+    "s": 1272,
+    "geo": [
+      35.4517,
+      139.6477
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_-_m5-8GjQd74CKUewkCeHrypHI&ll=35.451791%2C139.647732&z=17"
+  },
+  {
+    "id": "u9b43s828",
+    "name": "下諏訪神社",
+    "image": "https://image.xinu.ink/pic/data/356/images/u9b43s828_1743506088679.jpg",
+    "ep": 8,
+    "s": 1272,
+    "geo": [
+      35.3172,
+      139.4865
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "391f1pth",
+    "name": "神奈川県立七里ガ浜高等学校",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1pth_1743426746134.jpg",
+    "geo": [
+      35.3054,
+      139.5131
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_-_m5-8GjQd74CKUewkCeHrypHI&ll=35.305433%2C139.513171&z=17"
+  },
+  {
+    "id": "391f1pn1",
+    "name": "神奈川県立鎌倉高等学校",
+    "image": "https://image.xinu.ink/pic/data/356/images/391f1pn1_1743426755662.jpg",
+    "geo": [
+      35.3084,
+      139.5039
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1_-_m5-8GjQd74CKUewkCeHrypHI&ll=35.308419%2C139.503901&z=17"
+  },
+  {
+    "id": "u8aqxco9z",
+    "name": "鎌倉高校駅前",
+    "image": "https://image.xinu.ink/pic/data/356/images/u8aqxco9z_1743426857806.jpg",
+    "geo": [
+      35.3065,
+      139.502
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

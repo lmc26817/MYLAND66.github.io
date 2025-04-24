@@ -11,5 +11,77 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.674912%2C139.809083&z=17"
+  },
+  {
+    "id": "kpx6omd1v",
+    "cn": "大島六丁目",
+    "name": "ポイント1",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omd1v_1744371243824.jpg",
+    "geo": [
+      35.6897,
+      139.8359
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.689735%2C139.835999&z=17"
+  },
+  {
+    "id": "kpx6omda6",
+    "cn": "錦糸町 TERMINA",
+    "name": "ポイント2",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omda6_1744371171424.jpg",
+    "geo": [
+      35.6953,
+      139.8137
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.695366%2C139.813751&z=17"
+  },
+  {
+    "id": "kpx6omdtj",
+    "cn": "小名木川クローバー橋",
+    "name": "ポイント3",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omdtj_1744371191144.jpg",
+    "geo": [
+      35.6853,
+      139.8202
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.685303%2C139.820297&z=17"
+  },
+  {
+    "id": "kpx6omdyt",
+    "cn": "荒川ロックゲート",
+    "name": "ポイント4",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omdyt_1744371104063.jpg",
+    "geo": [
+      35.6832,
+      139.8475
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.683247%2C139.847519&z=17"
+  },
+  {
+    "id": "kpx6omer3",
+    "cn": "サンロード中の橋",
+    "name": "ポイント6",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omer3_1744371131688.jpg",
+    "geo": [
+      35.6906,
+      139.8377
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.690678%2C139.837738&z=17"
+  },
+  {
+    "id": "kpx6omgai",
+    "cn": "木場公園",
+    "name": "ポイント5’",
+    "image": "https://image.xinu.ink/pic/data/229/images/kpx6omgai_1744371328353.jpg",
+    "geo": [
+      35.6749,
+      139.809
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EjVDmeD_RuMkozNXJA2iIssxJR4&ll=35.674912%2C139.809083&z=17"
   }
 ]

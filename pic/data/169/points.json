@@ -196,5 +196,16 @@
       36.3929,
       139.0696
     ]
+  },
+  {
+    "id": "5i3hssjsh",
+    "name": "旧JR伊勢崎駅",
+    "image": "https://image.xinu.ink/pic/data/169/images/5i3hssjsh-1742916605943.jpg",
+    "ep": 7,
+    "s": "848",
+    "geo": [
+      36.3268,
+      139.1941
+    ]
   }
 ]

@@ -334,5 +334,19 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=17OLLfoQprV4Z7hQC0Q2xqW8VSV8&ll=35.788598%2C139.710892&z=17"
+  },
+  {
+    "id": "kpx6ov7dq",
+    "cn": "龙儿他们去雪山毕业旅行住的地方",
+    "name": "志賀プリンスホテル",
+    "image": "https://image.xinu.ink/pic/data/54/images/kpx6ov7dq-1744908004019.jpg",
+    "ep": 21,
+    "s": 348,
+    "geo": [
+      36.6848,
+      138.497
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17OLLfoQprV4Z7hQC0Q2xqW8VSV8&ll=36.684845%2C138.497&z=17"
   }
 ]

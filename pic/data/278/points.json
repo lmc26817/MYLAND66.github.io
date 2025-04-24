@@ -371,5 +371,474 @@
       33.6555,
       132.5895
     ]
+  },
+  {
+    "id": "a2wzg33ef",
+    "name": "猿沢池西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/a2wzg33ef-1726213553770.jpg",
+    "ep": 7,
+    "s": 1246,
+    "geo": [
+      34.6816,
+      135.8302
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SbvMjWMnylIcC2Gk9mMdwi2fZjc&ll=34.681691%2C135.830294&z=17"
+  },
+  {
+    "id": "a2vpptfp1",
+    "name": "橿原神宮西口第一号踏切",
+    "image": "https://image.xinu.ink/pic/data/278/images/a2vpptfp1-1686580454264.jpg",
+    "ep": 11,
+    "s": 46,
+    "geo": [
+      34.4858,
+      135.7828
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SbvMjWMnylIcC2Gk9mMdwi2fZjc&ll=34.485826%2C135.782813&z=17"
+  },
+  {
+    "id": "332877bc",
+    "name": "カーブミラー",
+    "image": "https://image.xinu.ink/pic/data/278/images/332877bc_1742916531917.jpg",
+    "ep": 2,
+    "s": 84,
+    "geo": [
+      34.4845,
+      135.7922
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484507%2C135.792232&z=17"
+  },
+  {
+    "id": "a9cb62b9",
+    "name": "大和西大寺駅4番のりば",
+    "image": "https://image.xinu.ink/pic/data/278/images/a9cb62b9_1742916548359.jpg",
+    "ep": 1,
+    "s": 231,
+    "geo": [
+      34.6937,
+      135.7827
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.693793%2C135.782764&z=17"
+  },
+  {
+    "id": "ebcf439e",
+    "name": "サイゼリヤJR奈良三条通り店【閉店】",
+    "image": "https://image.xinu.ink/pic/data/278/images/ebcf439e_1742916571323.jpg",
+    "ep": 1,
+    "s": 815,
+    "geo": [
+      34.6818,
+      135.8215
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.681899%2C135.821571&z=17"
+  },
+  {
+    "id": "ec578b87",
+    "name": "深田池",
+    "image": "https://image.xinu.ink/pic/data/278/images/ec578b87_1742916587036.jpg",
+    "ep": 1,
+    "s": 1077,
+    "geo": [
+      34.4863,
+      135.7842
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.486312%2C135.784219&z=17"
+  },
+  {
+    "id": "8106ff4e",
+    "name": "平城第2ショッピングセンター",
+    "image": "https://image.xinu.ink/pic/data/278/images/8106ff4e_1742916592489.jpg",
+    "ep": 1,
+    "s": 1092,
+    "geo": [
+      34.7207,
+      135.7891
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.720768%2C135.789186&z=17"
+  },
+  {
+    "id": "de6079be",
+    "name": "弁当を買って公園",
+    "image": "https://image.xinu.ink/pic/data/278/images/de6079be_1742916596636.jpg",
+    "ep": 1,
+    "s": 1101,
+    "geo": [
+      34.7206,
+      135.7891
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.720693%2C135.789136&z=17"
+  },
+  {
+    "id": "d1475cab",
+    "name": "栗山自宅",
+    "image": "https://image.xinu.ink/pic/data/278/images/d1475cab_1742916601765.jpg",
+    "ep": 8,
+    "s": 965,
+    "geo": [
+      34.721,
+      135.7891
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.721013%2C135.78916&z=17"
+  },
+  {
+    "id": "f2d0171e",
+    "name": "平城第2団地",
+    "image": "https://image.xinu.ink/pic/data/278/images/f2d0171e_1742916607286.jpg",
+    "ep": 7,
+    "s": 893,
+    "geo": [
+      34.7197,
+      135.7888
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.719723%2C135.788863&z=17"
+  },
+  {
+    "id": "17d27211",
+    "name": "ピエロの公園",
+    "image": "https://image.xinu.ink/pic/data/278/images/17d27211_1742916611914.jpg",
+    "ep": 2,
+    "s": 385,
+    "geo": [
+      34.7186,
+      135.7886
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.718695%2C135.788681&z=17"
+  },
+  {
+    "id": "4170b0db",
+    "name": "橿原神宮西口第四号踏切周辺",
+    "image": "https://image.xinu.ink/pic/data/278/images/4170b0db_1742916615865.jpg",
+    "ep": 2,
+    "s": 457,
+    "geo": [
+      34.4847,
+      135.7917
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484703%2C135.791753&z=17"
+  },
+  {
+    "id": "b4337b37",
+    "name": "ホテル大和路裏手",
+    "image": "https://image.xinu.ink/pic/data/278/images/b4337b37_1742916627449.jpg",
+    "ep": 3,
+    "s": 121,
+    "geo": [
+      34.6808,
+      135.8324
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.680809%2C135.832434&z=17"
+  },
+  {
+    "id": "30c82f33",
+    "name": "大和西大寺駅北口",
+    "image": "https://image.xinu.ink/pic/data/278/images/30c82f33_1742916696754.jpg",
+    "ep": 3,
+    "geo": [
+      34.694,
+      135.7831
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.694002%2C135.783113&z=17"
+  },
+  {
+    "id": "b2518582",
+    "name": "カフェレストラン PINOCCHIO",
+    "image": "https://image.xinu.ink/pic/data/278/images/b2518582_1742916709741.jpg",
+    "ep": 5,
+    "geo": [
+      34.6819,
+      135.8236
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.681912%2C135.82362&z=17"
+  },
+  {
+    "id": "5955bdde",
+    "name": "浮見堂",
+    "image": "https://image.xinu.ink/pic/data/278/images/5955bdde_1742916713408.jpg",
+    "ep": 5,
+    "geo": [
+      34.6795,
+      135.8384
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.679527%2C135.838437&z=17"
+  },
+  {
+    "id": "22bcb90a",
+    "name": "聖心学園東側三叉路",
+    "image": "https://image.xinu.ink/pic/data/278/images/22bcb90a_1742916721668.jpg",
+    "ep": 6,
+    "geo": [
+      34.483,
+      135.787
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.483018%2C135.787011&z=17"
+  },
+  {
+    "id": "a40ca473",
+    "name": "聖心学園東側",
+    "image": "https://image.xinu.ink/pic/data/278/images/a40ca473_1742916726063.jpg",
+    "ep": 11,
+    "geo": [
+      34.4839,
+      135.7856
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.483907%2C135.785605&z=17"
+  },
+  {
+    "id": "a4bc8476",
+    "name": "下校通り",
+    "image": "https://image.xinu.ink/pic/data/278/images/a4bc8476_1742916734904.jpg",
+    "ep": 7,
+    "geo": [
+      34.4853,
+      135.7923
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.485318%2C135.792367&z=17"
+  },
+  {
+    "id": "cca8f378",
+    "name": "やぐら歯科内科",
+    "image": "https://image.xinu.ink/pic/data/278/images/cca8f378_1742916737428.jpg",
+    "ep": 7,
+    "geo": [
+      34.7211,
+      135.7922
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.721165%2C135.792216&z=17"
+  },
+  {
+    "id": "23537c84",
+    "name": "三条都パーキング前",
+    "image": "https://image.xinu.ink/pic/data/278/images/23537c84_1742916750758.jpg",
+    "ep": 7,
+    "geo": [
+      34.682,
+      135.8219
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.68203%2C135.821949&z=17"
+  },
+  {
+    "id": "b9478a50",
+    "name": "上三条町交差点",
+    "image": "https://image.xinu.ink/pic/data/278/images/b9478a50_1742916754370.jpg",
+    "ep": 7,
+    "geo": [
+      34.682,
+      135.826
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.682007%2C135.826073&z=17"
+  },
+  {
+    "id": "96753461",
+    "name": "道路標識",
+    "image": "https://image.xinu.ink/pic/data/278/images/96753461_1742916757859.jpg",
+    "ep": 8,
+    "geo": [
+      34.4841,
+      135.7934
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484147%2C135.793457&z=17"
+  },
+  {
+    "id": "de330f3b",
+    "name": "ベンチ",
+    "image": "https://image.xinu.ink/pic/data/278/images/de330f3b_1742916762464.jpg",
+    "ep": 8,
+    "geo": [
+      34.484,
+      135.7939
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484077%2C135.793955&z=17"
+  },
+  {
+    "id": "f2c1667e",
+    "name": "橿原神宮前駅駅前",
+    "image": "https://image.xinu.ink/pic/data/278/images/f2c1667e_1742916765843.jpg",
+    "ep": 8,
+    "geo": [
+      34.4836,
+      135.7937
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.483668%2C135.793765&z=17"
+  },
+  {
+    "id": "f17945b3",
+    "name": "西大寺橋東詰",
+    "image": "https://image.xinu.ink/pic/data/278/images/f17945b3_1742916768233.jpg",
+    "ep": 8,
+    "geo": [
+      34.6939,
+      135.7861
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.693911%2C135.786175&z=17"
+  },
+  {
+    "id": "71fb2637",
+    "name": "大仏殿交差点",
+    "image": "https://image.xinu.ink/pic/data/278/images/71fb2637_1742916773616.jpg",
+    "ep": 8,
+    "geo": [
+      34.6835,
+      135.8399
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.683502%2C135.839966&z=17"
+  },
+  {
+    "id": "ff558cf5",
+    "name": "ローソン 高の原中央病院店",
+    "image": "https://image.xinu.ink/pic/data/278/images/ff558cf5_1742916777293.jpg",
+    "ep": 8,
+    "geo": [
+      34.7214,
+      135.7899
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.721463%2C135.789907&z=17"
+  },
+  {
+    "id": "0573b54b",
+    "name": "橿原神宮前駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/0573b54b_1742916781395.jpg",
+    "ep": 8,
+    "geo": [
+      34.4842,
+      135.7941
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484248%2C135.794162&z=17"
+  },
+  {
+    "id": "cf0c4572",
+    "name": "橿原神宮前駅北西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/cf0c4572_1742916785672.jpg",
+    "ep": 9,
+    "geo": [
+      34.4844,
+      135.7931
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484416%2C135.793185&z=17"
+  },
+  {
+    "id": "d6bccf91",
+    "name": "久米町子供広場西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/d6bccf91_1742916787492.jpg",
+    "ep": 9,
+    "geo": [
+      34.4831,
+      135.7892
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.483103%2C135.789274&z=17"
+  },
+  {
+    "id": "e2621bd7",
+    "name": "大和西大寺駅南改札口",
+    "image": "https://image.xinu.ink/pic/data/278/images/e2621bd7_1742916790433.jpg",
+    "ep": 10,
+    "geo": [
+      34.6937,
+      135.7826
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.693731%2C135.782695&z=17"
+  },
+  {
+    "id": "bb7da386",
+    "name": "橿原神宮西口第四号踏切南側",
+    "image": "https://image.xinu.ink/pic/data/278/images/bb7da386_1742916794871.jpg",
+    "ep": 11,
+    "geo": [
+      34.4845,
+      135.7916
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484552%2C135.791696&z=17"
+  },
+  {
+    "id": "83ed0e86",
+    "name": "橿原線の1・8番ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/83ed0e86_1742916798538.jpg",
+    "ep": 11,
+    "geo": [
+      34.4841,
+      135.7943
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484148%2C135.794321&z=17"
+  },
+  {
+    "id": "f12a2d4f",
+    "name": "京街道架道橋下",
+    "image": "https://image.xinu.ink/pic/data/278/images/f12a2d4f_1742916804189.jpg",
+    "ep": 11,
+    "geo": [
+      34.9347,
+      135.7915
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.934719%2C135.791589&z=17"
+  },
+  {
+    "id": "f228bca4",
+    "name": "近鉄スポーツセンター前",
+    "image": "https://image.xinu.ink/pic/data/278/images/f228bca4_1742916807262.jpg",
+    "ep": 11,
+    "geo": [
+      34.6865,
+      135.787
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.686559%2C135.787067&z=17"
+  },
+  {
+    "id": "ffd297da",
+    "name": "久米交差点",
+    "image": "https://image.xinu.ink/pic/data/278/images/ffd297da_1742916808618.jpg",
+    "ep": 11,
+    "geo": [
+      34.4825,
+      135.7918
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.482536%2C135.791815&z=17"
+  },
+  {
+    "id": "990ebfc4",
+    "name": "西大寺橋西詰",
+    "image": "https://image.xinu.ink/pic/data/278/images/990ebfc4_1742916811729.jpg",
+    "ep": 11,
+    "geo": [
+      34.6942,
+      135.7858
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.694216%2C135.78582&z=17"
   }
 ]

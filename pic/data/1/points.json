@@ -712,5 +712,133 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=35.763555%2C139.361491&z=17"
+  },
+  {
+    "id": "u4tgqlmir",
+    "name": "渚与朋也回家路上",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4tgqlmir-1743154174531.jpg",
+    "ep": 19,
+    "s": 392,
+    "geo": [
+      35.762,
+      139.3705
+    ]
+  },
+  {
+    "id": "u4tnqujwp",
+    "name": "渚与朋也回家路上2",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4tnqujwp-1743154581366.jpg",
+    "ep": 23,
+    "s": 5,
+    "geo": [
+      35.7717,
+      139.3565
+    ]
+  },
+  {
+    "id": "u4ttd66gu",
+    "name": "OP取景地1",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4ttd66gu-1743154915046.jpg",
+    "ep": 11,
+    "s": 178,
+    "geo": [
+      35.5857,
+      139.6704
+    ]
+  },
+  {
+    "id": "u5wspcrb0",
+    "name": "朋也追赶宫泽有纪宁经过的桥",
+    "image": "https://image.xinu.ink/pic/data/1/images/u5wspcrb0-1743239759184.jpg",
+    "ep": 8,
+    "s": 417,
+    "geo": [
+      35.7708,
+      139.3528
+    ]
+  },
+  {
+    "id": "u8hf79zgo",
+    "name": "芳野相机中的位置1",
+    "image": "https://image.xinu.ink/pic/data/1/images/u8hf79zgo-1743441400674.jpg",
+    "ep": 11,
+    "s": 425,
+    "geo": [
+      35.586,
+      139.6703
+    ]
+  },
+  {
+    "id": "u8hnteoiv",
+    "name": "芳野相机中的位置2",
+    "image": "https://image.xinu.ink/pic/data/1/images/u8hnteoiv-1743441933829.jpg",
+    "ep": 11,
+    "s": 428,
+    "geo": [
+      35.5852,
+      139.6707
+    ]
+  },
+  {
+    "id": "u8hmteud8",
+    "name": "折磨自己不停工作中的朋也",
+    "image": "https://image.xinu.ink/pic/data/1/images/u8hmteud8-1743441860965.jpg",
+    "ep": 17,
+    "s": 33,
+    "geo": [
+      35.5853,
+      139.6707
+    ]
+  },
+  {
+    "id": "u4tw4my95",
+    "name": "「CLANNAD」DVD：第1巻　表紙",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4tw4my95-1743155132538.jpg",
+    "ep": null,
+    "geo": [
+      35.7747,
+      139.3545
+    ]
+  },
+  {
+    "id": "u4tz4g0pw",
+    "name": "「CLANNAD」DVD：第2巻　表紙",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4tz4g0pw-1743155260070.jpg",
+    "ep": null,
+    "geo": [
+      35.7719,
+      139.3557
+    ]
+  },
+  {
+    "id": "u4u6vghgl",
+    "name": "「CLANNAD」DVD：第3巻　表紙",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4u6vghgl-1743155731144.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.7607,
+      139.361
+    ]
+  },
+  {
+    "id": "u4u9btx4h",
+    "name": "「CLANNAD」DVD：第4巻　表紙",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4u9btx4h-1743155918186.jpg",
+    "ep": null,
+    "geo": [
+      35.7654,
+      139.3192
+    ]
+  },
+  {
+    "id": "u4ubnr2nu",
+    "name": "「CLANNAD」DVD：第5巻　表紙",
+    "image": "https://image.xinu.ink/pic/data/1/images/u4ubnr2nu-1743156025338.jpg",
+    "ep": null,
+    "geo": [
+      35.7562,
+      139.3609
+    ]
   }
 ]

@@ -231,5 +231,38 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.245688%2C137.954351&z=17"
+  },
+  {
+    "id": "a86t1s8m",
+    "name": "ザ・ナハテラス",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s8m_1742839899688.jpg",
+    "geo": [
+      26.2236,
+      127.6912
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=26.223634%2C127.691243&z=17"
+  },
+  {
+    "id": "a86t1s1r",
+    "name": "サンマリーナホテル",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1s1r_1742840488994.jpg",
+    "geo": [
+      26.4612,
+      127.8117
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=26.461237%2C127.811798&z=17"
+  },
+  {
+    "id": "a86t1rqj",
+    "name": "上田城跡公園陸上競技場",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rqj_1742838698108.jpg",
+    "geo": [
+      36.4058,
+      138.2443
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.405892%2C138.244395&z=17"
   }
 ]

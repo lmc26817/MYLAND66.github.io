@@ -8,5 +8,139 @@
       34.6502,
       135.4199
     ]
+  },
+  {
+    "id": "upsj2yn6r",
+    "name": "佐久島",
+    "image": "https://image.xinu.ink/pic/data/126/images/upsj2yn6r_1744797781001.jpg",
+    "s": 3081,
+    "geo": [
+      34.7281,
+      137.044
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upsngz1fm",
+    "cn": "大阪府警察总部",
+    "name": "大阪府警察本部",
+    "image": "https://image.xinu.ink/pic/data/126/images/upsngz1fm_1744798025531.jpg",
+    "s": 3124,
+    "geo": [
+      34.6836,
+      135.5208
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uptd5pqxa",
+    "name": "道頓堀",
+    "image": "https://image.xinu.ink/pic/data/126/images/uptd5pqxa_1744799607419.jpg",
+    "s": 3737,
+    "geo": [
+      34.669,
+      135.5013
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uptoo09ph",
+    "name": "新大阪駅",
+    "image": "https://image.xinu.ink/pic/data/126/images/uptoo09ph_1744800271510.jpg",
+    "s": 3770,
+    "geo": [
+      34.7336,
+      135.5005
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upu0jover",
+    "name": "大阪駅",
+    "image": "https://image.xinu.ink/pic/data/126/images/upu0jover_1744801008918.jpg",
+    "s": 3789,
+    "geo": [
+      34.7026,
+      135.4961
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upucsvpz7",
+    "name": "大阪府道8号線・21号線交差点付近",
+    "image": "https://image.xinu.ink/pic/data/126/images/upucsvpz7_1744801769330.jpg",
+    "s": 3986,
+    "geo": [
+      34.7101,
+      135.6182
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upuk24kly",
+    "name": "奈良駅西口",
+    "image": "https://image.xinu.ink/pic/data/126/images/upuk24kly_1744802172880.jpg",
+    "s": 4129,
+    "geo": [
+      34.6809,
+      135.8186
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upuodzbnq",
+    "name": "大阪府道8号線・国道170号線交差点付近",
+    "image": "https://image.xinu.ink/pic/data/126/images/upuodzbnq_1744802767191.jpg",
+    "s": 4141,
+    "geo": [
+      34.7102,
+      135.6436
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upuxkd64r",
+    "cn": "兴福寺",
+    "name": "興福寺",
+    "image": "https://image.xinu.ink/pic/data/126/images/upuxkd64r_1744803028478.jpg",
+    "s": 4143,
+    "geo": [
+      34.6826,
+      135.8319
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upx70i68g",
+    "name": "明石海峡大橋",
+    "image": "https://image.xinu.ink/pic/data/126/images/upx70i68g_1744807953383.jpg",
+    "s": 5372,
+    "geo": [
+      34.6193,
+      135.0232
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "upz4ea8rz",
+    "name": "おひるねハウス（佐久島）",
+    "image": "https://image.xinu.ink/pic/data/126/images/upz4ea8rz-1744812126389.jpg",
+    "ep": "",
+    "geo": [
+      34.7229,
+      137.0368
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

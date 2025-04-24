@@ -435,5 +435,385 @@
       34.7717,
       135.5123
     ]
+  },
+  {
+    "id": "u6cu99kb9",
+    "cn": "小汐散步的终点，小镇新建的医院",
+    "name": "千叶市立海滨医院",
+    "image": "https://image.xinu.ink/pic/data/47/images/u6cu99kb9-1743274769870.jpg",
+    "ep": 20,
+    "s": 470,
+    "geo": [
+      35.6282,
+      140.0506
+    ]
+  },
+  {
+    "id": "u8e8tot2j",
+    "name": "公子带风子去医院检查经过的路景",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8e8tot2j-1743434523857.jpg",
+    "ep": "EP22",
+    "s": 1002,
+    "geo": [
+      35.7608,
+      139.3611
+    ]
+  },
+  {
+    "id": "u8gazojsq",
+    "name": "在雨中练习棒球的朋也",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8gazojsq-1743439059311.jpg",
+    "ep": 13,
+    "s": 494,
+    "geo": [
+      35.7629,
+      139.3158
+    ]
+  },
+  {
+    "id": "u8ghx62pl",
+    "name": "棒球比赛的地方",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8ghx62pl-1743439390941.jpg",
+    "ep": 1,
+    "s": 519,
+    "geo": [
+      35.7651,
+      139.375
+    ]
+  },
+  {
+    "id": "u8gnsfzvd",
+    "name": "志麻贺津纪的家原型",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8gnsfzvd-1743439750189.jpg",
+    "ep": 6,
+    "s": 622,
+    "geo": [
+      35.7633,
+      139.3613
+    ]
+  },
+  {
+    "id": "u8gqt8hib",
+    "name": "朋也与佐佐木单挑的地方",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8gqt8hib-1743439943273.jpg",
+    "ep": 8,
+    "s": 815,
+    "geo": [
+      34.8826,
+      135.7099
+    ]
+  },
+  {
+    "id": "u8gs429dm",
+    "name": "给他们的女儿取名小汐的地方",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8gs429dm-1743440024446.jpg",
+    "ep": 15,
+    "s": 1182,
+    "geo": [
+      34.8831,
+      135.7101
+    ]
+  },
+  {
+    "id": "u8guttzbz",
+    "name": "工作中的朋也",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8guttzbz-1743440202486.jpg",
+    "ep": 11,
+    "s": 377,
+    "geo": [
+      35.5814,
+      139.6757
+    ]
+  },
+  {
+    "id": "u8gwjipb1",
+    "name": "芳野相机中的位置4",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8gwjipb1-1743440283139.jpg",
+    "ep": 11,
+    "s": 427,
+    "geo": [
+      35.5818,
+      139.6764
+    ]
+  },
+  {
+    "id": "u8gzei386",
+    "name": "朋也请求芳野哥收留他工作的路景",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8gzei386-1743440456858.jpg",
+    "ep": 10,
+    "s": 757,
+    "geo": [
+      35.5816,
+      139.677
+    ]
+  },
+  {
+    "id": "u8h3p81kq",
+    "name": "晚上朋也送渚回家取的路景1",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8h3p81kq-1743440711703.jpg",
+    "ep": 10,
+    "s": 1010,
+    "geo": [
+      34.7717,
+      135.5122
+    ]
+  },
+  {
+    "id": "u8h65c07i",
+    "name": "独自出门散步的小汐",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8h65c07i-1743440870089.jpg",
+    "ep": 20,
+    "s": 455,
+    "geo": [
+      34.7716,
+      135.5124
+    ]
+  },
+  {
+    "id": "u8h8srlsn",
+    "name": "晚上渚送朋也回家取的路景",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8h8srlsn-1743440996548.jpg",
+    "ep": 12,
+    "s": 202,
+    "geo": [
+      34.7717,
+      135.5126
+    ]
+  },
+  {
+    "id": "u8hbzffkw",
+    "name": "晚上朋也送渚回家取的路景2",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8hbzffkw-1743441215952.jpg",
+    "ep": 10,
+    "s": 1014,
+    "geo": [
+      34.7749,
+      135.5075
+    ]
+  },
+  {
+    "id": "u8hplrcfv",
+    "name": "芳野相机中的位置3",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8hplrcfv-1743442050886.jpg",
+    "ep": 11,
+    "s": 430,
+    "geo": [
+      35.5825,
+      139.6718
+    ]
+  },
+  {
+    "id": "u8htzrtv3",
+    "name": "得知工作出现失误急忙赶去的朋也",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8htzrtv3-1743442360017.jpg",
+    "ep": 11,
+    "s": 1114,
+    "geo": [
+      35.7683,
+      139.3603
+    ]
+  },
+  {
+    "id": "u8hxfjy8k",
+    "name": "工作时的路景",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8hxfjy8k-1743442510883.jpg",
+    "ep": 12,
+    "s": 3,
+    "geo": [
+      35.7634,
+      139.3632
+    ]
+  },
+  {
+    "id": "u8hz8868o",
+    "name": "芳野哥回忆中出现的地方",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8hz8868o-1743442610251.jpg",
+    "ep": 12,
+    "s": 787,
+    "geo": [
+      35.7759,
+      139.3489
+    ]
+  },
+  {
+    "id": "u8i1k66n5",
+    "name": "得知父亲被逮捕后心灰意冷的朋也去的公园",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8i1k66n5-1743442794204.jpg",
+    "ep": 12,
+    "s": 1063,
+    "geo": [
+      35.7691,
+      139.3357
+    ]
+  },
+  {
+    "id": "u8kpapvgd",
+    "name": "在此处练习棒球的朋也",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8kpapvgd-1743448553516.jpg",
+    "ep": 13,
+    "s": 340,
+    "geo": [
+      35.7678,
+      139.3331
+    ]
+  },
+  {
+    "id": "u8kwggexu",
+    "name": "渚怀孕时来检查的医院",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8kwggexu-1743449117713.jpg",
+    "ep": 16,
+    "s": 299,
+    "geo": [
+      34.9351,
+      135.796
+    ]
+  },
+  {
+    "id": "u8l2ag0yc",
+    "name": "最后公子和风子一起去的公园",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8l2ag0yc-1743449313796.jpg",
+    "ep": 22,
+    "s": 1131,
+    "geo": [
+      35.7754,
+      139.3664
+    ]
+  },
+  {
+    "id": "u8l3gtzc5",
+    "name": "小汐散步经过的地方",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8l3gtzc5-1743449393373.jpg",
+    "ep": 20,
+    "s": 463,
+    "geo": [
+      35.775,
+      139.3652
+    ]
+  },
+  {
+    "id": "5c4dgq9gv",
+    "name": "一休みの椅子",
+    "image": "https://image.xinu.ink/pic/data/47/images/5c4dgq9gv_1673198695062.jpg",
+    "ep": 4,
+    "s": 181,
+    "geo": [
+      35.7743,
+      139.3546
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1O3LkXAnxrK2oubdM9AjiTMdmjjR-_olm&ll=35.774317%2C139.354668&z=17"
+  },
+  {
+    "id": "u4ujh4wc3",
+    "name": "CLANNAD 另一个世界 杏篇 杏提出练习接吻的公园",
+    "image": "https://image.xinu.ink/pic/data/47/images/u4ujh4wc3-1743156539344.jpg",
+    "ep": 25,
+    "s": 262,
+    "geo": [
+      35.7704,
+      139.3391
+    ]
+  },
+  {
+    "id": "qa3mjbc6c",
+    "name": "朋也求婚处",
+    "image": "https://image.xinu.ink/pic/data/47/images/qa3mjbc6c_1732286002743.jpg",
+    "ep": 12,
+    "geo": [
+      34.7122,
+      135.5279
+    ],
+    "origin": "【图片】CL超硬核圣地巡礼（大阪篇）【clannad吧】_百度贴吧",
+    "originLink": "https://tieba.baidu.com/p/8406880971"
+  },
+  {
+    "id": "u8efmqnu8",
+    "name": "第一卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8efmqnu8-1743434906645.jpg",
+    "ep": null,
+    "geo": [
+      35.7662,
+      139.3749
+    ]
+  },
+  {
+    "id": "u8ejjbgrn",
+    "name": "第二卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8ejjbgrn-1743435204918.jpg",
+    "ep": null,
+    "geo": [
+      35.7662,
+      139.3642
+    ]
+  },
+  {
+    "id": "u8epdu10e",
+    "name": "第三卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8epdu10e-1743435505463.jpg",
+    "ep": null,
+    "geo": [
+      34.8827,
+      135.7098
+    ]
+  },
+  {
+    "id": "u8euxarh2",
+    "name": "第四卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8euxarh2-1743435839851.jpg",
+    "ep": null,
+    "geo": [
+      35.7759,
+      139.3489
+    ]
+  },
+  {
+    "id": "u8f0rlp7x",
+    "name": "第五卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8f0rlp7x-1743436184812.jpg",
+    "ep": null,
+    "geo": [
+      35.5814,
+      139.6758
+    ]
+  },
+  {
+    "id": "u8fgai81z",
+    "name": "第六卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8fgai81z-1743437115026.jpg",
+    "ep": null,
+    "geo": [
+      34.7755,
+      135.506
+    ]
+  },
+  {
+    "id": "u8fivox9x",
+    "name": "第七卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8fivox9x-1743437294643.jpg",
+    "ep": null,
+    "geo": [
+      35.7772,
+      139.3628
+    ]
+  },
+  {
+    "id": "u8fkodqcj",
+    "name": "第八卷DVD封面",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8fkodqcj-1743437366927.jpg",
+    "ep": null,
+    "geo": [
+      35.7757,
+      139.3623
+    ]
+  },
+  {
+    "id": "u8fol2ak2",
+    "name": "尾随春原和早苗的众人",
+    "image": "https://image.xinu.ink/pic/data/47/images/u8fol2ak2-1743438882853.jpg",
+    "ep": null,
+    "geo": [
+      35.7627,
+      139.316
+    ]
   }
 ]
