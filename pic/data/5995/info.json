@@ -1,0 +1,35 @@
+{
+  "id": 1260,
+  "cn": "地狱少女",
+  "title": "地獄少女",
+  "cover": "https://image.xinu.ink/pic/data/5995/images/1260_8HbNR.jpg",
+  "cp": "アニプレック",
+  "modified": 1743256778353,
+  "litePoints": [
+    {
+      "id": "u3zqjxjfp",
+      "name": "恐山",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1260/points/u3zqjxjfp-1743089433877.jpg?plan=h160",
+      "s": 100,
+      "geo": [
+        41.3088,
+        141.0856
+      ]
+    },
+    {
+      "id": "u63592i6s",
+      "name": "伏見稲荷大社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1260/points/u63592i6s-1743254750909.jpg?plan=h160",
+      "s": 81,
+      "geo": [
+        34.967,
+        135.7745
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "地獄少女",
+  "name_cn": "地狱少女",
+  "local_id": 5995
+}

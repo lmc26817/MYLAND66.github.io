@@ -1,0 +1,104 @@
+{
+  "id": 6016,
+  "cn": "假面骑士空我",
+  "title": "仮面ライダークウガ",
+  "cover": "https://image.xinu.ink/pic/data/5996/images/6016.jpg",
+  "color": "#475563",
+  "geo": [
+    36.058897793816925,
+    139.25710876443418
+  ],
+  "zoom": 7.901,
+  "modified": 1743634087685,
+  "litePoints": [
+    {
+      "id": "u8m0023e2",
+      "cn": "空我中五代妹妹工作的幼稚园",
+      "name": "清心幼稚院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/6016/points/u8m0023e2-1743451420887.jpg?plan=h160",
+      "ep": 3,
+      "s": 318,
+      "geo": [
+        35.7407,
+        139.6007
+      ]
+    },
+    {
+      "id": "u8mg0o9s8",
+      "cn": "空我中的Pole Pole咖喱店",
+      "name": "珈琲るぽ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/6016/points/u8mg0o9s8-1743452443976.jpg?plan=h160",
+      "ep": 3,
+      "s": 816,
+      "geo": [
+        35.7812,
+        139.5305
+      ]
+    },
+    {
+      "id": "u8neadcrx",
+      "cn": "五代开头哄小孩的那个机场出口位置",
+      "name": "成田国際空港第１ターミナル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/6016/points/u8neadcrx-1743454534795.jpg?plan=h160",
+      "ep": 1,
+      "s": 240,
+      "geo": [
+        35.7649,
+        140.3857
+      ]
+    },
+    {
+      "id": "u95rmac9w",
+      "cn": "五代大战蜘蛛古朗基的地方",
+      "name": "abn朝日新闻长野总局",
+      "image": "https://image.anitabi.cn/user/0/bangumi/6016/points/u95rmac9w-1743494460381.jpg?plan=h160",
+      "ep": 1,
+      "s": 1124,
+      "geo": [
+        36.6421,
+        138.1918
+      ]
+    },
+    {
+      "id": "u95wygifo",
+      "cn": "五代与一条桑正式认识的地方",
+      "name": "长野县厅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/6016/points/u95wygifo-1743494751381.jpg?plan=h160",
+      "ep": 1,
+      "s": 656,
+      "geo": [
+        36.6501,
+        138.1813
+      ]
+    },
+    {
+      "id": "u968x7l9t",
+      "cn": "蜘蛛古朗基初登场处",
+      "name": "新浦岛町邮便局",
+      "image": "https://image.anitabi.cn/user/0/bangumi/6016/points/u968x7l9t-1743495495949.jpg?plan=h160",
+      "ep": 1,
+      "s": 830,
+      "geo": [
+        35.4809,
+        139.6442
+      ]
+    },
+    {
+      "id": "u96fvddul",
+      "cn": "五代第一次用出青龙棍的地方",
+      "name": "所泽市民文化音乐厅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/6016/points/u96fvddul-1743495984757.jpg?plan=h160",
+      "ep": 6,
+      "s": 1245,
+      "geo": [
+        35.8002,
+        139.4738
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "name": "仮面ライダークウガ",
+  "name_cn": "假面骑士空我",
+  "local_id": 5996
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tn31tj7dw",
+    "cn": "碓冰崖铁道文化屋",
+    "name": "碓氷峠\n鉄道​文化​むら",
+    "image": "https://image.xinu.ink/pic/data/6028/images/tn31tj7dw-1741764477304.jpg",
+    "ep": null,
+    "geo": [
+      36.3365,
+      138.734
+    ]
+  },
+  {
+    "id": "tn2vbfbd8",
+    "cn": "旧熊野平车站",
+    "name": "旧熊ノ平駅",
+    "image": "https://image.xinu.ink/pic/data/6028/images/tn2vbfbd8-1741764102835.jpg",
+    "ep": null,
+    "geo": [
+      36.3549,
+      138.6856
+    ]
+  },
+  {
+    "id": "tn2xsaarv",
+    "cn": "眼镜桥",
+    "name": "めがね橋",
+    "image": "https://image.xinu.ink/pic/data/6028/images/tn2xsaarv-1741764228737.jpg",
+    "geo": [
+      36.3577,
+      138.6984
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "unqwxvo2r",
+    "cn": "大户屋御饭处西荻洼北口站前店",
+    "name": "大戸屋\nごはん​処​西荻窪​北口​駅前​店",
+    "image": "https://image.xinu.ink/pic/data/6022/images/unqwxvo2r_1744637512768.jpg",
+    "ep": 1,
+    "s": 380,
+    "geo": [
+      35.704,
+      139.6002
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uns90w0sp",
+    "name": "大户屋内",
+    "image": "https://image.xinu.ink/pic/data/6022/images/uns90w0sp_1744640411853.jpg",
+    "ep": 1,
+    "geo": [
+      35.7041,
+      139.6001
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  }
+]

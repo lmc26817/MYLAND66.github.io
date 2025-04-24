@@ -1,0 +1,90 @@
+[
+  {
+    "id": "d67e0d84",
+    "name": "高森町役場",
+    "image": "https://image.xinu.ink/pic/data/6015/images/d67e0d84_1743446916948.jpg",
+    "geo": [
+      32.8272,
+      131.122
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RQ7tG704xtWrQnzjXg3_LizFClWAQLI&ll=32.827286%2C131.122023&z=17"
+  },
+  {
+    "id": "d94b67c1",
+    "name": "上色見熊野座神社入口",
+    "image": "https://image.xinu.ink/pic/data/6015/images/d94b67c1_1743446931685.jpg",
+    "geo": [
+      32.8564,
+      131.1583
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RQ7tG704xtWrQnzjXg3_LizFClWAQLI&ll=32.856481%2C131.158349&z=17"
+  },
+  {
+    "id": "94904776",
+    "name": "上色見熊野座神社",
+    "image": "https://image.xinu.ink/pic/data/6015/images/94904776_1743446942924.jpg",
+    "geo": [
+      32.8536,
+      131.1588
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RQ7tG704xtWrQnzjXg3_LizFClWAQLI&ll=32.853698%2C131.15881&z=17"
+  },
+  {
+    "id": "114c15ae",
+    "name": "穿戸岩",
+    "image": "https://image.xinu.ink/pic/data/6015/images/114c15ae_1743446962109.jpg",
+    "geo": [
+      32.8532,
+      131.1582
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RQ7tG704xtWrQnzjXg3_LizFClWAQLI&ll=32.85323%2C131.15826&z=17"
+  },
+  {
+    "id": "fbfac8e5",
+    "name": "高森田楽の里",
+    "image": "https://image.xinu.ink/pic/data/6015/images/fbfac8e5_1743446974413.jpg",
+    "geo": [
+      32.8362,
+      131.136
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RQ7tG704xtWrQnzjXg3_LizFClWAQLI&ll=32.836273%2C131.136017&z=17"
+  },
+  {
+    "id": "f11cc8ae",
+    "name": "高森湧水トンネル公園",
+    "image": "https://image.xinu.ink/pic/data/6015/images/f11cc8ae_1743446984959.jpg",
+    "geo": [
+      32.8135,
+      131.1224
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RQ7tG704xtWrQnzjXg3_LizFClWAQLI&ll=32.813567%2C131.122479&z=17"
+  },
+  {
+    "id": "652b10af",
+    "name": "高森駅",
+    "image": "https://image.xinu.ink/pic/data/6015/images/652b10af_1743447043461.jpg",
+    "geo": [
+      32.8194,
+      131.1225
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1RQ7tG704xtWrQnzjXg3_LizFClWAQLI&ll=32.819434%2C131.122546&z=17"
+  },
+  {
+    "id": "u8k2wayc1",
+    "name": "高森駅前",
+    "image": "https://image.xinu.ink/pic/data/6015/images/u8k2wayc1_1743447174763.jpg",
+    "geo": [
+      32.8192,
+      131.1228
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

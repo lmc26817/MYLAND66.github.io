@@ -1,0 +1,124 @@
+{
+  "id": 29426,
+  "cn": "坂道上的阿波罗",
+  "title": "坂道のアポロン",
+  "city": "佐世保市",
+  "cover": "https://image.xinu.ink/pic/data/6000/images/29426.jpg",
+  "color": "#d4802b",
+  "cp": "坂道のアポロン",
+  "geo": [
+    33.177102535215184,
+    129.71792564624366
+  ],
+  "zoom": 12.441,
+  "modified": 1745238450306,
+  "litePoints": [
+    {
+      "id": "kpwu5gdqj",
+      "name": "東高",
+      "image": "https://image.anitabi.cn/points/29426/kpwu5gdqj_1745234173883.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        33.1809,
+        129.7193
+      ]
+    },
+    {
+      "id": "kpwu5gdrx",
+      "cn": "亀山八幡宮",
+      "name": "薫がしばかれた所",
+      "image": "https://image.anitabi.cn/points/29426/kpwu5gdrx_1745234405155.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        33.1814,
+        129.717
+      ]
+    },
+    {
+      "id": "kpwu5gdbh",
+      "name": "カトリック三浦町教会",
+      "image": "https://image.anitabi.cn/points/29426/kpwu5gdbh_1745234592046.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        33.1659,
+        129.7259
+      ]
+    },
+    {
+      "id": "kpwu5gdc2",
+      "cn": "鹿子前海水浴場",
+      "name": "三人がボートに乗った場所",
+      "image": "https://image.anitabi.cn/points/29426/kpwu5gdc2_1745235035159.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        33.1597,
+        129.679
+      ]
+    },
+    {
+      "id": "kpwu5gde4",
+      "name": "百合香と出会った海水浴場",
+      "image": "https://image.anitabi.cn/points/29426/kpwu5gde4_1745234969983.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        33.1591,
+        129.679
+      ]
+    },
+    {
+      "id": "kpwu5gd6y",
+      "cn": "佐世保三ヶ町商店街",
+      "name": "千太郎や律が暮らす商店街",
+      "image": "https://image.anitabi.cn/points/29426/kpwu5gd6y_1745235207089.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        33.173,
+        129.7196
+      ]
+    },
+    {
+      "id": "kpwu5gdmc",
+      "name": "眼鏡岩",
+      "image": "https://image.anitabi.cn/points/29426/kpwu5gdmc_1745235372744.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        33.2032,
+        129.7181
+      ]
+    },
+    {
+      "id": "uvdqs9jan",
+      "name": "四ヶ町商店街",
+      "image": "https://image.anitabi.cn/points/29426/uvdqs9jan_1745235858018.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        33.1687,
+        129.7231
+      ]
+    },
+    {
+      "id": "ukb7tmmju",
+      "name": "九十九島",
+      "image": "https://image.anitabi.cn/points/29426/ukb7tmmju_1745234191169.jpg?plan=h160",
+      "geo": [
+        33.1523,
+        129.6758
+      ]
+    },
+    {
+      "id": "ukbnbyy9a",
+      "name": "鉄道高架橋",
+      "image": "https://image.anitabi.cn/points/29426/ukbnbyy9a_1745236761782.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        33.1718,
+        129.7217
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "name": "坂道のアポロン",
+  "name_cn": "坂道上的阿波罗",
+  "local_id": 6000
+}

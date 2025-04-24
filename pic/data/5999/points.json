@@ -1,0 +1,200 @@
+[
+  {
+    "id": "51i53yiqv",
+    "name": "新川戸橋",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yiqv_1744729718087.jpg",
+    "geo": [
+      36.5119,
+      140.4979
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.511969%2C140.497981&z=17"
+  },
+  {
+    "id": "51i53yjgq",
+    "name": "県道64号線",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yjgq_1744729636335.jpg",
+    "geo": [
+      36.3486,
+      140.1789
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.348665%2C140.178911&z=17"
+  },
+  {
+    "id": "51i53yj15",
+    "name": "常陸国出雲大社",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yj15_1744729669695.jpg",
+    "geo": [
+      36.3544,
+      140.1841
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.354467%2C140.184109&z=17"
+  },
+  {
+    "id": "51i53yjmk",
+    "name": "篭岩展望台",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yjmk_1744730104999.jpg",
+    "geo": [
+      36.6979,
+      140.432
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.697982%2C140.432053&z=17"
+  },
+  {
+    "id": "51i53yj1n",
+    "name": "首都大学東京入口",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yj1n_1744729468983.jpg",
+    "geo": [
+      35.6162,
+      139.3779
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.616209%2C139.377998&z=17"
+  },
+  {
+    "id": "51i53yjan",
+    "name": "首都大学東京",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yjan_1744729483943.jpg",
+    "geo": [
+      35.617,
+      139.3776
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.617038%2C139.377676&z=17"
+  },
+  {
+    "id": "51i53ykf6",
+    "name": "首都大学東京玄関",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ykf6_1744729451979.jpg",
+    "geo": [
+      35.6164,
+      139.3778
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.616495%2C139.377894&z=17"
+  },
+  {
+    "id": "51i53ykut",
+    "name": "西河内中町地区",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ykut_1744729738071.jpg",
+    "geo": [
+      36.6342,
+      140.5209
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.634217%2C140.520946&z=17"
+  },
+  {
+    "id": "51i53ykpi",
+    "name": "穂積家住宅の門",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ykpi_1744729883190.jpg",
+    "geo": [
+      36.7379,
+      140.6933
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.737936%2C140.693361&z=17"
+  },
+  {
+    "id": "51i53yksx",
+    "name": "穂積家住宅",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yksx_1744730003694.jpg",
+    "geo": [
+      36.7383,
+      140.6932
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.738394%2C140.693292&z=17"
+  },
+  {
+    "id": "51i53yl1z",
+    "name": "穂積家住宅の庭",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yl1z_1744729896432.jpg",
+    "geo": [
+      36.7384,
+      140.6935
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.738459%2C140.693525&z=17"
+  },
+  {
+    "id": "51i53yks1",
+    "name": "西河内中町地区 浅畑地蔵尊",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yks1_1744730573598.jpg",
+    "geo": [
+      36.6345,
+      140.5219
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.634516%2C140.521952&z=17"
+  },
+  {
+    "id": "51i53ykne",
+    "name": "旧上岡小学校",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ykne_1744730167319.jpg",
+    "geo": [
+      36.7782,
+      140.3268
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.778252%2C140.326867&z=17"
+  },
+  {
+    "id": "51i53ykpz",
+    "name": "大子町 前冥賀地区",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ykpz_1744730238518.jpg",
+    "geo": [
+      36.8048,
+      140.3528
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.804878%2C140.352863&z=17"
+  },
+  {
+    "id": "51i53ylcf",
+    "name": "西河内中町地区 商店",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ylcf_1744730603229.jpg",
+    "geo": [
+      36.6327,
+      140.522
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.632794%2C140.522041&z=17"
+  },
+  {
+    "id": "51i53ylw6",
+    "name": "冥賀の里",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ylw6_1744730207231.jpg",
+    "geo": [
+      36.8059,
+      140.3517
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.805995%2C140.351726&z=17"
+  },
+  {
+    "id": "51i53ylzp",
+    "name": "平山橋",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53ylzp_1744730135663.jpg",
+    "geo": [
+      36.6664,
+      140.3874
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=36.666474%2C140.387464&z=17"
+  },
+  {
+    "id": "51i53yl9d",
+    "name": "情熱ペンション富浦",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yl9d_1744729543983.jpg",
+    "geo": [
+      35.0495,
+      139.8325
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.049598%2C139.832549&z=17"
+  }
+]

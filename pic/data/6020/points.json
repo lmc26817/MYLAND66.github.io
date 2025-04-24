@@ -1,0 +1,50 @@
+[
+  {
+    "id": "uo0oktx5d",
+    "name": "八ヶ岳連峰",
+    "image": "https://image.xinu.ink/pic/data/6020/images/uo0oktx5d_1744658792737.jpg",
+    "geo": [
+      35.9748,
+      138.3647
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uo0q4vjrh",
+    "name": "野辺山宇宙電波観測所",
+    "image": "https://image.xinu.ink/pic/data/6020/images/uo0q4vjrh_1744658883796.jpg",
+    "geo": [
+      35.9446,
+      138.4727
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "usvgp2ajy",
+    "name": "長野駅",
+    "image": "https://image.xinu.ink/pic/data/6020/images/usvgp2ajy_1745158700575.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      36.6435,
+      138.1878
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "usvr2u1ui",
+    "name": "長野県警察本部",
+    "image": "https://image.xinu.ink/pic/data/6020/images/usvr2u1ui_1745158538729.jpg",
+    "ep": null,
+    "s": null,
+    "geo": [
+      36.6513,
+      138.181
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

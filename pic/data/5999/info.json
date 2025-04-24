@@ -1,0 +1,111 @@
+{
+  "id": 12333,
+  "cn": "神样DOLLS",
+  "title": "神様ドォルズ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/5999/images/12333.jpg",
+  "color": "#575676",
+  "geo": [
+    35.75931339664939,
+    139.8036981616209
+  ],
+  "zoom": 7.47,
+  "modified": 1744730760793,
+  "litePoints": [
+    {
+      "id": "51i53yiqv",
+      "name": "新川戸橋",
+      "image": "https://image.anitabi.cn/points/12333/51i53yiqv_1744729718087.jpg?plan=h160",
+      "geo": [
+        36.5119,
+        140.4979
+      ]
+    },
+    {
+      "id": "51i53yjgq",
+      "name": "県道64号線",
+      "image": "https://image.anitabi.cn/points/12333/51i53yjgq_1744729636335.jpg?plan=h160",
+      "geo": [
+        36.3486,
+        140.1789
+      ]
+    },
+    {
+      "id": "51i53yj15",
+      "name": "常陸国出雲大社",
+      "image": "https://image.anitabi.cn/points/12333/51i53yj15_1744729669695.jpg?plan=h160",
+      "geo": [
+        36.3544,
+        140.1841
+      ]
+    },
+    {
+      "id": "51i53yjmk",
+      "name": "篭岩展望台",
+      "image": "https://image.anitabi.cn/points/12333/51i53yjmk_1744730104999.jpg?plan=h160",
+      "geo": [
+        36.6979,
+        140.432
+      ]
+    },
+    {
+      "id": "51i53yj1n",
+      "name": "首都大学東京入口",
+      "image": "https://image.anitabi.cn/points/12333/51i53yj1n_1744729468983.jpg?plan=h160",
+      "geo": [
+        35.6162,
+        139.3779
+      ]
+    },
+    {
+      "id": "51i53yjan",
+      "name": "首都大学東京",
+      "image": "https://image.anitabi.cn/points/12333/51i53yjan_1744729483943.jpg?plan=h160",
+      "geo": [
+        35.617,
+        139.3776
+      ]
+    },
+    {
+      "id": "51i53ykf6",
+      "name": "首都大学東京玄関",
+      "image": "https://image.anitabi.cn/points/12333/51i53ykf6_1744729451979.jpg?plan=h160",
+      "geo": [
+        35.6164,
+        139.3778
+      ]
+    },
+    {
+      "id": "51i53ykut",
+      "name": "西河内中町地区",
+      "image": "https://image.anitabi.cn/points/12333/51i53ykut_1744729738071.jpg?plan=h160",
+      "geo": [
+        36.6342,
+        140.5209
+      ]
+    },
+    {
+      "id": "51i53ykpi",
+      "name": "穂積家住宅の門",
+      "image": "https://image.anitabi.cn/points/12333/51i53ykpi_1744729883190.jpg?plan=h160",
+      "geo": [
+        36.7379,
+        140.6933
+      ]
+    },
+    {
+      "id": "51i53yksx",
+      "name": "穂積家住宅",
+      "image": "https://image.anitabi.cn/points/12333/51i53yksx_1744730003694.jpg?plan=h160",
+      "geo": [
+        36.7383,
+        140.6932
+      ]
+    }
+  ],
+  "pointsLength": 82,
+  "imagesLength": 19,
+  "name": "神様ドォルズ",
+  "name_cn": "神样DOLLS",
+  "local_id": 5999
+}

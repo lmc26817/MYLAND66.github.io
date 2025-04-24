@@ -1,0 +1,26 @@
+{
+  "id": 8018,
+  "cn": "假面骑士剑",
+  "title": "仮面ライダー剣",
+  "cover": "https://image.xinu.ink/pic/data/5998/images/8018_zg14s.jpg",
+  "modified": 1743497976944,
+  "litePoints": [
+    {
+      "id": "u96ue17yu",
+      "cn": "哈吉咩的快乐老家",
+      "name": "キッチン・カフェ クランボン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/8018/points/u96ue17yu-1743497759364.jpg?plan=h160",
+      "ep": 1,
+      "s": 765,
+      "geo": [
+        36.0512,
+        139.4069
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "仮面ライダー剣",
+  "name_cn": "假面骑士剑",
+  "local_id": 5998
+}

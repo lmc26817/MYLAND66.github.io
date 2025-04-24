@@ -1,0 +1,24 @@
+[
+  {
+    "id": "u3zqjxjfp",
+    "name": "恐山",
+    "image": "https://image.xinu.ink/pic/data/5995/images/u3zqjxjfp-1743089433877.jpg",
+    "ep": "op",
+    "s": 100,
+    "geo": [
+      41.3088,
+      141.0856
+    ]
+  },
+  {
+    "id": "u63592i6s",
+    "name": "伏見稲荷大社",
+    "image": "https://image.xinu.ink/pic/data/5995/images/u63592i6s-1743254750909.jpg",
+    "ep": "op",
+    "s": 81,
+    "geo": [
+      34.967,
+      135.7745
+    ]
+  }
+]

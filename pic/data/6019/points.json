@@ -1,0 +1,386 @@
+[
+  {
+    "id": "nnrawqh5z",
+    "cn": "山梨县立科学馆展望台",
+    "name": "山梨県立科学館展望テラス",
+    "image": "https://image.xinu.ink/pic/data/6019/images/nnrawqh5z_1744480914393.jpg",
+    "ep": 1,
+    "s": 1279,
+    "geo": [
+      35.6688,
+      138.5807
+    ]
+  },
+  {
+    "id": "ulrdcvgf3",
+    "cn": "山梨县立科学馆展望台1",
+    "name": "山梨県立科学館展望テラス1",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulrdcvgf3_1744481878396.jpg",
+    "ep": 1,
+    "s": 1174,
+    "geo": [
+      35.6689,
+      138.5806
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulqzj2r7y",
+    "cn": "山梨县立科学馆 延时摄影1",
+    "name": "山梨県立科学館",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulqzj2r7y_1744480951264.jpg",
+    "ep": 1,
+    "s": 1248,
+    "geo": [
+      35.6688,
+      138.5807
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulqzkap8i",
+    "cn": "山梨县立科学馆 延时摄影2",
+    "name": "山梨県立科学館",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulqzkap8i_1744480964444.jpg",
+    "ep": 1,
+    "s": 1322,
+    "geo": [
+      35.6688,
+      138.5807
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulqw3kg6t",
+    "cn": "山梨县立科学馆 阶梯",
+    "name": "山梨県立科学館 階段",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulqw3kg6t-1744480781319.jpg",
+    "ep": 1,
+    "s": 1106,
+    "geo": [
+      35.6699,
+      138.5806
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uu4s5tbi2",
+    "cn": "山梨县立科学馆",
+    "name": "山梨県立科学館",
+    "image": "https://image.xinu.ink/pic/data/6019/images/uu4s5tbi2_1745137908846.jpg",
+    "ep": 1,
+    "s": 1117,
+    "geo": [
+      35.6694,
+      138.5803
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulrac72p8",
+    "cn": "山梨县立科学馆前",
+    "name": "山梨県立科学館前",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulrac72p8_1744481655085.jpg",
+    "ep": 1,
+    "s": 1103,
+    "geo": [
+      35.67,
+      138.5804
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulpulzi4c",
+    "name": "笛吹川水果公园",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulpulzi4c_1745297514718.jpg",
+    "ep": 1,
+    "s": 1022,
+    "geo": [
+      35.7027,
+      138.6639
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulpyv78d1",
+    "cn": "甲府市政府",
+    "name": "甲府市役所",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulpyv78d1_1745297703111.jpg",
+    "ep": 1,
+    "s": 1026,
+    "geo": [
+      35.662,
+      138.5683
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nrfwoorcn",
+    "cn": "舞鹤城公园",
+    "name": "舞鶴城公園",
+    "image": "https://image.xinu.ink/pic/data/6019/images/nrfwoorcn_1745083441401.jpg",
+    "ep": 2,
+    "s": 516,
+    "geo": [
+      35.6642,
+      138.5711
+    ]
+  },
+  {
+    "id": "utlac7uey",
+    "cn": "舞鹤城公园 南口",
+    "name": "舞鶴城公園 南口",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utlac7uey_1745095445543_c16v9.jpg",
+    "ep": 2,
+    "s": 512,
+    "geo": [
+      35.6643,
+      138.5712
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utljl7m65",
+    "cn": "舞鹤城公园 西眺",
+    "name": "舞鶴城公園",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utljl7m65_1745096024751_c16v9.jpg",
+    "ep": 2,
+    "s": 574,
+    "geo": [
+      35.6652,
+      138.5712
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utl6cdh3p",
+    "cn": "舞鹤城公园 航拍",
+    "name": "舞鶴城公園 空撮",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utl6cdh3p_1745095200309_c16v9.jpg",
+    "ep": 2,
+    "s": 586,
+    "geo": [
+      35.6652,
+      138.5713
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utkzo6enf",
+    "cn": "舞鹤城公园 南眺",
+    "name": "舞鶴城公園",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utkzo6enf_1745095150487_c16v9.jpg",
+    "ep": 2,
+    "s": 596,
+    "geo": [
+      35.6652,
+      138.5713
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utl534dzd",
+    "cn": "舞鹤城公园 东眺",
+    "name": "舞鶴城公園",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utl534dzd_1745095152077_c16v9.jpg",
+    "ep": 2,
+    "s": 601,
+    "geo": [
+      35.6653,
+      138.5712
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uu56kt1w1",
+    "name": "舞鶴城公園",
+    "image": "https://image.xinu.ink/pic/data/6019/images/uu56kt1w1_1745138749875_c16v9.jpg",
+    "ep": 2,
+    "s": 687,
+    "geo": [
+      35.6652,
+      138.5713
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utldb3qlg",
+    "cn": "甲府城 鉄門",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utldb3qlg_1745095796249_c16v9.jpg",
+    "ep": 2,
+    "s": 552,
+    "geo": [
+      35.665,
+      138.5706
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utlf83noq",
+    "cn": "甲府城迹 阶梯",
+    "name": "甲府城跡 階段",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utlf83noq_1745095802910_c16v9.jpg",
+    "ep": 2,
+    "s": 563,
+    "geo": [
+      35.6653,
+      138.5712
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utmxe4k7e",
+    "cn": "甲府城迹 阶梯2",
+    "name": "甲府城跡 階段2",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utmxe4k7e_1745099063491.jpg",
+    "ep": 2,
+    "s": 565,
+    "geo": [
+      35.6653,
+      138.5712
+    ],
+    "origin": "Anitabi@Xenon丸子头",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utert5rz3",
+    "name": "東沢大橋",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utert5rz3_1745081757528_c16v9.jpg",
+    "ep": 2,
+    "s": 1118,
+    "geo": [
+      35.9321,
+      138.4139
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utfln0nb6",
+    "cn": "pauls餐厅",
+    "name": 24,
+    "image": "https://image.xinu.ink/pic/data/6019/images/utfln0nb6_1745083066965.jpg",
+    "ep": 2,
+    "s": 1221,
+    "geo": [
+      36.0351,
+      138.2602
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulp4dtzjo",
+    "name": "石和温泉駅",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulp4dtzjo-1744476887136.jpg",
+    "ep": 1,
+    "geo": [
+      35.6574,
+      138.6352
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ulr49y96z",
+    "name": "山道",
+    "image": "https://image.xinu.ink/pic/data/6019/images/ulr49y96z_1744481264378.jpg",
+    "ep": 1,
+    "geo": [
+      35.67,
+      138.5876
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uteo2nsvp",
+    "cn": "七贤",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/6019/images/uteo2nsvp_1745081193681.jpg",
+    "ep": 2,
+    "geo": [
+      35.8085,
+      138.3427
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utezttpvv",
+    "name": "まきば​公園​",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utezttpvv_1745081748975_c16v9.jpg",
+    "ep": 2,
+    "geo": [
+      35.9235,
+      138.4078
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "utfblsyl2",
+    "name": "レスト​ハウス​ふるさと",
+    "image": "https://image.xinu.ink/pic/data/6019/images/utfblsyl2_1745082458216_c16v9.jpg",
+    "ep": 2,
+    "geo": [
+      36.0641,
+      138.3927
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uu4nj38a2",
+    "name": "新倉山浅間公園",
+    "image": "https://image.xinu.ink/pic/data/6019/images/uu4nj38a2_1745137596144_c16v9.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.5009,
+      138.8016
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uu5egbfcr",
+    "name": "昇仙峡ライン 長潭橋",
+    "image": "https://image.xinu.ink/pic/data/6019/images/uu5egbfcr_1745139231691_c16v9.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.7258,
+      138.5488
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uu5iattr3",
+    "name": "御坂隧道",
+    "image": "https://image.xinu.ink/pic/data/6019/images/uu5iattr3_1745139472275_c16v9.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.5564,
+      138.7837
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

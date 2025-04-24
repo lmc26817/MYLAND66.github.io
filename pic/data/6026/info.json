@@ -1,0 +1,136 @@
+{
+  "id": 513018,
+  "cn": "小市民系列 第二季",
+  "title": "小市民シリーズ 第2期",
+  "city": "岐阜市",
+  "cover": "https://image.xinu.ink/pic/data/6026/images/513018_3E8Bu.jpg",
+  "cp": "小市民シリーズ",
+  "geo": [
+    35.43728268808866,
+    136.74933264282686
+  ],
+  "zoom": 17.861,
+  "modified": 1745136721594,
+  "litePoints": [
+    {
+      "id": "ue0moecul",
+      "cn": "忠节桥西",
+      "name": "忠節橋西",
+      "image": "https://image.anitabi.cn/points/513018/ue0moecul_1743875007342.jpg?plan=h160",
+      "ep": 11,
+      "s": 91,
+      "geo": [
+        35.4289,
+        136.7487
+      ]
+    },
+    {
+      "id": "ue0nds4a1",
+      "cn": "忠节桥",
+      "name": "忠節橋",
+      "image": "https://image.anitabi.cn/points/513018/ue0nds4a1_1743875047158.jpg?plan=h160",
+      "ep": 11,
+      "s": 94,
+      "geo": [
+        35.4297,
+        136.7502
+      ]
+    },
+    {
+      "id": "ue0p3qumu",
+      "cn": "岐阜北高中 中庭",
+      "name": "岐阜北高等学校 中庭",
+      "image": "https://image.anitabi.cn/points/513018/ue0p3qumu_1743875175490.jpg?plan=h160",
+      "ep": 11,
+      "s": 298,
+      "geo": [
+        35.4374,
+        136.7491
+      ]
+    },
+    {
+      "id": "ue0jh2tuu",
+      "name": "伊奈波神社",
+      "image": "https://image.anitabi.cn/points/513018/ue0jh2tuu_1743874812358.jpg?plan=h160",
+      "ep": 11,
+      "s": 559,
+      "geo": [
+        35.428,
+        136.7681
+      ]
+    },
+    {
+      "id": "ue0up628k",
+      "cn": "忠节桥北步道桥",
+      "name": "忠節橋北歩道橋",
+      "image": "https://image.anitabi.cn/points/513018/ue0up628k_1743875516657.jpg?plan=h160",
+      "ep": 11,
+      "s": 623,
+      "geo": [
+        35.4315,
+        136.75
+      ]
+    },
+    {
+      "id": "ue0px18ci",
+      "cn": "岐阜北高中",
+      "name": "岐阜北高等学校",
+      "image": "https://image.anitabi.cn/points/513018/ue0px18ci_1743875202745.jpg?plan=h160",
+      "ep": 11,
+      "s": 627,
+      "geo": [
+        35.4369,
+        136.7484
+      ]
+    },
+    {
+      "id": "ue2o2o715",
+      "name": "柳津町上佐波西8丁目",
+      "image": "https://image.anitabi.cn/points/513018/ue2o2o715_1743879443586.jpg?plan=h160",
+      "ep": 11,
+      "s": 924,
+      "geo": [
+        35.3682,
+        136.718
+      ]
+    },
+    {
+      "id": "ue2z9dmby",
+      "name": "東鶉3交差点",
+      "image": "https://image.anitabi.cn/points/513018/ue2z9dmby_1743880123273.jpg?plan=h160",
+      "ep": 11,
+      "s": 993,
+      "geo": [
+        35.3829,
+        136.7409
+      ]
+    },
+    {
+      "id": "ue1infre0",
+      "name": "岐阜駅 杜の架け橋",
+      "image": "https://image.anitabi.cn/points/513018/ue1infre0_1743876977985.jpg?plan=h160",
+      "ep": 11,
+      "s": 1023,
+      "geo": [
+        35.4107,
+        136.7583
+      ]
+    },
+    {
+      "id": "ue21gbrmc",
+      "name": "アクアージュ柳ヶ瀬",
+      "image": "https://image.anitabi.cn/points/513018/ue21gbrmc_1743878102558.jpg?plan=h160",
+      "ep": 11,
+      "s": 1026,
+      "geo": [
+        35.4182,
+        136.7589
+      ]
+    }
+  ],
+  "pointsLength": 135,
+  "imagesLength": 135,
+  "name": "小市民シリーズ 第2期",
+  "name_cn": "小市民系列 第二季",
+  "local_id": 6026
+}

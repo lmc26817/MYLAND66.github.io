@@ -1,0 +1,141 @@
+{
+  "id": 485936,
+  "cn": "mono女孩",
+  "title": "mono",
+  "city": "山梨县",
+  "cover": "https://image.xinu.ink/pic/data/6019/images/485936.jpg",
+  "color": "#fd6300",
+  "cp": "ソワネ",
+  "geo": [
+    35.66903000000001,
+    138.58074149999993
+  ],
+  "zoom": 18,
+  "modified": 1745298703642,
+  "litePoints": [
+    {
+      "id": "nnrawqh5z",
+      "cn": "山梨县立科学馆展望台",
+      "name": "山梨県立科学館展望テラス",
+      "image": "https://image.anitabi.cn/points/485936/nnrawqh5z_1744480914393.jpg?plan=h160",
+      "ep": 1,
+      "s": 1279,
+      "geo": [
+        35.6688,
+        138.5807
+      ]
+    },
+    {
+      "id": "ulrdcvgf3",
+      "cn": "山梨县立科学馆展望台1",
+      "name": "山梨県立科学館展望テラス1",
+      "image": "https://image.anitabi.cn/points/485936/ulrdcvgf3_1744481878396.jpg?plan=h160",
+      "ep": 1,
+      "s": 1174,
+      "geo": [
+        35.6689,
+        138.5806
+      ]
+    },
+    {
+      "id": "ulqzj2r7y",
+      "cn": "山梨县立科学馆 延时摄影1",
+      "name": "山梨県立科学館",
+      "image": "https://image.anitabi.cn/points/485936/ulqzj2r7y_1744480951264.jpg?plan=h160",
+      "ep": 1,
+      "s": 1248,
+      "geo": [
+        35.6688,
+        138.5807
+      ]
+    },
+    {
+      "id": "ulqzkap8i",
+      "cn": "山梨县立科学馆 延时摄影2",
+      "name": "山梨県立科学館",
+      "image": "https://image.anitabi.cn/points/485936/ulqzkap8i_1744480964444.jpg?plan=h160",
+      "ep": 1,
+      "s": 1322,
+      "geo": [
+        35.6688,
+        138.5807
+      ]
+    },
+    {
+      "id": "ulqw3kg6t",
+      "cn": "山梨县立科学馆 阶梯",
+      "name": "山梨県立科学館 階段",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/485936/points/ulqw3kg6t-1744480781319.jpg?plan=h160",
+      "ep": 1,
+      "s": 1106,
+      "geo": [
+        35.6699,
+        138.5806
+      ]
+    },
+    {
+      "id": "uu4s5tbi2",
+      "cn": "山梨县立科学馆",
+      "name": "山梨県立科学館",
+      "image": "https://image.anitabi.cn/points/485936/uu4s5tbi2_1745137908846.jpg?plan=h160",
+      "ep": 1,
+      "s": 1117,
+      "geo": [
+        35.6694,
+        138.5803
+      ]
+    },
+    {
+      "id": "ulrac72p8",
+      "cn": "山梨县立科学馆前",
+      "name": "山梨県立科学館前",
+      "image": "https://image.anitabi.cn/points/485936/ulrac72p8_1744481655085.jpg?plan=h160",
+      "ep": 1,
+      "s": 1103,
+      "geo": [
+        35.67,
+        138.5804
+      ]
+    },
+    {
+      "id": "ulpulzi4c",
+      "name": "笛吹川水果公园",
+      "image": "https://image.anitabi.cn/points/485936/ulpulzi4c_1745297514718.jpg?plan=h160",
+      "ep": 1,
+      "s": 1022,
+      "geo": [
+        35.7027,
+        138.6639
+      ]
+    },
+    {
+      "id": "ulpyv78d1",
+      "cn": "甲府市政府",
+      "name": "甲府市役所",
+      "image": "https://image.anitabi.cn/points/485936/ulpyv78d1_1745297703111.jpg?plan=h160",
+      "ep": 1,
+      "s": 1026,
+      "geo": [
+        35.662,
+        138.5683
+      ]
+    },
+    {
+      "id": "nrfwoorcn",
+      "cn": "舞鹤城公园",
+      "name": "舞鶴城公園",
+      "image": "https://image.anitabi.cn/points/485936/nrfwoorcn_1745083441401.jpg?plan=h160",
+      "ep": 2,
+      "s": 516,
+      "geo": [
+        35.6642,
+        138.5711
+      ]
+    }
+  ],
+  "pointsLength": 50,
+  "imagesLength": 50,
+  "name": "mono",
+  "name_cn": "mono女孩",
+  "local_id": 6019
+}

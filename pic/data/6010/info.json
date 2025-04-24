@@ -1,0 +1,26 @@
+{
+  "id": 362335,
+  "cn": "古立特宇宙",
+  "title": "グリッドマン ユニバース",
+  "cover": "https://image.xinu.ink/pic/data/6010/images/362335_VhtRE.jpg",
+  "cp": "劇場版グリッドマンユニバース",
+  "modified": 1745227227151,
+  "litePoints": [
+    {
+      "id": "uv4k1rj03",
+      "cn": "筑波快线铁路桥下",
+      "name": "つくばエクスプレス",
+      "image": "https://image.anitabi.cn/user/2176/bangumi/362335/points/uv4k1rj03-1745225625340.jpg?plan=h160",
+      "s": 4876,
+      "geo": [
+        35.7559,
+        139.8085
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "グリッドマン ユニバース",
+  "name_cn": "古立特宇宙",
+  "local_id": 6010
+}

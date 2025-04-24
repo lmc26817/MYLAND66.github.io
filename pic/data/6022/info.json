@@ -1,0 +1,38 @@
+{
+  "id": 491569,
+  "cn": "忍者与杀手二人组的日常生活",
+  "title": "忍者と殺し屋のふたりぐらし",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6022/images/491569_R42i0.jpg",
+  "cp": "にんころ",
+  "modified": 1744640493006,
+  "litePoints": [
+    {
+      "id": "unqwxvo2r",
+      "cn": "大户屋御饭处西荻洼北口站前店",
+      "name": "大戸屋\nごはん​処​西荻窪​北口​駅前​店",
+      "image": "https://image.anitabi.cn/points/491569/unqwxvo2r_1744637512768.jpg?plan=h160",
+      "ep": 1,
+      "s": 380,
+      "geo": [
+        35.704,
+        139.6002
+      ]
+    },
+    {
+      "id": "uns90w0sp",
+      "name": "大户屋内",
+      "image": "https://image.anitabi.cn/points/491569/uns90w0sp_1744640411853.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7041,
+        139.6001
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "忍者と殺し屋のふたりぐらし",
+  "name_cn": "忍者与杀手二人组的日常生活",
+  "local_id": 6022
+}

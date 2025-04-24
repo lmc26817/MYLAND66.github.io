@@ -1,0 +1,208 @@
+[
+  {
+    "id": "kpwu5gdqj",
+    "name": "東高",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gdqj_1745234173883.jpg",
+    "ep": 1,
+    "geo": [
+      33.1809,
+      129.7193
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=33.180924%2C129.719353&z=17"
+  },
+  {
+    "id": "kpwu5gdrx",
+    "cn": "亀山八幡宮",
+    "name": "薫がしばかれた所",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gdrx_1745234405155.jpg",
+    "ep": 2,
+    "geo": [
+      33.1814,
+      129.717
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=33.181454%2C129.717089&z=17"
+  },
+  {
+    "id": "kpwu5gdbh",
+    "name": "カトリック三浦町教会",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gdbh_1745234592046.jpg",
+    "ep": 2,
+    "geo": [
+      33.1659,
+      129.7259
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=33.165949%2C129.725962&z=17"
+  },
+  {
+    "id": "kpwu5gdc2",
+    "cn": "鹿子前海水浴場",
+    "name": "三人がボートに乗った場所",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gdc2_1745235035159.jpg",
+    "ep": 2,
+    "geo": [
+      33.1597,
+      129.679
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=33.159712%2C129.679042&z=17"
+  },
+  {
+    "id": "kpwu5gde4",
+    "name": "百合香と出会った海水浴場",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gde4_1745234969983.jpg",
+    "ep": 2,
+    "geo": [
+      33.1591,
+      129.679
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=33.15911%2C129.679077&z=17"
+  },
+  {
+    "id": "kpwu5gd6y",
+    "cn": "佐世保三ヶ町商店街",
+    "name": "千太郎や律が暮らす商店街",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gd6y_1745235207089.jpg",
+    "ep": 3,
+    "geo": [
+      33.173,
+      129.7196
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=33.173098%2C129.71961&z=17"
+  },
+  {
+    "id": "kpwu5gdmc",
+    "name": "眼鏡岩",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gdmc_1745235372744.jpg",
+    "ep": 3,
+    "geo": [
+      33.2032,
+      129.7181
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=33.203226%2C129.718173&z=17"
+  },
+  {
+    "id": "uvdqs9jan",
+    "name": "四ヶ町商店街",
+    "image": "https://image.xinu.ink/pic/data/6000/images/uvdqs9jan_1745235858018.jpg",
+    "ep": 4,
+    "geo": [
+      33.1687,
+      129.7231
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ukb7tmmju",
+    "name": "九十九島",
+    "image": "https://image.xinu.ink/pic/data/6000/images/ukb7tmmju_1745234191169.jpg",
+    "ep": "OP1",
+    "geo": [
+      33.1523,
+      129.6758
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ukbnbyy9a",
+    "name": "鉄道高架橋",
+    "image": "https://image.xinu.ink/pic/data/6000/images/ukbnbyy9a_1745236761782.jpg",
+    "ep": 1,
+    "geo": [
+      33.1718,
+      129.7217
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ukc4sc4w7",
+    "cn": "庆应义塾大学医院",
+    "name": "慶應義塾大病院",
+    "image": "https://image.xinu.ink/pic/data/6000/images/ukc4sc4w7_1745236894696.jpg",
+    "ep": 12,
+    "geo": [
+      35.6816,
+      139.7179
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uveewsq64",
+    "name": "佐世保駅",
+    "image": "https://image.xinu.ink/pic/data/6000/images/uveewsq64_1745237224115.jpg",
+    "ep": 12,
+    "geo": [
+      33.1641,
+      129.726
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ukare8jow",
+    "name": "黒島天主堂",
+    "image": "https://image.xinu.ink/pic/data/6000/images/ukare8jow_1745237004006.jpg",
+    "ep": 12,
+    "geo": [
+      33.1393,
+      129.537
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpwu5gdms",
+    "cn": "白いばら",
+    "name": "薫の母親が働いていた場所",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gdms_1744367815697.jpg",
+    "geo": [
+      35.6728,
+      139.7662
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=35.672864%2C139.766205&z=17"
+  },
+  {
+    "id": "kpwu5gd55",
+    "cn": "グリルスイス",
+    "name": "薫たちがカツカレーを食べた所",
+    "image": "https://image.xinu.ink/pic/data/6000/images/kpwu5gd55_1744367738282.jpg",
+    "geo": [
+      35.6726,
+      139.7659
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10kX6cNCV9UEQGKjx4htJaa4CZ7g&ll=35.672646%2C139.76595&z=17"
+  },
+  {
+    "id": "ukc0xbq0v",
+    "name": "銀座四丁目",
+    "image": "https://image.xinu.ink/pic/data/6000/images/ukc0xbq0v_1744370084927.jpg",
+    "geo": [
+      35.6707,
+      139.7645
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ukc835hyc",
+    "name": "鉄道博物館",
+    "image": "https://image.xinu.ink/pic/data/6000/images/ukc835hyc_1744370455471.jpg",
+    "geo": [
+      35.921,
+      139.618
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]
