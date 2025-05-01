@@ -1,0 +1,51 @@
+[
+  {
+    "id": "v5cpxu4mp",
+    "name": "ささやきの小径",
+    "image": "https://image.xinu.ink/pic/data/6071/images/v5cpxu4mp-1746017234960.jpg",
+    "ep": "",
+    "geo": [
+      36.3524,
+      138.6388
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v5d3jci48",
+    "name": "旧軽井沢礼拝堂",
+    "image": "https://image.xinu.ink/pic/data/6071/images/v5d3jci48-1746017994478.jpg",
+    "ep": "",
+    "geo": [
+      36.352,
+      138.6357
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v5dg3h154",
+    "cn": "云场池",
+    "name": "雲場池",
+    "image": "https://image.xinu.ink/pic/data/6071/images/v5dg3h154-1746018759373.jpg",
+    "ep": "",
+    "geo": [
+      36.3506,
+      138.6268
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v5dhq3b2f",
+    "name": "雲場池　橋",
+    "image": "https://image.xinu.ink/pic/data/6071/images/v5dhq3b2f-1746018843522.jpg",
+    "ep": "",
+    "geo": [
+      36.3529,
+      138.6269
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

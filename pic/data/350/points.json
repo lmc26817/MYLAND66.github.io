@@ -86,5 +86,357 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.761096%2C135.343859&z=17"
+  },
+  {
+    "id": "51i52dxbj",
+    "name": "尼崎中央商店街の入口",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dxbj_1745590963475.jpg",
+    "geo": [
+      34.7195,
+      135.4159
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.719543%2C135.415989&z=17"
+  },
+  {
+    "id": "51i52dzzs",
+    "name": "長野駅",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dzzs_1745588824468.jpg",
+    "geo": [
+      36.6432,
+      138.1877
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.643291%2C138.187741&z=17"
+  },
+  {
+    "id": "51i52dzsz",
+    "name": "セントラルスクウェア",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dzsz_1745588668841.jpg",
+    "geo": [
+      36.6521,
+      138.1874
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.652199%2C138.187421&z=17"
+  },
+  {
+    "id": "51i52dzhf",
+    "name": "ショッピングプラザ・アゲイン前の灯篭",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dzhf_1745588649782.jpg",
+    "geo": [
+      36.646,
+      138.1868
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.646002%2C138.186857&z=17"
+  },
+  {
+    "id": "51i52e036",
+    "name": "新田町交差点",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e036_1745589114396.jpg",
+    "geo": [
+      36.6496,
+      138.1872
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.649641%2C138.187207&z=17"
+  },
+  {
+    "id": "51i52e061",
+    "name": "植木商店のオブジェ",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e061_1745589191164.jpg",
+    "geo": [
+      36.6505,
+      138.1873
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.650549%2C138.187303&z=17"
+  },
+  {
+    "id": "51i52dzxk",
+    "name": "久世福商店",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dzxk_1745589210380.jpg",
+    "geo": [
+      36.6569,
+      138.1876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.656939%2C138.187602&z=17"
+  },
+  {
+    "id": "51i52dzq6",
+    "name": "仁王門",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dzq6_1745588698157.jpg",
+    "geo": [
+      36.6584,
+      138.1875
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.658405%2C138.187547&z=17"
+  },
+  {
+    "id": "51i52e01t",
+    "name": "仲見世通り（元善町）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e01t_1745589263836.jpg",
+    "geo": [
+      36.6585,
+      138.1875
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.658595%2C138.18758&z=17"
+  },
+  {
+    "id": "51i52dzx3",
+    "name": "長門屋（ざるそば）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52dzx3_1745588715893.jpg",
+    "geo": [
+      36.6585,
+      138.1879
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.658576%2C138.187905&z=17"
+  },
+  {
+    "id": "51i52e0tc",
+    "name": "滝屋本店（おやき）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0tc_1745589336740.jpg",
+    "geo": [
+      36.6592,
+      138.1875
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.659296%2C138.187596&z=17"
+  },
+  {
+    "id": "51i52e0lx",
+    "name": "すや亀（みそソフトクリーム）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0lx_1745589301100.jpg",
+    "geo": [
+      36.6586,
+      138.1876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.658693%2C138.187608&z=17"
+  },
+  {
+    "id": "51i52e0hp",
+    "name": "いづみや旅館（ソフトクリーム）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0hp_1745589356276.jpg",
+    "geo": [
+      36.6588,
+      138.1875
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.658898%2C138.18754&z=17"
+  },
+  {
+    "id": "51i52e0m4",
+    "name": "滝文（土産店）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0m4_1745589396716.jpg",
+    "geo": [
+      36.6596,
+      138.1876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.659648%2C138.187632&z=17"
+  },
+  {
+    "id": "51i52e0pm",
+    "name": "山門",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0pm_1745589438628.jpg",
+    "geo": [
+      36.6606,
+      138.1876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.660648%2C138.187647&z=17"
+  },
+  {
+    "id": "51i52e0ua",
+    "name": "大観進",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0ua_1745589423428.jpg",
+    "geo": [
+      36.6603,
+      138.1873
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.660398%2C138.18736&z=17"
+  },
+  {
+    "id": "51i52e0ta",
+    "name": "社務所（絵馬）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0ta_1745589469892.jpg",
+    "geo": [
+      36.6608,
+      138.1878
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.660845%2C138.187864&z=17"
+  },
+  {
+    "id": "51i52e0a2",
+    "name": "大香炉",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0a2_1745589507300.jpg",
+    "geo": [
+      36.6611,
+      138.1876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.661155%2C138.187669&z=17"
+  },
+  {
+    "id": "51i52e0t9",
+    "name": "本堂",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0t9_1745589542388.jpg",
+    "geo": [
+      36.6613,
+      138.1876
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.661357%2C138.187679&z=17"
+  },
+  {
+    "id": "51i52e08s",
+    "name": "ツルヤ青木島店",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e08s_1745589580828.jpg",
+    "geo": [
+      36.6143,
+      138.1772
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.614339%2C138.177275&z=17"
+  },
+  {
+    "id": "51i52e0rb",
+    "name": "松仙閣（温泉旅館）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0rb_1745589827427.jpg",
+    "geo": [
+      36.5996,
+      138.1224
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.599618%2C138.122483&z=17"
+  },
+  {
+    "id": "51i52e0uw",
+    "name": "白肌の岩山",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0uw_1745589915771.jpg",
+    "geo": [
+      36.5997,
+      138.1214
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.599728%2C138.121402&z=17"
+  },
+  {
+    "id": "51i52e0qo",
+    "name": "松仙閣近くの祠",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0qo_1745589879043.jpg",
+    "geo": [
+      36.5995,
+      138.1221
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.599519%2C138.122125&z=17"
+  },
+  {
+    "id": "51i52e0oh",
+    "name": "花井神社へ至るカーブミラー",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e0oh_1745589907899.jpg",
+    "geo": [
+      36.6007,
+      138.124
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.600704%2C138.124079&z=17"
+  },
+  {
+    "id": "51i52e1g2",
+    "name": "花井神社へ至る岩肌",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e1g2_1745589931499.jpg",
+    "geo": [
+      36.6008,
+      138.1221
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.60083%2C138.122164&z=17"
+  },
+  {
+    "id": "51i52e1au",
+    "name": "花井神社",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e1au_1745589945147.jpg",
+    "geo": [
+      36.6011,
+      138.1223
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.601162%2C138.122397&z=17"
+  },
+  {
+    "id": "51i52e16f",
+    "name": "茶臼山恐竜公園の入口標識（恐竜口側）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e16f_1745590454891.jpg",
+    "geo": [
+      36.5907,
+      138.1247
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.590753%2C138.124771&z=17"
+  },
+  {
+    "id": "51i52e17s",
+    "name": "展望台",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e17s_1745590368610.jpg",
+    "geo": [
+      36.588,
+      138.1144
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=36.588028%2C138.114466&z=17"
+  },
+  {
+    "id": "51i52e1px",
+    "name": "下鴨神社（糺の森）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e1px_1745590085076.jpg",
+    "geo": [
+      35.0351,
+      135.7723
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=35.035122%2C135.77235&z=17"
+  },
+  {
+    "id": "51i52e18k",
+    "name": "境内の小川と橋、鳥居の場面",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e18k_1745590152795.jpg",
+    "geo": [
+      35.0375,
+      135.7728
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=35.037537%2C135.772857&z=17"
+  },
+  {
+    "id": "51i52e29r",
+    "name": "鶴屋さんの海岸近くの別荘（旧グッゲンハイム邸）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e29r_1745590742291.jpg",
+    "geo": [
+      34.6342,
+      135.0847
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.634276%2C135.08479&z=17"
+  },
+  {
+    "id": "51i52e37s",
+    "name": "ハゼ釣り大会（武庫川の河川敷）",
+    "image": "https://image.xinu.ink/pic/data/350/images/51i52e37s_1745591601945.jpg",
+    "geo": [
+      34.7153,
+      135.3807
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPuqiWLCk9Fs.kO7fdIG-Iu6w&ll=34.715363%2C135.380783&z=17"
   }
 ]

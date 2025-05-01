@@ -1,0 +1,101 @@
+{
+  "id": 334,
+  "cn": "全金属狂潮",
+  "title": "フルメタル・パニック!",
+  "city": "调布市",
+  "cover": "https://image.xinu.ink/pic/data/6066/images/334.jpg",
+  "color": "#3c8e9e",
+  "geo": [
+    35.6761919,
+    139.6503106
+  ],
+  "modified": 1745855115880,
+  "litePoints": [
+    {
+      "id": "a8aocezd",
+      "name": "香港理工大学",
+      "image": "https://image.anitabi.cn/user/0/bangumi/334/points/a8aocezd-1745851417334.jpg?plan=h160",
+      "geo": [
+        22.3027,
+        114.1779
+      ]
+    },
+    {
+      "id": "a8aocf95",
+      "name": "国領駅 Kokuryo Station",
+      "geo": [
+        35.6502,
+        139.5586
+      ]
+    },
+    {
+      "id": "a8aocfcq",
+      "name": "調布駅 Chōfu Station",
+      "geo": [
+        35.6515,
+        139.5436
+      ]
+    },
+    {
+      "id": "a8aocfd3",
+      "name": "仙川駅 Sengawa Station",
+      "geo": [
+        35.6622,
+        139.5851
+      ]
+    },
+    {
+      "id": "a8aocfag",
+      "name": "神代高校",
+      "geo": [
+        35.6576,
+        139.5862
+      ]
+    },
+    {
+      "id": "a8aocen5",
+      "name": "マンション",
+      "geo": [
+        35.6432,
+        139.5383
+      ]
+    },
+    {
+      "id": "a8aocet9",
+      "name": "玉川河川敷",
+      "geo": [
+        35.6414,
+        139.5371
+      ]
+    },
+    {
+      "id": "a8aocf0e",
+      "name": "公園の出入口",
+      "geo": [
+        35.7003,
+        139.5788
+      ]
+    },
+    {
+      "id": "a8aocf35",
+      "name": "吉祥寺公園野外ステージ",
+      "geo": [
+        35.6999,
+        139.5786
+      ]
+    },
+    {
+      "id": "a8aocerv",
+      "name": "oioi",
+      "geo": [
+        35.7021,
+        139.5794
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 1,
+  "name": "フルメタル・パニック!",
+  "name_cn": "全金属狂潮",
+  "local_id": 6066
+}

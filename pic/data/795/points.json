@@ -380,5 +380,83 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v38mztgaw",
+    "name": "茶寮おおみやけ",
+    "image": "https://image.xinu.ink/pic/data/795/images/v38mztgaw-1745852959077.jpg",
+    "ep": 4,
+    "s": 646,
+    "geo": [
+      34.4606,
+      133.9967
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v39jd7tw8",
+    "name": "豊玉姫神社",
+    "image": "https://image.xinu.ink/pic/data/795/images/v39jd7tw8_1745853551570.jpg",
+    "ep": 4,
+    "s": 1040,
+    "geo": [
+      34.4223,
+      134.0558
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v3a35fnad",
+    "name": "小路",
+    "image": "https://image.xinu.ink/pic/data/795/images/v3a35fnad-1745854705397.jpg",
+    "ep": 3,
+    "s": 554,
+    "geo": [
+      34.4535,
+      133.9764
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v3a6w66p4",
+    "name": "住吉神社",
+    "image": "https://image.xinu.ink/pic/data/795/images/v3a6w66p4-1745855063543.jpg",
+    "ep": 3,
+    "s": 579,
+    "geo": [
+      34.4535,
+      133.9765
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v3aappcio",
+    "name": "天理教吉風分教会",
+    "image": "https://image.xinu.ink/pic/data/795/images/v3aappcio-1745855318045.jpg",
+    "ep": 3,
+    "s": 615,
+    "geo": [
+      34.4536,
+      133.976
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v3afh13du",
+    "name": "宮社集会所 旁",
+    "image": "https://image.xinu.ink/pic/data/795/images/v3afh13du-1745855604830.jpg",
+    "ep": 3,
+    "s": 887,
+    "geo": [
+      34.4601,
+      133.9733
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
   }
 ]

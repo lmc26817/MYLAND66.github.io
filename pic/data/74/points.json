@@ -178,5 +178,41 @@
       34.7525,
       135.3449
     ]
+  },
+  {
+    "id": "uzazp9gs6",
+    "cn": "电研社社长公寓原型",
+    "name": "マンション​古田​清​苑",
+    "image": "https://image.xinu.ink/pic/data/74/images/uzazp9gs6-1745543402205.jpg",
+    "ep": 9,
+    "s": 672,
+    "geo": [
+      34.7525,
+      135.3167
+    ]
+  },
+  {
+    "id": "uzb3lagy2",
+    "cn": "八月V 春日玩器材处（已拆除）",
+    "name": "苦楽園公園",
+    "image": "https://image.xinu.ink/pic/data/74/images/uzb3lagy2-1745543558691.jpg",
+    "ep": 16,
+    "s": 1222,
+    "geo": [
+      34.7527,
+      135.3166
+    ]
+  },
+  {
+    "id": "uzb8n9e0x",
+    "cn": "实玖瑠的冒险 结尾樱花",
+    "name": "夙川公園",
+    "image": "https://image.xinu.ink/pic/data/74/images/uzb8n9e0x-1745543800675.jpg",
+    "ep": 25,
+    "s": 1306,
+    "geo": [
+      34.7468,
+      135.3294
+    ]
   }
 ]

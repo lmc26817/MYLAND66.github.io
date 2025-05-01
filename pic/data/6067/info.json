@@ -1,0 +1,100 @@
+{
+  "id": 1905,
+  "cn": "夏日大作战",
+  "title": "サマーウォーズ",
+  "city": "上田市",
+  "cover": "https://image.xinu.ink/pic/data/6067/images/1905.jpg",
+  "color": "#d4bf80",
+  "geo": [
+    36.3974863403418,
+    138.28144736289897
+  ],
+  "zoom": 10.756,
+  "modified": 1745593229294,
+  "litePoints": [
+    {
+      "id": "2rp7txh",
+      "name": "上田城跡公園",
+      "image": "https://image.anitabi.cn/points/1905/2rp7txh_1745592223001.jpg?plan=h160",
+      "geo": [
+        36.4037,
+        138.2444
+      ]
+    },
+    {
+      "id": "2rp7tz1",
+      "name": "上田駅",
+      "image": "https://image.anitabi.cn/points/1905/2rp7tz1_1745592505992.jpg?plan=h160",
+      "geo": [
+        36.3964,
+        138.2497
+      ]
+    },
+    {
+      "id": "2rp7tzy",
+      "name": "別所温泉",
+      "image": "https://image.anitabi.cn/points/1905/2rp7tzy_1745592527833.jpg?plan=h160",
+      "geo": [
+        36.3529,
+        138.1617
+      ]
+    },
+    {
+      "id": "2rp7tzf",
+      "name": "伊勢山バス停",
+      "image": "https://image.anitabi.cn/points/1905/2rp7tzf_1745592419409.jpg?plan=h160",
+      "geo": [
+        36.4173,
+        138.2952
+      ]
+    },
+    {
+      "id": "2rp7tyl",
+      "name": "砥石米山城跡",
+      "image": "https://image.anitabi.cn/points/1905/2rp7tyl_1745592432164.jpg?plan=h160",
+      "geo": [
+        36.4222,
+        138.2901
+      ]
+    },
+    {
+      "id": "2rp7txp",
+      "name": "海野町商店街",
+      "image": "https://image.anitabi.cn/points/1905/2rp7txp_1745592408048.jpg?plan=h160",
+      "geo": [
+        36.4001,
+        138.254
+      ]
+    },
+    {
+      "id": "2rp7ty5",
+      "name": "上田市役所",
+      "image": "https://image.anitabi.cn/points/1905/2rp7ty5_1745592240809.jpg?plan=h160",
+      "geo": [
+        36.4018,
+        138.249
+      ]
+    },
+    {
+      "id": "2rp7tzg",
+      "name": "角間温泉岩屋館",
+      "geo": [
+        36.4534,
+        138.3629
+      ]
+    },
+    {
+      "id": "2rp7tzz",
+      "name": "上田高校",
+      "geo": [
+        36.4004,
+        138.2486
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 7,
+  "name": "サマーウォーズ",
+  "name_cn": "夏日大作战",
+  "local_id": 6067
+}

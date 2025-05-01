@@ -24,5 +24,53 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=13.475576%2C104.228808&z=17"
+  },
+  {
+    "id": "51i531l0o",
+    "cn": "卡那封城堡",
+    "name": "カーナーヴォン城",
+    "image": "https://image.xinu.ink/pic/data/15/images/51i531l0o_1745834737641.jpg",
+    "geo": [
+      53.1391,
+      -4.277
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=53.139139%2C-4.27693&z=17"
+  },
+  {
+    "id": "v310431ou",
+    "cn": "布莱纳文工业遗址",
+    "name": "Blaenavon Iron Works",
+    "image": "https://image.xinu.ink/pic/data/15/images/v310431ou_1745834964278.jpg",
+    "geo": [
+      51.7769,
+      -3.0893
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=51.776919%2C-3.089297&z=17"
+  },
+  {
+    "id": "v314p2mca",
+    "cn": "巴茅斯桥",
+    "name": "Barmouth Bridge",
+    "image": "https://image.xinu.ink/pic/data/15/images/v314p2mca_1745835333744.jpg",
+    "geo": [
+      52.7167,
+      -4.0416
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=52.716702%2C-4.041589&z=17"
+  },
+  {
+    "id": "v3193jj7i",
+    "cn": "康威城堡",
+    "name": "Conwy Castle",
+    "image": "https://image.xinu.ink/pic/data/15/images/v3193jj7i_1745835735448.jpg",
+    "geo": [
+      53.28,
+      -3.8256
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1REOemlKfHJALZhLVLQucISYpIbo&ll=53.280052%2C-3.825598&z=17"
   }
 ]

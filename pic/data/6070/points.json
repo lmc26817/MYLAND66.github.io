@@ -1,0 +1,41 @@
+[
+  {
+    "id": "uyytqb0u1",
+    "name": "東京都新宿区西早稲田3丁目",
+    "image": "https://image.xinu.ink/pic/data/6070/images/uyytqb0u1-1745516965257.jpg",
+    "ep": 5,
+    "s": 50,
+    "geo": [
+      35.7121,
+      139.7112
+    ],
+    "origin": "全国ロケ地ガイド",
+    "originLink": "https://loca.ash.jp/info/1994/d199304_hitotu.htm"
+  },
+  {
+    "id": "uyz1sy7zj",
+    "name": "東京都杉並区和泉1丁目",
+    "image": "https://image.xinu.ink/pic/data/6070/images/uyz1sy7zj-1745517320175.jpg",
+    "ep": 4,
+    "s": 135,
+    "geo": [
+      35.6735,
+      139.6583
+    ],
+    "origin": "全国ロケ地ガイド",
+    "originLink": "https://loca.ash.jp/info/1994/d199304_hitotu.htm"
+  },
+  {
+    "id": "uyz74fmhy",
+    "name": "新潟県糸魚川市大字中浜",
+    "image": "https://image.xinu.ink/pic/data/6070/images/uyz74fmhy-1745517646691.jpg",
+    "ep": 9,
+    "s": 2266,
+    "geo": [
+      37.0712,
+      137.9308
+    ],
+    "origin": "全国ロケ地ガイド",
+    "originLink": "https://loca.ash.jp/info/1994/d199304_hitotu.htm"
+  }
+]

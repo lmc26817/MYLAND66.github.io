@@ -267,5 +267,18 @@
       33.8745,
       132.7074
     ]
+  },
+  {
+    "id": "uz2vmo6jt",
+    "name": "久万中学校",
+    "image": "https://image.xinu.ink/pic/data/191/images/uz2vmo6jt-1745525712333.jpg",
+    "ep": 11,
+    "s": 54,
+    "geo": [
+      33.6731,
+      132.9387
+    ],
+    "origin": "全国ロケ地ガイド",
+    "originLink": "https://loca.ash.jp/info/1994/d199101_tokyolove.htm"
   }
 ]

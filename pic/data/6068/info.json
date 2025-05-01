@@ -1,0 +1,25 @@
+{
+  "id": 2331,
+  "cn": "悠长假期",
+  "title": "ロングバケーション",
+  "cover": "https://image.xinu.ink/pic/data/6068/images/2331_gyKLz.jpg",
+  "modified": 1745712690080,
+  "litePoints": [
+    {
+      "id": "v1edvneje",
+      "name": "中華そば「萬金」",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2331/points/v1edvneje-1745707482767.jpg?plan=h160",
+      "ep": 2,
+      "s": 1145,
+      "geo": [
+        35.6702,
+        139.7763
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "ロングバケーション",
+  "name_cn": "悠长假期",
+  "local_id": 6068
+}

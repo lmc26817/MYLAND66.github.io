@@ -53,5 +53,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=43.068606%2C141.350763&z=17"
+  },
+  {
+    "id": "51i530oxx",
+    "name": "旧朝吹山荘（睡鳩荘）",
+    "image": "https://image.xinu.ink/pic/data/346/images/51i530oxx-1746011430740.jpg",
+    "ep": null,
+    "geo": [
+      36.3294,
+      138.5977
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-TvHEe1nhtO1vHjUX8hLLkySXoM&ll=36.329466%2C138.597736&z=17"
   }
 ]

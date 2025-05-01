@@ -382,5 +382,490 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1cwr5vrg",
+    "cn": "食事・喫茶ガロ",
+    "name": "軽食喫茶ガロ",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1cwr5vrg_1745704139353_c16v9.jpg",
+    "ep": 3,
+    "s": 1125,
+    "geo": [
+      35.7433,
+      137.889
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1uivpvit",
+    "cn": "超级神冈探测器",
+    "name": "スーパーカミオカンデ",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1uivpvit-1745742597673.jpg",
+    "ep": 3,
+    "s": 149,
+    "geo": [
+      36.4268,
+      137.3101
+    ]
+  },
+  {
+    "id": "v3a2cr6ju",
+    "cn": "黑部水坝",
+    "name": "黒部ダム",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v3a2cr6ju_1745854662395.jpg",
+    "ep": 3,
+    "s": 141,
+    "geo": [
+      36.5661,
+      137.662
+    ],
+    "origin": "Anitabi@Xenon丸子头",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v3agj5uv5",
+    "cn": "甲府站 站台",
+    "name": "甲府駅 ホーム",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v3agj5uv5_1745855531167.jpg",
+    "ep": 1,
+    "s": 619,
+    "geo": [
+      35.6672,
+      138.569
+    ],
+    "origin": "Anitabi@Xenon丸子头",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v5l7j4r1t",
+    "cn": "身延站前",
+    "name": "身延駅前",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v5l7j4r1t_1746035691816.jpg",
+    "ep": 3,
+    "s": 643,
+    "geo": [
+      35.3616,
+      138.4524
+    ],
+    "origin": "Anitabi@Xenon丸子头",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v5lfcrmgs",
+    "cn": "首都圈外郭放水路",
+    "name": "首都圏外郭放水路",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v5lfcrmgs_1746036173856.jpg",
+    "ep": 3,
+    "s": 146,
+    "geo": [
+      35.996,
+      139.8105
+    ],
+    "origin": "Anitabi@Xenon丸子头",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1dg206dz",
+    "name": "峠の茶屋",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1dg206dz_1745705321334_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      35.9767,
+      138.1299
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1dns51vy",
+    "name": "ファミリー​マート\n長坂​駅前​店",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1dns51vy_1745705786761_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      35.8281,
+      138.3692
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v13uh8yt2",
+    "cn": "本栖湖",
+    "name": "本栖湖",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v13uh8yt2_1745687321409.jpg",
+    "ep": 3,
+    "geo": [
+      35.474,
+      138.5756
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v13wxc5te",
+    "cn": "本栖湖厕所",
+    "name": "本栖湖 公衆トイレ",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v13wxc5te_1745687354238.jpg",
+    "ep": 3,
+    "geo": [
+      35.4741,
+      138.5742
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v13x64wz3",
+    "name": "セントラル​ロッジ​浩​庵",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v13x64wz3_1745687358262.jpg",
+    "ep": 3,
+    "geo": [
+      35.4736,
+      138.5734
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v13uxw4xo",
+    "cn": "浩​庵露营地",
+    "name": 51,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v13uxw4xo_1745687327582.jpg",
+    "ep": 3,
+    "geo": [
+      35.473,
+      138.5751
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v16ptparn",
+    "cn": "朝雾高原山麓露营场",
+    "name": "ふもとっぱらキャンプ場",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v16ptparn_1745690670404.jpg",
+    "ep": 3,
+    "geo": [
+      35.4,
+      138.563
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v149azlhs",
+    "cn": "芝麻凛的家",
+    "name": "下部水防倉庫",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v149azlhs_1745687566794.jpg",
+    "ep": 3,
+    "geo": [
+      35.4791,
+      138.5271
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14bq74w2",
+    "name": "内船駅内",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14bq74w2_1745688753350.jpg",
+    "ep": 3,
+    "geo": [
+      35.2815,
+      138.4651
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1bea1f91",
+    "name": "内船駅",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1bea1f91_1745700847198_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      35.2814,
+      138.4649
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14cxp8i2",
+    "cn": "南部桥",
+    "name": "南部橋",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14cxp8i2_1745687511354.jpg",
+    "ep": 3,
+    "geo": [
+      35.2819,
+      138.4599
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14fqywys",
+    "cn": "抚子的家",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14fqywys_1745687517660.jpg",
+    "ep": 3,
+    "geo": [
+      35.2824,
+      138.4564
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v15cj8u86",
+    "cn": "水明庄露营地",
+    "name": "水明​荘​キャンプ場",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v15cj8u86_1745687649640.jpg",
+    "ep": 3,
+    "geo": [
+      35.5303,
+      138.5187
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14nip4rb",
+    "cn": "南アルプス林道夜叉神ゲート 警備員小屋",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14nip4rb_1745687683587.jpg",
+    "ep": 3,
+    "geo": [
+      35.6353,
+      138.3439
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1bu4ugk0",
+    "cn": "南アルプス林道夜叉神",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1bu4ugk0_1745701789873_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      35.6341,
+      138.3496
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14rr1e18",
+    "cn": "诹访湖休息站",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14rr1e18_1745687746831.jpg",
+    "ep": 3,
+    "geo": [
+      36.0267,
+      138.0773
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1dxicjt3",
+    "cn": "冈谷JCT",
+    "name": "岡谷JCT",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1dxicjt3_1745706357406_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      36.0522,
+      138.0456
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14t013ho",
+    "cn": "ハイウェイ温泉",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14t013ho_1745687857167.jpg",
+    "ep": 3,
+    "geo": [
+      36.0263,
+      138.0785
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1d5gmxn0",
+    "name": "アポロ​ステーション​諏訪湖​サービス​エリア​上り​SS",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1d5gmxn0_1745704677130_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      36.0258,
+      138.0784
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14uln9zj",
+    "cn": "松本城",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14uln9zj_1745687906723.jpg",
+    "ep": 3,
+    "geo": [
+      36.2378,
+      137.9696
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v14wr10fq",
+    "cn": "阵马形山露营场",
+    "name": "陣馬形山キャンプ場",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v14wr10fq_1745687992295.jpg",
+    "ep": 3,
+    "geo": [
+      35.6729,
+      137.9833
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v150v1g8n",
+    "cn": "光前寺",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v150v1g8n_1745688099094.jpg",
+    "ep": 3,
+    "geo": [
+      35.7348,
+      137.8955
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v17ayvnp8",
+    "name": "軽食喫茶ガロ",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v17ayvnp8-1745691941951.jpg",
+    "ep": 3,
+    "geo": [
+      35.7432,
+      137.889
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1czctx6v",
+    "name": "うるおいとふれあいのある水辺",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1czctx6v_1745704278524_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      35.7448,
+      137.8886
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v17ntmtjm",
+    "name": "高ボッチ 牧場",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v17ntmtjm_1745692692039.jpg",
+    "ep": 3,
+    "geo": [
+      36.1337,
+      138.0351
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v15ncwfcu",
+    "cn": "アルプス連峰パノラマ展望台",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v15ncwfcu_1745688318538.jpg",
+    "ep": 3,
+    "geo": [
+      36.1351,
+      138.0373
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1806od0d",
+    "name": "高ボッチスカイライン",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1806od0d_1745693453697.jpg",
+    "ep": 3,
+    "geo": [
+      36.1397,
+      138.0403
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v18555fx6",
+    "name": "鉢伏山道",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v18555fx6_1745693746075.jpg",
+    "ep": 3,
+    "geo": [
+      36.1678,
+      138.0575
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v153wvs6f",
+    "cn": "钵伏山展望台",
+    "name": "鉢伏山展望台",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v153wvs6f_1745688350129.jpg",
+    "ep": 3,
+    "geo": [
+      36.1652,
+      138.0576
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v15q9usgv",
+    "cn": "片倉館",
+    "name": 63,
+    "image": "https://image.xinu.ink/pic/data/6019/images/v15q9usgv_1745688489915.jpg",
+    "ep": 3,
+    "geo": [
+      36.048,
+      138.1131
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v17tsxamc",
+    "name": "霧の駅前",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v17tsxamc_1745693071295.jpg",
+    "ep": 3,
+    "geo": [
+      36.0972,
+      138.1681
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v1bbeocfj",
+    "name": "ころぼっ​くる​ひゅっ​て",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v1bbeocfj_1745700659455_c16v9.jpg",
+    "ep": 3,
+    "geo": [
+      36.1047,
+      138.1878
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
   }
 ]

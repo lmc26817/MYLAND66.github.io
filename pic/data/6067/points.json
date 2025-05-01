@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2rp7txh",
+    "name": "上田城跡公園",
+    "image": "https://image.xinu.ink/pic/data/6067/images/2rp7txh_1745592223001.jpg",
+    "geo": [
+      36.4037,
+      138.2444
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10xl98ZsURqEHQV_tsBnXvR0ptB8&ll=36.403797%2C138.244437&z=17"
+  },
+  {
+    "id": "2rp7tz1",
+    "name": "上田駅",
+    "image": "https://image.xinu.ink/pic/data/6067/images/2rp7tz1_1745592505992.jpg",
+    "geo": [
+      36.3964,
+      138.2497
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10xl98ZsURqEHQV_tsBnXvR0ptB8&ll=36.396498%2C138.249736&z=17"
+  },
+  {
+    "id": "2rp7tzy",
+    "name": "別所温泉",
+    "image": "https://image.xinu.ink/pic/data/6067/images/2rp7tzy_1745592527833.jpg",
+    "geo": [
+      36.3529,
+      138.1617
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10xl98ZsURqEHQV_tsBnXvR0ptB8&ll=36.352966%2C138.161788&z=17"
+  },
+  {
+    "id": "2rp7tzf",
+    "name": "伊勢山バス停",
+    "image": "https://image.xinu.ink/pic/data/6067/images/2rp7tzf_1745592419409.jpg",
+    "geo": [
+      36.4173,
+      138.2952
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10xl98ZsURqEHQV_tsBnXvR0ptB8&ll=36.417311%2C138.295201&z=17"
+  },
+  {
+    "id": "2rp7tyl",
+    "name": "砥石米山城跡",
+    "image": "https://image.xinu.ink/pic/data/6067/images/2rp7tyl_1745592432164.jpg",
+    "geo": [
+      36.4222,
+      138.2901
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10xl98ZsURqEHQV_tsBnXvR0ptB8&ll=36.422256%2C138.29016&z=17"
+  },
+  {
+    "id": "2rp7txp",
+    "name": "海野町商店街",
+    "image": "https://image.xinu.ink/pic/data/6067/images/2rp7txp_1745592408048.jpg",
+    "geo": [
+      36.4001,
+      138.254
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10xl98ZsURqEHQV_tsBnXvR0ptB8&ll=36.400111%2C138.254002&z=17"
+  },
+  {
+    "id": "2rp7ty5",
+    "name": "上田市役所",
+    "image": "https://image.xinu.ink/pic/data/6067/images/2rp7ty5_1745592240809.jpg",
+    "geo": [
+      36.4018,
+      138.249
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=10xl98ZsURqEHQV_tsBnXvR0ptB8&ll=36.401865%2C138.249048&z=17"
+  }
+]

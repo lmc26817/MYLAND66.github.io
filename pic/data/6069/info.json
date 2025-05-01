@@ -1,0 +1,27 @@
+{
+  "id": 10844,
+  "cn": "「C」",
+  "title": "C",
+  "cover": "https://image.xinu.ink/pic/data/6069/images/10844_1GJ7V.jpg",
+  "cp": "noitaminA",
+  "modified": 1746008215202,
+  "litePoints": [
+    {
+      "id": "v572hq6tk",
+      "cn": "滨江大道",
+      "name": "滨江大道",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10844/points/v572hq6tk-1746004952606.jpg?plan=h160",
+      "ep": 9,
+      "s": 355,
+      "geo": [
+        31.2424,
+        121.4926
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "C",
+  "name_cn": "「C」",
+  "local_id": 6069
+}

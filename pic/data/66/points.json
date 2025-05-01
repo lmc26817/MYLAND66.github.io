@@ -20,5 +20,30 @@
     ],
     "origin": "Anitabi@孤光明谷",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "a52099ac",
+    "name": "12.9木綿花酒店　深圳　Hotel Kapok",
+    "image": "https://image.xinu.ink/pic/data/66/images/a52099ac-1745849043942.jpg",
+    "ep": "21卷第170局",
+    "s": "P90",
+    "geo": [
+      22.5363,
+      114.1093
+    ],
+    "origin": "ヒカルの碁名所めぐり",
+    "originLink": "http://masakage1.blog58.fc2.com/"
+  },
+  {
+    "id": "90c7f6ad",
+    "name": "12.10深圳棋院",
+    "image": "https://image.xinu.ink/pic/data/66/images/90c7f6ad-1745849209987.jpg",
+    "ep": null,
+    "geo": [
+      22.5392,
+      114.1141
+    ],
+    "origin": "ヒカルの碁名所めぐり",
+    "originLink": "http://masakage1.blog58.fc2.com/"
   }
 ]

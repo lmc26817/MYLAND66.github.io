@@ -601,5 +601,43 @@
     ],
     "origin": "Anitabi@真手凛",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uzodq2nl1",
+    "name": "Rue de la Montagne Verte（可能）",
+    "image": "https://image.xinu.ink/pic/data/340/images/uzodq2nl1-1745572466420.jpg",
+    "ep": 12,
+    "s": 558,
+    "geo": [
+      48.0755,
+      7.3602
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uzukt7qxc",
+    "name": "Statue d'Armand Joseph Bruat",
+    "image": "https://image.xinu.ink/pic/data/340/images/uzukt7qxc-1745585865217.jpg",
+    "ep": 2,
+    "s": 340,
+    "geo": [
+      48.0755,
+      7.3527
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "uzo0qaftw",
+    "name": "Le Médiéval",
+    "image": "https://image.xinu.ink/pic/data/340/images/uzo0qaftw-1745571623756.jpg",
+    "ep": null,
+    "geo": [
+      48.1671,
+      7.2958
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
   }
 ]

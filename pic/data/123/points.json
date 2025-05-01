@@ -829,5 +829,41 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.761573%2C135.306148&z=17"
+  },
+  {
+    "id": "uzbrfqit9",
+    "cn": "消失 阿虚等红灯",
+    "name": "トワヴェール甲陽",
+    "image": "https://image.xinu.ink/pic/data/123/images/uzbrfqit9-1745545002759.jpg",
+    "ep": "剧场版",
+    "s": "0:18:28",
+    "geo": [
+      34.7599,
+      135.3265
+    ]
+  },
+  {
+    "id": "uzbvi27vh",
+    "cn": "消失 空镜 阿虚前往公园的路上",
+    "name": "cafe shin",
+    "image": "https://image.xinu.ink/pic/data/123/images/uzbvi27vh-1745545220150.jpg",
+    "ep": "剧场版",
+    "s": "1:48:23",
+    "geo": [
+      34.7604,
+      135.331
+    ]
+  },
+  {
+    "id": "uzc00yn3v",
+    "cn": "消失 阿虚想春日 夜景",
+    "name": " (有)セッツ・エステイト",
+    "image": "https://image.xinu.ink/pic/data/123/images/uzc00yn3v-1745545428571.jpg",
+    "ep": "剧场版",
+    "s": "0:43:33",
+    "geo": [
+      34.7597,
+      135.3132
+    ]
   }
 ]

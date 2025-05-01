@@ -351,5 +351,61 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v0l5c3h9o",
+    "cn": "仁和寺御殿走廊",
+    "name": "仁和寺御殿廻廊",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0l5c3h9o-1745643726170.jpg",
+    "ep": "EP1",
+    "s": "01:28:06",
+    "geo": [
+      35.0283,
+      135.7136
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v0lbiq1qr",
+    "cn": "三条通",
+    "name": "三条通",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0lbiq1qr-1745644063514.jpg",
+    "ep": "EP01",
+    "s": "00:21:21",
+    "geo": [
+      35.0086,
+      135.7663
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v0lf35jly",
+    "cn": "茶屋 楠本",
+    "name": "お茶屋 楠本",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0lf35jly-1745644424862.jpg",
+    "ep": "EP01",
+    "s": "00:32:19",
+    "geo": [
+      35.0045,
+      135.771
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v0lm7hton",
+    "cn": "本能公园前",
+    "name": "本能公園前",
+    "image": "https://image.xinu.ink/pic/data/109/images/v0lm7hton-1745644722119.jpg",
+    "ep": "EP01",
+    "s": "00:58:55",
+    "geo": [
+      35.0073,
+      135.7541
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
   }
 ]

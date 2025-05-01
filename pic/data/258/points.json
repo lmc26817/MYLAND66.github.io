@@ -65,5 +65,18 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9fe24958",
+    "name": "西浦和高校・門",
+    "image": "https://image.xinu.ink/pic/data/258/images/9fe24958-1745578604524.jpg",
+    "ep": "5",
+    "s": "4:55",
+    "geo": [
+      35.8894,
+      139.6526
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1XL7t8MHr5otopt1KQw5tzv-jxCY&ll=35.889493%2C139.652689&z=17"
   }
 ]
