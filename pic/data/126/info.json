@@ -24,5 +24,11 @@
   ],
   "pointsLength": 12,
   "imagesLength": 1,
-  "local_id": 126
+  "local_id": 126,
+  "region": [
+    "大阪府",
+    "爱知县",
+    "奈良縣",
+    "兵库县/兵庫縣"
+  ]
 }
