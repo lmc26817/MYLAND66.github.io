@@ -110,5 +110,10 @@
   ],
   "pointsLength": 39,
   "imagesLength": 7,
-  "local_id": 350
+  "local_id": 350,
+  "region": [
+    "长野县",
+    "兵库县/兵庫縣",
+    "京都府"
+  ]
 }

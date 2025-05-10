@@ -41,5 +41,9 @@
   ],
   "pointsLength": 4,
   "imagesLength": 4,
-  "local_id": 362
+  "local_id": 362,
+  "region": [
+    "江夏区",
+    "武昌区"
+  ]
 }

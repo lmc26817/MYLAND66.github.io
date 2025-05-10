@@ -107,5 +107,11 @@
   ],
   "pointsLength": 10,
   "imagesLength": 10,
-  "local_id": 507
+  "local_id": 507,
+  "region": [
+    "江汉区",
+    "硚口区",
+    "武昌区",
+    "汉阳区"
+  ]
 }

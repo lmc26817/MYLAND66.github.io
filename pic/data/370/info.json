@@ -133,5 +133,10 @@
   ],
   "pointsLength": 54,
   "imagesLength": 32,
-  "local_id": 370
+  "local_id": 370,
+  "region": [
+    "东京都/東京都",
+    "埼玉县",
+    "约旦"
+  ]
 }
