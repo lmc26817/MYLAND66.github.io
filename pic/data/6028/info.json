@@ -42,5 +42,8 @@
   "imagesLength": 3,
   "name": "ゆるキャン△ SEASON４",
   "name_cn": "摇曳露营△ 四期",
-  "local_id": 6028
+  "local_id": 6028,
+  "region": [
+    "群马县"
+  ]
 }

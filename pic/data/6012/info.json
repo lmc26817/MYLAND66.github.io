@@ -24,5 +24,8 @@
   "imagesLength": 1,
   "name": "俺だけレベルアップな件",
   "name_cn": "我独自升级",
-  "local_id": 6012
+  "local_id": 6012,
+  "region": [
+    "麻浦區"
+  ]
 }

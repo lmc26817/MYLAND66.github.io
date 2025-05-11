@@ -31,5 +31,9 @@
   "imagesLength": 2,
   "name": "地獄少女",
   "name_cn": "地狱少女",
-  "local_id": 5995
+  "local_id": 5995,
+  "region": [
+    "青森县",
+    "京都府"
+  ]
 }

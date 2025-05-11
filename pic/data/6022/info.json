@@ -34,5 +34,8 @@
   "imagesLength": 4,
   "name": "忍者と殺し屋のふたりぐらし",
   "name_cn": "忍者与杀手二人组的日常生活",
-  "local_id": 6022
+  "local_id": 6022,
+  "region": [
+    "东京都/東京都"
+  ]
 }

@@ -101,5 +101,9 @@
   "imagesLength": 8,
   "name": "イハナシの魔女",
   "name_cn": "传述之魔女",
-  "local_id": 6009
+  "local_id": 6009,
+  "region": [
+    "岛尻郡",
+    "冲绳县 / 沖繩縣"
+  ]
 }

@@ -107,5 +107,11 @@
   "imagesLength": 19,
   "name": "神様ドォルズ",
   "name_cn": "神样DOLLS",
-  "local_id": 5999
+  "local_id": 5999,
+  "region": [
+    "茨城县",
+    "东京都/東京都",
+    "久慈郡",
+    "千叶县"
+  ]
 }

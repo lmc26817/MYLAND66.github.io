@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "俺たちに翼はない",
   "name_cn": "我们没有翅膀",
-  "local_id": 5997
+  "local_id": 5997,
+  "region": [
+    "东京都/東京都"
+  ]
 }

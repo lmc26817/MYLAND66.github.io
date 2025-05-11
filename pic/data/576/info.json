@@ -47,5 +47,9 @@
   ],
   "pointsLength": 3,
   "imagesLength": 3,
-  "local_id": 576
+  "local_id": 576,
+  "region": [
+    "渝中区",
+    "江津区"
+  ]
 }

@@ -101,5 +101,14 @@
   "imagesLength": 11,
   "name": "さくら、もゆ。-as the Night's, Reincarnation-",
   "name_cn": "樱花、萌放。-as the Night's, Reincarnation-",
-  "local_id": 6005
+  "local_id": 6005,
+  "region": [
+    "东京都/東京都",
+    "长崎县",
+    "广岛县",
+    "神奈川縣",
+    "京都府",
+    "Brussel-Hoofdstad - Bruxelles-Capitale",
+    "岐阜县"
+  ]
 }

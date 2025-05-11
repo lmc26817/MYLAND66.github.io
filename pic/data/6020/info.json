@@ -48,5 +48,9 @@
   "imagesLength": 4,
   "name": "名探偵コナン 隻眼の残像",
   "name_cn": "名侦探柯南 独眼的残像",
-  "local_id": 6020
+  "local_id": 6020,
+  "region": [
+    "长野县",
+    "南佐久郡"
+  ]
 }

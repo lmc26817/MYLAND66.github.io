@@ -4,5 +4,8 @@
   "title": "ウィッチウォッチ",
   "cover": "https://image.xinu.ink/pic/data/5990/images/1.jpg",
   "pointsLength": 11,
-  "local_id": 5990
+  "local_id": 5990,
+  "region": [
+    "东京都/東京都"
+  ]
 }

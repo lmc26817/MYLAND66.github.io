@@ -74,5 +74,9 @@
   "imagesLength": 6,
   "name": "宇宙人ムームー",
   "name_cn": "外星人姆姆",
-  "local_id": 6029
+  "local_id": 6029,
+  "region": [
+    "神奈川縣",
+    "东京都/東京都"
+  ]
 }

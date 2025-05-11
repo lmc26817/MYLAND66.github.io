@@ -114,5 +114,12 @@
   ],
   "pointsLength": 21,
   "imagesLength": 21,
-  "local_id": 664
+  "local_id": 664,
+  "region": [
+    "哥得兰省",
+    "斯德哥爾摩省",
+    "斯科讷省",
+    "东约特兰省",
+    "延雪平省"
+  ]
 }
