@@ -74,5 +74,10 @@
   ],
   "pointsLength": 5,
   "imagesLength": 5,
-  "local_id": 668
+  "local_id": 668,
+  "region": [
+    "朝阳区",
+    "东城区",
+    "西城区"
+  ]
 }

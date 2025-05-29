@@ -104,5 +104,10 @@
   ],
   "pointsLength": 10,
   "imagesLength": 10,
-  "local_id": 739
+  "local_id": 739,
+  "region": [
+    "New York County",
+    "朝阳区",
+    "黄浦区"
+  ]
 }

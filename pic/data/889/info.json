@@ -28,5 +28,9 @@
   ],
   "pointsLength": 3,
   "imagesLength": 3,
-  "local_id": 889
+  "local_id": 889,
+  "region": [
+    "武昌区",
+    "汉阳区"
+  ]
 }

@@ -125,5 +125,12 @@
   ],
   "pointsLength": 19,
   "imagesLength": 16,
-  "local_id": 777
+  "local_id": 777,
+  "region": [
+    "拱墅区",
+    "上城区",
+    "西湖区",
+    "萧山区",
+    "滨江区"
+  ]
 }
