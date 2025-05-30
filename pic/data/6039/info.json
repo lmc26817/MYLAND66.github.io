@@ -4,5 +4,12 @@
   "title": "ちはやふる",
   "cover": "https://image.xinu.ink/pic/data/6039/images/1.jpg",
   "pointsLength": 25,
-  "local_id": 6039
+  "local_id": 6039,
+  "region": [
+    "东京都/東京都",
+    "滋賀县",
+    "福井縣",
+    "埼玉县",
+    "石川县"
+  ]
 }

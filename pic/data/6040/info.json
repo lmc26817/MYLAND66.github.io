@@ -4,5 +4,8 @@
   "title": "アポカリプスホテル",
   "cover": "https://image.xinu.ink/pic/data/6040/images/1.jpg",
   "pointsLength": 5,
-  "local_id": 6040
+  "local_id": 6040,
+  "region": [
+    "东京都/東京都"
+  ]
 }

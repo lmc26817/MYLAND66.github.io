@@ -4,5 +4,9 @@
   "title": "ウマ娘 シンデレラグレイ",
   "cover": "https://image.xinu.ink/pic/data/6032/images/1.jpg",
   "pointsLength": 15,
-  "local_id": 6032
+  "local_id": 6032,
+  "region": [
+    "羽島郡",
+    "岐阜县"
+  ]
 }

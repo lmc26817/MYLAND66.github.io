@@ -4,5 +4,9 @@
   "title": "BanG Dream! 2nd Season",
   "cover": "https://image.xinu.ink/pic/data/6050/images/1.jpg",
   "pointsLength": 31,
-  "local_id": 6050
+  "local_id": 6050,
+  "region": [
+    "东京都/東京都",
+    "岐阜县"
+  ]
 }

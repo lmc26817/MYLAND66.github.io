@@ -4,5 +4,10 @@
   "title": "空色ユーティリティ",
   "cover": "https://image.xinu.ink/pic/data/6052/images/1.jpg",
   "pointsLength": 16,
-  "local_id": 6052
+  "local_id": 6052,
+  "region": [
+    "东京都/東京都",
+    "神奈川縣",
+    "千叶县"
+  ]
 }

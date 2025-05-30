@@ -97,5 +97,8 @@
   "imagesLength": 1,
   "name": "フルメタル・パニック!",
   "name_cn": "全金属狂潮",
-  "local_id": 6066
+  "local_id": 6066,
+  "region": [
+    "油尖旺區"
+  ]
 }

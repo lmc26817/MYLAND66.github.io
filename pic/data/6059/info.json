@@ -4,5 +4,10 @@
   "title": "Re:CREATORS",
   "cover": "https://image.xinu.ink/pic/data/6059/images/1.jpg",
   "pointsLength": 61,
-  "local_id": 6059
+  "local_id": 6059,
+  "region": [
+    "东京都/東京都",
+    "神奈川縣",
+    "千叶县"
+  ]
 }

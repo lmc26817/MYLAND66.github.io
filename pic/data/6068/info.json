@@ -21,5 +21,8 @@
   "imagesLength": 1,
   "name": "ロングバケーション",
   "name_cn": "悠长假期",
-  "local_id": 6068
+  "local_id": 6068,
+  "region": [
+    "东京都/東京都"
+  ]
 }

@@ -4,5 +4,8 @@
   "title": "異世界おじさん",
   "cover": "https://image.xinu.ink/pic/data/6060/images/1.jpg",
   "pointsLength": 4,
-  "local_id": 6060
+  "local_id": 6060,
+  "region": [
+    "福冈县"
+  ]
 }

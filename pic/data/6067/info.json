@@ -96,5 +96,8 @@
   "imagesLength": 7,
   "name": "サマーウォーズ",
   "name_cn": "夏日大作战",
-  "local_id": 6067
+  "local_id": 6067,
+  "region": [
+    "长野县"
+  ]
 }

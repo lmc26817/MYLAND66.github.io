@@ -4,5 +4,9 @@
   "title": "文豪ストレイドッグス2",
   "cover": "https://image.xinu.ink/pic/data/6045/images/1.jpg",
   "pointsLength": 25,
-  "local_id": 6045
+  "local_id": 6045,
+  "region": [
+    "神奈川縣",
+    "东京都/東京都"
+  ]
 }

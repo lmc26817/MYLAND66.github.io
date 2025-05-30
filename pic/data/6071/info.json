@@ -47,5 +47,8 @@
   "imagesLength": 4,
   "name": "名探偵コナン 16人の容疑者!?",
   "name_cn": "名侦探柯南 16名嫌疑犯！？",
-  "local_id": 6071
+  "local_id": 6071,
+  "region": [
+    "北佐久郡"
+  ]
 }

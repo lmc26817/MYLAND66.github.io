@@ -43,5 +43,9 @@
   "imagesLength": 3,
   "name": "ひとつ屋根の下",
   "name_cn": "同一屋檐下",
-  "local_id": 6070
+  "local_id": 6070,
+  "region": [
+    "东京都/東京都",
+    "新潟县"
+  ]
 }

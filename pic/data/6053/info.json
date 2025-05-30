@@ -4,5 +4,9 @@
   "title": "ばらかもん",
   "cover": "https://image.xinu.ink/pic/data/6053/images/1.jpg",
   "pointsLength": 20,
-  "local_id": 6053
+  "local_id": 6053,
+  "region": [
+    "长崎县",
+    "东京都/東京都"
+  ]
 }

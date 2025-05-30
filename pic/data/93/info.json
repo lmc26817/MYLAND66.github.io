@@ -102,5 +102,11 @@
   ],
   "pointsLength": 9,
   "imagesLength": 7,
-  "local_id": 93
+  "local_id": 93,
+  "region": [
+    "海德堡",
+    "杜塞尔多夫",
+    "慕尼黑",
+    "布拉格"
+  ]
 }

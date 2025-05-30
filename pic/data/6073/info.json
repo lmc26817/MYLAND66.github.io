@@ -4,5 +4,10 @@
   "title": "デジモンアドベンチャー LAST EVOLUTION 絆",
   "cover": "https://image.xinu.ink/pic/data/6073/images/1.jpg",
   "pointsLength": 23,
-  "local_id": 6073
+  "local_id": 6073,
+  "region": [
+    "东京都/東京都",
+    "神奈川縣",
+    "茨城县"
+  ]
 }
