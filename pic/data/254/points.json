@@ -9,5 +9,89 @@
       34.7052,
       135.4901
     ]
+  },
+  {
+    "id": "v6hryf0n7",
+    "name": "大阪駅　環状線内回り",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6hryf0n7_1746106550642.jpg",
+    "ep": "OVA3",
+    "geo": [
+      34.7016,
+      135.4953
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v6jbjx1tu",
+    "name": "阪堺電車",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6jbjx1tu_1746109929072.jpg",
+    "ep": "OVA3",
+    "geo": [
+      34.6206,
+      135.5007
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v6im6u09i",
+    "name": "万代池公園",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6im6u09i_1746108365165.jpg",
+    "ep": "OVA3",
+    "geo": [
+      34.6193,
+      135.5024
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v6iuf50vq",
+    "name": "天王寺駅",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6iuf50vq_1746108865933.jpg",
+    "ep": "OVA3",
+    "geo": [
+      34.6469,
+      135.5137
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v6iw9bx2e",
+    "name": "近鉄前交差点",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6iw9bx2e_1746108970045.jpg",
+    "ep": "OVA3",
+    "geo": [
+      34.6466,
+      135.5129
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v6j0gsjxf",
+    "name": "大阪市​立​自然​史​博物館",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6j0gsjxf_1746109223483.jpg",
+    "ep": "OVA3",
+    "geo": [
+      34.6102,
+      135.5223
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v6j40gxdr",
+    "name": "中百舌鳥駅",
+    "image": "https://image.xinu.ink/pic/data/254/images/v6j40gxdr_1746109506931.jpg",
+    "ep": "OVA3",
+    "geo": [
+      34.5559,
+      135.5057
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

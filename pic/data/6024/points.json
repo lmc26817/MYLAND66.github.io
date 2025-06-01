@@ -11,5 +11,70 @@
     ],
     "origin": "Anitabi@Nakano Prisma",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vc0f6wimw",
+    "name": "サンシャインシーガル号",
+    "image": "https://image.xinu.ink/pic/data/6024/images/vc0f6wimw-1746538980564.jpg",
+    "ep": 5,
+    "s": 488,
+    "geo": [
+      36.9438,
+      140.9047
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vc0r02awu",
+    "name": "猿岛栈桥",
+    "image": "https://image.xinu.ink/pic/data/6024/images/vc0r02awu-1746539667865.jpg",
+    "ep": 5,
+    "s": 604,
+    "geo": [
+      35.2853,
+      139.6924
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vcjlnpl9m",
+    "name": "猿岛海水浴场",
+    "image": "https://image.xinu.ink/pic/data/6024/images/vcjlnpl9m-1746580709368.jpg",
+    "ep": 5,
+    "s": 621,
+    "geo": [
+      35.2846,
+      139.6927
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vcjqbphot",
+    "name": "猿岛栈桥北侧的崖壁",
+    "image": "https://image.xinu.ink/pic/data/6024/images/vcjqbphot-1746581138387.jpg",
+    "ep": 5,
+    "s": 807,
+    "geo": [
+      35.2856,
+      139.6929
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vck51rw3g",
+    "name": "租赁商店",
+    "image": "https://image.xinu.ink/pic/data/6024/images/vck51rw3g-1746581884375.jpg",
+    "ep": 5,
+    "s": 1308,
+    "geo": [
+      35.2845,
+      139.6931
+    ],
+    "origin": "Anitabi@Nakano Prisma",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ns6kp4",
+    "name": "さっぽろテレビ塔",
+    "image": "https://image.xinu.ink/pic/data/6083/images/ns6kp4-1748448452587.jpg",
+    "ep": 20,
+    "geo": [
+      43.0611,
+      141.3563
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "nsi52n",
+    "name": "大通公園３丁目 泉の像",
+    "image": "https://image.xinu.ink/pic/data/6083/images/nsi52n-1748448986173.jpg",
+    "ep": 20,
+    "geo": [
+      43.0606,
+      141.3525
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  }
+]

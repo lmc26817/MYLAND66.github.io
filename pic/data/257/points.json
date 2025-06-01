@@ -641,5 +641,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.309992%2C140.569591&z=17"
+  },
+  {
+    "id": "biw9iugb1",
+    "name": "大洗鳥居下",
+    "image": "https://image.xinu.ink/pic/data/257/images/biw9iugb1-1747647322357.jpg",
+    "ep": null,
+    "geo": [
+      36.3133,
+      140.586
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.31332%2C140.586038&z=17"
   }
 ]

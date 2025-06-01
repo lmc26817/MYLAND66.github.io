@@ -788,5 +788,280 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9g250om2",
+    "cn": "SALON DE MARUICHI",
+    "name": "サロンドマルイチ",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9g250om2_1746337899401.jpg",
+    "ep": 11,
+    "s": 181,
+    "geo": [
+      35.4188,
+      136.7583
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9g4y2vue",
+    "cn": "GOTOYA Dolce RACCONTO",
+    "name": "ゴトーヤドルチェラコント",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9g4y2vue_1746338074694.jpg",
+    "ep": 11,
+    "s": 462,
+    "geo": [
+      35.42,
+      136.7627
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9cytpoet",
+    "cn": "各务原线筑堤高架",
+    "name": "名鉄各務原線築堤高架",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9cytpoet_1746331217066.jpg",
+    "ep": 14,
+    "s": 296,
+    "geo": [
+      35.4044,
+      136.7825
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9d6mo63m",
+    "cn": "细畑周边",
+    "name": "細畑周辺",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9d6mo63m_1746331639462.jpg",
+    "ep": 14,
+    "s": 322,
+    "geo": [
+      35.4042,
+      136.786
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9di1dv5a",
+    "cn": "木之下公园 沙池",
+    "name": "木ノ下公園 砂場",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9di1dv5a_1746332327177.jpg",
+    "ep": 14,
+    "s": 362,
+    "geo": [
+      35.4078,
+      136.7832
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9dh389h7",
+    "cn": "木之下公园",
+    "name": "木ノ下公園",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9dh389h7_1746332261819.jpg",
+    "ep": 14,
+    "s": 366,
+    "geo": [
+      35.4077,
+      136.7833
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9drnd8sp",
+    "cn": "岐阜东绕行道高架下",
+    "name": "岐阜東バイパス下",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9drnd8sp_1746332904954.jpg",
+    "ep": 14,
+    "s": 482,
+    "geo": [
+      35.4042,
+      136.7845
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9e1g91wn",
+    "cn": "高山本线",
+    "name": "高山本線",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9e1g91wn_1746333544849.jpg",
+    "ep": 14,
+    "s": 488,
+    "geo": [
+      35.4049,
+      136.7846
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9eqz5tjz",
+    "cn": "岐阜站",
+    "name": "岐阜駅",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9eqz5tjz_1746335168332.jpg",
+    "ep": 14,
+    "s": 798,
+    "geo": [
+      35.4102,
+      136.7568
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9f2tcp01",
+    "name": "金町7交差点",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9f2tcp01_1746335785347.jpg",
+    "ep": 14,
+    "s": 863,
+    "geo": [
+      35.4134,
+      136.7566
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vhewtbela",
+    "cn": "岐阜公园前路口",
+    "name": "岐阜公園前交差点",
+    "image": "https://image.xinu.ink/pic/data/6026/images/vhewtbela_1746962310387.jpg",
+    "ep": 15,
+    "s": 124,
+    "geo": [
+      35.4342,
+      136.7722
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vheyncqqe",
+    "cn": "岐阜公园",
+    "name": "岐阜公園",
+    "image": "https://image.xinu.ink/pic/data/6026/images/vheyncqqe_1746962406957.jpg",
+    "ep": 15,
+    "s": 129,
+    "geo": [
+      35.4347,
+      136.7743
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vhftv6qdm",
+    "cn": "岐阜公园 でんがく​処​ むらせ",
+    "name": "岐阜公園 でんがく​処​ むらせ",
+    "image": "https://image.xinu.ink/pic/data/6026/images/vhftv6qdm_1746964303200.jpg",
+    "ep": 15,
+    "s": 186,
+    "geo": [
+      35.4346,
+      136.774
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9fl3y7nx",
+    "cn": "岐阜北高中 新闻部部室",
+    "name": "岐阜北高等学校 新聞部部室",
+    "image": "https://image.xinu.ink/pic/data/6026/images/v9fl3y7nx_1746336933469.jpg",
+    "ep": 15,
+    "s": 529,
+    "geo": [
+      35.4372,
+      136.7484
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s8ulz9",
+    "cn": "梅林公园 滑梯",
+    "name": "梅林公園 すべり台",
+    "image": "https://image.xinu.ink/pic/data/6026/images/s8ulz9_1748718286635.jpg",
+    "ep": 16,
+    "s": 347,
+    "geo": [
+      35.4179,
+      136.7706
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vhgfvp2hu",
+    "name": "粟野東2交差点",
+    "image": "https://image.xinu.ink/pic/data/6026/images/vhgfvp2hu_1748559571875.jpg",
+    "ep": 16,
+    "s": 765,
+    "geo": [
+      35.4858,
+      136.7792
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s9wcec",
+    "name": "篠ヶ谷神社前",
+    "image": "https://image.xinu.ink/pic/data/6026/images/s9wcec_1748720084361.jpg",
+    "ep": 17,
+    "s": 510,
+    "geo": [
+      35.4191,
+      136.771
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "scbp1n",
+    "cn": "岐阜市民病院北望",
+    "name": "岐阜市民病院",
+    "image": "https://image.xinu.ink/pic/data/6026/images/scbp1n_1748724121074.jpg",
+    "ep": 18,
+    "s": 349,
+    "geo": [
+      35.4141,
+      136.7341
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sc96uc",
+    "name": "岐阜市民病院",
+    "image": "https://image.xinu.ink/pic/data/6026/images/sc96uc_1748724025550.jpg",
+    "ep": 18,
+    "s": 723,
+    "geo": [
+      35.4139,
+      136.7351
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "sh9vk4",
+    "name": "堤防道路",
+    "image": "https://image.xinu.ink/pic/data/6026/images/sh9vk4_1748732475248.jpg",
+    "ep": 18,
+    "s": 136,
+    "geo": [
+      35.4061,
+      136.7051
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
   }
 ]

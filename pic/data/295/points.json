@@ -20,5 +20,18 @@
     ],
     "origin": "聖地巡礼｜あのアニメの、あの場所へ。",
     "originLink": "https://seichi-junrei.info/3019/"
+  },
+  {
+    "id": "51i52a11a",
+    "cn": "箱根町大平台的发夹弯道",
+    "name": "箱根町大平台のヘアピン",
+    "image": "https://image.xinu.ink/pic/data/295/images/51i52a11a-1746939538419.jpg",
+    "ep": "漫画第11卷",
+    "geo": [
+      35.2401,
+      139.0722
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zLHCUtFJ5jEY.kpAX3SImJKBU&ll=35.240192%2C139.072296&z=17"
   }
 ]

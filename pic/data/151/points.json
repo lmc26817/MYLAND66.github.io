@@ -111,5 +111,43 @@
     ],
     "origin": "Anitabi@萝可穗",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "asqmk0",
+    "name": "小卖部旁",
+    "image": "https://image.xinu.ink/pic/data/151/images/asqmk0_1747663294276.jpg",
+    "ep": 1,
+    "s": 482,
+    "geo": [
+      36.3621,
+      139.4962
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "p9p4yvglf",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/151/images/p9p4yvglf-1729431138647.jpg",
+    "ep": 1,
+    "s": 1007,
+    "geo": [
+      36.3605,
+      139.4982
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "fwuvvd",
+    "cn": "通学路道2",
+    "name": "通学路道2",
+    "image": "https://image.xinu.ink/pic/data/151/images/fwuvvd_1747972759340_c16v9.jpg",
+    "geo": [
+      36.4007,
+      139.5052
+    ],
+    "origin": "Anitabi@yusuke135",
+    "originURL": "https://anitabi.cn/"
   }
 ]

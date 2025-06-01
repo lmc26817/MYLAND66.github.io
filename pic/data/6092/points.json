@@ -1,0 +1,78 @@
+[
+  {
+    "id": "46b8b764",
+    "cn": "「移転」東京都世田谷区経堂のマッシーナ メッシーナ",
+    "name": "宮坂１丁目９−５",
+    "image": "https://image.xinu.ink/pic/data/6092/images/46b8b764_1748275745430.jpg",
+    "ep": 2,
+    "geo": [
+      35.6465,
+      139.6383
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QoNsQTN04Kj-jTcoDWC0eAy_DutEPVw&ll=35.646519%2C139.638335&z=17"
+  },
+  {
+    "id": "e1bf8ea6",
+    "name": "サルシータ",
+    "image": "https://image.xinu.ink/pic/data/6092/images/e1bf8ea6_1748275133376.jpg",
+    "ep": 3,
+    "geo": [
+      35.651,
+      139.7236
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QoNsQTN04Kj-jTcoDWC0eAy_DutEPVw&ll=35.651026%2C139.723645&z=17"
+  },
+  {
+    "id": "2ffe8cc6",
+    "cn": "すき焼​コロムビア",
+    "name": "下仁田３６２",
+    "image": "https://image.xinu.ink/pic/data/6092/images/2ffe8cc6_1748275193641.jpg",
+    "ep": 4,
+    "geo": [
+      36.211,
+      138.784
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QoNsQTN04Kj-jTcoDWC0eAy_DutEPVw&ll=36.211038%2C138.784036&z=17"
+  },
+  {
+    "id": "98b5cc72",
+    "cn": "一番",
+    "name": "ポイント 5",
+    "image": "https://image.xinu.ink/pic/data/6092/images/98b5cc72_1748275215422.jpg",
+    "ep": 4,
+    "geo": [
+      36.211,
+      138.7841
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QoNsQTN04Kj-jTcoDWC0eAy_DutEPVw&ll=36.211045%2C138.78417&z=17"
+  },
+  {
+    "id": "2ee61192",
+    "name": "トバン（土房 토방）",
+    "image": "https://image.xinu.ink/pic/data/6092/images/2ee61192_1748275409821.jpg",
+    "ep": 9,
+    "geo": [
+      35.7947,
+      127.1344
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QoNsQTN04Kj-jTcoDWC0eAy_DutEPVw&ll=35.79478%2C127.134475&z=17"
+  },
+  {
+    "id": "f80a9c62",
+    "cn": "终点炭火烤猪排",
+    "name": "チョンチョムスップルカルビ（종점숯불갈비）",
+    "image": "https://image.xinu.ink/pic/data/6092/images/f80a9c62_1748275591445.jpg",
+    "ep": 10,
+    "geo": [
+      37.5263,
+      127.0019
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QoNsQTN04Kj-jTcoDWC0eAy_DutEPVw&ll=37.526348%2C127.001938&z=17"
+  }
+]

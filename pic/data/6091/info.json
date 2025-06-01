@@ -1,0 +1,113 @@
+{
+  "id": 208559,
+  "cn": "碧蓝航线",
+  "title": "碧蓝航线",
+  "cover": "https://image.xinu.ink/pic/data/6091/images/208559_6jzc1.jpg",
+  "color": "#4697d6",
+  "modified": 1748628936182,
+  "litePoints": [
+    {
+      "id": "ne21nm",
+      "cn": "北卡罗来纳号战列舰纪念馆",
+      "name": "USS North Carolina Battleship Memorial",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208559/points/ne21nm-1748424824399.jpg?plan=h160",
+      "geo": [
+        34.2364,
+        -77.9544
+      ]
+    },
+    {
+      "id": "ne8u36",
+      "cn": "马萨诸塞号战列舰 (BB-59)",
+      "name": "USS Massachusetts (BB-59)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208559/points/ne8u36-1748425051086.jpg?plan=h160",
+      "geo": [
+        41.7067,
+        -71.163
+      ]
+    },
+    {
+      "id": "necvut",
+      "cn": "阿拉巴马号战列舰 (BB-60)",
+      "name": "Battleship USS Alabama",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208559/points/necvut-1748425272641.jpg?plan=h160",
+      "geo": [
+        30.6816,
+        -88.0145
+      ]
+    },
+    {
+      "id": "neg2o0",
+      "cn": "新泽西号战列舰 (BB-62)",
+      "name": "USS New Jersey",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208559/points/neg2o0-1748425371057.jpg?plan=h160",
+      "geo": [
+        39.9393,
+        -75.1331
+      ]
+    },
+    {
+      "id": "ppn064",
+      "name": "101鞍山舰",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/208559/points/ppn064-1748565090956.jpg?plan=h160",
+      "geo": [
+        36.0539,
+        120.3215
+      ]
+    },
+    {
+      "id": "ppexv3",
+      "name": "103长春号舰艇",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/208559/points/ppexv3-1748564727092.jpg?plan=h160",
+      "geo": [
+        36.8086,
+        121.6299
+      ]
+    },
+    {
+      "id": "pqb8hz",
+      "cn": "104太原舰",
+      "name": "海军大连舰艇展览中心",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/208559/points/pqb8hz-1748566251324.jpg?plan=h160",
+      "geo": [
+        38.8724,
+        121.671
+      ]
+    },
+    {
+      "id": "pqt1pl",
+      "cn": "阿芙乐尔号巡洋舰",
+      "name": "крейсер Аврора",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/208559/points/pqt1pl-1748567264612.jpg?plan=h160",
+      "geo": [
+        59.9554,
+        30.3377
+      ]
+    },
+    {
+      "id": "q8e6x7",
+      "cn": "拉菲号驱逐舰 (DD-724)",
+      "name": "USS Laffey (DD-724)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208559/points/q8e6x7-1748596588382.jpg?plan=h160",
+      "geo": [
+        32.7893,
+        -79.908
+      ]
+    },
+    {
+      "id": "q8o9ij",
+      "cn": "企业号航空母舰铭牌",
+      "name": "USS Enterprise CV-6 Nameplate",
+      "image": "https://image.anitabi.cn/user/0/bangumi/208559/points/q8o9ij-1748597065765.jpg?plan=h160",
+      "geo": [
+        41.0083,
+        -74.0095
+      ]
+    }
+  ],
+  "pointsLength": 45,
+  "imagesLength": 45,
+  "name": "碧蓝航线",
+  "name_cn": "碧蓝航线",
+  "local_id": 6091
+}

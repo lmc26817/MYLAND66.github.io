@@ -1,0 +1,68 @@
+{
+  "id": 243429,
+  "cn": "机动战士高达 闪光的哈萨维",
+  "title": "機動戦士ガンダム 閃光のハサウェイ",
+  "city": "海外",
+  "cover": "https://image.xinu.ink/pic/data/6093/images/243429.jpg",
+  "color": "#2a4080",
+  "cp": "サンライズ",
+  "geo": [
+    7.103577902308501,
+    125.59190076245096
+  ],
+  "zoom": 9.752,
+  "modified": 1747324561219,
+  "litePoints": [
+    {
+      "id": "51i52lofn",
+      "name": "Jollibee Davao Bolton",
+      "image": "https://image.anitabi.cn/points/243429/51i52lofn_1747322905127.jpg?plan=h160",
+      "geo": [
+        7.0661,
+        125.6093
+      ]
+    },
+    {
+      "id": "51i52loes",
+      "name": "Bankerohan Public Market",
+      "image": "https://image.anitabi.cn/points/243429/51i52loes_1747323460454.jpg?plan=h160",
+      "geo": [
+        7.0686,
+        125.6012
+      ]
+    },
+    {
+      "id": "51i52loeb",
+      "name": "Philippine Eagle Center",
+      "image": "https://image.anitabi.cn/points/243429/51i52loeb_1747324254935.jpg?plan=h160",
+      "geo": [
+        7.1856,
+        125.4155
+      ]
+    },
+    {
+      "id": "51i52lo5k",
+      "name": "Agdao Public Market",
+      "image": "https://image.anitabi.cn/points/243429/51i52lo5k_1747323421229.jpg?plan=h160",
+      "geo": [
+        7.0821,
+        125.6229
+      ]
+    },
+    {
+      "id": "56gvmo",
+      "cn": "达沃国际机场",
+      "name": "Davao Airport",
+      "image": "https://image.anitabi.cn/points/243429/56gvmo_1747323616220.jpg?plan=h160",
+      "geo": [
+        7.1294,
+        125.6459
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "機動戦士ガンダム 閃光のハサウェイ",
+  "name_cn": "机动战士高达 闪光的哈萨维",
+  "local_id": 6093
+}

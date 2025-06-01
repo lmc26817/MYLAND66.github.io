@@ -1032,5 +1032,60 @@
     ],
     "origin": "Anitabi@dI",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25idmij",
+    "name": "白川通→出町柳方面C#2",
+    "image": "https://image.xinu.ink/pic/data/128/images/25idmij-1747568187343.jpg",
+    "ep": 11,
+    "s": 851,
+    "geo": [
+      35.0338,
+      135.7916
+    ]
+  },
+  {
+    "id": "25idmit",
+    "name": "修学院駅#2",
+    "image": "https://image.xinu.ink/pic/data/128/images/25idmit-1747571376104.jpg",
+    "ep": 13,
+    "s": 760,
+    "geo": [
+      35.0502,
+      135.7904
+    ]
+  },
+  {
+    "id": "25idmfo",
+    "name": "2期1話アバンA#2",
+    "image": "https://image.xinu.ink/pic/data/128/images/25idmfo-1747569232963.jpg",
+    "ep": 1,
+    "s": 58,
+    "geo": [
+      35.0404,
+      135.7918
+    ]
+  },
+  {
+    "id": "25idmdz",
+    "name": "一文字のおばあちゃんの家？#2",
+    "image": "https://image.xinu.ink/pic/data/128/images/25idmdz-1747570935377.jpg",
+    "ep": 9,
+    "s": 34,
+    "geo": [
+      35.0521,
+      135.7859
+    ]
+  },
+  {
+    "id": "25idmdf",
+    "name": "修学院駅踏切前#2",
+    "image": "https://image.xinu.ink/pic/data/128/images/25idmdf-1747571626581.jpg",
+    "ep": 10,
+    "s": 8,
+    "geo": [
+      35.0504,
+      135.7905
+    ]
   }
 ]

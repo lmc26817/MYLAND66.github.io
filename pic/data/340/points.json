@@ -639,5 +639,43 @@
     ],
     "origin": "Anitabi@真手凛",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vi3d9fle6",
+    "name": "Chez Hansi",
+    "image": "https://image.xinu.ink/pic/data/340/images/vi3d9fle6-1747015559682.jpg",
+    "ep": 1,
+    "s": 1,
+    "geo": [
+      48.0761,
+      7.3586
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "vcwb7ul34",
+    "name": "Le Champo（疑似）",
+    "image": "https://image.xinu.ink/pic/data/340/images/vcwb7ul34-1746608376230.jpg",
+    "ep": null,
+    "geo": [
+      48.8499,
+      2.3431
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4y6kbl",
+    "cn": "盖勒特温泉",
+    "name": "Hotel Gellért",
+    "image": "https://image.xinu.ink/pic/data/340/images/4y6kbl-1747309635012.jpg",
+    "ep": null,
+    "geo": [
+      47.4838,
+      19.0522
+    ],
+    "origin": "Anitabi@真手凛",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1,0 +1,110 @@
+{
+  "id": 239565,
+  "cn": "孤独的美食家 第七季",
+  "title": "孤独のグルメ Season7",
+  "cover": "https://image.xinu.ink/pic/data/6092/images/239565_A2Uq9.jpg",
+  "modified": 1748276041599,
+  "litePoints": [
+    {
+      "id": "46b8b764",
+      "cn": "「移転」東京都世田谷区経堂のマッシーナ メッシーナ",
+      "name": "宮坂１丁目９−５",
+      "image": "https://image.anitabi.cn/points/239565/46b8b764_1748275745430.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6465,
+        139.6383
+      ]
+    },
+    {
+      "id": "e1bf8ea6",
+      "name": "サルシータ",
+      "image": "https://image.anitabi.cn/points/239565/e1bf8ea6_1748275133376.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.651,
+        139.7236
+      ]
+    },
+    {
+      "id": "2ffe8cc6",
+      "cn": "すき焼​コロムビア",
+      "name": "下仁田３６２",
+      "image": "https://image.anitabi.cn/points/239565/2ffe8cc6_1748275193641.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        36.211,
+        138.784
+      ]
+    },
+    {
+      "id": "98b5cc72",
+      "cn": "一番",
+      "name": "ポイント 5",
+      "image": "https://image.anitabi.cn/points/239565/98b5cc72_1748275215422.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        36.211,
+        138.7841
+      ]
+    },
+    {
+      "id": "2ee61192",
+      "name": "トバン（土房 토방）",
+      "image": "https://image.anitabi.cn/points/239565/2ee61192_1748275409821.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.7947,
+        127.1344
+      ]
+    },
+    {
+      "id": "f80a9c62",
+      "cn": "终点炭火烤猪排",
+      "name": "チョンチョムスップルカルビ（종점숯불갈비）",
+      "image": "https://image.anitabi.cn/points/239565/f80a9c62_1748275591445.jpg?plan=h160",
+      "ep": 10,
+      "geo": [
+        37.5263,
+        127.0019
+      ]
+    },
+    {
+      "id": "bd741e49",
+      "name": "本町３丁目１１−１３",
+      "geo": [
+        35.979,
+        139.5942
+      ]
+    },
+    {
+      "id": "61b13620",
+      "name": "コーポこだま 102",
+      "geo": [
+        35.7342,
+        139.778
+      ]
+    },
+    {
+      "id": "1cbd1917",
+      "name": "北栄４丁目１６−５",
+      "geo": [
+        35.6624,
+        139.9015
+      ]
+    },
+    {
+      "id": "bc163969",
+      "name": "東向島５丁目２９−６",
+      "geo": [
+        35.728,
+        139.8218
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 6,
+  "name": "孤独のグルメ Season7",
+  "name_cn": "孤独的美食家 第七季",
+  "local_id": 6092
+}

@@ -74,5 +74,44 @@
       41.007,
       140.6488
     ]
+  },
+  {
+    "id": "kpx6oicl2",
+    "name": "蟹田駅",
+    "image": "https://image.xinu.ink/pic/data/78/images/kpx6oicl2-1747660498514.jpg",
+    "ep": "",
+    "s": 143,
+    "geo": [
+      41.0382,
+      140.6425
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uuxQ-SlQXIODE_TLKArJ_of1vlY&ll=41.038279%2C140.64259&z=17"
+  },
+  {
+    "id": "arfakz",
+    "name": "東大安田講堂",
+    "image": "https://image.xinu.ink/pic/data/78/images/arfakz-1747661169336.jpg",
+    "ep": "",
+    "s": 2260,
+    "geo": [
+      35.7132,
+      139.7621
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "arfav1",
+    "name": "東大赤門前",
+    "image": "https://image.xinu.ink/pic/data/78/images/arfav1-1747661265149.jpg",
+    "ep": "",
+    "s": 2347,
+    "geo": [
+      35.7106,
+      139.7602
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

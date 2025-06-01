@@ -1,0 +1,43 @@
+{
+  "id": 518278,
+  "cn": "甜蜜女友3",
+  "title": "アマカノ３",
+  "city": "丰冈市",
+  "cover": "https://image.xinu.ink/pic/data/6103/images/518278_pjdzb6.jpg",
+  "color": "#3dfffc",
+  "modified": 1748556769507,
+  "litePoints": [
+    {
+      "id": "mbedvu",
+      "name": "城崎温泉 共同浴場一の湯前",
+      "image": "https://image.anitabi.cn/points/518278/mbedvu_1748552601678.jpg?plan=h160",
+      "geo": [
+        35.626,
+        134.8095
+      ]
+    },
+    {
+      "id": "me7kf2",
+      "name": "辨天橋東",
+      "image": "https://image.anitabi.cn/points/518278/me7kf2_1748552643450.jpg?plan=h160",
+      "geo": [
+        35.6265,
+        134.8119
+      ]
+    },
+    {
+      "id": "pigkfm",
+      "name": "気比の浜海水浴場",
+      "image": "https://image.anitabi.cn/user/2183/bangumi/518278/points/pigkfm-1748553036684.jpg?plan=h160",
+      "geo": [
+        35.6431,
+        134.8373
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "アマカノ３",
+  "name_cn": "甜蜜女友3",
+  "local_id": 6103
+}

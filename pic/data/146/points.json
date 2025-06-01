@@ -214,5 +214,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.61279%2C140.114474&z=17"
+  },
+  {
+    "id": "kpx6oqc9l",
+    "name": "JR秋葉原駅電気街口",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oqc9l-1747100093715.jpg",
+    "ep": null,
+    "geo": [
+      35.6986,
+      139.7724
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.698649%2C139.772481&z=17"
+  },
+  {
+    "id": "kpx6oq5pw",
+    "name": "国際展示場駅前",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oq5pw-1746976265073.jpg",
+    "ep": null,
+    "geo": [
+      35.6342,
+      139.792
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.634299%2C139.792072&z=17"
   }
 ]

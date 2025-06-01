@@ -1,0 +1,25 @@
+{
+  "id": 10120,
+  "cn": "夏空彼方",
+  "title": "夏空カナタ",
+  "city": "冲绳县",
+  "cover": "https://image.xinu.ink/pic/data/6085/images/10120_afm456.jpg",
+  "color": "#5555aa",
+  "modified": 1747641575342,
+  "litePoints": [
+    {
+      "id": "afn6yq",
+      "name": "東埼灯台",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/10120/points/afn6yq-1747641365886.jpg?plan=h160",
+      "geo": [
+        24.4623,
+        123.0429
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "夏空カナタ",
+  "name_cn": "夏空彼方",
+  "local_id": 6085
+}

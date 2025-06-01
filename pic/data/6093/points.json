@@ -1,0 +1,58 @@
+[
+  {
+    "id": "51i52lofn",
+    "name": "Jollibee Davao Bolton",
+    "image": "https://image.xinu.ink/pic/data/6093/images/51i52lofn_1747322905127.jpg",
+    "geo": [
+      7.0661,
+      125.6093
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZuACNRfTKtVvsQvA3wsJl3ZLGdjW-HY&ll=7.066189%2C125.609328&z=17"
+  },
+  {
+    "id": "51i52loes",
+    "name": "Bankerohan Public Market",
+    "image": "https://image.xinu.ink/pic/data/6093/images/51i52loes_1747323460454.jpg",
+    "geo": [
+      7.0686,
+      125.6012
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZuACNRfTKtVvsQvA3wsJl3ZLGdjW-HY&ll=7.068687%2C125.601274&z=17"
+  },
+  {
+    "id": "51i52loeb",
+    "name": "Philippine Eagle Center",
+    "image": "https://image.xinu.ink/pic/data/6093/images/51i52loeb_1747324254935.jpg",
+    "geo": [
+      7.1856,
+      125.4155
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZuACNRfTKtVvsQvA3wsJl3ZLGdjW-HY&ll=7.185649%2C125.415576&z=17"
+  },
+  {
+    "id": "51i52lo5k",
+    "name": "Agdao Public Market",
+    "image": "https://image.xinu.ink/pic/data/6093/images/51i52lo5k_1747323421229.jpg",
+    "geo": [
+      7.0821,
+      125.6229
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZuACNRfTKtVvsQvA3wsJl3ZLGdjW-HY&ll=7.082149%2C125.622978&z=17"
+  },
+  {
+    "id": "56gvmo",
+    "cn": "达沃国际机场",
+    "name": "Davao Airport",
+    "image": "https://image.xinu.ink/pic/data/6093/images/56gvmo_1747323616220.jpg",
+    "geo": [
+      7.1294,
+      125.6459
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ZuACNRfTKtVvsQvA3wsJl3ZLGdjW-HY&ll=7.129424%2C125.645967&z=17"
+  }
+]

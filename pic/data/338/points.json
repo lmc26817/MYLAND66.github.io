@@ -44,5 +44,207 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "516753",
+    "cn": "阿布辛贝神庙",
+    "name": "معبدا أبو سمبل",
+    "image": "https://image.xinu.ink/pic/data/338/images/516753-1747314680001.jpg",
+    "ep": 2,
+    "s": 1228,
+    "geo": [
+      22.3372,
+      31.6257
+    ]
+  },
+  {
+    "id": "8xhq2p",
+    "cn": "哈利利市场",
+    "name": "خان الخليلي",
+    "image": "https://image.xinu.ink/pic/data/338/images/8xhq2p-1747550358795.jpg",
+    "ep": 3,
+    "s": 289,
+    "geo": [
+      30.0477,
+      31.2615
+    ]
+  },
+  {
+    "id": "ao9cnj",
+    "cn": "康翁波神庙",
+    "name": "معبد كوم أمبو",
+    "image": "https://image.xinu.ink/pic/data/338/images/ao9cnj-1747655779921.jpg",
+    "ep": 4,
+    "s": 558,
+    "geo": [
+      24.4523,
+      32.9279
+    ]
+  },
+  {
+    "id": "aqq2lx",
+    "cn": "卢克索方尖碑",
+    "name": "Luxor Obelisk",
+    "image": "https://image.xinu.ink/pic/data/338/images/aqq2lx-1747660018586.jpg",
+    "ep": 5,
+    "s": 1273,
+    "geo": [
+      25.7008,
+      32.6403
+    ]
+  },
+  {
+    "id": "apprls",
+    "cn": "门农巨像",
+    "name": "تمثالا ممنون",
+    "image": "https://image.xinu.ink/pic/data/338/images/apprls-1747658273234.jpg",
+    "ep": 6,
+    "s": 213,
+    "geo": [
+      25.7204,
+      32.6104
+    ]
+  },
+  {
+    "id": "aq06w3",
+    "cn": "帝王谷",
+    "name": "وادي الملوك",
+    "image": "https://image.xinu.ink/pic/data/338/images/aq06w3-1747658726578.jpg",
+    "ep": 6,
+    "s": 227,
+    "geo": [
+      25.7402,
+      32.6015
+    ]
+  },
+  {
+    "id": "ttcdf",
+    "cn": "鱼尾狮公园",
+    "name": "Merlion Park",
+    "image": "https://image.xinu.ink/pic/data/338/images/ttcdf-1747060474526.jpg",
+    "ep": 7,
+    "s": 1287,
+    "geo": [
+      1.287,
+      103.8546
+    ]
+  },
+  {
+    "id": "uelk2",
+    "cn": "港湾站",
+    "name": "Harbourfront Station",
+    "image": "https://image.xinu.ink/pic/data/338/images/uelk2-1747061435477.jpg",
+    "ep": 9,
+    "s": 407,
+    "geo": [
+      1.2644,
+      103.8187
+    ]
+  },
+  {
+    "id": "1rfmy4",
+    "name": "Malviya Bridge",
+    "image": "https://image.xinu.ink/pic/data/338/images/1rfmy4-1747116911810.jpg",
+    "ep": 12,
+    "s": 282,
+    "geo": [
+      25.322,
+      83.0347
+    ]
+  },
+  {
+    "id": "c5qfjd",
+    "cn": "吉萨火车站",
+    "name": "محطة الجيزة",
+    "image": "https://image.xinu.ink/pic/data/338/images/c5qfjd-1747745630781.jpg",
+    "ep": 10,
+    "s": 19,
+    "geo": [
+      30.0092,
+      31.2079
+    ]
+  },
+  {
+    "id": "c5vo3e",
+    "cn": "吉萨站",
+    "name": "جيزة",
+    "image": "https://image.xinu.ink/pic/data/338/images/c5vo3e-1747745855202.jpg",
+    "ep": 10,
+    "s": 22,
+    "geo": [
+      30.0105,
+      31.2071
+    ]
+  },
+  {
+    "id": "c63bv3",
+    "cn": "狮身人面像",
+    "name": "أبو الهول",
+    "image": "https://image.xinu.ink/pic/data/338/images/c63bv3-1747746223171.jpg",
+    "ep": 10,
+    "s": 34,
+    "geo": [
+      29.9752,
+      31.1376
+    ]
+  },
+  {
+    "id": "d7fnku",
+    "cn": "开罗国际机场T1航站楼",
+    "name": "Terminal 1",
+    "image": "https://image.xinu.ink/pic/data/338/images/d7fnku-1747808989616.jpg",
+    "ep": 12,
+    "s": 480,
+    "geo": [
+      30.1277,
+      31.4022
+    ]
+  },
+  {
+    "id": "dj7zpe",
+    "cn": "米娜宫酒店",
+    "name": "Marriott Mena House",
+    "image": "https://image.xinu.ink/pic/data/338/images/dj7zpe-1747828766410.jpg",
+    "ep": 12,
+    "s": 512,
+    "geo": [
+      29.9857,
+      31.1327
+    ]
+  },
+  {
+    "id": "lrs6i6",
+    "name": "تمثال كوبري قصر النيل",
+    "image": "https://image.xinu.ink/pic/data/338/images/lrs6i6-1748326848966.jpg",
+    "ep": 24,
+    "s": 464,
+    "geo": [
+      30.0439,
+      31.2316
+    ]
+  },
+  {
+    "id": "lshcgz",
+    "cn": "开罗国际机场",
+    "name": "مطار القاهرة الدولى",
+    "image": "https://image.xinu.ink/pic/data/338/images/lshcgz-1748328011671.jpg",
+    "ep": 24,
+    "s": 1367,
+    "geo": [
+      30.115,
+      31.4128
+    ]
+  },
+  {
+    "id": "aowo06",
+    "cn": "狮身人面像大道",
+    "name": "طريق الكباش",
+    "image": "https://image.xinu.ink/pic/data/338/images/aowo06-1747656883005.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      25.7017,
+      32.6413
+    ]
   }
 ]
