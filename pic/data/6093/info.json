@@ -64,5 +64,8 @@
   "imagesLength": 5,
   "name": "機動戦士ガンダム 閃光のハサウェイ",
   "name_cn": "机动战士高达 闪光的哈萨维",
-  "local_id": 6093
+  "local_id": 6093,
+  "region": [
+    "纳卯市"
+  ]
 }

@@ -39,5 +39,8 @@
   "imagesLength": 3,
   "name": "アマカノ３",
   "name_cn": "甜蜜女友3",
-  "local_id": 6103
+  "local_id": 6103,
+  "region": [
+    "兵库县/兵庫縣"
+  ]
 }

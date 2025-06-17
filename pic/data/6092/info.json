@@ -106,5 +106,11 @@
   "imagesLength": 6,
   "name": "孤独のグルメ Season7",
   "name_cn": "孤独的美食家 第七季",
-  "local_id": 6092
+  "local_id": 6092,
+  "region": [
+    "东京都/東京都",
+    "甘樂郡",
+    "全州市",
+    "龍山區"
+  ]
 }

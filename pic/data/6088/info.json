@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "Grand Theft Auto Online",
   "name_cn": "侠盗猎车手OL",
-  "local_id": 6088
+  "local_id": 6088,
+  "region": [
+    "Grenadines"
+  ]
 }

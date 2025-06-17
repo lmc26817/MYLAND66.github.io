@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "Person of Interest (Season 1)",
   "name_cn": "疑犯追踪 第一季",
-  "local_id": 6086
+  "local_id": 6086,
+  "region": [
+    "Queens County"
+  ]
 }

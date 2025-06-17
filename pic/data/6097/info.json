@@ -91,5 +91,8 @@
   "imagesLength": 1,
   "name": "孤独のグルメ Season10",
   "name_cn": "孤独的美食家 第十季",
-  "local_id": 6097
+  "local_id": 6097,
+  "region": [
+    "东京都/東京都"
+  ]
 }

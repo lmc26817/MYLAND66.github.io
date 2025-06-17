@@ -44,5 +44,8 @@
   "imagesLength": 3,
   "name": "イエスタデイをうたって",
   "name_cn": "昨日之歌",
-  "local_id": 6094
+  "local_id": 6094,
+  "region": [
+    "东京都/東京都"
+  ]
 }

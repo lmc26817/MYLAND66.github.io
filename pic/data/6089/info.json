@@ -101,5 +101,8 @@
   "imagesLength": 4,
   "name": "孤独のグルメ Season4",
   "name_cn": "孤独的美食家 第四季",
-  "local_id": 6089
+  "local_id": 6089,
+  "region": [
+    "东京都/東京都"
+  ]
 }
