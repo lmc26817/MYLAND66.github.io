@@ -4,5 +4,14 @@
   "title": "ウマ娘 プリティーダービー Season 2",
   "cover": "https://image.xinu.ink/pic/data/6106/images/1.jpg",
   "pointsLength": 21,
-  "local_id": 6106
+  "local_id": 6106,
+  "region": [
+    "东京都/東京都",
+    "千叶县",
+    "京都府",
+    "兵库县/兵庫縣",
+    "滋賀县",
+    "新潟县",
+    "福岛县"
+  ]
 }
