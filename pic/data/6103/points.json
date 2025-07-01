@@ -32,5 +32,27 @@
     ],
     "origin": "Anitabi@澄蔦",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1ba0h4r",
+    "name": "四所神社前",
+    "image": "https://image.xinu.ink/pic/data/6103/images/1ba0h4r_1749870707196.jpg",
+    "geo": [
+      35.6257,
+      134.8077
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1bb20vu",
+    "name": "田結漁港",
+    "image": "https://image.xinu.ink/pic/data/6103/images/1bb20vu_1749870839750.jpg",
+    "geo": [
+      35.6429,
+      134.8427
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
   }
 ]

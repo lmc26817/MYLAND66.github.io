@@ -569,5 +569,45 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1jmYi0oqnYpiKhQDGFmnkp5PNg7o&ll=35.859357%2C139.323847&z=17"
+  },
+  {
+    "id": "10loz7a",
+    "name": "六感浄化（聴覚）",
+    "image": "https://image.xinu.ink/pic/data/260/images/10loz7a-1749223599057.jpg",
+    "ep": 8,
+    "s": 80,
+    "geo": [
+      35.6343,
+      139.2598
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "10lv8ij",
+    "name": "東屋",
+    "image": "https://image.xinu.ink/pic/data/260/images/10lv8ij-1749223867334.jpg",
+    "ep": 9,
+    "s": 69,
+    "geo": [
+      35.6247,
+      139.2427
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "10mr8jz",
+    "cn": "6号路下山的第2个桥",
+    "name": "6号路の上から2番目の橋",
+    "image": "https://image.xinu.ink/pic/data/260/images/10mr8jz-1749225367782.jpg",
+    "ep": 10,
+    "s": 103,
+    "geo": [
+      35.6224,
+      139.2469
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

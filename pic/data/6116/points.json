@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1yt4qww",
+    "cn": "涩谷Mark City",
+    "name": "渋谷​マーク​シティ",
+    "image": "https://image.xinu.ink/pic/data/6116/images/1yt4qww-1751292014208.jpg",
+    "ep": null,
+    "geo": [
+      35.6579,
+      139.698
+    ]
+  },
+  {
+    "id": "1yt9i6n",
+    "cn": "涩谷109",
+    "name": "SHIBUYA109",
+    "image": "https://image.xinu.ink/pic/data/6116/images/1yt9i6n-1751292206159.jpg",
+    "ep": null,
+    "geo": [
+      35.6595,
+      139.6986
+    ]
+  },
+  {
+    "id": "1yu0jpk",
+    "cn": "首都高速3号涩谷线 桥下",
+    "name": "首都高速3号渋谷線 桥下",
+    "image": "https://image.xinu.ink/pic/data/6116/images/1yu0jpk-1751293546225.jpg",
+    "ep": null,
+    "geo": [
+      35.6578,
+      139.7018
+    ]
+  },
+  {
+    "id": "1yvgdob",
+    "name": "Bunkamura",
+    "image": "https://image.xinu.ink/pic/data/6116/images/1yvgdob-1751295826144.jpg",
+    "ep": null,
+    "geo": [
+      35.6605,
+      139.6966
+    ]
+  }
+]

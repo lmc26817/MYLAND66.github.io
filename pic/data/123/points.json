@@ -865,5 +865,18 @@
       34.7597,
       135.3132
     ]
+  },
+  {
+    "id": "kpx6on3zt",
+    "name": "ファミリーマートの場所",
+    "image": "https://image.xinu.ink/pic/data/123/images/kpx6on3zt_1726131867479.jpg",
+    "ep": null,
+    "s": 3475,
+    "geo": [
+      34.7605,
+      135.3246
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=11WqY_NJMSuFuizuuaF_bsNiBYFU&ll=34.760583%2C135.324641&z=17"
   }
 ]

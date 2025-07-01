@@ -354,5 +354,62 @@
     ],
     "origin": "Anitabi@仓上日向",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "11r9u9v",
+    "cn": "雾峰车山肩停车场",
+    "name": "霧ヶ峰車山肩駐車場",
+    "image": "https://image.xinu.ink/pic/data/339/images/11r9u9v-1749293774135.jpg",
+    "ep": "14",
+    "s": "5：23",
+    "geo": [
+      36.1039,
+      138.1881
+    ]
+  },
+  {
+    "id": "14d8smv",
+    "cn": "饭能市中央公园",
+    "name": "飯能市中央公園 ",
+    "image": "https://image.xinu.ink/pic/data/339/images/14d8smv-1749451417878.jpg",
+    "ep": "20",
+    "s": "5:01",
+    "geo": [
+      35.8592,
+      139.3108
+    ]
+  },
+  {
+    "id": "14dzeii",
+    "name": "飯能市立博物館西側",
+    "image": "https://image.xinu.ink/pic/data/339/images/14dzeii-1749452619476.jpg",
+    "ep": "20",
+    "s": "5:29",
+    "geo": [
+      35.8575,
+      139.3105
+    ]
+  },
+  {
+    "id": "14ebxeg",
+    "name": "諏訪八幡神社",
+    "image": "https://image.xinu.ink/pic/data/339/images/14ebxeg-1749453157023.jpg",
+    "ep": "20",
+    "s": "5:32",
+    "geo": [
+      35.8571,
+      139.3112
+    ]
+  },
+  {
+    "id": "14ewh55",
+    "name": "矢久橋東南側",
+    "image": "https://image.xinu.ink/pic/data/339/images/14ewh55-1749454708526.jpg",
+    "ep": "20",
+    "s": "6:51",
+    "geo": [
+      35.8478,
+      139.3158
+    ]
   }
 ]

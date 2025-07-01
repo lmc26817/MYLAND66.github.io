@@ -8,5 +8,38 @@
       35.2679,
       136.2534
     ]
+  },
+  {
+    "id": "1yjhkxb",
+    "name": "外房黒潮ライン",
+    "image": "https://image.xinu.ink/pic/data/192/images/1yjhkxb_1751275968809.jpg",
+    "geo": [
+      35.0742,
+      140.0851
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1ykxc2p",
+    "name": "弁財天仲見世通り 手作り箸工房遊膳前",
+    "image": "https://image.xinu.ink/pic/data/192/images/1ykxc2p_1751278238131.jpg",
+    "geo": [
+      35.3018,
+      139.4809
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1yl6sed",
+    "name": "ひがし茶屋街 志摩前",
+    "image": "https://image.xinu.ink/pic/data/192/images/1yl6sed_1751278964236.jpg",
+    "geo": [
+      36.5725,
+      136.6668
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
   }
 ]

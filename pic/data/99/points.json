@@ -243,5 +243,41 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.730706%2C139.714814&z=17"
+  },
+  {
+    "id": "kpx6ol1kt",
+    "name": "ト音記号",
+    "image": "https://image.xinu.ink/pic/data/99/images/kpx6ol1kt-1749144480068.jpg",
+    "ep": null,
+    "geo": [
+      35.7307,
+      139.7148
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.730706%2C139.714814&z=17"
+  },
+  {
+    "id": "kpx6ol5y8",
+    "name": "池袋駅前公園",
+    "image": "https://image.xinu.ink/pic/data/99/images/kpx6ol5y8-1749144582328.jpg",
+    "ep": null,
+    "geo": [
+      35.7329,
+      139.7132
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.732936%2C139.713237&z=17"
+  },
+  {
+    "id": "kpx6ol5nl",
+    "name": "池袋西口公園",
+    "image": "https://image.xinu.ink/pic/data/99/images/kpx6ol5nl-1749144541235.jpg",
+    "ep": null,
+    "geo": [
+      35.7303,
+      139.7092
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.730393%2C139.709219&z=17"
   }
 ]

@@ -1,0 +1,104 @@
+{
+  "id": 295090,
+  "cn": "星之梦～雪圏球～",
+  "title": "planetarian～雪圏球～",
+  "cover": "https://image.xinu.ink/pic/data/6118/images/295090_pTyK7.jpg",
+  "modified": 1748857172392,
+  "litePoints": [
+    {
+      "id": "ue6p4y",
+      "name": "東ふれあい公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/ue6p4y-1748848199949.jpg?plan=h160",
+      "s": 1203,
+      "geo": [
+        34.7105,
+        137.7371
+      ]
+    },
+    {
+      "id": "ueywsi",
+      "name": "キッチン奥田商店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/ueywsi-1748849612341.jpg?plan=h160",
+      "s": 933,
+      "geo": [
+        34.7056,
+        137.7307
+      ]
+    },
+    {
+      "id": "uf886f",
+      "name": "三代目 鳥メロ 浜松有楽街店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/uf886f-1748849978905.jpg?plan=h160",
+      "s": 942,
+      "geo": [
+        34.7062,
+        137.7301
+      ]
+    },
+    {
+      "id": "ufc0zh",
+      "name": "WINS笠井屋ビル",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/ufc0zh-1748850157954.jpg?plan=h160",
+      "s": 951,
+      "geo": [
+        34.7076,
+        137.7298
+      ]
+    },
+    {
+      "id": "ufgwqm",
+      "name": "田町",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/ufgwqm-1748850379265.jpg?plan=h160",
+      "s": 956,
+      "geo": [
+        34.7081,
+        137.7311
+      ]
+    },
+    {
+      "id": "ugp12k",
+      "name": "ゆりの木通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/ugp12k-1748852510337.jpg?plan=h160",
+      "s": 985,
+      "geo": [
+        34.708,
+        137.7299
+      ]
+    },
+    {
+      "id": "uh9zmu",
+      "name": "分器橋公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/uh9zmu-1748853375950.jpg?plan=h160",
+      "s": 1053,
+      "geo": [
+        34.7093,
+        137.7332
+      ]
+    },
+    {
+      "id": "uhd24f",
+      "name": "遠州病院駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/uhd24f-1748853503949.jpg?plan=h160",
+      "s": 1060,
+      "geo": [
+        34.7099,
+        137.7332
+      ]
+    },
+    {
+      "id": "ui0hab",
+      "name": "遠鉄百貨店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/295090/points/ui0hab-1748854668227.jpg?plan=h160",
+      "s": 552,
+      "geo": [
+        34.7041,
+        137.7336
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 19,
+  "name": "planetarian～雪圏球～",
+  "name_cn": "星之梦～雪圏球～",
+  "local_id": 6118
+}

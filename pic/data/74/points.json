@@ -214,5 +214,58 @@
       34.7468,
       135.3294
     ]
+  },
+  {
+    "id": "vpe1pe",
+    "cn": "西宮市立大社中学校门前",
+    "name": "西宮市立大社中学校",
+    "image": "https://image.xinu.ink/pic/data/74/images/vpe1pe-1748927498914.jpg",
+    "ep": 8,
+    "s": 660,
+    "geo": [
+      34.7548,
+      135.3311
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "13ing0b",
+    "name": "上ヶ原中",
+    "image": "https://image.xinu.ink/pic/data/74/images/13ing0b-1749399891778.jpg",
+    "ep": 8,
+    "s": 745,
+    "geo": [
+      34.7595,
+      135.3419
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "16emsyc",
+    "name": "上之原高中东侧",
+    "image": "https://image.xinu.ink/pic/data/74/images/16emsyc_1749578757901.jpg",
+    "ep": 16,
+    "s": 1084,
+    "geo": [
+      34.7603,
+      135.343
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "170klkm",
+    "name": "須磨海水浴場",
+    "image": "https://image.xinu.ink/pic/data/74/images/170klkm-1749611361952.jpg",
+    "ep": 12,
+    "s": 1250,
+    "geo": [
+      34.6426,
+      135.1259
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

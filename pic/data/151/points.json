@@ -149,5 +149,28 @@
     ],
     "origin": "Anitabi@yusuke135",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "yt6e8j",
+    "name": "通学路3",
+    "image": "https://image.xinu.ink/pic/data/151/images/yt6e8j-1749115220733.jpg",
+    "ep": "9",
+    "s": "655",
+    "geo": [
+      36.3601,
+      139.4953
+    ]
+  },
+  {
+    "id": "1r9dnyb",
+    "cn": "神乐殿",
+    "name": "樺崎八幡宮大々神楽",
+    "image": "https://image.xinu.ink/pic/data/151/images/1r9dnyb-1750835562807.jpg",
+    "ep": "5",
+    "s": "1187",
+    "geo": [
+      36.3619,
+      139.4948
+    ]
   }
 ]

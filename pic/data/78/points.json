@@ -113,5 +113,17 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1w283to",
+    "cn": "高架下（JR今別駅北側）",
+    "name": "高架下（JR今別駅北側）",
+    "image": "https://image.xinu.ink/pic/data/78/images/1w283to-1751125863403.jpg",
+    "ep": "剧场版",
+    "s": 3727,
+    "geo": [
+      41.1818,
+      140.4873
+    ]
   }
 ]

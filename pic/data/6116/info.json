@@ -1,0 +1,53 @@
+{
+  "id": 281281,
+  "cn": "女神异闻录5 乱战：魅影攻手",
+  "title": "ペルソナ5 スクランブル ザ・ファントムストライカーズ",
+  "cover": "https://image.xinu.ink/pic/data/6116/images/281281_f2Y2T.jpg",
+  "modified": 1751296525506,
+  "litePoints": [
+    {
+      "id": "1yt4qww",
+      "cn": "涩谷Mark City",
+      "name": "渋谷​マーク​シティ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/281281/points/1yt4qww-1751292014208.jpg?plan=h160",
+      "geo": [
+        35.6579,
+        139.698
+      ]
+    },
+    {
+      "id": "1yt9i6n",
+      "cn": "涩谷109",
+      "name": "SHIBUYA109",
+      "image": "https://image.anitabi.cn/user/0/bangumi/281281/points/1yt9i6n-1751292206159.jpg?plan=h160",
+      "geo": [
+        35.6595,
+        139.6986
+      ]
+    },
+    {
+      "id": "1yu0jpk",
+      "cn": "首都高速3号涩谷线 桥下",
+      "name": "首都高速3号渋谷線 桥下",
+      "image": "https://image.anitabi.cn/user/0/bangumi/281281/points/1yu0jpk-1751293546225.jpg?plan=h160",
+      "geo": [
+        35.6578,
+        139.7018
+      ]
+    },
+    {
+      "id": "1yvgdob",
+      "name": "Bunkamura",
+      "image": "https://image.anitabi.cn/user/0/bangumi/281281/points/1yvgdob-1751295826144.jpg?plan=h160",
+      "geo": [
+        35.6605,
+        139.6966
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "ペルソナ5 スクランブル ザ・ファントムストライカーズ",
+  "name_cn": "女神异闻录5 乱战：魅影攻手",
+  "local_id": 6116
+}

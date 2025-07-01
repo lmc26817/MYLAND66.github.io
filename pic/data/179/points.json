@@ -213,5 +213,51 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vze8s2",
+    "cn": "镰仓高校前站",
+    "name": "腰越ラッコ公園",
+    "image": "https://image.xinu.ink/pic/data/179/images/1vze8s2-1751121059703.jpg",
+    "ep": 46,
+    "s": 371,
+    "geo": [
+      35.3066,
+      139.502
+    ]
+  },
+  {
+    "id": "1vzkmqn",
+    "cn": "龙口寺",
+    "name": "龍口寺",
+    "image": "https://image.xinu.ink/pic/data/179/images/1vzkmqn-1751121466858.jpg",
+    "ep": 46,
+    "s": 563,
+    "geo": [
+      35.3108,
+      139.4893
+    ]
+  },
+  {
+    "id": "1w03ffw",
+    "cn": "彩虹下水道馆",
+    "name": "東京都虹の下水道館",
+    "image": "https://image.xinu.ink/pic/data/179/images/1w03ffw-1751122239551.jpg",
+    "ep": null,
+    "geo": [
+      35.6335,
+      139.7845
+    ]
+  },
+  {
+    "id": "1w0jnhc",
+    "cn": "台场海滨公园",
+    "name": "台场海滨公园",
+    "image": "https://image.xinu.ink/pic/data/179/images/1w0jnhc-1751122982825.jpg",
+    "ep": null,
+    "geo": [
+      35.6292,
+      139.774
+    ]
   }
 ]

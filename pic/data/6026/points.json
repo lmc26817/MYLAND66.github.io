@@ -1063,5 +1063,255 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tv2bnk",
+    "name": "堤防道路下",
+    "image": "https://image.xinu.ink/pic/data/6026/images/tv2bnk_1748816076364.jpg",
+    "ep": 18,
+    "s": 617,
+    "geo": [
+      35.4062,
+      136.7053
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "shwkju",
+    "cn": "河渡桥",
+    "name": "河渡橋",
+    "image": "https://image.xinu.ink/pic/data/6026/images/shwkju_1748809725254.jpg",
+    "ep": 19,
+    "s": 572,
+    "geo": [
+      35.4084,
+      136.7073
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tuabw1",
+    "cn": "西镜岛公交站前",
+    "name": "西鏡島バス停前",
+    "image": "https://image.xinu.ink/pic/data/6026/images/tuabw1_1748814854872.jpg",
+    "ep": 19,
+    "s": 1019,
+    "geo": [
+      35.4083,
+      136.7077
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "tu18wl",
+    "cn": "西镜岛公交站",
+    "name": "西鏡島バス停",
+    "image": "https://image.xinu.ink/pic/data/6026/images/tu18wl_1748814321712.jpg",
+    "ep": 19,
+    "s": 1164,
+    "geo": [
+      35.4082,
+      136.7078
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1c1rjcf",
+    "cn": "三省堂书店 岐阜店",
+    "name": "三省堂書店 岐阜店",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1c1rjcf_1749915734442.jpg",
+    "ep": 20,
+    "s": 610,
+    "geo": [
+      35.4093,
+      136.7579
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1c2260x",
+    "cn": "摩斯汉堡 柳濑​中央​店",
+    "name": "モス​バーガー柳ヶ瀬​中央​店",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1c2260x_1749916230948.jpg",
+    "ep": 20,
+    "s": 624,
+    "geo": [
+      35.4186,
+      136.7583
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1c28zyo",
+    "cn": "秋津屋",
+    "name": "秋津屋",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1c28zyo_1749916515550.jpg",
+    "ep": 20,
+    "s": 949,
+    "geo": [
+      35.4191,
+      136.7594
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1mmn38k",
+    "name": "中日新聞 岐商前専売店 見田新聞店",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1mmn38k_1750555426164.jpg",
+    "ep": 21,
+    "s": 166,
+    "geo": [
+      35.4399,
+      136.7524
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1d0u6oy",
+    "cn": "岐阜县立岐阜商业高中",
+    "name": "岐阜県立岐阜商業高等学校",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1d0u6oy_1749974612367.jpg",
+    "ep": 21,
+    "s": 178,
+    "geo": [
+      35.4386,
+      136.7513
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1czundx",
+    "cn": "岐阜长良川都酒店",
+    "name": "都ホテル 岐阜長良川",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1czundx_1749972957403.jpg",
+    "ep": 21,
+    "s": 288,
+    "geo": [
+      35.4399,
+      136.7661
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1czwako",
+    "cn": "岐阜长良川都酒店 大堂",
+    "name": "都ホテル 岐阜長良川 ロビー",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1czwako_1749973071644.jpg",
+    "ep": 21,
+    "s": 291,
+    "geo": [
+      35.4406,
+      136.7678
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1d06lyx",
+    "cn": "岐阜长良川都酒店 Lounge FLORA",
+    "name": "都ホテル 岐阜長良川 ラウンジ フロー",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1d06lyx_1749973519664.jpg",
+    "ep": 21,
+    "s": 295,
+    "geo": [
+      35.4404,
+      136.768
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1czr8i4",
+    "cn": "日枝神社",
+    "name": "日枝神社",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1czr8i4_1749972793358.jpg",
+    "ep": 21,
+    "s": 496,
+    "geo": [
+      35.4163,
+      136.7192
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1d0ldjt",
+    "cn": "岐阜市立本庄中学",
+    "name": "岐阜市立本荘中学校",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1d0ldjt_1749974239793.jpg",
+    "ep": 21,
+    "s": 603,
+    "geo": [
+      35.4156,
+      136.7321
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1mn1cwi",
+    "cn": "岐阜市民病院 直升机场",
+    "name": "岐阜市民病院 ヘリポート",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1mn1cwi_1750556220666.jpg",
+    "ep": 22,
+    "s": 173,
+    "geo": [
+      35.4138,
+      136.7337
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1mnq4k0",
+    "cn": "AND LADY",
+    "name": "AND LADY",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1mnq4k0_1750557244085.jpg",
+    "ep": 22,
+    "s": 1131,
+    "geo": [
+      35.4272,
+      136.7647
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1mnr9g0",
+    "cn": "NATURAL CAFE",
+    "name": "ナチュラルカフェ",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1mnr9g0_1750557297498.jpg",
+    "ep": 22,
+    "s": 1137,
+    "geo": [
+      35.432,
+      136.7671
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1mnukro",
+    "cn": "忠节桥东",
+    "name": "忠節橋東",
+    "image": "https://image.xinu.ink/pic/data/6026/images/1mnukro_1750557463302.jpg",
+    "ep": 22,
+    "s": 1215,
+    "geo": [
+      35.4306,
+      136.7517
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
   }
 ]
