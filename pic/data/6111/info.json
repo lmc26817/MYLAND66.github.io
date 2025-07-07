@@ -22,5 +22,8 @@
   "imagesLength": 1,
   "name": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
   "name_cn": "剧场版 Fate/stay night [天之杯] III.春之歌",
-  "local_id": 6111
+  "local_id": 6111,
+  "region": [
+    "Colombo District"
+  ]
 }

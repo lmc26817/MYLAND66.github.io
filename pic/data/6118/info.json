@@ -100,5 +100,8 @@
   "imagesLength": 19,
   "name": "planetarian～雪圏球～",
   "name_cn": "星之梦～雪圏球～",
-  "local_id": 6118
+  "local_id": 6118,
+  "region": [
+    "静冈县/靜岡縣"
+  ]
 }

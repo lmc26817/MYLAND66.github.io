@@ -23,5 +23,8 @@
   "imagesLength": 1,
   "name": "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
   "name_cn": "剧场版 魔法少女小圆 [前篇] 起始的物语",
-  "local_id": 6107
+  "local_id": 6107,
+  "region": [
+    "Milano"
+  ]
 }

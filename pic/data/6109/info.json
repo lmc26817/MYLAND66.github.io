@@ -22,5 +22,8 @@
   "imagesLength": 1,
   "name": "Fate/stay night [Unlimited Blade Works] 2ndシーズン",
   "name_cn": "命运守护之夜：无限剑制 第二季",
-  "local_id": 6109
+  "local_id": 6109,
+  "region": [
+    "大倫敦"
+  ]
 }
