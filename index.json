@@ -437883,7 +437883,10 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6133/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6133/points.json",
+    "region": [
+      "长野县"
+    ]
   },
   "6134": {
     "name": "ぐらんぶる Season 2",
@@ -437902,6 +437905,9 @@
         ]
       }
     ],
-    "inform": "https://image.xinu.ink/pic/data/6134/points.json"
+    "inform": "https://image.xinu.ink/pic/data/6134/points.json",
+    "region": [
+      "静冈县/靜岡縣"
+    ]
   }
 }
