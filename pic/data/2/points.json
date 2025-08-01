@@ -87,5 +87,489 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.636615%2C140.082465&z=17"
+  },
+  {
+    "id": "kpx6okh3p",
+    "name": "天秤橋",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okh3p_1753332624285.jpg",
+    "geo": [
+      35.7582,
+      139.6257
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.75826%2C139.625748&z=17"
+  },
+  {
+    "id": "kpx6okgzz",
+    "name": "石神井川河川敷遊歩道",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okgzz_1753757700541.jpg",
+    "geo": [
+      35.7393,
+      139.6118
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.739346%2C139.611889&z=17"
+  },
+  {
+    "id": "kpx6okh9i",
+    "name": "光が丘地区区民館",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okh9i_1753332597678.jpg",
+    "geo": [
+      35.7577,
+      139.6257
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.757727%2C139.625775&z=17"
+  },
+  {
+    "id": "2wkl3oi",
+    "name": "新宿警察署前",
+    "image": "https://image.xinu.ink/pic/data/2/images/2wkl3oi_1753333421618.jpg",
+    "geo": [
+      35.6937,
+      139.6949
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2y0tpxp",
+    "name": "エクセルシオール カフェ（池袋メトロポリタンプラザ店）",
+    "image": "https://image.xinu.ink/pic/data/2/images/2y0tpxp_1753421179075.jpg",
+    "geo": [
+      35.7297,
+      139.7099
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6okhut",
+    "name": "二子玉川駅",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okhut_1753333141332.jpg",
+    "geo": [
+      35.6113,
+      139.6264
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.611338%2C139.62644&z=17"
+  },
+  {
+    "id": "kpx6okhq2",
+    "name": "都立杉並工業高校",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okhq2_1753333129667.jpg",
+    "geo": [
+      35.7192,
+      139.5991
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.719227%2C139.599109&z=17"
+  },
+  {
+    "id": "kpx6okhn6",
+    "name": "高円寺ガード下",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okhn6_1753757463029.jpg",
+    "geo": [
+      35.7055,
+      139.656
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.705517%2C139.656041&z=17"
+  },
+  {
+    "id": "kpx6oki5q",
+    "name": "ZOOL高円寺店",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6oki5q_1753757668079.jpg",
+    "geo": [
+      35.7028,
+      139.6494
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.702834%2C139.649497&z=17"
+  },
+  {
+    "id": "kpx6okipk",
+    "name": "プリズムガーデン",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okipk_1753419338654.jpg",
+    "geo": [
+      35.729,
+      139.71
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.729091%2C139.710077&z=17"
+  },
+  {
+    "id": "kpx6okj38",
+    "name": "西口公園前マクドナルド",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okj38_1753333309646.jpg",
+    "geo": [
+      35.7306,
+      139.7076
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.730624%2C139.707631&z=17"
+  },
+  {
+    "id": "kpx6okjbs",
+    "name": "サンシャイン国際水族館",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okjbs_1753333269341.jpg",
+    "geo": [
+      35.7285,
+      139.7197
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.728599%2C139.719768&z=17"
+  },
+  {
+    "id": "kpx6okjci",
+    "name": "サンシャインシティ",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okjci_1753333253754.jpg",
+    "geo": [
+      35.7292,
+      139.7187
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.729254%2C139.718765&z=17"
+  },
+  {
+    "id": "kpx6okjxu",
+    "name": "新宿警察署",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okjxu_1753333341218.jpg",
+    "geo": [
+      35.6935,
+      139.6944
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.693509%2C139.694429&z=17"
+  },
+  {
+    "id": "kpx6okjyg",
+    "name": "新宿街並み",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okjyg_1753417332546.jpg",
+    "geo": [
+      35.6933,
+      139.7017
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.693358%2C139.701703&z=17"
+  },
+  {
+    "id": "kpx6okk9m",
+    "name": "新宿区役所前大路",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okk9m_1753417452322.jpg",
+    "geo": [
+      35.6934,
+      139.7027
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.693432%2C139.702752&z=17"
+  },
+  {
+    "id": "kpx6okkrg",
+    "name": "吉祥寺街並み",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okkrg_1753417488146.jpg",
+    "geo": [
+      35.7025,
+      139.5787
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.702548%2C139.578721&z=17"
+  },
+  {
+    "id": "2xyyrl7",
+    "name": "井之头公园",
+    "image": "https://image.xinu.ink/pic/data/2/images/2xyyrl7_1753418067659.jpg",
+    "geo": [
+      35.7004,
+      139.5774
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6okkox",
+    "name": "新宿カラオケ店付近",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okkox_1753417213955.jpg",
+    "geo": [
+      35.6933,
+      139.7029
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.693398%2C139.702905&z=17"
+  },
+  {
+    "id": "kpx6okkmc",
+    "name": "西新宿一丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okkmc_1753417180059.jpg",
+    "geo": [
+      35.6888,
+      139.699
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.68889%2C139.699069&z=17"
+  },
+  {
+    "id": "kpx6okkje",
+    "name": "喫茶りか",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okkje_1753759696092.jpg",
+    "geo": [
+      35.6895,
+      139.7352
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.689561%2C139.735284&z=17"
+  },
+  {
+    "id": "kpx6okljd",
+    "name": "宮下公園 階段",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okljd_1753759703572.jpg",
+    "geo": [
+      35.6617,
+      139.7015
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.661722%2C139.701564&z=17"
+  },
+  {
+    "id": "kpx6oklio",
+    "name": "昭和大学藤が丘病院",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6oklio_1753419215814.jpg",
+    "geo": [
+      35.5449,
+      139.5288
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.544903%2C139.528846&z=17"
+  },
+  {
+    "id": "kpx6oklm8",
+    "name": "ER救急救命入口",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6oklm8_1753419248244.jpg",
+    "geo": [
+      35.5442,
+      139.5293
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.54422%2C139.529395&z=17"
+  },
+  {
+    "id": "kpx6okllj",
+    "name": "公園通路",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okllj_1753419256339.jpg",
+    "geo": [
+      35.5442,
+      139.5283
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.544204%2C139.528398&z=17"
+  },
+  {
+    "id": "kpx6okmav",
+    "name": "病院裏",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okmav_1753419294878.jpg",
+    "geo": [
+      35.5446,
+      139.5299
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.544652%2C139.529921&z=17"
+  },
+  {
+    "id": "2xzftk0",
+    "name": "渋谷駅前交差点",
+    "image": "https://image.xinu.ink/pic/data/2/images/2xzftk0_1753418885638.jpg",
+    "geo": [
+      35.6594,
+      139.7005
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6okmkr",
+    "name": "渋谷駅 ハチ公前交差点",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okmkr_1753418736729.jpg",
+    "geo": [
+      35.6592,
+      139.7006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.659262%2C139.700641&z=17"
+  },
+  {
+    "id": "kpx6okmgm",
+    "name": "有楽町マリオン",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okmgm_1753418683624.jpg",
+    "geo": [
+      35.6733,
+      139.7626
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.673326%2C139.762622&z=17"
+  },
+  {
+    "id": "kpx6okmwh",
+    "name": "東京国立近代美術館工芸館",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okmwh_1753419095783.jpg",
+    "geo": [
+      35.6896,
+      139.7504
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.689651%2C139.750455&z=17"
+  },
+  {
+    "id": "kpx6okn4c",
+    "name": "宮下公園 トンネル駐輪所",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okn4c_1753418911486.jpg",
+    "geo": [
+      35.6603,
+      139.7013
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.660369%2C139.701317&z=17"
+  },
+  {
+    "id": "kpx6okn8u",
+    "name": "渋谷センター街 ファストフード店",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okn8u_1753419088548.jpg",
+    "geo": [
+      35.6601,
+      139.6989
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.660179%2C139.698957&z=17"
+  },
+  {
+    "id": "kpx6okn4x",
+    "name": "神戸女学院大学",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okn4x_1753759790523.jpg",
+    "geo": [
+      34.7586,
+      135.3505
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=34.758679%2C135.350597&z=17"
+  },
+  {
+    "id": "kpx6oknza",
+    "name": "根岸競馬場跡",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6oknza_1753757443803.jpg",
+    "geo": [
+      35.4244,
+      139.6361
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.424453%2C139.636139&z=17"
+  },
+  {
+    "id": "kpx6oko6v",
+    "name": "新大久保 ガード下東側",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6oko6v_1753757920951.jpg",
+    "geo": [
+      35.704,
+      139.7013
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.70404%2C139.701304&z=17"
+  },
+  {
+    "id": "kpx6oko5s",
+    "name": "新大久保 ガード下",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6oko5s_1753757927494.jpg",
+    "geo": [
+      35.7041,
+      139.7006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.704162%2C139.700695&z=17"
+  },
+  {
+    "id": "kpx6okouo",
+    "name": "新大久保 ガード下西側",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okouo_1753757944166.jpg",
+    "geo": [
+      35.7041,
+      139.7005
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.704195%2C139.700507&z=17"
+  },
+  {
+    "id": "kpx6okovo",
+    "name": "新荒川大橋",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okovo_1753758103091.jpg",
+    "geo": [
+      35.7893,
+      139.7237
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.789303%2C139.723703&z=17"
+  },
+  {
+    "id": "kpx6okotc",
+    "name": "岩淵水門",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okotc_1753758665522.jpg",
+    "geo": [
+      35.7856,
+      139.7335
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.7856%2C139.733581&z=17"
+  },
+  {
+    "id": "kpx6okqdb",
+    "name": "新宿 モア４番街",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okqdb_1753758148929.jpg",
+    "geo": [
+      35.6927,
+      139.7024
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.692796%2C139.702419&z=17"
+  },
+  {
+    "id": "kpx6okq8k",
+    "name": "横十間川沿い カーブミラー",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okq8k_1753758501353.jpg",
+    "geo": [
+      35.7036,
+      139.8191
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.703681%2C139.819192&z=17"
+  },
+  {
+    "id": "kpx6okqi8",
+    "name": "栗原橋",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okqi8_1753758623885.jpg",
+    "geo": [
+      35.7046,
+      139.8189
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.704622%2C139.8189&z=17"
+  },
+  {
+    "id": "kpx6okr88",
+    "name": "横十間川自然魚釣場",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okr88_1753759389188.jpg",
+    "geo": [
+      35.7061,
+      139.8189
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.706177%2C139.818985&z=17"
+  },
+  {
+    "id": "kpx6okr5a",
+    "name": "天神橋自然魚釣場",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okr5a_1753759398731.jpg",
+    "geo": [
+      35.7038,
+      139.8191
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.70382%2C139.81913&z=17"
   }
 ]

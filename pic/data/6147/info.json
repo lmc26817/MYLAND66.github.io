@@ -1,0 +1,121 @@
+{
+  "id": 46828,
+  "cn": "悠悠式",
+  "title": "ゆゆ式",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6147/images/46828.jpg",
+  "color": "#f8c3b1",
+  "geo": [
+    35.581384,
+    139.65683
+  ],
+  "zoom": 10,
+  "modified": 1753696737716,
+  "litePoints": [
+    {
+      "id": "kpx6op7pt",
+      "name": "江戸川水門",
+      "image": "https://image.anitabi.cn/points/46828/kpx6op7pt_1753693197566.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7381,
+        139.9021
+      ]
+    },
+    {
+      "id": "kpx6op7xp",
+      "name": "3人が座っていた石",
+      "image": "https://image.anitabi.cn/points/46828/kpx6op7xp_1753693231158.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7377,
+        139.9021
+      ]
+    },
+    {
+      "id": "kpx6op860",
+      "name": "市川橋",
+      "image": "https://image.anitabi.cn/points/46828/kpx6op860_1753693295936.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7341,
+        139.9007
+      ]
+    },
+    {
+      "id": "kpx6op8n7",
+      "name": "福吉",
+      "image": "https://image.anitabi.cn/points/46828/kpx6op8n7_1753693331744.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7001,
+        139.6374
+      ]
+    },
+    {
+      "id": "kpx6op93s",
+      "name": "福岡女子高校",
+      "image": "https://image.anitabi.cn/points/46828/kpx6op93s_1753693366046.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        33.5956,
+        130.3302
+      ]
+    },
+    {
+      "id": "kpx6op9wn",
+      "name": "パティスリー メリクリ",
+      "image": "https://image.anitabi.cn/points/46828/kpx6op9wn_1753694191613.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.708,
+        139.508
+      ]
+    },
+    {
+      "id": "kpx6op9rm",
+      "name": "樋口ビル（やさい市場）",
+      "image": "https://image.anitabi.cn/points/46828/kpx6op9rm_1753694200190.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7089,
+        139.5078
+      ]
+    },
+    {
+      "id": "kpx6opat2",
+      "name": "武蔵小金井デュオステージ",
+      "image": "https://image.anitabi.cn/points/46828/kpx6opat2_1753694526633.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7077,
+        139.5079
+      ]
+    },
+    {
+      "id": "kpx6oparg",
+      "name": "フラッツ小金井",
+      "image": "https://image.anitabi.cn/points/46828/kpx6oparg_1753694278557.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7069,
+        139.508
+      ]
+    },
+    {
+      "id": "kpx6opcrk",
+      "name": "ローソン南荻窪西四丁目店",
+      "image": "https://image.anitabi.cn/points/46828/kpx6opcrk_1753694412959.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        35.704,
+        139.6135
+      ]
+    }
+  ],
+  "pointsLength": 22,
+  "imagesLength": 22,
+  "name": "ゆゆ式",
+  "name_cn": "悠悠式",
+  "local_id": 6147
+}

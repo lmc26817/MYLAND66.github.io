@@ -433,5 +433,27 @@
       34.9946,
       135.7851
     ]
+  },
+  {
+    "id": "2yvvtgc",
+    "name": "MARINPIA",
+    "image": "https://image.xinu.ink/pic/data/284/images/2yvvtgc-1753473356011.jpg",
+    "ep": "EP5",
+    "s": "02:47",
+    "geo": [
+      35.6291,
+      140.0732
+    ]
+  },
+  {
+    "id": "206sw4p",
+    "cn": "海浜幕張駅十字路口",
+    "name": "海浜幕張駅十字路口",
+    "image": "https://image.xinu.ink/pic/data/284/images/206sw4p-1751375352577.jpg",
+    "ep": null,
+    "geo": [
+      35.6512,
+      140.0391
+    ]
   }
 ]

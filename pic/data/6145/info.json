@@ -1,0 +1,23 @@
+{
+  "id": 41410,
+  "cn": "誓血龙骑士",
+  "title": "DRAG-ON DRAGOON",
+  "cover": "https://image.xinu.ink/pic/data/6145/images/41410_oc818.jpg",
+  "modified": 1752975294666,
+  "litePoints": [
+    {
+      "id": "2q4avnf",
+      "name": "東京タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/41410/points/2q4avnf-1752943326239.jpg?plan=h160",
+      "geo": [
+        35.6585,
+        139.7453
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "DRAG-ON DRAGOON",
+  "name_cn": "誓血龙骑士",
+  "local_id": 6145
+}

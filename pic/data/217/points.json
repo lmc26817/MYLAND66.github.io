@@ -93,5 +93,41 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1UmDrbDGASp2ZAjEnLT7cpYfzuYY&ll=35.453753%2C139.640763&z=17"
+  },
+  {
+    "id": "4uicdos0j",
+    "name": "首里城",
+    "image": "https://image.xinu.ink/pic/data/217/images/4uicdos0j_1753952500032.jpg",
+    "ep": 18,
+    "geo": [
+      26.2169,
+      127.7191
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UmDrbDGASp2ZAjEnLT7cpYfzuYY&ll=26.21699%2C127.71917&z=17"
+  },
+  {
+    "id": "4uicdorc7",
+    "name": "万座毛",
+    "image": "https://image.xinu.ink/pic/data/217/images/4uicdorc7_1753952554866.jpg",
+    "ep": 18,
+    "geo": [
+      26.5045,
+      127.851
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UmDrbDGASp2ZAjEnLT7cpYfzuYY&ll=26.504595%2C127.851064&z=17"
+  },
+  {
+    "id": "36tcols",
+    "name": "玉泉洞 入口",
+    "image": "https://image.xinu.ink/pic/data/217/images/36tcols_1753952825490.jpg",
+    "ep": 18,
+    "geo": [
+      26.1403,
+      127.748
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

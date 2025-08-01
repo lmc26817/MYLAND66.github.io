@@ -112,5 +112,15 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.709154%2C139.591381&z=17"
+  },
+  {
+    "id": "2bar3qc",
+    "name": "マツモトキヨシ",
+    "image": "https://image.xinu.ink/pic/data/4/images/2bar3qc-1752047122915.jpg",
+    "ep": "",
+    "geo": [
+      35.7146,
+      139.6871
+    ]
   }
 ]

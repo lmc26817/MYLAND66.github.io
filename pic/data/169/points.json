@@ -207,5 +207,28 @@
       36.3268,
       139.1941
     ]
+  },
+  {
+    "id": "5i3hssjv7",
+    "cn": "伊势崎商业高校北门",
+    "name": "伊勢崎商業高校",
+    "image": "https://image.xinu.ink/pic/data/169/images/5i3hssjv7-1752398054906.jpg",
+    "ep": 6,
+    "s": 1054,
+    "geo": [
+      36.3409,
+      139.1809
+    ]
+  },
+  {
+    "id": "2h2ny2t",
+    "name": "伊勢崎商業高等學校",
+    "image": "https://image.xinu.ink/pic/data/169/images/2h2ny2t-1752396371450.jpg",
+    "ep": 17,
+    "s": 1268,
+    "geo": [
+      36.3404,
+      139.181
+    ]
   }
 ]

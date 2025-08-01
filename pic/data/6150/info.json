@@ -1,0 +1,51 @@
+{
+  "id": 63927,
+  "cn": "如果她的旗帜被折断了",
+  "title": "彼女がフラグをおられたら",
+  "cover": "https://image.xinu.ink/pic/data/6150/images/63927_IOhHR.jpg",
+  "cp": "がをられ",
+  "modified": 1753093447631,
+  "litePoints": [
+    {
+      "id": "ddf247cd",
+      "name": "立川駅北口 ペデストリアンデッキ",
+      "image": "https://image.anitabi.cn/points/63927/ddf247cd_1753092933061.jpg?plan=h160",
+      "geo": [
+        35.6987,
+        139.4127
+      ]
+    },
+    {
+      "id": "8a2bff8d",
+      "name": "多摩都市モノレール立川北駅前",
+      "image": "https://image.anitabi.cn/points/63927/8a2bff8d_1753093414413.jpg?plan=h160",
+      "geo": [
+        35.699,
+        139.4125
+      ]
+    },
+    {
+      "id": "31ce18ec",
+      "name": "代々木公園 西門",
+      "image": "https://image.anitabi.cn/points/63927/31ce18ec_1753093380425.jpg?plan=h160",
+      "geo": [
+        35.6705,
+        139.691
+      ]
+    },
+    {
+      "id": "3b8912fc",
+      "name": "代々木公園 中央広場",
+      "image": "https://image.anitabi.cn/points/63927/3b8912fc_1753093386700.jpg?plan=h160",
+      "geo": [
+        35.6712,
+        139.6947
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "彼女がフラグをおられたら",
+  "name_cn": "如果她的旗帜被折断了",
+  "local_id": 6150
+}

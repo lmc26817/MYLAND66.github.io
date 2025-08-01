@@ -131,5 +131,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=19yyMQu-rUCgzbrkCmucGnz4wLDA&ll=35.004434%2C135.770403&z=17"
+  },
+  {
+    "id": "kpx6onrde",
+    "name": "加茂大橋",
+    "image": "https://image.xinu.ink/pic/data/129/images/kpx6onrde-1753712755268.jpg",
+    "ep": null,
+    "geo": [
+      35.0289,
+      135.7716
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=19yyMQu-rUCgzbrkCmucGnz4wLDA&ll=35.028977%2C135.771639&z=17"
   }
 ]

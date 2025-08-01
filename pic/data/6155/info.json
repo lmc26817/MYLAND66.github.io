@@ -1,0 +1,104 @@
+{
+  "id": 80548,
+  "cn": "属性同好会",
+  "title": "ディーふらぐ!",
+  "cover": "https://image.xinu.ink/pic/data/6155/images/80548_2Hjhy.jpg",
+  "modified": 1752846984869,
+  "litePoints": [
+    {
+      "id": "dbf3dbd0",
+      "name": "京王 南大沢駅",
+      "image": "https://image.anitabi.cn/points/80548/dbf3dbd0_1752846548271.jpg?plan=h160",
+      "geo": [
+        35.614,
+        139.3799
+      ]
+    },
+    {
+      "id": "4d295166",
+      "name": "京王 千歳烏山駅",
+      "image": "https://image.anitabi.cn/points/80548/4d295166_1752846617510.jpg?plan=h160",
+      "geo": [
+        35.668,
+        139.6013
+      ]
+    },
+    {
+      "id": "0e226c76",
+      "name": "京王 桜上水駅",
+      "image": "https://image.anitabi.cn/points/80548/0e226c76_1752846589229.jpg?plan=h160",
+      "geo": [
+        35.6676,
+        139.6309
+      ]
+    },
+    {
+      "id": "2b5952bf",
+      "name": "都営新宿線 船堀駅",
+      "image": "https://image.anitabi.cn/points/80548/2b5952bf_1752846646270.jpg?plan=h160",
+      "geo": [
+        35.6837,
+        139.8634
+      ]
+    },
+    {
+      "id": "0df027f5",
+      "name": "JR 高尾駅",
+      "image": "https://image.anitabi.cn/points/80548/0df027f5_1752846690349.jpg?plan=h160",
+      "geo": [
+        35.6426,
+        139.2836
+      ]
+    },
+    {
+      "id": "622e4897",
+      "name": "多摩川児童公園内運動施設野球場",
+      "image": "https://image.anitabi.cn/points/80548/622e4897_1752846722917.jpg?plan=h160",
+      "geo": [
+        35.6426,
+        139.5302
+      ]
+    },
+    {
+      "id": "c18698ab",
+      "name": "多摩川沿い道路",
+      "image": "https://image.anitabi.cn/points/80548/c18698ab_1752846762205.jpg?plan=h160",
+      "geo": [
+        35.6419,
+        139.5346
+      ]
+    },
+    {
+      "id": "7abe72da",
+      "name": "府中３５番街商店会 市進学院府中教室前",
+      "image": "https://image.anitabi.cn/points/80548/7abe72da_1752846894863.jpg?plan=h160",
+      "geo": [
+        35.6726,
+        139.4811
+      ]
+    },
+    {
+      "id": "a85570c8",
+      "name": "マンガの王様",
+      "image": "https://image.anitabi.cn/points/80548/a85570c8_1752846916117.jpg?plan=h160",
+      "geo": [
+        35.6726,
+        139.4812
+      ]
+    },
+    {
+      "id": "b742bc60",
+      "name": "ホテルコンチネンタル前",
+      "image": "https://image.anitabi.cn/points/80548/b742bc60_1752846944750.jpg?plan=h160",
+      "geo": [
+        35.6723,
+        139.4818
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "name": "ディーふらぐ!",
+  "name_cn": "属性同好会",
+  "local_id": 6155
+}

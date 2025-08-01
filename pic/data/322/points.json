@@ -76,5 +76,51 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=16Qsq1mlp-oUzGDoxWDHA3Oh0e9I&ll=35.704787%2C139.620722&z=17"
+  },
+  {
+    "id": "2lrp6kn",
+    "name": "鶴岡八幡宮",
+    "image": "https://image.xinu.ink/pic/data/322/images/2lrp6kn_1752680260901.jpg",
+    "ep": 1,
+    "geo": [
+      35.3258,
+      139.5562
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f8d14437",
+    "name": "JR吉祥寺駅 北口",
+    "image": "https://image.xinu.ink/pic/data/322/images/f8d14437_1752680540397.jpg",
+    "ep": 8,
+    "geo": [
+      35.7033,
+      139.5802
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h6eGu084ST_c_uwNxKInx3SlBR4&ll=35.703317%2C139.580223&z=17"
+  },
+  {
+    "id": "19943999",
+    "name": "青梅街道（都道4号線）",
+    "image": "https://image.xinu.ink/pic/data/322/images/19943999_1752680622141.jpg",
+    "geo": [
+      35.706,
+      139.6188
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h6eGu084ST_c_uwNxKInx3SlBR4&ll=35.70604%2C139.618876&z=17"
+  },
+  {
+    "id": "4475c864",
+    "name": "SEIYU荻窪店＆荻窪タウンセブン",
+    "image": "https://image.xinu.ink/pic/data/322/images/4475c864_1752680630004.jpg",
+    "geo": [
+      35.7053,
+      139.6197
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h6eGu084ST_c_uwNxKInx3SlBR4&ll=35.705371%2C139.619777&z=17"
   }
 ]

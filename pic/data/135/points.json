@@ -164,5 +164,206 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.405172%2C133.196643&z=17"
+  },
+  {
+    "id": "kpx6ookwb",
+    "name": "通学路",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ookwb_1753951748179.jpg",
+    "geo": [
+      34.406,
+      133.1918
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.406049%2C133.191882&z=17"
+  },
+  {
+    "id": "kpx6ool1q",
+    "name": "目印 2",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ool1q_1753951792355.jpg",
+    "geo": [
+      34.4063,
+      133.1919
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.406365%2C133.191936&z=17"
+  },
+  {
+    "id": "kpx6oolle",
+    "name": "東土堂",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oolle_1753951383804.jpg",
+    "geo": [
+      34.4087,
+      133.1976
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.408715%2C133.19763&z=17"
+  },
+  {
+    "id": "kpx6oomdb",
+    "name": "通学路2",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oomdb_1753951486803.jpg",
+    "geo": [
+      34.4089,
+      133.1992
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.408979%2C133.199245&z=17"
+  },
+  {
+    "id": "kpx6oonh8",
+    "name": "通学路3",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oonh8_1753951852106.jpg",
+    "geo": [
+      34.4102,
+      133.1992
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.410291%2C133.199226&z=17"
+  },
+  {
+    "id": "5oyz6qqnl",
+    "name": "土堂小学校 俯瞰",
+    "image": "https://image.xinu.ink/pic/data/135/images/5oyz6qqnl_1753950548733.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      34.4069,
+      133.1944
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.40698%2C133.194482&z=17"
+  },
+  {
+    "id": "36s4im3",
+    "name": "土堂小学校 屋顶",
+    "image": "https://image.xinu.ink/pic/data/135/images/36s4im3_1753950742120.jpg",
+    "s": 156,
+    "geo": [
+      34.4069,
+      133.1954
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6oon55",
+    "name": "尾道駅東側歩道橋・線路を狙うカット",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oon55_1753950311927.jpg",
+    "geo": [
+      34.406,
+      133.1957
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.406018%2C133.195774&z=17"
+  },
+  {
+    "id": "kpx6ooo0c",
+    "name": "尾道​商工​会議​所前商店街",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ooo0c_1753950259862.jpg",
+    "geo": [
+      34.4079,
+      133.2022
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.407919%2C133.202273&z=17"
+  },
+  {
+    "id": "kpx6oonvi",
+    "name": "台風で看板が飛ばされた店",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oonvi_1753950248493.jpg",
+    "geo": [
+      34.4076,
+      133.2002
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.407633%2C133.200259&z=17"
+  },
+  {
+    "id": "kpx6ooork",
+    "name": "赤い祠",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ooork_1753950193790.jpg",
+    "geo": [
+      34.4069,
+      133.1996
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.406925%2C133.19962&z=17"
+  },
+  {
+    "id": "kpx6oop3s",
+    "name": "鉄塔のある路地",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oop3s_1753950206990.jpg",
+    "geo": [
+      34.4069,
+      133.1995
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.406958%2C133.199524&z=17"
+  },
+  {
+    "id": "kpx6ooowz",
+    "name": "尾道郵便局東側踏切",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ooowz_1753950173749.jpg",
+    "geo": [
+      34.4086,
+      133.2005
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.408605%2C133.200594&z=17"
+  },
+  {
+    "id": "kpx6oopg5",
+    "name": "ゆりえ通学路（铁道旁）",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oopg5_1753949443719.jpg",
+    "geo": [
+      34.4121,
+      133.2088
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.412154%2C133.208826&z=17"
+  },
+  {
+    "id": "kpx6ooq1f",
+    "name": "ゆりえ通学路",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ooq1f_1753949460383.jpg",
+    "geo": [
+      34.4122,
+      133.2097
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.412247%2C133.209711&z=17"
+  },
+  {
+    "id": "kpx6oopsy",
+    "name": "艮神社",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6oopsy_1753949309712.jpg",
+    "geo": [
+      34.4107,
+      133.2006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.410749%2C133.200632&z=17"
+  },
+  {
+    "id": "kpx6ooqhn",
+    "name": "御袖天満宮",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ooqhn_1753949368031.jpg",
+    "geo": [
+      34.4132,
+      133.2021
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.413298%2C133.202155&z=17"
+  },
+  {
+    "id": "kpx6ooqky",
+    "name": "ベンチのある港突端",
+    "image": "https://image.xinu.ink/pic/data/135/images/kpx6ooqky_1753949602095.jpg",
+    "geo": [
+      34.4062,
+      133.1993
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1h0Wv0XcwiHurD4SvJ-3hghycn40&ll=34.406239%2C133.199328&z=17"
   }
 ]

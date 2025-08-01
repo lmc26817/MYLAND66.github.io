@@ -209,5 +209,29 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2h4hw7j",
+    "cn": "长崎县生月岛长濑灯台北部断崖",
+    "name": "長崎県平戸市生月町長瀬鼻手前は長瀬八洞のある断崖",
+    "image": "https://image.xinu.ink/pic/data/6/images/2h4hw7j-1752399490550.jpg",
+    "ep": "26",
+    "s": 758,
+    "geo": [
+      33.3607,
+      129.3974
+    ]
+  },
+  {
+    "id": "2h4ofuw",
+    "cn": "山田教会",
+    "name": "山田​カトリック​教会",
+    "image": "https://image.xinu.ink/pic/data/6/images/2h4ofuw-1752399735513.jpg",
+    "ep": "25",
+    "s": 1033,
+    "geo": [
+      33.3669,
+      129.4268
+    ]
   }
 ]

@@ -279,5 +279,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.730393%2C139.709219&z=17"
+  },
+  {
+    "id": "2xwl3tm",
+    "cn": "地铁27号出口atm前",
+    "name": "Ikebukuro Shopping Park",
+    "image": "https://image.xinu.ink/pic/data/99/images/2xwl3tm-1753414052905.jpg",
+    "ep": null,
+    "geo": [
+      35.7299,
+      139.7123
+    ]
   }
 ]

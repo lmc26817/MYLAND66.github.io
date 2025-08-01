@@ -401,5 +401,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1V_QTZIKzSeKg5ha1E-od0E_pZAI&ll=52.525099%2C13.369417&z=17"
+  },
+  {
+    "id": "kpwkd7t6y",
+    "name": "Kunsthof passage Dresden",
+    "image": "https://image.xinu.ink/pic/data/165/images/kpwkd7t6y-1752728573573.jpg",
+    "ep": "6",
+    "geo": [
+      51.0679,
+      13.7546
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1V_QTZIKzSeKg5ha1E-od0E_pZAI&ll=51.067944%2C13.754647&z=17"
   }
 ]

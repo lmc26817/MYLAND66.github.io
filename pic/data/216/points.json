@@ -24,5 +24,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.717548%2C139.713848&z=17"
+  },
+  {
+    "id": "kpx6ohzx7",
+    "name": "六本木ヒルズ ストリートファニチャー：愛だけを…",
+    "image": "https://image.xinu.ink/pic/data/216/images/kpx6ohzx7-1733662129409.jpg",
+    "ep": 1,
+    "geo": [
+      35.6592,
+      139.7292
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.659225%2C139.72926&z=17"
+  },
+  {
+    "id": "kpx6ohzhe",
+    "name": "六本木ヒルズ ストリートファニチャー：アーチ",
+    "image": "https://image.xinu.ink/pic/data/216/images/kpx6ohzhe-1733661870461.jpg",
+    "ep": 1,
+    "geo": [
+      35.6591,
+      139.7297
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.659129%2C139.729727&z=17"
   }
 ]

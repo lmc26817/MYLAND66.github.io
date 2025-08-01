@@ -1,0 +1,121 @@
+{
+  "id": 47276,
+  "cn": "乃木坂春香的秘密 Finale♪",
+  "title": "乃木坂春香の秘密 ふぃな〜れ♪",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/6148/images/47276.jpg",
+  "color": "#e2b693",
+  "geo": [
+    43.074191212109696,
+    141.74201558159882
+  ],
+  "zoom": 7.558937480925273,
+  "modified": 1753871011616,
+  "litePoints": [
+    {
+      "id": "5r1akbbt",
+      "name": "羊ケ丘展望台",
+      "image": "https://image.anitabi.cn/points/47276/5r1akbbt_1753868963591.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        42.9992,
+        141.3947
+      ]
+    },
+    {
+      "id": "5r1akb3p",
+      "name": "札幌市時計台",
+      "image": "https://image.anitabi.cn/points/47276/5r1akb3p_1753869005446.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0624,
+        141.3533
+      ]
+    },
+    {
+      "id": "5r1akb9y",
+      "name": "さっぽろテレビ塔",
+      "image": "https://image.anitabi.cn/points/47276/5r1akb9y_1753869055567.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0609,
+        141.3558
+      ]
+    },
+    {
+      "id": "5r1akbi7",
+      "name": "狸小路2丁目",
+      "image": "https://image.anitabi.cn/points/47276/5r1akbi7_1753869071389.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0576,
+        141.356
+      ]
+    },
+    {
+      "id": "5r1akayg",
+      "name": "白い恋人パーク",
+      "image": "https://image.anitabi.cn/points/47276/5r1akayg_1753868904605.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0887,
+        141.2716
+      ]
+    },
+    {
+      "id": "35fe0vr",
+      "name": "チュダーハウス",
+      "image": "https://image.anitabi.cn/points/47276/35fe0vr_1753868914324.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0883,
+        141.2708
+      ]
+    },
+    {
+      "id": "35fe47m",
+      "name": "あんとるぽー館 オーロラの泉",
+      "image": "https://image.anitabi.cn/points/47276/35fe47m_1753868933086.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0892,
+        141.2711
+      ]
+    },
+    {
+      "id": "5r1akb90",
+      "name": "ハイジ牧場",
+      "image": "https://image.anitabi.cn/points/47276/5r1akb90_1753869177820.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        42.9727,
+        141.7324
+      ]
+    },
+    {
+      "id": "5r1akbho",
+      "name": "ホテルモントレエーデルホフ札幌",
+      "image": "https://image.anitabi.cn/points/47276/5r1akbho_1753869154135.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0641,
+        141.3557
+      ]
+    },
+    {
+      "id": "5r1akatk",
+      "name": "大通公園4丁目",
+      "image": "https://image.anitabi.cn/points/47276/5r1akatk_1753869135734.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        43.0603,
+        141.351
+      ]
+    }
+  ],
+  "pointsLength": 23,
+  "imagesLength": 23,
+  "name": "乃木坂春香の秘密 ふぃな〜れ♪",
+  "name_cn": "乃木坂春香的秘密 Finale♪",
+  "local_id": 6148
+}

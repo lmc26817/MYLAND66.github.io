@@ -1,0 +1,25 @@
+{
+  "id": 1850,
+  "cn": "读或死 TV",
+  "title": "R.O.D -THE TV-",
+  "cover": "https://image.xinu.ink/pic/data/6136/images/1850.jpg",
+  "color": "#634e47",
+  "cp": "アニプレックス",
+  "modified": 1753869416122,
+  "litePoints": [
+    {
+      "id": "33oyr97",
+      "name": "御茶ノ水駅 聖橋",
+      "image": "https://image.anitabi.cn/points/1850/33oyr97_1753764082899.jpg?plan=h160",
+      "geo": [
+        35.6998,
+        139.7647
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "R.O.D -THE TV-",
+  "name_cn": "读或死 TV",
+  "local_id": 6136
+}

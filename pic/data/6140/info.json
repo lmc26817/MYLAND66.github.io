@@ -1,0 +1,46 @@
+{
+  "id": 2567,
+  "cn": "学生会的一己之见",
+  "title": "生徒会の一存",
+  "city": "札幌市",
+  "cover": "https://image.xinu.ink/pic/data/6140/images/2567.jpg",
+  "color": "#474e63",
+  "modified": 1753870584789,
+  "litePoints": [
+    {
+      "id": "35c96wz",
+      "name": "JR札幌駅南口",
+      "image": "https://image.anitabi.cn/points/2567/35c96wz_1753863650849.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        43.067,
+        141.3504
+      ]
+    },
+    {
+      "id": "35cmcgn",
+      "name": "JR札幌駅西コンコース南口",
+      "image": "https://image.anitabi.cn/points/2567/35cmcgn_1753864765924.jpg?plan=h160",
+      "ep": 7,
+      "geo": [
+        43.0677,
+        141.3502
+      ]
+    },
+    {
+      "id": "33o2d8n",
+      "name": "札幌ドーム",
+      "image": "https://image.anitabi.cn/points/2567/33o2d8n_1753762550005.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        43.0151,
+        141.4097
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "生徒会の一存",
+  "name_cn": "学生会的一己之见",
+  "local_id": 6140
+}

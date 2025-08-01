@@ -10,5 +10,95 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2fnoaal",
+    "name": "久部良港",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fnoaal-1752310691816.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.4497,
+      122.941
+    ]
+  },
+  {
+    "id": "2fo76ei",
+    "name": "桥边",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fo76ei-1752311558506.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.472,
+      123.0023
+    ]
+  },
+  {
+    "id": "2fo5e1n",
+    "name": "ダイビングショップサーウェスヨナグニ",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fo5e1n-1752311475074.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.4713,
+      123.0029
+    ]
+  },
+  {
+    "id": "2fo3inu",
+    "name": "民家",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fo3inu-1752311388373.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.4695,
+      123.0017
+    ]
+  },
+  {
+    "id": "2fo1659",
+    "name": "ホテル入船",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fo1659-1752311277949.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.4701,
+      123.0024
+    ]
+  },
+  {
+    "id": "2fnra57",
+    "name": "Pension Southern Smile",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fnra57-1752310849179.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.4516,
+      122.9432
+    ]
+  },
+  {
+    "id": "2fobts7",
+    "name": "一般甘蔗田",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fobts7-1752311779021.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.4588,
+      123.0263
+    ],
+    "origin": "wahu",
+    "originLink": "https://www.google.com/maps/d/viewer?mid=145Sfy_5kqACWFtBQOn3orli8eRQ&ll=24.459594007678675%2C122.98528635455337&z=14"
+  },
+  {
+    "id": "2fofgjy",
+    "name": "沙滩",
+    "image": "https://image.xinu.ink/pic/data/6085/images/2fofgjy-1752311951180.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      24.4427,
+      122.9834
+    ]
   }
 ]

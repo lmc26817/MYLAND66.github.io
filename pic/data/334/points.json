@@ -45,5 +45,109 @@
       38.2763,
       140.9436
     ]
+  },
+  {
+    "id": "2o4as6p",
+    "cn": "轻米食堂内",
+    "name": "軽米食堂内",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as6p-1752822598970.jpg",
+    "ep": 10,
+    "s": 1281,
+    "geo": [
+      40.3266,
+      141.4627
+    ]
+  },
+  {
+    "id": "2o4as06",
+    "name": "Takesawa Store",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as06-1752822598967.jpg",
+    "ep": 14,
+    "s": 972,
+    "geo": [
+      40.3245,
+      141.4654
+    ]
+  },
+  {
+    "id": "2o4aryr",
+    "name": "兼田商店",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4aryr-1752822598965.jpg",
+    "ep": 5,
+    "s": 733,
+    "geo": [
+      40.323,
+      141.4597
+    ]
+  },
+  {
+    "id": "2o4as6o",
+    "name": "日向研磨相遇之地",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as6o-1752822598969.jpg",
+    "ep": 1,
+    "s": 2706,
+    "geo": [
+      40.3193,
+      141.4755
+    ]
+  },
+  {
+    "id": "2o4as6r",
+    "name": "軽米町 町民体育館",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as6r-1752822598970.jpg",
+    "ep": 1,
+    "s": 1138,
+    "geo": [
+      40.3224,
+      141.4626
+    ]
+  },
+  {
+    "id": "2o4as74",
+    "cn": "轻米中学",
+    "name": "Karumai Choritsu Karumai Junior High School",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as74-1752822598971.jpg",
+    "ep": 7,
+    "s": 169,
+    "geo": [
+      40.3221,
+      141.4616
+    ]
+  },
+  {
+    "id": "2o4as79",
+    "cn": "舘坂電器商会",
+    "name": "Tatesaka Electronic Store",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as79-1752822598971.jpg",
+    "ep": 1,
+    "s": 32,
+    "geo": [
+      40.3265,
+      141.4621
+    ]
+  },
+  {
+    "id": "2o4as7l",
+    "cn": "雪谷川河岸公园",
+    "name": "Yukiyagawa Riverbed Park (Kuroo Kenma Volleyball Court)",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as7l-1752822598973.jpg",
+    "ep": 12,
+    "s": 836,
+    "geo": [
+      40.3255,
+      141.4658
+    ]
+  },
+  {
+    "id": "2o4as7k",
+    "cn": "月山神社",
+    "name": "Gassan Shrine",
+    "image": "https://image.xinu.ink/pic/data/334/images/2o4as7k-1752822598972.jpg",
+    "ep": 9,
+    "s": 355,
+    "geo": [
+      40.296,
+      141.5254
+    ]
   }
 ]

@@ -23,5 +23,49 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1iQhFNl5ku_NX1aR4CnjuQ20CJDc&ll=44.357534%2C141.695244&z=17"
+  },
+  {
+    "id": "kpx6omjao",
+    "name": "朝日大橋",
+    "image": "https://image.xinu.ink/pic/data/106/images/kpx6omjao_1753953888350.jpg",
+    "geo": [
+      44.3669,
+      141.7211
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1iQhFNl5ku_NX1aR4CnjuQ20CJDc&ll=44.366937%2C141.721101&z=17"
+  },
+  {
+    "id": "kpx6omj25",
+    "name": "羽幌橋",
+    "image": "https://image.xinu.ink/pic/data/106/images/kpx6omj25_1753953849141.jpg",
+    "geo": [
+      44.368,
+      141.705
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1iQhFNl5ku_NX1aR4CnjuQ20CJDc&ll=44.368042%2C141.705008&z=17"
+  },
+  {
+    "id": "36uh4d9",
+    "name": "狸小路商店街",
+    "image": "https://image.xinu.ink/pic/data/106/images/36uh4d9_1753954714461.jpg",
+    "geo": [
+      43.057,
+      141.3511
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "36ur6jn",
+    "name": "札幌市時計台前",
+    "image": "https://image.xinu.ink/pic/data/106/images/36ur6jn_1753955182255.jpg",
+    "geo": [
+      43.0626,
+      141.3531
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

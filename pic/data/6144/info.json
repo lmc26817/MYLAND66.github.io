@@ -1,0 +1,34 @@
+{
+  "id": 38668,
+  "cn": "盖亚奥特曼",
+  "title": "ウルトラマンガイア",
+  "cover": "https://image.xinu.ink/pic/data/6144/images/38668_QJcRP.jpg",
+  "modified": 1751985228659,
+  "litePoints": [
+    {
+      "id": "2a6k5qr",
+      "cn": "つどい橋",
+      "name": "つどい橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/38668/points/2a6k5qr-1751979699489.jpg?plan=h160",
+      "geo": [
+        35.6295,
+        139.786
+      ]
+    },
+    {
+      "id": "2a6naun",
+      "cn": "梦之大桥",
+      "name": "夢の大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/38668/points/2a6naun-1751979859515.jpg?plan=h160",
+      "geo": [
+        35.6292,
+        139.7854
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "ウルトラマンガイア",
+  "name_cn": "盖亚奥特曼",
+  "local_id": 6144
+}

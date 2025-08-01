@@ -198,5 +198,40 @@
       121.4939
     ],
     "originLink": "https://home.gamer.com.tw/creationDetail.php?sn=2504084"
+  },
+  {
+    "id": "kpx6oi64q",
+    "name": "千葉モノレール 県庁前駅",
+    "image": "https://image.xinu.ink/pic/data/77/images/kpx6oi64q-1752678885506.jpg",
+    "ep": 14,
+    "s": 1006,
+    "geo": [
+      35.6033,
+      140.1223
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.603309%2C140.122375&z=17"
+  },
+  {
+    "id": "2e6yqnu",
+    "name": "電通本社ビル",
+    "image": "https://image.xinu.ink/pic/data/77/images/2e6yqnu_1752222143610.jpg",
+    "geo": [
+      35.6641,
+      139.7614
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2e6ngtt",
+    "name": "東京​ツインパークスレフトウイング",
+    "image": "https://image.xinu.ink/pic/data/77/images/2e6ngtt_1752221685854_cblack.jpg",
+    "geo": [
+      35.6612,
+      139.7601
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
   }
 ]

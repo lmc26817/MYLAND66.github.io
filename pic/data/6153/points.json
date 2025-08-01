@@ -1,0 +1,47 @@
+[
+  {
+    "id": "28lkk53",
+    "name": "JR阿佐谷站",
+    "image": "https://image.xinu.ink/pic/data/6153/images/28lkk53-1751883913544.jpg",
+    "ep": "第一话诚与岭司相遇的地方",
+    "s": "10分52秒",
+    "geo": [
+      35.7045,
+      139.6363
+    ]
+  },
+  {
+    "id": "28lr0i2",
+    "name": "石神井公园小路",
+    "image": "https://image.xinu.ink/pic/data/6153/images/28lr0i2-1751884202861.jpg",
+    "ep": "1",
+    "s": "585秒",
+    "geo": [
+      35.7399,
+      139.6022
+    ]
+  },
+  {
+    "id": "2a6r8so",
+    "cn": "台场海滨公园",
+    "name": "台场海滨公园",
+    "image": "https://image.xinu.ink/pic/data/6153/images/2a6r8so-1751979972640.jpg",
+    "ep": "4集",
+    "s": "268秒左右",
+    "geo": [
+      35.6285,
+      139.7736
+    ]
+  },
+  {
+    "id": "2a6w944",
+    "cn": "东京站前",
+    "name": "东京站前",
+    "image": "https://image.xinu.ink/pic/data/6153/images/2a6w944-1751980365744.jpg",
+    "ep": "6",
+    "geo": [
+      35.6816,
+      139.7651
+    ]
+  }
+]

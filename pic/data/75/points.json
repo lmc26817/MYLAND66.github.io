@@ -35,5 +35,17 @@
     ],
     "origin": "Anitabi@卜卜口",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6ohwz1",
+    "name": "ちどり荘",
+    "image": "https://image.xinu.ink/pic/data/75/images/kpx6ohwz1-1751861168323.jpg",
+    "ep": null,
+    "geo": [
+      34.4764,
+      132.2421
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1L5wpIrHwqYqvhchMW6zWj9thEbs&ll=34.476458%2C132.242134&z=17"
   }
 ]

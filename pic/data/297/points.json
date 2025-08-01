@@ -101,5 +101,115 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.707771%2C139.751471&z=17"
+  },
+  {
+    "id": "51i528231",
+    "name": "日比谷図書文化舘 裏側",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i528231_1752673748909.jpg",
+    "geo": [
+      35.6718,
+      139.7541
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.671818%2C139.754183&z=17"
+  },
+  {
+    "id": "51i5282ub",
+    "name": "日比谷野外大音楽場",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i5282ub_1752673694654.jpg",
+    "geo": [
+      35.672,
+      139.754
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.672067%2C139.754036&z=17"
+  },
+  {
+    "id": "51i5282q5",
+    "name": "礫川公園 カスケード",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i5282q5_1752674333413.jpg",
+    "geo": [
+      35.7077,
+      139.751
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.707756%2C139.751002&z=17"
+  },
+  {
+    "id": "51i5282zs",
+    "name": "元町公園 入口階段",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i5282zs_1752674208613.jpg",
+    "geo": [
+      35.7021,
+      139.758
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.702119%2C139.758038&z=17"
+  },
+  {
+    "id": "51i52834v",
+    "name": "元町公園 カスケード",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i52834v_1752674222654.jpg",
+    "geo": [
+      35.7022,
+      139.7579
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.702224%2C139.757936&z=17"
+  },
+  {
+    "id": "51i52835r",
+    "name": "日比谷公会堂 駐車場",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i52835r_1752674459975.jpg",
+    "geo": [
+      35.6716,
+      139.7553
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.67167%2C139.755345&z=17"
+  },
+  {
+    "id": "51i5282is",
+    "name": "礫川公園 石碑前",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i5282is_1752673945574.jpg",
+    "geo": [
+      35.7077,
+      139.7506
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.707778%2C139.750672&z=17"
+  },
+  {
+    "id": "51i52832b",
+    "name": "礫川公園 カスケード横階段",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i52832b_1752674352677.jpg",
+    "geo": [
+      35.7076,
+      139.7509
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.707678%2C139.750927&z=17"
+  },
+  {
+    "id": "51i5283le",
+    "name": "元町公園 見下ろしカット",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i5283le_1752674193777.jpg",
+    "geo": [
+      35.7021,
+      139.758
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.702158%2C139.758044&z=17"
+  },
+  {
+    "id": "51i528404",
+    "name": "日比谷公園 雲形池橋",
+    "image": "https://image.xinu.ink/pic/data/297/images/51i528404_1752673878894.jpg",
+    "geo": [
+      35.6735,
+      139.7552
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zPWmE--Z--YU.k6bGdA0kcXS0&ll=35.673566%2C139.755299&z=17"
   }
 ]

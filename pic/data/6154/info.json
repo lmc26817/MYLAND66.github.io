@@ -1,0 +1,74 @@
+{
+  "id": 77570,
+  "cn": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+  "title": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+  "cover": "https://image.xinu.ink/pic/data/6154/images/77570.jpg",
+  "color": "#713947",
+  "cp": "のうコメ",
+  "geo": [
+    36.370814,
+    140.476685
+  ],
+  "modified": 1752846303601,
+  "litePoints": [
+    {
+      "id": "aac0ee6d",
+      "name": "JR水戸駅 改札口",
+      "image": "https://image.anitabi.cn/points/77570/aac0ee6d_1752846148415.jpg?plan=h160",
+      "geo": [
+        36.3709,
+        140.4761
+      ]
+    },
+    {
+      "id": "c3f66581",
+      "name": "デッキ撮影ポイント",
+      "image": "https://image.anitabi.cn/points/77570/c3f66581_1752846201510.jpg?plan=h160",
+      "geo": [
+        36.3721,
+        140.4761
+      ]
+    },
+    {
+      "id": "86314d12",
+      "name": "納豆像",
+      "image": "https://image.anitabi.cn/points/77570/86314d12_1752846044239.jpg?plan=h160",
+      "geo": [
+        36.3698,
+        140.4757
+      ]
+    },
+    {
+      "id": "1bdee546",
+      "name": "ヤマダ電機水戸店",
+      "image": "https://image.anitabi.cn/points/77570/1bdee546_1752846253686.jpg?plan=h160",
+      "geo": [
+        36.3701,
+        140.4758
+      ]
+    },
+    {
+      "id": "944479c7",
+      "name": "JR水戸駅北口",
+      "image": "https://image.anitabi.cn/points/77570/944479c7_1752846238598.jpg?plan=h160",
+      "geo": [
+        36.3715,
+        140.476
+      ]
+    },
+    {
+      "id": "67e04bc0",
+      "name": "水戸黄門御一行像",
+      "image": "https://image.anitabi.cn/points/77570/67e04bc0_1752846091846.jpg?plan=h160",
+      "geo": [
+        36.3714,
+        140.4763
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+  "name_cn": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+  "local_id": 6154
+}

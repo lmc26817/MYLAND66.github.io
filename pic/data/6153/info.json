@@ -1,0 +1,55 @@
+{
+  "id": 77171,
+  "cn": "高达创战者",
+  "title": "ガンダムビルドファイターズ",
+  "cover": "https://image.xinu.ink/pic/data/6153/images/77171_i4TC4.jpg",
+  "cp": "サンライズ",
+  "modified": 1751981873667,
+  "litePoints": [
+    {
+      "id": "28lkk53",
+      "name": "JR阿佐谷站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/354414/points/28lkk53-1751883913544.jpg?plan=h160",
+      "geo": [
+        35.7045,
+        139.6363
+      ]
+    },
+    {
+      "id": "28lr0i2",
+      "name": "石神井公园小路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/77171/points/28lr0i2-1751884202861.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7399,
+        139.6022
+      ]
+    },
+    {
+      "id": "2a6r8so",
+      "cn": "台场海滨公园",
+      "name": "台场海滨公园",
+      "image": "https://image.anitabi.cn/user/0/bangumi/77171/points/2a6r8so-1751979972640.jpg?plan=h160",
+      "geo": [
+        35.6285,
+        139.7736
+      ]
+    },
+    {
+      "id": "2a6w944",
+      "cn": "东京站前",
+      "name": "东京站前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/77171/points/2a6w944-1751980365744.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.6816,
+        139.7651
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "ガンダムビルドファイターズ",
+  "name_cn": "高达创战者",
+  "local_id": 6153
+}

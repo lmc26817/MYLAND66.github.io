@@ -1,0 +1,38 @@
+[
+  {
+    "id": "35c96wz",
+    "name": "JR札幌駅南口",
+    "image": "https://image.xinu.ink/pic/data/6140/images/35c96wz_1753863650849.jpg",
+    "ep": 7,
+    "geo": [
+      43.067,
+      141.3504
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "35cmcgn",
+    "name": "JR札幌駅西コンコース南口",
+    "image": "https://image.xinu.ink/pic/data/6140/images/35cmcgn_1753864765924.jpg",
+    "ep": 7,
+    "geo": [
+      43.0677,
+      141.3502
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "33o2d8n",
+    "name": "札幌ドーム",
+    "image": "https://image.xinu.ink/pic/data/6140/images/33o2d8n_1753762550005.jpg",
+    "ep": 11,
+    "geo": [
+      43.0151,
+      141.4097
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

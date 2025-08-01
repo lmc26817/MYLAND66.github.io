@@ -41,5 +41,61 @@
     ],
     "origin": "Anitabi@澄蔦",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23ax0ra",
+    "name": "ひがし茶屋街",
+    "image": "https://image.xinu.ink/pic/data/192/images/23ax0ra_1751563657315.jpg",
+    "geo": [
+      36.5724,
+      136.6679
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "oii997x03",
+    "cn": "爪木崎灯塔",
+    "name": "爪木崎灯台",
+    "image": "https://image.xinu.ink/pic/data/192/images/lqktrgq2t-1724577690033.jpg",
+    "geo": [
+      34.6592,
+      138.986
+    ],
+    "origin": "Anitabi@面白い",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23acpx0",
+    "name": "主計町茶屋街",
+    "image": "https://image.xinu.ink/pic/data/192/images/23acpx0_1751562708930.jpg",
+    "geo": [
+      36.572,
+      136.6638
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23amfs0",
+    "name": "豎崎路",
+    "image": "https://image.xinu.ink/pic/data/192/images/23amfs0_1751563215785.jpg",
+    "geo": [
+      25.1086,
+      121.8435
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23au8p9",
+    "name": "基山街",
+    "image": "https://image.xinu.ink/pic/data/192/images/23au8p9_1751563529963.jpg",
+    "geo": [
+      25.1094,
+      121.8453
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
   }
 ]

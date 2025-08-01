@@ -617,5 +617,41 @@
       35.2038,
       136.2321
     ]
+  },
+  {
+    "id": "28bsith",
+    "name": "セブン-イレブン 京都修学院駅前店",
+    "image": "https://image.xinu.ink/pic/data/69/images/28bsith-1751867613702.jpg",
+    "ep": 9,
+    "s": 82,
+    "geo": [
+      35.0504,
+      135.7906
+    ]
+  },
+  {
+    "id": "s9tijzj57",
+    "name": "松ヶ﨑橋",
+    "image": "https://image.xinu.ink/pic/data/69/images/s9tijzj57_1737903841686.jpg",
+    "ep": 3,
+    "s": 222,
+    "geo": [
+      35.0512,
+      135.7889
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "s8qkqvyqv",
+    "name": "とよせ",
+    "image": "https://image.xinu.ink/pic/data/69/images/s8qkqvyqv-1751364326661.jpg",
+    "ep": null,
+    "geo": [
+      35.1977,
+      136.2303
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

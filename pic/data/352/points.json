@@ -141,5 +141,471 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.233404%2C139.105182&z=17"
+  },
+  {
+    "id": "kpwp9epho",
+    "name": "江ノ島 遠景",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epho_1753265546866.jpg",
+    "ep": "OP",
+    "geo": [
+      35.3007,
+      139.4831
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.300764%2C139.483188&z=17"
+  },
+  {
+    "id": "kpwp9epuj",
+    "name": "七里ヶ浜 有料駐車場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epuj_1753265584818.jpg",
+    "ep": "OP",
+    "geo": [
+      35.3043,
+      139.5133
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.304367%2C139.513369&z=17"
+  },
+  {
+    "id": "kpwp9epfn",
+    "name": "坂ノ下 134号線沿い",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epfn_1753264427357.jpg",
+    "ep": 1,
+    "geo": [
+      35.3089,
+      139.5343
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.308907%2C139.534307&z=17"
+  },
+  {
+    "id": "kpwp9ep5v",
+    "name": "焼刃稲荷",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ep5v_1753264406574.jpg",
+    "ep": 1,
+    "geo": [
+      35.3229,
+      139.5499
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.322976%2C139.549965&z=17"
+  },
+  {
+    "id": "kpwp9ephk",
+    "name": "御陵橋",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ephk_1753264492782.jpg",
+    "ep": 1,
+    "geo": [
+      35.323,
+      139.5627
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.323019%2C139.562715&z=17"
+  },
+  {
+    "id": "kpwp9epqc",
+    "name": "御霊神社前 踏切",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epqc_1753264471358.jpg",
+    "ep": 1,
+    "geo": [
+      35.3107,
+      139.5331
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.310794%2C139.533115&z=17"
+  },
+  {
+    "id": "kpwp9epl6",
+    "name": "手打ちそば こ寿々",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epl6_1753264729940.jpg",
+    "ep": 2,
+    "geo": [
+      35.3216,
+      139.5538
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.321604%2C139.553843&z=17"
+  },
+  {
+    "id": "kpwp9epnk",
+    "name": "さくらの夢見屋 小町通り本店",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epnk_1753264517509.jpg",
+    "ep": 2,
+    "geo": [
+      35.3212,
+      139.5521
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.321269%2C139.552191&z=17"
+  },
+  {
+    "id": "kpwp9epb8",
+    "name": "小町通りゲート",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epb8_1753264536974.jpg",
+    "ep": 3,
+    "geo": [
+      35.3222,
+      139.5526
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.322236%2C139.552674&z=17"
+  },
+  {
+    "id": "kpwp9epiv",
+    "name": "鎌倉はんなりいなり",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epiv_1753264650461.jpg",
+    "ep": 3,
+    "geo": [
+      35.3209,
+      139.5521
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.320993%2C139.5521&z=17"
+  },
+  {
+    "id": "kpwp9ep7b",
+    "name": "鎌倉駅バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ep7b_1753264674965.jpg",
+    "ep": 3,
+    "geo": [
+      35.3188,
+      139.5508
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.318899%2C139.550829&z=17"
+  },
+  {
+    "id": "kpwp9epd3",
+    "name": "荏柄天神社 横歩道",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epd3_1753264360799.jpg",
+    "ep": 3,
+    "geo": [
+      35.3255,
+      139.564
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.32551%2C139.564065&z=17"
+  },
+  {
+    "id": "kpwp9eppl",
+    "name": "寿福寺トンネル付近 通路",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eppl_1753265071306.jpg",
+    "ep": 4,
+    "geo": [
+      35.3236,
+      139.5483
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.323632%2C139.548399&z=17"
+  },
+  {
+    "id": "kpwp9epgw",
+    "name": "寿福寺踏切",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epgw_1753265055778.jpg",
+    "ep": 4,
+    "geo": [
+      35.3247,
+      139.5504
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.324709%2C139.550491&z=17"
+  },
+  {
+    "id": "kpwpbrnuq",
+    "name": "ファーストキッチン平塚店",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwpbrnuq_1753263981734.jpg",
+    "ep": 5,
+    "geo": [
+      35.3287,
+      139.3499
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.328781%2C139.34992&z=17"
+  },
+  {
+    "id": "kpwp9epqn",
+    "name": "不二家 平塚店",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epqn_1753263949094.jpg",
+    "ep": 5,
+    "geo": [
+      35.329,
+      139.3499
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.329037%2C139.349925&z=17"
+  },
+  {
+    "id": "kpwp9epkf",
+    "name": "紅谷町パールロード 絹衣",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epkf_1753264050335.jpg",
+    "ep": 5,
+    "geo": [
+      35.3289,
+      139.3484
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.328954%2C139.348418&z=17"
+  },
+  {
+    "id": "kpwp9ep8y",
+    "name": "見附台広場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ep8y_1753264075157.jpg",
+    "ep": 5,
+    "geo": [
+      35.3293,
+      139.343
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.329388%2C139.343097&z=17"
+  },
+  {
+    "id": "kpwp9epem",
+    "name": "平塚 銀座通り",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epem_1753264162742.jpg",
+    "ep": 5,
+    "geo": [
+      35.3294,
+      139.3469
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.32942%2C139.346943&z=17"
+  },
+  {
+    "id": "kpwp9epfl",
+    "name": "寿福寺トンネル 南側",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epfl_1753265261865.jpg",
+    "ep": 6,
+    "geo": [
+      35.3234,
+      139.5489
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.32347%2C139.548991&z=17"
+  },
+  {
+    "id": "kpwp9ephw",
+    "name": "TSUTAYA O-EAST",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9ephw_1753257897871.jpg",
+    "ep": 6,
+    "geo": [
+      35.6588,
+      139.6954
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.658831%2C139.695464&z=17"
+  },
+  {
+    "id": "kpwp9epw0",
+    "name": "寿福寺 鐘楼横",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epw0_1753260904525.jpg",
+    "ep": 7,
+    "geo": [
+      35.3242,
+      139.5494
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.324243%2C139.549436&z=17"
+  },
+  {
+    "id": "kpwp9epkc",
+    "name": "寿福寺前 トイレ街灯",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epkc_1753260892462.jpg",
+    "ep": 8,
+    "geo": [
+      35.324,
+      139.5504
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.324072%2C139.55044&z=17"
+  },
+  {
+    "id": "kpwp9eps8",
+    "name": "鎌倉 東急ストア",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eps8_1753260837758.jpg",
+    "ep": 8,
+    "geo": [
+      35.3184,
+      139.5509
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.318417%2C139.550928&z=17"
+  },
+  {
+    "id": "kpwp9eppo",
+    "name": "江ノ島電鉄 鎌倉高校前駅",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eppo_1753260807256.jpg",
+    "ep": 8,
+    "geo": [
+      35.3067,
+      139.5008
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.306718%2C139.500864&z=17"
+  },
+  {
+    "id": "kpwp9epva",
+    "name": "箱根登山鉄道 早川橋梁",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epva_1753257236494.jpg",
+    "ep": 10,
+    "geo": [
+      35.2342,
+      139.087
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.234269%2C139.087026&z=17"
+  },
+  {
+    "id": "kpwp9epdy",
+    "name": "大涌谷",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epdy_1753257257478.jpg",
+    "ep": 10,
+    "geo": [
+      35.24,
+      139.019
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.240097%2C139.01907&z=17"
+  },
+  {
+    "id": "kpwp9eplx",
+    "name": "早川河川敷",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eplx_1753257300038.jpg",
+    "ep": 10,
+    "geo": [
+      35.2335,
+      139.1049
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.23352%2C139.10496&z=17"
+  },
+  {
+    "id": "kpwp9eptt",
+    "name": "成田空港第１ターミナル駐車場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eptt_1753257393351.jpg",
+    "ep": 11,
+    "geo": [
+      35.7655,
+      140.3871
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.765599%2C140.387136&z=17"
+  },
+  {
+    "id": "kpwp9eptm",
+    "name": "成田空港第2ターミナル",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eptm_1753257416142.jpg",
+    "ep": 11,
+    "geo": [
+      35.7735,
+      140.388
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.773517%2C140.38802&z=17"
+  },
+  {
+    "id": "kpwp9eppz",
+    "name": "鎌倉市第二小学校横通り 水路付近",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9eppz_1753257593846.jpg",
+    "ep": 12,
+    "geo": [
+      35.3241,
+      139.5648
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.324118%2C139.564832&z=17"
+  },
+  {
+    "id": "kpwp9epx0",
+    "name": "鶴岡八幡宮 二の鳥居",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epx0_1753257610534.jpg",
+    "ep": 12,
+    "geo": [
+      35.3196,
+      139.5524
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.319662%2C139.552475&z=17"
+  },
+  {
+    "id": "kpwp9epn3",
+    "name": "二の鳥居前交差点 駐車場",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epn3_1753257800797.jpg",
+    "ep": 12,
+    "geo": [
+      35.3196,
+      139.5527
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.319623%2C139.552712&z=17"
+  },
+  {
+    "id": "kpwp9epki",
+    "name": "鎌倉海浜公園 稲村ガ崎地区",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epki_1753257836381.jpg",
+    "ep": 12,
+    "geo": [
+      35.3026,
+      139.5244
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.302669%2C139.524465&z=17"
+  },
+  {
+    "id": "kpwp9epo8",
+    "name": "九品寺前交差点",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epo8_1753257844005.jpg",
+    "ep": 12,
+    "geo": [
+      35.3071,
+      139.5522
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.307182%2C139.552234&z=17"
+  },
+  {
+    "id": "kpwp9epag",
+    "name": "稲村ヶ崎海岸 トンネル前",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epag_1753257963725.jpg",
+    "ep": 12,
+    "geo": [
+      35.3029,
+      139.5239
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.302925%2C139.523942&z=17"
+  },
+  {
+    "id": "kpwpbro7p",
+    "name": "稲村ヶ崎海岸 堤防",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwpbro7p_1753257975443.jpg",
+    "ep": 12,
+    "geo": [
+      35.3028,
+      139.5239
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.302807%2C139.523926&z=17"
+  },
+  {
+    "id": "kpwp9epv7",
+    "name": "鎌倉高校前１号踏み切り 南側横断歩道",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epv7_1753260619647.jpg",
+    "geo": [
+      35.3065,
+      139.5019
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.306526%2C139.501986&z=17"
+  },
+  {
+    "id": "kpwp9epkq",
+    "name": "七里ガ浜２号踏み切り 北側横断歩道",
+    "image": "https://image.xinu.ink/pic/data/352/images/kpwp9epkq_1753260559647.jpg",
+    "geo": [
+      35.3048,
+      139.5139
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1l-vZ0g6sv0-EMEyAao_j9vsgU2Y&ll=35.304836%2C139.513911&z=17"
   }
 ]

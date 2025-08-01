@@ -54,5 +54,49 @@
     ],
     "origin": "Anitabi@澄蔦",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23g8xpm",
+    "name": "円山水族館",
+    "image": "https://image.xinu.ink/pic/data/6103/images/23g8xpm_1751572629392.jpg",
+    "geo": [
+      35.6565,
+      134.8233
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23gd4kb",
+    "name": "城崎温泉ロープウェイ山頂駅",
+    "image": "https://image.xinu.ink/pic/data/6103/images/23gd4kb_1751572827186.jpg",
+    "geo": [
+      35.6225,
+      134.7972
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23gfgln",
+    "name": "木屋町小路",
+    "image": "https://image.xinu.ink/pic/data/6103/images/23gfgln_1751572985188.jpg",
+    "geo": [
+      35.6255,
+      134.8081
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "23gqihw",
+    "name": "産寧坂（三年坂）",
+    "image": "https://image.xinu.ink/pic/data/6103/images/23gqihw_1751573493848.jpg",
+    "geo": [
+      34.9965,
+      135.7809
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
   }
 ]

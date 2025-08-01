@@ -1,0 +1,112 @@
+{
+  "id": 298010,
+  "cn": "平安达纪",
+  "title": "へんたつ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6175/images/298010.jpg",
+  "color": "#fc619b",
+  "cp": "irodori",
+  "geo": [
+    35.709210241590625,
+    139.66568619333634
+  ],
+  "zoom": 12.798,
+  "modified": 1752575994180,
+  "litePoints": [
+    {
+      "id": "51i53z4bj",
+      "name": "中野ブロードウェイ",
+      "image": "https://image.anitabi.cn/points/298010/51i53z4bj_1752575748250.jpg?plan=h160",
+      "geo": [
+        35.7092,
+        139.6656
+      ]
+    },
+    {
+      "id": "51i53z51z",
+      "name": "JR中野駅 7-8番線ホーム",
+      "image": "https://image.anitabi.cn/points/298010/51i53z51z_1752575739494.jpg?plan=h160",
+      "geo": [
+        35.706,
+        139.6657
+      ]
+    },
+    {
+      "id": "51i53z4vs",
+      "name": "中野レンガ坂商店会",
+      "image": "https://image.anitabi.cn/points/298010/51i53z4vs_1752575718898.jpg?plan=h160",
+      "geo": [
+        35.705,
+        139.6653
+      ]
+    },
+    {
+      "id": "51i53z4nj",
+      "name": "スカイテル21",
+      "image": "https://image.anitabi.cn/points/298010/51i53z4nj_1752575704692.jpg?plan=h160",
+      "geo": [
+        35.7045,
+        139.6637
+      ]
+    },
+    {
+      "id": "51i53z53o",
+      "name": "解体現場",
+      "image": "https://image.anitabi.cn/points/298010/51i53z53o_1752575679820.jpg?plan=h160",
+      "geo": [
+        35.7053,
+        139.6631
+      ]
+    },
+    {
+      "id": "51i53z541",
+      "name": "囲桃園跨線橋上",
+      "image": "https://image.anitabi.cn/points/298010/51i53z541_1752575598626.jpg?plan=h160",
+      "geo": [
+        35.7055,
+        139.6608
+      ]
+    },
+    {
+      "id": "51i53z4pi",
+      "name": "囲桃園跨線橋 北側",
+      "image": "https://image.anitabi.cn/points/298010/51i53z4pi_1752575627652.jpg?plan=h160",
+      "geo": [
+        35.7058,
+        139.6606
+      ]
+    },
+    {
+      "id": "51i53z50e",
+      "name": "犬屋敷跡",
+      "image": "https://image.anitabi.cn/points/298010/51i53z50e_1752575575197.jpg?plan=h160",
+      "geo": [
+        35.7068,
+        139.6637
+      ]
+    },
+    {
+      "id": "51i53z4rf",
+      "name": "中野駅北口 駅前広場",
+      "image": "https://image.anitabi.cn/points/298010/51i53z4rf_1752575807802.jpg?plan=h160",
+      "geo": [
+        35.7063,
+        139.6658
+      ]
+    },
+    {
+      "id": "51i53z548",
+      "name": "JR新宿駅 新南口改札",
+      "image": "https://image.anitabi.cn/points/298010/51i53z548_1752575837081.jpg?plan=h160",
+      "geo": [
+        35.6883,
+        139.7009
+      ]
+    }
+  ],
+  "pointsLength": 14,
+  "imagesLength": 14,
+  "name": "へんたつ",
+  "name_cn": "平安达纪",
+  "local_id": 6175
+}

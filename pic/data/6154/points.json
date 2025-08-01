@@ -1,0 +1,68 @@
+[
+  {
+    "id": "aac0ee6d",
+    "name": "JR水戸駅 改札口",
+    "image": "https://image.xinu.ink/pic/data/6154/images/aac0ee6d_1752846148415.jpg",
+    "geo": [
+      36.3709,
+      140.4761
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1u9AjEzvhfmKjIRkOll_d3C_ftog&ll=36.3709%2C140.47618&z=17"
+  },
+  {
+    "id": "c3f66581",
+    "name": "デッキ撮影ポイント",
+    "image": "https://image.xinu.ink/pic/data/6154/images/c3f66581_1752846201510.jpg",
+    "geo": [
+      36.3721,
+      140.4761
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1u9AjEzvhfmKjIRkOll_d3C_ftog&ll=36.372101%2C140.476126&z=17"
+  },
+  {
+    "id": "86314d12",
+    "name": "納豆像",
+    "image": "https://image.xinu.ink/pic/data/6154/images/86314d12_1752846044239.jpg",
+    "geo": [
+      36.3698,
+      140.4757
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1u9AjEzvhfmKjIRkOll_d3C_ftog&ll=36.36982%2C140.47574&z=17"
+  },
+  {
+    "id": "1bdee546",
+    "name": "ヤマダ電機水戸店",
+    "image": "https://image.xinu.ink/pic/data/6154/images/1bdee546_1752846253686.jpg",
+    "geo": [
+      36.3701,
+      140.4758
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1u9AjEzvhfmKjIRkOll_d3C_ftog&ll=36.37014%2C140.475836&z=17"
+  },
+  {
+    "id": "944479c7",
+    "name": "JR水戸駅北口",
+    "image": "https://image.xinu.ink/pic/data/6154/images/944479c7_1752846238598.jpg",
+    "geo": [
+      36.3715,
+      140.476
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1u9AjEzvhfmKjIRkOll_d3C_ftog&ll=36.371524%2C140.476059&z=17"
+  },
+  {
+    "id": "67e04bc0",
+    "name": "水戸黄門御一行像",
+    "image": "https://image.xinu.ink/pic/data/6154/images/67e04bc0_1752846091846.jpg",
+    "geo": [
+      36.3714,
+      140.4763
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1u9AjEzvhfmKjIRkOll_d3C_ftog&ll=36.37147%2C140.476303&z=17"
+  }
+]

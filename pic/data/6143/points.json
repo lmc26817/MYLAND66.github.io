@@ -1,0 +1,34 @@
+[
+  {
+    "id": "25vl6ar",
+    "cn": "永代路口",
+    "name": "稻濑路口",
+    "image": "https://image.xinu.ink/pic/data/6143/images/25vl6ar-1751719435335.jpg",
+    "ep": null,
+    "geo": [
+      35.6723,
+      139.7947
+    ]
+  },
+  {
+    "id": "25vqtcx",
+    "name": "清澄通り",
+    "image": "https://image.xinu.ink/pic/data/6143/images/25vqtcx-1751719584098.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      35.6715,
+      139.7941
+    ]
+  },
+  {
+    "id": "25vuxjk",
+    "name": "巴橋",
+    "image": "https://image.xinu.ink/pic/data/6143/images/25vuxjk-1751719800236.jpg",
+    "ep": null,
+    "geo": [
+      35.6702,
+      139.798
+    ]
+  }
+]

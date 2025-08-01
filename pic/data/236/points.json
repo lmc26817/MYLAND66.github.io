@@ -48,5 +48,100 @@
       48.8737,
       2.2952
     ]
+  },
+  {
+    "id": "2t2noa2",
+    "cn": "埃菲尔铁塔",
+    "name": "Tour Eiffel",
+    "image": "https://image.xinu.ink/pic/data/236/images/2t2noa2_1753121908896.jpg",
+    "ep": "剧场版",
+    "s": 250,
+    "geo": [
+      48.8582,
+      2.2945
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2t2qgdb",
+    "cn": "凯旋门和埃菲尔铁塔",
+    "name": "Arc de Triomphe & Tour Eiffel",
+    "image": "https://image.xinu.ink/pic/data/236/images/2t2qgdb_1753122041185.jpg",
+    "ep": "剧场版",
+    "s": 782,
+    "geo": [
+      48.8812,
+      2.2952
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2t3d3j4",
+    "cn": "瓦格兰大街",
+    "name": "Avenue de Wagram",
+    "image": "https://image.xinu.ink/pic/data/236/images/2t3d3j4_1753123090004.jpg",
+    "ep": "剧场版",
+    "s": 789,
+    "geo": [
+      48.8752,
+      2.2961
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2t3nqxz",
+    "cn": "里昂火车站",
+    "name": "Gare de Lyon",
+    "image": "https://image.xinu.ink/pic/data/236/images/2t3nqxz_1753123586438.jpg",
+    "ep": "剧场版",
+    "s": 838,
+    "geo": [
+      48.8306,
+      2.3928
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2t4a5ik",
+    "name": "天竜二俣駅 機関車転車台",
+    "image": "https://image.xinu.ink/pic/data/236/images/2t4a5ik_1753124631205.jpg",
+    "ep": "剧场版",
+    "s": 1058,
+    "geo": [
+      34.8584,
+      137.8228
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2t4bi7u",
+    "name": "天竜浜名湖鉄道 車両基地",
+    "image": "https://image.xinu.ink/pic/data/236/images/2t4bi7u_1753124692316.jpg",
+    "ep": "剧场版",
+    "s": 1065,
+    "geo": [
+      34.8585,
+      137.8232
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2t4q4by",
+    "name": "宇部新川站",
+    "image": "https://image.xinu.ink/pic/data/236/images/2t4q4by_1753125376518.jpg",
+    "ep": "剧场版",
+    "s": 8616,
+    "geo": [
+      33.9586,
+      131.2426
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

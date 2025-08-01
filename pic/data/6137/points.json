@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22yppn2",
+    "cn": "海游馆",
+    "name": "海遊館",
+    "image": "https://image.xinu.ink/pic/data/6137/images/22yppn2-1751543287944.jpg",
+    "ep": 3,
+    "s": 884,
+    "geo": [
+      34.6547,
+      135.4294
+    ]
+  },
+  {
+    "id": "22zak4y",
+    "cn": "东京铁塔",
+    "name": "東京タワー",
+    "image": "https://image.xinu.ink/pic/data/6137/images/22zak4y-1751544247907.jpg",
+    "ep": "40",
+    "s": "711",
+    "geo": [
+      35.6586,
+      139.7453
+    ]
+  }
+]

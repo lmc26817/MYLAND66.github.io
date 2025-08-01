@@ -1,0 +1,63 @@
+{
+  "id": 64172,
+  "cn": "偶像大师 剧场版 向着光辉的彼岸！",
+  "title": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
+  "cover": "https://image.xinu.ink/pic/data/6151/images/64172_8MujB.jpg",
+  "modified": 1752975386641,
+  "litePoints": [
+    {
+      "id": "2qghoyc",
+      "name": "難波江​区​ふれあい​会館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64172/points/2qghoyc-1752963806188.jpg?plan=h160",
+      "s": 2298,
+      "geo": [
+        35.5054,
+        135.5038
+      ]
+    },
+    {
+      "id": "2qgw5xy",
+      "name": "まるいち旅館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64172/points/2qgw5xy-1752964441088.jpg?plan=h160",
+      "s": 851,
+      "geo": [
+        35.4924,
+        135.5767
+      ]
+    },
+    {
+      "id": "2qh0dew",
+      "name": "大安商店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64172/points/2qh0dew-1752964645745.jpg?plan=h160",
+      "geo": [
+        35.4908,
+        135.5446
+      ]
+    },
+    {
+      "id": "2qh7mhc",
+      "name": "天満宮前の階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64172/points/2qh7mhc-1752964993111.jpg?plan=h160",
+      "s": 1431,
+      "geo": [
+        35.5137,
+        135.5089
+      ]
+    },
+    {
+      "id": "2qhc12c",
+      "name": "日枝神社前の階段",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64172/points/2qhc12c-1752965710510.jpg?plan=h160",
+      "s": 765,
+      "geo": [
+        35.5055,
+        135.5034
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
+  "name_cn": "偶像大师 剧场版 向着光辉的彼岸！",
+  "local_id": 6151
+}

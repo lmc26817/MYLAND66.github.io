@@ -277,5 +277,85 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "281ii8x",
+    "cn": "福岡電器店隔壁的隔壁的建筑",
+    "name": "福岡電器店の隣の隣の建物",
+    "image": "https://image.xinu.ink/pic/data/274/images/281ii8x-1751850302241.jpg",
+    "ep": 1,
+    "s": 495,
+    "geo": [
+      33.977,
+      136.0537
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2824bi7",
+    "name": "二木岛港",
+    "image": "https://image.xinu.ink/pic/data/274/images/2824bi7-1751851345622.jpg",
+    "ep": 17,
+    "s": 624,
+    "geo": [
+      33.9393,
+      136.1817
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "282uok1",
+    "cn": "小狗子隧道口",
+    "name": "小狗子トンネル",
+    "image": "https://image.xinu.ink/pic/data/274/images/282uok1-1751852458769.jpg",
+    "ep": 6,
+    "s": 873,
+    "geo": [
+      33.6504,
+      135.9518
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "282x1wh",
+    "name": "造船厂仰望",
+    "image": "https://image.xinu.ink/pic/data/274/images/282x1wh-1751852604225.jpg",
+    "ep": 5,
+    "s": 370,
+    "geo": [
+      34.1962,
+      136.3216
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2830ght",
+    "name": "船厂内部",
+    "image": "https://image.xinu.ink/pic/data/274/images/2830ght-1751853086191.jpg",
+    "ep": 5,
+    "s": 838,
+    "geo": [
+      34.1959,
+      136.3229
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "283bjuh",
+    "name": "船厂前铁轨",
+    "image": "https://image.xinu.ink/pic/data/274/images/283bjuh-1751853225759.jpg",
+    "ep": 24,
+    "s": 1056,
+    "geo": [
+      34.1965,
+      136.3214
+    ],
+    "origin": "Anitabi@蛙壶真君",
+    "originURL": "https://anitabi.cn/"
   }
 ]

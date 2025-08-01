@@ -1,0 +1,123 @@
+[
+  {
+    "id": "kpx6opedi",
+    "name": "京王電鉄京王線 仙川駅",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opedi_1753160319832.jpg",
+    "geo": [
+      35.6622,
+      139.5851
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.662298%2C139.585108&z=17"
+  },
+  {
+    "id": "kpx6opf0a",
+    "name": "HAIR MAKE Ash 仙川店",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opf0a_1753160967965.jpg",
+    "geo": [
+      35.66,
+      139.5855
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.660077%2C139.585507&z=17"
+  },
+  {
+    "id": "kpx6opfe2",
+    "name": "ミスタードーナツ 仙川ショップ",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opfe2_1753161082444.jpg",
+    "geo": [
+      35.6597,
+      139.5855
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.659783%2C139.585539&z=17"
+  },
+  {
+    "id": "kpx6opest",
+    "name": "ドトールコーヒーショップ京王仙川店",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opest_1753161090453.jpg",
+    "geo": [
+      35.6608,
+      139.585
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.660851%2C139.585016&z=17"
+  },
+  {
+    "id": "kpx6opg6q",
+    "name": "仙川商店街ゲート",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opg6q_1753160420037.jpg",
+    "geo": [
+      35.662,
+      139.5845
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.662071%2C139.584576&z=17"
+  },
+  {
+    "id": "kpx6opg60",
+    "name": "LUPICIA 仙川店",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opg60_1753160369159.jpg",
+    "geo": [
+      35.6617,
+      139.5855
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.661779%2C139.585572&z=17"
+  },
+  {
+    "id": "kpx6opg1c",
+    "name": "仙川パティオ横 交差点",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opg1c_1753160657478.jpg",
+    "geo": [
+      35.6616,
+      139.5857
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.661616%2C139.58574&z=17"
+  },
+  {
+    "id": "kpx6opgf8",
+    "name": "ひとくち茶屋 仙川西友店",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opgf8_1753160383606.jpg",
+    "geo": [
+      35.6618,
+      139.5845
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.66189%2C139.584557&z=17"
+  },
+  {
+    "id": "kpx6opgte",
+    "name": "東調布公園 入口",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opgte_1753160699798.jpg",
+    "geo": [
+      35.5891,
+      139.6897
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.589185%2C139.689708&z=17"
+  },
+  {
+    "id": "kpx6opgi6",
+    "name": "東調布公園 SL前",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opgi6_1753160709103.jpg",
+    "geo": [
+      35.5886,
+      139.6885
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.588638%2C139.68856&z=17"
+  },
+  {
+    "id": "kpx6opgdg",
+    "name": "東調布公園 石垣水場",
+    "image": "https://image.xinu.ink/pic/data/6149/images/kpx6opgdg_1753160769653.jpg",
+    "geo": [
+      35.5887,
+      139.6884
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17wETnf8z6p5SHgnL7fUiBSGWaBE&ll=35.588737%2C139.688493&z=17"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": 64718,
+  "cn": "忠臣藏46＋1",
+  "title": "ChuSingura46＋1　-忠臣蔵46＋1-",
+  "city": "赤穗市",
+  "cover": "https://image.xinu.ink/pic/data/6152/images/64718_Wv9I9.jpg",
+  "color": "#c04855",
+  "modified": 1751700657064,
+  "litePoints": [
+    {
+      "id": "243me3q",
+      "name": "播州赤穂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64718/points/243me3q-1751612037524.jpg?plan=h160",
+      "geo": [
+        34.7567,
+        134.3931
+      ]
+    },
+    {
+      "id": "24i1bgt",
+      "name": "伊和都比売神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64718/points/24i1bgt-1751636085470.jpg?plan=h160",
+      "geo": [
+        34.7268,
+        134.408
+      ]
+    },
+    {
+      "id": "24i7ai2",
+      "name": "大石名残の松",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64718/points/24i7ai2-1751636361529.jpg?plan=h160",
+      "geo": [
+        34.7267,
+        134.4086
+      ]
+    },
+    {
+      "id": "24i9vdz",
+      "name": "赤穂城大手門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64718/points/24i9vdz-1751636607033.jpg?plan=h160",
+      "geo": [
+        34.749,
+        134.3894
+      ]
+    },
+    {
+      "id": "24idwes",
+      "name": "大石良雄宅跡長屋門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64718/points/24idwes-1751636714752.jpg?plan=h160",
+      "geo": [
+        34.7485,
+        134.3888
+      ]
+    },
+    {
+      "id": "25kenxm",
+      "name": "大石内蔵助邸庭園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/64718/points/25kenxm-1751700546540.jpg?plan=h160",
+      "geo": [
+        34.7487,
+        134.3884
+      ]
+    }
+  ],
+  "pointsLength": 10,
+  "imagesLength": 10,
+  "name": "ChuSingura46＋1　-忠臣蔵46＋1-",
+  "name_cn": "忠臣藏46＋1",
+  "local_id": 6152
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2464,
+  "cn": "荒川爆笑团",
+  "title": "荒川アンダー ザ ブリッジ",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6139/images/2464_ZwB1N.jpg",
+  "cp": "荒川UB制作委员会",
+  "modified": 1753705763332,
+  "litePoints": [
+    {
+      "id": "322tgoz",
+      "cn": "千住大桥",
+      "name": "千住大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2464/points/322tgoz-1753666449482.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7391,
+        139.7975
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "荒川アンダー ザ ブリッジ",
+  "name_cn": "荒川爆笑团",
+  "local_id": 6139
+}

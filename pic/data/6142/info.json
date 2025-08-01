@@ -1,0 +1,25 @@
+{
+  "id": 14667,
+  "cn": "丹特丽安的书架",
+  "title": "ダンタリアンの書架",
+  "cover": "https://image.xinu.ink/pic/data/6142/images/14667_FznyN.jpg",
+  "cp": "ダンタリアンの書架",
+  "modified": 1752938150046,
+  "litePoints": [
+    {
+      "id": "2q15bg9",
+      "name": "British Hill",
+      "image": "https://image.anitabi.cn/points/14667/2q15bg9_1752938108008.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        37.2586,
+        140.0601
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "ダンタリアンの書架",
+  "name_cn": "丹特丽安的书架",
+  "local_id": 6142
+}

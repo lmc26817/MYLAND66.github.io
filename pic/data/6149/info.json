@@ -1,0 +1,112 @@
+{
+  "id": 48031,
+  "cn": "GJ部",
+  "title": "GJ部",
+  "city": "狛江市",
+  "cover": "https://image.xinu.ink/pic/data/6149/images/48031.jpg",
+  "color": "#e3aa71",
+  "cp": "ＧＪ部保護者会",
+  "geo": [
+    35.660992,
+    139.584839
+  ],
+  "zoom": 16,
+  "modified": 1753161217082,
+  "litePoints": [
+    {
+      "id": "kpx6opedi",
+      "name": "京王電鉄京王線 仙川駅",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opedi_1753160319832.jpg?plan=h160",
+      "geo": [
+        35.6622,
+        139.5851
+      ]
+    },
+    {
+      "id": "kpx6opf0a",
+      "name": "HAIR MAKE Ash 仙川店",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opf0a_1753160967965.jpg?plan=h160",
+      "geo": [
+        35.66,
+        139.5855
+      ]
+    },
+    {
+      "id": "kpx6opfe2",
+      "name": "ミスタードーナツ 仙川ショップ",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opfe2_1753161082444.jpg?plan=h160",
+      "geo": [
+        35.6597,
+        139.5855
+      ]
+    },
+    {
+      "id": "kpx6opest",
+      "name": "ドトールコーヒーショップ京王仙川店",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opest_1753161090453.jpg?plan=h160",
+      "geo": [
+        35.6608,
+        139.585
+      ]
+    },
+    {
+      "id": "kpx6opg6q",
+      "name": "仙川商店街ゲート",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opg6q_1753160420037.jpg?plan=h160",
+      "geo": [
+        35.662,
+        139.5845
+      ]
+    },
+    {
+      "id": "kpx6opg60",
+      "name": "LUPICIA 仙川店",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opg60_1753160369159.jpg?plan=h160",
+      "geo": [
+        35.6617,
+        139.5855
+      ]
+    },
+    {
+      "id": "kpx6opg1c",
+      "name": "仙川パティオ横 交差点",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opg1c_1753160657478.jpg?plan=h160",
+      "geo": [
+        35.6616,
+        139.5857
+      ]
+    },
+    {
+      "id": "kpx6opgf8",
+      "name": "ひとくち茶屋 仙川西友店",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opgf8_1753160383606.jpg?plan=h160",
+      "geo": [
+        35.6618,
+        139.5845
+      ]
+    },
+    {
+      "id": "kpx6opgte",
+      "name": "東調布公園 入口",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opgte_1753160699798.jpg?plan=h160",
+      "geo": [
+        35.5891,
+        139.6897
+      ]
+    },
+    {
+      "id": "kpx6opgi6",
+      "name": "東調布公園 SL前",
+      "image": "https://image.anitabi.cn/points/48031/kpx6opgi6_1753160709103.jpg?plan=h160",
+      "geo": [
+        35.5886,
+        139.6885
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 11,
+  "name": "GJ部",
+  "name_cn": "GJ部",
+  "local_id": 6149
+}

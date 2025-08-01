@@ -457,5 +457,19 @@
       35.531,
       139.4386
     ]
+  },
+  {
+    "id": "2zn0gr4",
+    "cn": "小田急町田站 3･4站台",
+    "name": "小田急町田駅 3･4番ホーム",
+    "image": "https://image.xinu.ink/pic/data/147/images/2zn0gr4-1753519188671.jpg",
+    "ep": "1",
+    "s": "33",
+    "geo": [
+      35.5433,
+      139.4444
+    ],
+    "origin": "",
+    "originLink": "https://maps.app.goo.gl/mNczrfxRcVhMHNe29"
   }
 ]

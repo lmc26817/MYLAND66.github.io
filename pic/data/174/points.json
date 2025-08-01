@@ -145,5 +145,29 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.699519%2C139.772725&z=17"
+  },
+  {
+    "id": "34697qo",
+    "cn": "万世桥",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/174/images/34697qo-1753793099428.jpg",
+    "ep": "S01E04",
+    "geo": [
+      35.6971,
+      139.7709
+    ]
+  },
+  {
+    "id": "kpx6og71z",
+    "cn": "秋叶原站（电器街口）",
+    "name": "秋葉原駅（電気街口）",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og71z-1753799764712.jpg",
+    "ep": null,
+    "geo": [
+      35.6981,
+      139.7722
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.698168%2C139.772229&z=17"
   }
 ]

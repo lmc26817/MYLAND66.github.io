@@ -1,0 +1,115 @@
+{
+  "id": 46728,
+  "cn": "RDG 濒危物种少女",
+  "title": "RDG レッドデータガール",
+  "cover": "https://image.xinu.ink/pic/data/6146/images/46728_E2s1U.jpg",
+  "cp": "RDG",
+  "modified": 1753433313291,
+  "litePoints": [
+    {
+      "id": "37197017",
+      "name": "六本木ヒルズ 森タワー",
+      "image": "https://image.anitabi.cn/points/46728/37197017_1753432354765.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6606,
+        139.729
+      ]
+    },
+    {
+      "id": "6e551430",
+      "name": "東京都庁第一本庁舎 中庭",
+      "image": "https://image.anitabi.cn/points/46728/6e551430_1753431624978.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6896,
+        139.6926
+      ]
+    },
+    {
+      "id": "2y72oo6",
+      "name": "東京都庁第一本庁舎前",
+      "image": "https://image.anitabi.cn/points/46728/2y72oo6_1753431767926.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6896,
+        139.6923
+      ]
+    },
+    {
+      "id": "2y7ajsk",
+      "name": "東京都庁第一本庁舎 1F",
+      "image": "https://image.anitabi.cn/points/46728/2y7ajsk_1753432392666.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6895,
+        139.6918
+      ]
+    },
+    {
+      "id": "cec0c7cc",
+      "name": "東京都庁第一本庁舎 北展望室",
+      "image": "https://image.anitabi.cn/points/46728/cec0c7cc_1753431334893.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6899,
+        139.6916
+      ]
+    },
+    {
+      "id": "7c46a64d",
+      "name": "BLUESQUARECAFE横",
+      "image": "https://image.anitabi.cn/points/46728/7c46a64d_1753431343188.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6915,
+        139.6975
+      ]
+    },
+    {
+      "id": "84553f64",
+      "name": "JR新宿駅 西口",
+      "image": "https://image.anitabi.cn/points/46728/84553f64_1753431569323.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6911,
+        139.6997
+      ]
+    },
+    {
+      "id": "015ea925",
+      "name": "新宿警察署裏交差点",
+      "image": "https://image.anitabi.cn/points/46728/015ea925_1753431372509.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6926,
+        139.6946
+      ]
+    },
+    {
+      "id": "64e2d426",
+      "name": "サイゼリア中野坂上店",
+      "image": "https://image.anitabi.cn/points/46728/64e2d426_1753431388538.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.6964,
+        139.6842
+      ]
+    },
+    {
+      "id": "e68aa02c",
+      "name": "高尾山薬王院 山門",
+      "image": "https://image.anitabi.cn/points/46728/e68aa02c_1753429774214.jpg?plan=h160",
+      "ep": 5,
+      "geo": [
+        35.6259,
+        139.2508
+      ]
+    }
+  ],
+  "pointsLength": 53,
+  "imagesLength": 49,
+  "name": "RDG レッドデータガール",
+  "name_cn": "RDG 濒危物种少女",
+  "local_id": 6146
+}

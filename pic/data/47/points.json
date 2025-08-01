@@ -815,5 +815,30 @@
       35.7627,
       139.316
     ]
+  },
+  {
+    "id": "qa49vhwml",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/47/images/qa49vhwml_1732286033728.jpg",
+    "ep": 16,
+    "s": 193,
+    "geo": [
+      34.7717,
+      135.5104
+    ],
+    "origin": "【图片】CL超硬核圣地巡礼（大阪篇）【clannad吧】_百度贴吧",
+    "originLink": "https://tieba.baidu.com/p/8406880971"
+  },
+  {
+    "id": "33n1sn9",
+    "name": "早稲田​大 大隈記念講堂",
+    "image": "https://image.xinu.ink/pic/data/47/images/33n1sn9_1753760836816.jpg",
+    "ep": 10,
+    "geo": [
+      35.7089,
+      139.7213
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

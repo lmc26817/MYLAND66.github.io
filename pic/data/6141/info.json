@@ -1,0 +1,110 @@
+{
+  "id": 8990,
+  "cn": "食梦者玛利",
+  "title": "夢喰いメリー",
+  "city": "上越市",
+  "cover": "https://image.xinu.ink/pic/data/6141/images/8990.jpg",
+  "color": "#d4aa2b",
+  "geo": [
+    37.114131,
+    138.241825
+  ],
+  "modified": 1753948439554,
+  "litePoints": [
+    {
+      "id": "kpx6ouhyx",
+      "name": "夢喰いメリー江ノ電江ノ島駅",
+      "image": "https://image.anitabi.cn/points/8990/kpx6ouhyx_1753948417458.jpg?plan=h160",
+      "geo": [
+        35.3111,
+        139.4875
+      ]
+    },
+    {
+      "id": "kpx6oui71",
+      "name": "夢喰いメリー鎌倉高校前駅踏切",
+      "image": "https://image.anitabi.cn/points/8990/kpx6oui71_1753947681730.jpg?plan=h160",
+      "geo": [
+        35.3066,
+        139.5021
+      ]
+    },
+    {
+      "id": "kpx6ouhpy",
+      "name": "夢喰いメリーイトーヨーカドー藤沢店付近",
+      "image": "https://image.anitabi.cn/points/8990/kpx6ouhpy_1753948388947.jpg?plan=h160",
+      "geo": [
+        35.3345,
+        139.4893
+      ]
+    },
+    {
+      "id": "kpx6ouifd",
+      "name": "高田公園",
+      "image": "https://image.anitabi.cn/points/8990/kpx6ouifd_1753872241222.jpg?plan=h160",
+      "geo": [
+        37.1093,
+        138.2542
+      ]
+    },
+    {
+      "id": "kpx6oul3y",
+      "name": "高田公園噴水",
+      "image": "https://image.anitabi.cn/points/8990/kpx6oul3y_1753872138360.jpg?plan=h160",
+      "geo": [
+        37.1091,
+        138.2528
+      ]
+    },
+    {
+      "id": "kpx6oum12",
+      "name": "高田公園 時計",
+      "image": "https://image.anitabi.cn/points/8990/kpx6oum12_1753872037281.jpg?plan=h160",
+      "geo": [
+        37.1086,
+        138.2566
+      ]
+    },
+    {
+      "id": "kpx6oum7j",
+      "name": "高田公園 橋",
+      "image": "https://image.anitabi.cn/points/8990/kpx6oum7j_1753872019760.jpg?plan=h160",
+      "geo": [
+        37.1101,
+        138.2557
+      ]
+    },
+    {
+      "id": "kpx6ouify",
+      "name": "お食事処・地魚料理 伊智",
+      "image": "https://image.anitabi.cn/points/8990/kpx6ouify_1753871733583.jpg?plan=h160",
+      "geo": [
+        37.1496,
+        138.226
+      ]
+    },
+    {
+      "id": "kpx6ouj7i",
+      "name": "まねきねこ上越木田店",
+      "image": "https://image.anitabi.cn/points/8990/kpx6ouj7i_1753871418584.jpg?plan=h160",
+      "geo": [
+        37.1383,
+        138.2405
+      ]
+    },
+    {
+      "id": "kpx6oujrl",
+      "name": "上越ショッピングセンターアコーレ",
+      "image": "https://image.anitabi.cn/points/8990/kpx6oujrl_1753871470448.jpg?plan=h160",
+      "geo": [
+        37.1524,
+        138.2588
+      ]
+    }
+  ],
+  "pointsLength": 19,
+  "imagesLength": 19,
+  "name": "夢喰いメリー",
+  "name_cn": "食梦者玛利",
+  "local_id": 6141
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1940,
+  "cn": "魔卡少女樱",
+  "title": "カードキャプターさくら",
+  "cover": "https://image.xinu.ink/pic/data/6137/images/1940_o9Lto.jpg",
+  "modified": 1751545408251,
+  "litePoints": [
+    {
+      "id": "22yppn2",
+      "cn": "海游馆",
+      "name": "海遊館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1940/points/22yppn2-1751543287944.jpg?plan=h160",
+      "ep": 3,
+      "s": 884,
+      "geo": [
+        34.6547,
+        135.4294
+      ]
+    },
+    {
+      "id": "22zak4y",
+      "cn": "东京铁塔",
+      "name": "東京タワー",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1940/points/22zak4y-1751544247907.jpg?plan=h160",
+      "ep": 40,
+      "s": 711,
+      "geo": [
+        35.6586,
+        139.7453
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "カードキャプターさくら",
+  "name_cn": "魔卡少女樱",
+  "local_id": 6137
+}

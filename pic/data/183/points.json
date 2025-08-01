@@ -543,5 +543,28 @@
       51.5009,
       -0.1198
     ]
+  },
+  {
+    "id": "28bitbk",
+    "name": "CAMDEN LOCK",
+    "image": "https://image.xinu.ink/pic/data/183/images/28bitbk-1751867020804.jpg",
+    "ep": null,
+    "geo": [
+      51.5416,
+      -0.1455
+    ]
+  },
+  {
+    "id": "s9c6or1tt",
+    "name": "豊郷小学校3F",
+    "image": "https://image.xinu.ink/pic/data/183/images/s9c6or1tt_1737866124593.jpg",
+    "ep": null,
+    "s": 5845,
+    "geo": [
+      35.2033,
+      136.2328
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2qghoyc",
+    "name": "難波江​区​ふれあい​会館",
+    "image": "https://image.xinu.ink/pic/data/6151/images/2qghoyc-1752963806188.jpg",
+    "ep": "",
+    "s": 2298,
+    "geo": [
+      35.5054,
+      135.5038
+    ]
+  },
+  {
+    "id": "2qgw5xy",
+    "name": "まるいち旅館",
+    "image": "https://image.xinu.ink/pic/data/6151/images/2qgw5xy-1752964441088.jpg",
+    "ep": null,
+    "s": 851,
+    "geo": [
+      35.4924,
+      135.5767
+    ]
+  },
+  {
+    "id": "2qh0dew",
+    "name": "大安商店",
+    "image": "https://image.xinu.ink/pic/data/6151/images/2qh0dew-1752964645745.jpg",
+    "ep": null,
+    "geo": [
+      35.4908,
+      135.5446
+    ],
+    "originLink": "https://maps.app.goo.gl/BJoX9pEGvoVPj88A6"
+  },
+  {
+    "id": "2qh7mhc",
+    "name": "天満宮前の階段",
+    "image": "https://image.xinu.ink/pic/data/6151/images/2qh7mhc-1752964993111.jpg",
+    "ep": null,
+    "s": 1431,
+    "geo": [
+      35.5137,
+      135.5089
+    ]
+  },
+  {
+    "id": "2qhc12c",
+    "name": "日枝神社前の階段",
+    "image": "https://image.xinu.ink/pic/data/6151/images/2qhc12c-1752965710510.jpg",
+    "ep": null,
+    "s": 765,
+    "geo": [
+      35.5055,
+      135.5034
+    ]
+  }
+]

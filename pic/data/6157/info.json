@@ -1,0 +1,60 @@
+{
+  "id": 85204,
+  "cn": "妄想学生会＊",
+  "title": "生徒会役員共*",
+  "cover": "https://image.xinu.ink/pic/data/6157/images/85204_oK33O.jpg",
+  "modified": 1753804976437,
+  "litePoints": [
+    {
+      "id": "2zkq7r2",
+      "cn": "相模大野北口前通路",
+      "name": "相模大野北口前通路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/85204/points/2zkq7r2-1753515848131.jpg?plan=h160",
+      "ep": 1,
+      "s": 447,
+      "geo": [
+        35.5324,
+        139.4376
+      ]
+    },
+    {
+      "id": "2zlv8xr",
+      "name": "コリドー街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/85204/points/2zlv8xr-1753517146436.jpg?plan=h160",
+      "ep": 1,
+      "s": 263,
+      "geo": [
+        35.5319,
+        139.4363
+      ]
+    },
+    {
+      "id": "2zmc39k",
+      "name": "夏の小路",
+      "image": "https://image.anitabi.cn/user/0/bangumi/85204/points/2zmc39k-1753517767099.jpg?plan=h160",
+      "ep": 1,
+      "s": 294,
+      "geo": [
+        35.5324,
+        139.4357
+      ]
+    },
+    {
+      "id": "2zmefzj",
+      "cn": "小田急相模大野站 上行站台",
+      "name": "小田急相模大野駅 上りホーム",
+      "image": "https://image.anitabi.cn/user/0/bangumi/85204/points/2zmefzj-1753517950685.jpg?plan=h160",
+      "ep": 1,
+      "s": 218,
+      "geo": [
+        35.5323,
+        139.4378
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "生徒会役員共*",
+  "name_cn": "妄想学生会＊",
+  "local_id": 6157
+}

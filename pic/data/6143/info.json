@@ -1,0 +1,52 @@
+{
+  "id": 27513,
+  "cn": "现在就想告诉哥哥，我是妹妹！",
+  "title": "いますぐお兄ちゃんに妹だっていいたい！",
+  "cover": "https://image.xinu.ink/pic/data/6143/images/61238_U33d3.jpg",
+  "modified": 1751726499695,
+  "litePoints": [
+    {
+      "id": "25vl6ar",
+      "cn": "永代路口",
+      "name": "稻濑路口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/100444/points/25vl6ar-1751719435335.jpg?plan=h160",
+      "geo": [
+        35.6723,
+        139.7947
+      ]
+    },
+    {
+      "id": "25vqtcx",
+      "name": "清澄通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/27513/points/25vqtcx-1751719584098.jpg?plan=h160",
+      "geo": [
+        35.6715,
+        139.7941
+      ]
+    },
+    {
+      "id": "25vuxjk",
+      "name": "巴橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/27513/points/25vuxjk-1751719800236.jpg?plan=h160",
+      "geo": [
+        35.6702,
+        139.798
+      ]
+    },
+    {
+      "id": "25vy2j2",
+      "cn": "台场摩天轮（2022年已拆除）",
+      "name": "観覧車",
+      "image": null,
+      "geo": [
+        35.6261,
+        139.7824
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 3,
+  "name": "いますぐお兄ちゃんに妹だっていいたい！",
+  "name_cn": "现在就想告诉哥哥，我是妹妹！",
+  "local_id": 6143
+}

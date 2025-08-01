@@ -1,0 +1,25 @@
+{
+  "id": 1730,
+  "cn": "简单易懂的现代魔法",
+  "title": "よくわかる現代魔法",
+  "cover": "https://image.xinu.ink/pic/data/6135/images/1730.jpg",
+  "color": "#c2101c",
+  "modified": 1753869445172,
+  "litePoints": [
+    {
+      "id": "33nx9ts",
+      "name": "岩手​銀行​赤​レンガ​館",
+      "image": "https://image.anitabi.cn/points/1730/33nx9ts_1753762369286.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        39.7005,
+        141.1552
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "よくわかる現代魔法",
+  "name_cn": "简单易懂的现代魔法",
+  "local_id": 6135
+}

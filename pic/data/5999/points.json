@@ -196,5 +196,115 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.049598%2C139.832549&z=17"
+  },
+  {
+    "id": "51i53yipj",
+    "name": "「渋谷駅前」交差点",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yipj_1752556581236.jpg",
+    "geo": [
+      35.6596,
+      139.7006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.659667%2C139.700636&z=17"
+  },
+  {
+    "id": "51i53yibr",
+    "name": "新宿駅西口",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yibr_1752556606683.jpg",
+    "geo": [
+      35.6922,
+      139.699
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.692239%2C139.699026&z=17"
+  },
+  {
+    "id": "51i53yigd",
+    "name": "歌舞伎町 入口",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yigd_1752556785267.jpg",
+    "geo": [
+      35.6935,
+      139.7012
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.693592%2C139.701263&z=17"
+  },
+  {
+    "id": "51i53yi6f",
+    "name": "歌舞伎町 街",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yi6f_1752556804819.jpg",
+    "geo": [
+      35.6937,
+      139.7015
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.693711%2C139.701523&z=17"
+  },
+  {
+    "id": "51i53yip6",
+    "name": "歌舞伎町 酒意 新宿中央通り店",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yip6_1752556853665.jpg",
+    "geo": [
+      35.6943,
+      139.7018
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.694321%2C139.701827&z=17"
+  },
+  {
+    "id": "51i53yitt",
+    "name": "パセラリゾーツ新宿本店",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yitt_1752556904545.jpg",
+    "geo": [
+      35.6938,
+      139.7038
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.693855%2C139.703868&z=17"
+  },
+  {
+    "id": "51i53yits",
+    "name": "西武新宿駅",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yits_1752557318186.jpg",
+    "geo": [
+      35.6939,
+      139.7006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.693971%2C139.700622&z=17"
+  },
+  {
+    "id": "51i53yivn",
+    "name": "荻窪駅",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yivn_1752557000877.jpg",
+    "geo": [
+      35.7042,
+      139.6202
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.704295%2C139.620258&z=17"
+  },
+  {
+    "id": "51i53yibc",
+    "name": "荻窪警察署付近",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yibc_1752557132625.jpg",
+    "geo": [
+      35.711,
+      139.6077
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.71101%2C139.607778&z=17"
+  },
+  {
+    "id": "51i53yiwr",
+    "name": "荻窪警察署付近 鳥屋",
+    "image": "https://image.xinu.ink/pic/data/5999/images/51i53yiwr_1752557161459.jpg",
+    "geo": [
+      35.7113,
+      139.6073
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=zHgrmM7GQmnE.kXRGtHAumcmo&ll=35.71133%2C139.607308&z=17"
   }
 ]

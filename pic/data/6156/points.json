@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ffca7352",
+    "name": "新宿 思い出横丁",
+    "image": "https://image.xinu.ink/pic/data/6156/images/ffca7352_1752997675895.jpg",
+    "geo": [
+      35.6926,
+      139.6995
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.69267%2C139.699587&z=17"
+  },
+  {
+    "id": "a0d58b50",
+    "name": "テレビ東京",
+    "image": "https://image.xinu.ink/pic/data/6156/images/a0d58b50_1752997698850.jpg",
+    "geo": [
+      35.6647,
+      139.7438
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.66471%2C139.743861&z=17"
+  },
+  {
+    "id": "a048a6b4",
+    "name": "東京タワー",
+    "image": "https://image.xinu.ink/pic/data/6156/images/a048a6b4_1752997717010.jpg",
+    "geo": [
+      35.6584,
+      139.7457
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.658421%2C139.745728&z=17"
+  },
+  {
+    "id": "d51bc19a",
+    "name": "東京タワースタジオ",
+    "image": "https://image.xinu.ink/pic/data/6156/images/d51bc19a_1752997743322.jpg",
+    "geo": [
+      35.6578,
+      139.7453
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.657859%2C139.745326&z=17"
+  },
+  {
+    "id": "7d61ad6e",
+    "name": "幕張メッセ 幕張イベントホール",
+    "image": "https://image.xinu.ink/pic/data/6156/images/7d61ad6e_1752997858476.jpg",
+    "geo": [
+      35.6479,
+      140.0349
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.647986%2C140.034968&z=17"
+  },
+  {
+    "id": "59a19bf0",
+    "name": "国際展示場1-8ホール",
+    "image": "https://image.xinu.ink/pic/data/6156/images/59a19bf0_1752997875515.jpg",
+    "geo": [
+      35.6474,
+      140.0351
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.647454%2C140.035116&z=17"
+  },
+  {
+    "id": "e65c5f64",
+    "name": "西武新宿線 上井草駅",
+    "image": "https://image.xinu.ink/pic/data/6156/images/e65c5f64_1753093606410.jpg",
+    "geo": [
+      35.725,
+      139.6035
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.725065%2C139.603542&z=17"
+  },
+  {
+    "id": "0c2c8c02",
+    "name": "小金井公園 江戸東京たてもの園 子宝湯",
+    "image": "https://image.xinu.ink/pic/data/6156/images/0c2c8c02_1753093612786.jpg",
+    "geo": [
+      35.7166,
+      139.5152
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.71667%2C139.515222&z=17"
+  },
+  {
+    "id": "241730e8",
+    "name": "新宿駅東口広場",
+    "image": "https://image.xinu.ink/pic/data/6156/images/241730e8_1753093619594.jpg",
+    "geo": [
+      35.6921,
+      139.7011
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=182cb3XokGTvW6KXZ-trE8tXlj5w&ll=35.69211%2C139.701129&z=17"
+  }
+]

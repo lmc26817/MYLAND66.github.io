@@ -167,5 +167,28 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "2n0o12k",
+    "cn": "路中间盆后面",
+    "name": "浅草寺前",
+    "image": "https://image.xinu.ink/pic/data/259/images/2n0o12k-1752756168995.jpg",
+    "ep": 7,
+    "s": 1033,
+    "geo": [
+      35.7143,
+      139.7966
+    ]
+  },
+  {
+    "id": "2n51uuf",
+    "name": "浅草寺西侧楼梯",
+    "image": "https://image.xinu.ink/pic/data/259/images/2n51uuf-1752763146447.jpg",
+    "ep": 7,
+    "s": 1076,
+    "geo": [
+      35.7147,
+      139.7964
+    ]
   }
 ]
