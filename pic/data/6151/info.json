@@ -59,5 +59,8 @@
   "imagesLength": 5,
   "name": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
   "name_cn": "偶像大师 剧场版 向着光辉的彼岸！",
-  "local_id": 6151
+  "local_id": 6151,
+  "region": [
+    "大飯郡"
+  ]
 }

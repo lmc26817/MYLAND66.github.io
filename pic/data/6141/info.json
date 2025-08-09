@@ -106,5 +106,9 @@
   "imagesLength": 19,
   "name": "夢喰いメリー",
   "name_cn": "食梦者玛利",
-  "local_id": 6141
+  "local_id": 6141,
+  "region": [
+    "新潟县",
+    "神奈川縣"
+  ]
 }

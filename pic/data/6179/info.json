@@ -23,5 +23,8 @@
   "imagesLength": 1,
   "name": "政宗くんのリベンジR",
   "name_cn": "政宗君的复仇R",
-  "local_id": 6179
+  "local_id": 6179,
+  "region": [
+    "巴黎"
+  ]
 }

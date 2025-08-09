@@ -44,5 +44,8 @@
   "imagesLength": 3,
   "name": "オオカミ少女と黒王子",
   "name_cn": "狼少女与黑王子",
-  "local_id": 6158
+  "local_id": 6158,
+  "region": [
+    "兵库县/兵庫縣"
+  ]
 }

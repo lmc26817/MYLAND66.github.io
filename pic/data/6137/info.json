@@ -34,5 +34,9 @@
   "imagesLength": 2,
   "name": "カードキャプターさくら",
   "name_cn": "魔卡少女樱",
-  "local_id": 6137
+  "local_id": 6137,
+  "region": [
+    "大阪府",
+    "东京都/東京都"
+  ]
 }

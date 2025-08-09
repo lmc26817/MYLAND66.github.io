@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "ファイナルファンタジーXIV 漆黒のヴィランズ",
   "name_cn": "最终幻想14 暗影之逆焰",
-  "local_id": 6168
+  "local_id": 6168,
+  "region": [
+    "东京都/東京都"
+  ]
 }

@@ -56,5 +56,8 @@
   "imagesLength": 5,
   "name": "生徒会役員共*",
   "name_cn": "妄想学生会＊",
-  "local_id": 6157
+  "local_id": 6157,
+  "region": [
+    "神奈川縣"
+  ]
 }

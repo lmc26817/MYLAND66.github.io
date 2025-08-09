@@ -42,5 +42,8 @@
   "imagesLength": 3,
   "name": "生徒会の一存",
   "name_cn": "学生会的一己之见",
-  "local_id": 6140
+  "local_id": 6140,
+  "region": [
+    "石狩振興局"
+  ]
 }

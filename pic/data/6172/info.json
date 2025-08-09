@@ -98,5 +98,8 @@
   "imagesLength": 6,
   "name": "水野と茶山",
   "name_cn": "水野与茶山",
-  "local_id": 6172
+  "local_id": 6172,
+  "region": [
+    "静冈县/靜岡縣"
+  ]
 }

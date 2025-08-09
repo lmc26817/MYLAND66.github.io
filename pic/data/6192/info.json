@@ -34,5 +34,8 @@
   "pointsLength": 2,
   "imagesLength": 2,
   "name": "迷宮のしおり",
-  "local_id": 6192
+  "local_id": 6192,
+  "region": [
+    "神奈川縣"
+  ]
 }

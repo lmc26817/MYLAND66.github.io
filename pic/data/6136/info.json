@@ -21,5 +21,8 @@
   "imagesLength": 1,
   "name": "R.O.D -THE TV-",
   "name_cn": "读或死 TV",
-  "local_id": 6136
+  "local_id": 6136,
+  "region": [
+    "东京都/東京都"
+  ]
 }

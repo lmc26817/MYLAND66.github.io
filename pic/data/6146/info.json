@@ -111,5 +111,9 @@
   "imagesLength": 49,
   "name": "RDG レッドデータガール",
   "name_cn": "RDG 濒危物种少女",
-  "local_id": 6146
+  "local_id": 6146,
+  "region": [
+    "东京都/東京都",
+    "长野县"
+  ]
 }

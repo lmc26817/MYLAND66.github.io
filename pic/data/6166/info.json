@@ -126,5 +126,8 @@
   "imagesLength": 12,
   "name": "ガーリー・エアフォース",
   "name_cn": "飞翔吧！战机少女",
-  "local_id": 6166
+  "local_id": 6166,
+  "region": [
+    "石川县"
+  ]
 }

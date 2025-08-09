@@ -44,5 +44,8 @@
   "imagesLength": 7,
   "name": "9-nine- Ruler's Crown",
   "name_cn": "9-nine- 支配者的王冠",
-  "local_id": 6181
+  "local_id": 6181,
+  "region": [
+    "东京都/東京都"
+  ]
 }

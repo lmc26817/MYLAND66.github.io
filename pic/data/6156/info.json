@@ -91,5 +91,9 @@
   "imagesLength": 9,
   "name": "ミス・モノクローム -The Animation-",
   "name_cn": "黑白小姐",
-  "local_id": 6156
+  "local_id": 6156,
+  "region": [
+    "东京都/東京都",
+    "千叶县"
+  ]
 }

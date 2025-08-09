@@ -66,5 +66,8 @@
   "imagesLength": 10,
   "name": "ChuSingura46＋1　-忠臣蔵46＋1-",
   "name_cn": "忠臣藏46＋1",
-  "local_id": 6152
+  "local_id": 6152,
+  "region": [
+    "兵库县/兵庫縣"
+  ]
 }

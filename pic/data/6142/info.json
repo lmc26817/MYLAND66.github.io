@@ -21,5 +21,8 @@
   "imagesLength": 1,
   "name": "ダンタリアンの書架",
   "name_cn": "丹特丽安的书架",
-  "local_id": 6142
+  "local_id": 6142,
+  "region": [
+    "岩瀨郡"
+  ]
 }

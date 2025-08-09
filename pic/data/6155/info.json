@@ -100,5 +100,8 @@
   "imagesLength": 10,
   "name": "ディーふらぐ!",
   "name_cn": "属性同好会",
-  "local_id": 6155
+  "local_id": 6155,
+  "region": [
+    "东京都/東京都"
+  ]
 }

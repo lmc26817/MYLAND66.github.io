@@ -19,5 +19,8 @@
   "imagesLength": 1,
   "name": "DRAG-ON DRAGOON",
   "name_cn": "誓血龙骑士",
-  "local_id": 6145
+  "local_id": 6145,
+  "region": [
+    "东京都/東京都"
+  ]
 }

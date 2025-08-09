@@ -103,5 +103,8 @@
   "imagesLength": 45,
   "name": "やくならマグカップも",
   "name_cn": "如果烧陶的话也做个马克杯吧",
-  "local_id": 6177
+  "local_id": 6177,
+  "region": [
+    "岐阜县"
+  ]
 }

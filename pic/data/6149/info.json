@@ -108,5 +108,8 @@
   "imagesLength": 11,
   "name": "GJ部",
   "name_cn": "GJ部",
-  "local_id": 6149
+  "local_id": 6149,
+  "region": [
+    "东京都/東京都"
+  ]
 }

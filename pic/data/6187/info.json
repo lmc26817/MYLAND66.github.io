@@ -123,5 +123,8 @@
   "imagesLength": 25,
   "name": "フードコートで、また明日。",
   "name_cn": "明天，美食广场见。",
-  "local_id": 6187
+  "local_id": 6187,
+  "region": [
+    "宫城县"
+  ]
 }

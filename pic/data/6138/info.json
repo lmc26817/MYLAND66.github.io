@@ -92,5 +92,8 @@
   "imagesLength": 1,
   "name": "〈物語〉シリーズ",
   "name_cn": "物语系列",
-  "local_id": 6138
+  "local_id": 6138,
+  "region": [
+    "东京都/東京都"
+  ]
 }

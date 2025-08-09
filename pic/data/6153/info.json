@@ -51,5 +51,8 @@
   "imagesLength": 4,
   "name": "ガンダムビルドファイターズ",
   "name_cn": "高达创战者",
-  "local_id": 6153
+  "local_id": 6153,
+  "region": [
+    "东京都/東京都"
+  ]
 }

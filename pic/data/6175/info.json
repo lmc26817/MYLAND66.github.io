@@ -108,5 +108,8 @@
   "imagesLength": 14,
   "name": "へんたつ",
   "name_cn": "平安达纪",
-  "local_id": 6175
+  "local_id": 6175,
+  "region": [
+    "东京都/東京都"
+  ]
 }
