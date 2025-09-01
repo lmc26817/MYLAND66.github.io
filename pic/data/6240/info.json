@@ -1,0 +1,75 @@
+{
+  "id": 576254,
+  "cn": "札幌少女饭",
+  "title": "札幌乙女ごはん。",
+  "city": "札幌市",
+  "cover": "https://image.xinu.ink/pic/data/6240/images/576254.jpg",
+  "color": "#e7c121",
+  "geo": [
+    43.05501427747063,
+    141.3540805974501
+  ],
+  "zoom": 12.061,
+  "modified": 1755646030303,
+  "litePoints": [
+    {
+      "id": "3b60a4b2",
+      "name": "大通公園２丁目（さっぽろテレビ塔）",
+      "image": "https://image.anitabi.cn/points/576254/3b60a4b2_1754386321714.jpg?plan=h160",
+      "geo": [
+        43.0607,
+        141.3538
+      ]
+    },
+    {
+      "id": "ef12d870",
+      "name": "醸造'S BAR the WINE CLUB",
+      "image": "https://image.anitabi.cn/points/576254/ef12d870_1754386338258.jpg?plan=h160",
+      "geo": [
+        43.0561,
+        141.354
+      ]
+    },
+    {
+      "id": "18847a36",
+      "name": "もいわ山ロープウェイ",
+      "image": "https://image.anitabi.cn/points/576254/18847a36_1754386354017.jpg?plan=h160",
+      "geo": [
+        43.0223,
+        141.3221
+      ]
+    },
+    {
+      "id": "31e11177",
+      "name": "ノルベサ・Ｍａｓｈブロード店",
+      "image": "https://image.anitabi.cn/points/576254/31e11177_1754386713785.jpg?plan=h160",
+      "geo": [
+        43.0561,
+        141.3509
+      ]
+    },
+    {
+      "id": "cfee02ea",
+      "name": "弟子屈ラーメン ラーメン横丁店",
+      "image": "https://image.anitabi.cn/points/576254/cfee02ea_1754386637735.jpg?plan=h160",
+      "geo": [
+        43.0547,
+        141.3543
+      ]
+    },
+    {
+      "id": "f4435af2",
+      "name": "ノルベサ外観",
+      "image": "https://image.anitabi.cn/points/576254/f4435af2_1754386704330.jpg?plan=h160",
+      "geo": [
+        43.0565,
+        141.3516
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "札幌乙女ごはん。",
+  "name_cn": "札幌少女饭",
+  "local_id": 6240
+}

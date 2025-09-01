@@ -1,0 +1,130 @@
+{
+  "id": 2166,
+  "cn": "乌龙派出所",
+  "title": "こちら葛飾区亀有公園前派出所",
+  "city": "葛饰区",
+  "cover": "https://image.xinu.ink/pic/data/6197/images/2166.jpg",
+  "color": "#e3c671",
+  "geo": [
+    35.766772,
+    139.847631
+  ],
+  "modified": 1756254577541,
+  "litePoints": [
+    {
+      "id": "46fsnz4",
+      "cn": "东京艺术大学",
+      "name": "東京藝術大學",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/46fsnz4-1756106832544.jpg?plan=h160",
+      "ep": 2,
+      "s": 1052,
+      "geo": [
+        35.7185,
+        139.773
+      ]
+    },
+    {
+      "id": "46g6j27",
+      "name": "勝鬨橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/46g6j27-1756107476424.jpg?plan=h160",
+      "ep": 8,
+      "s": 580,
+      "geo": [
+        35.6622,
+        139.7748
+      ]
+    },
+    {
+      "id": "46gbflh",
+      "cn": "两国国技馆",
+      "name": "両国国技館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/46gbflh-1756107822979.jpg?plan=h160",
+      "ep": 9,
+      "s": 406,
+      "geo": [
+        35.6967,
+        139.7921
+      ]
+    },
+    {
+      "id": "484g05k",
+      "name": "聖橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/484g05k-1756208745627.jpg?plan=h160",
+      "ep": 47,
+      "s": 1380,
+      "geo": [
+        35.6993,
+        139.767
+      ]
+    },
+    {
+      "id": "484q1o1",
+      "name": "八坂神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/484q1o1-1756209185535.jpg?plan=h160",
+      "ep": 18,
+      "s": 845,
+      "geo": [
+        35.0037,
+        135.7772
+      ]
+    },
+    {
+      "id": "484yt7i",
+      "name": "鸭川",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/484yt7i-1756209578633.jpg?plan=h160",
+      "ep": 18,
+      "s": 851,
+      "geo": [
+        35.0038,
+        135.7716
+      ]
+    },
+    {
+      "id": "485hdlr",
+      "name": "三門",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/485hdlr-1756210433300.jpg?plan=h160",
+      "ep": 18,
+      "s": 971,
+      "geo": [
+        35.0048,
+        135.7814
+      ]
+    },
+    {
+      "id": "485mbh8",
+      "cn": "金阁寺",
+      "name": "金閣寺",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/485mbh8-1756210685854.jpg?plan=h160",
+      "ep": 18,
+      "s": 979,
+      "geo": [
+        35.0392,
+        135.7288
+      ]
+    },
+    {
+      "id": "485u3we",
+      "name": "元離宮二条城",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2166/points/485u3we-1756211067323.jpg?plan=h160",
+      "ep": 18,
+      "s": 985,
+      "geo": [
+        35.0119,
+        135.7513
+      ]
+    },
+    {
+      "id": "kpx6ojcle",
+      "name": "両津勘吉像",
+      "geo": [
+        35.7668,
+        139.8478
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 9,
+  "name": "こちら葛飾区亀有公園前派出所",
+  "name_cn": "乌龙派出所",
+  "local_id": 6197
+}

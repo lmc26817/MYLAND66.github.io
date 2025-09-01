@@ -143,5 +143,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=19yyMQu-rUCgzbrkCmucGnz4wLDA&ll=35.028977%2C135.771639&z=17"
+  },
+  {
+    "id": "kpx6onusq",
+    "name": "喫茶コレクション",
+    "image": "https://image.xinu.ink/pic/data/129/images/kpx6onusq_1754717179621.jpg",
+    "geo": [
+      35.0287,
+      135.784
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=19yyMQu-rUCgzbrkCmucGnz4wLDA&ll=35.028714%2C135.78402&z=17"
   }
 ]

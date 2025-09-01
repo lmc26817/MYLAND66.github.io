@@ -1,0 +1,23 @@
+{
+  "id": 482314,
+  "cn": "学园偶像大师",
+  "title": "学園アイドルマスター",
+  "cover": "https://image.xinu.ink/pic/data/6230/images/482314_p2UWW.jpg",
+  "modified": 1755484623034,
+  "litePoints": [
+    {
+      "id": "3vm6okm",
+      "name": "小田急多摩センター駅",
+      "image": "https://image.anitabi.cn/user/2176/bangumi/482314/points/3vm6okm-1755453714747.jpg?plan=h160",
+      "geo": [
+        35.6246,
+        139.4245
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "学園アイドルマスター",
+  "name_cn": "学园偶像大师",
+  "local_id": 6230
+}

@@ -12,5 +12,32 @@
     ],
     "origin": "Anitabi@Eureka",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpwkqh3eu",
+    "cn": "op    神户桥",
+    "name": "OP　神戸橋",
+    "image": "https://image.xinu.ink/pic/data/357/images/kpwkqh3eu-1755413959977.jpg",
+    "ep": "op",
+    "s": "1.25分",
+    "geo": [
+      35.3085,
+      139.4928
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cvS6wm04g6fHwiUFG4Eh57e-xaQ&ll=35.308555%2C139.492813&z=17"
+  },
+  {
+    "id": "kpwkqh3i3",
+    "cn": "车站对面斜坡",
+    "name": "OP（ルルが手押し相撲）",
+    "image": "https://image.xinu.ink/pic/data/357/images/kpwkqh3i3-1755414943363.jpg",
+    "ep": null,
+    "geo": [
+      35.319,
+      139.5045
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1cvS6wm04g6fHwiUFG4Eh57e-xaQ&ll=35.31906%2C139.504545&z=17"
   }
 ]

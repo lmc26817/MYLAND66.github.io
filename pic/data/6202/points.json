@@ -1,0 +1,40 @@
+[
+  {
+    "id": "4f3hxdx",
+    "name": "岡田港  龍王神社外",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4f3hxdx-1756630418581.jpg",
+    "ep": "1",
+    "s": "130",
+    "geo": [
+      34.7884,
+      139.3914
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4f3pma0",
+    "name": "龍王神社外",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4f3pma0-1756630722476.jpg",
+    "ep": "1",
+    "s": "146",
+    "geo": [
+      34.7885,
+      139.3915
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4f4wi4r",
+    "name": "波浮港バス停前",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4f4wi4r-1756632723845.jpg",
+    "ep": "1",
+    "geo": [
+      34.6876,
+      139.4394
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  }
+]

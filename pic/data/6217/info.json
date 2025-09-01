@@ -1,0 +1,86 @@
+{
+  "id": 204483,
+  "cn": "动作女主 水果应援团",
+  "title": "アクションヒロイン チアフルーツ",
+  "city": "夷隅市",
+  "cover": "https://image.xinu.ink/pic/data/6217/images/204483_3Q7dd.jpg",
+  "cp": "チアフルーツ",
+  "modified": 1755072389606,
+  "litePoints": [
+    {
+      "id": "3pafj3r",
+      "name": "県立​大多喜​高等​学校",
+      "image": "https://image.anitabi.cn/points/204483/3pafj3r_1755069928448.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.286,
+        140.241
+      ]
+    },
+    {
+      "id": "3pakd65",
+      "name": "いすみ鉄道大多喜駅付近",
+      "image": "https://image.anitabi.cn/points/204483/3pakd65_1755070293444.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2854,
+        140.2436
+      ]
+    },
+    {
+      "id": "3pap5l9",
+      "name": "大多喜駅",
+      "image": "https://image.anitabi.cn/points/204483/3pap5l9_1755070336310.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2867,
+        140.244
+      ]
+    },
+    {
+      "id": "3pb823n",
+      "name": "大手門",
+      "image": "https://image.anitabi.cn/points/204483/3pb823n_1755071233911.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2861,
+        140.244
+      ]
+    },
+    {
+      "id": "3pbni8s",
+      "name": "赤い橋",
+      "image": "https://image.anitabi.cn/points/204483/3pbni8s_1755071958595.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2856,
+        140.2493
+      ]
+    },
+    {
+      "id": "3pbbmj1",
+      "name": "毎日​新聞​大多喜​(販)​小安​新聞​店",
+      "image": "https://image.anitabi.cn/points/204483/3pbbmj1_1755071439477.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.2857,
+        140.2472
+      ]
+    },
+    {
+      "id": "3pbrzge",
+      "name": "千葉県庁",
+      "image": "https://image.anitabi.cn/points/204483/3pbrzge_1755072184667.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.605,
+        140.1233
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "name": "アクションヒロイン チアフルーツ",
+  "name_cn": "动作女主 水果应援团",
+  "local_id": 6217
+}

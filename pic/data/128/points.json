@@ -1087,5 +1087,40 @@
       35.0504,
       135.7905
     ]
+  },
+  {
+    "id": "s9tk77cas",
+    "name": "北山通",
+    "image": "https://image.xinu.ink/pic/data/128/images/s9tk77cas_1737903941048.jpg",
+    "ep": 6,
+    "s": 163,
+    "geo": [
+      35.0521,
+      135.7861
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "25idmjp",
+    "name": "修学院駅前#2",
+    "image": "https://image.xinu.ink/pic/data/128/images/25idmjp.jpg",
+    "ep": 14,
+    "s": 49,
+    "geo": [
+      35.0505,
+      135.7904
+    ]
+  },
+  {
+    "id": "3wdx6jw",
+    "name": "金阁寺",
+    "image": "https://image.xinu.ink/pic/data/128/images/3wdx6jw-1755499044340.jpg",
+    "ep": 4,
+    "s": 310,
+    "geo": [
+      35.0391,
+      135.7331
+    ]
   }
 ]

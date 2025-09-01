@@ -1,0 +1,45 @@
+{
+  "id": 311759,
+  "cn": "结城友奈是勇者 -大满开之章-",
+  "title": "結城友奈は勇者である -大満開の章-",
+  "cover": "https://image.xinu.ink/pic/data/6221/images/311759_x0GRw.jpg",
+  "cp": "2021 Project 2H",
+  "modified": 1755484632705,
+  "litePoints": [
+    {
+      "id": "3vqp6qv",
+      "name": "県道37号",
+      "image": "https://image.anitabi.cn/user/0/bangumi/311759/points/3vqp6qv-1755460086485.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.4696,
+        133.0518
+      ]
+    },
+    {
+      "id": "3vr9ate",
+      "name": "宍道湖大橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/311759/points/3vr9ate-1755460988649.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.466,
+        133.0524
+      ]
+    },
+    {
+      "id": "3vrjlgd",
+      "name": "須衛都久神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/311759/points/3vrjlgd-1755461523343.jpg?plan=h160",
+      "ep": 12,
+      "geo": [
+        35.4688,
+        133.0517
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "結城友奈は勇者である -大満開の章-",
+  "name_cn": "结城友奈是勇者 -大满开之章-",
+  "local_id": 6221
+}

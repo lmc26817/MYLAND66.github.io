@@ -840,5 +840,75 @@
       35.7562,
       139.3609
     ]
+  },
+  {
+    "id": "4740wei",
+    "name": "A&A CAFE DINING 早稲田店",
+    "image": "https://image.xinu.ink/pic/data/1/images/4740wei-1756147758652.jpg",
+    "ep": null,
+    "geo": [
+      35.7079,
+      139.7206
+    ]
+  },
+  {
+    "id": "4748k8h",
+    "name": "早大南門通り",
+    "image": "https://image.xinu.ink/pic/data/1/images/4748k8h-1756147959778.jpg",
+    "ep": null,
+    "geo": [
+      35.7068,
+      139.719
+    ]
+  },
+  {
+    "id": "474d1cr",
+    "name": "石畑公園",
+    "image": "https://image.xinu.ink/pic/data/1/images/474d1cr-1756148148369.jpg",
+    "ep": null,
+    "geo": [
+      35.7757,
+      139.3616
+    ]
+  },
+  {
+    "id": "474japh",
+    "name": "狭山池公園",
+    "image": "https://image.xinu.ink/pic/data/1/images/474japh-1756148393217.jpg",
+    "ep": null,
+    "geo": [
+      35.7765,
+      139.3485
+    ]
+  },
+  {
+    "id": "474t5a7",
+    "name": "武蔵村山市岸３丁目2",
+    "image": "https://image.xinu.ink/pic/data/1/images/474t5a7-1756148847410.jpg",
+    "ep": null,
+    "geo": [
+      35.762,
+      139.3689
+    ]
+  },
+  {
+    "id": "474wy5y",
+    "name": "山手十番館",
+    "image": "https://image.xinu.ink/pic/data/1/images/474wy5y-1756149069085.jpg",
+    "ep": null,
+    "geo": [
+      35.4388,
+      139.6524
+    ]
+  },
+  {
+    "id": "4757ddw",
+    "name": "六郷用水跡",
+    "image": "https://image.xinu.ink/pic/data/1/images/4757ddw-1756149522975.jpg",
+    "ep": null,
+    "geo": [
+      35.5839,
+      139.6726
+    ]
   }
 ]

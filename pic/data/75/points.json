@@ -47,5 +47,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1L5wpIrHwqYqvhchMW6zWj9thEbs&ll=34.476458%2C132.242134&z=17"
+  },
+  {
+    "id": "40tzbwx",
+    "cn": "镰仓海滨公园",
+    "name": "鎌倉海浜公園",
+    "image": "https://image.xinu.ink/pic/data/75/images/40tzbwx-1755768055597.jpg",
+    "ep": "2卷",
+    "geo": [
+      35.3037,
+      139.5312
+    ]
   }
 ]

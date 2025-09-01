@@ -1,0 +1,53 @@
+{
+  "id": 41245,
+  "cn": "绯色战姬",
+  "title": "ビビッドレッド・オペレーション",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6202/images/41245.jpg",
+  "color": "#e82626",
+  "cp": "vividred project",
+  "geo": [
+    34.68659,
+    139.439356
+  ],
+  "modified": 1756633115755,
+  "litePoints": [
+    {
+      "id": "4f3hxdx",
+      "name": "岡田港  龍王神社外",
+      "image": "https://image.anitabi.cn/user/0/bangumi/41245/points/4f3hxdx-1756630418581.jpg?plan=h160",
+      "ep": 1,
+      "s": 130,
+      "geo": [
+        34.7884,
+        139.3914
+      ]
+    },
+    {
+      "id": "4f3pma0",
+      "name": "龍王神社外",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/41245/points/4f3pma0-1756630722476.jpg?plan=h160",
+      "ep": 1,
+      "s": 146,
+      "geo": [
+        34.7885,
+        139.3915
+      ]
+    },
+    {
+      "id": "4f4wi4r",
+      "name": "波浮港バス停前",
+      "image": "https://image.anitabi.cn/user/1093/bangumi/41245/points/4f4wi4r-1756632723845.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        34.6876,
+        139.4394
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "ビビッドレッド・オペレーション",
+  "name_cn": "绯色战姬",
+  "local_id": 6202
+}

@@ -12,5 +12,41 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3x66cll",
+    "name": "東武伊勢崎線铁道下通路",
+    "image": "https://image.xinu.ink/pic/data/6010/images/3x66cll_1755546459389.jpg",
+    "s": 1446,
+    "geo": [
+      35.7449,
+      139.8132
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3x6hz5j",
+    "name": "練馬区立上石神井東公園",
+    "image": "https://image.xinu.ink/pic/data/6010/images/3x6hz5j_1755547000378.jpg",
+    "s": 2573,
+    "geo": [
+      35.7277,
+      139.5961
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3vqvsas",
+    "name": "鶴牧東公園 鶴牧山观景台",
+    "image": "https://image.xinu.ink/pic/data/6010/images/3vqvsas_1755460305737.jpg",
+    "s": 6352,
+    "geo": [
+      35.616,
+      139.4195
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

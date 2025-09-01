@@ -259,5 +259,28 @@
       35.6292,
       139.774
     ]
+  },
+  {
+    "id": "43xvqos",
+    "cn": "悉尼环形码头",
+    "name": "Circular Quay",
+    "image": "https://image.xinu.ink/pic/data/179/images/43xvqos-1755955898369.jpg",
+    "ep": "50",
+    "s": "5:29",
+    "geo": [
+      -33.8612,
+      151.2125
+    ]
+  },
+  {
+    "id": "3m7zobi",
+    "cn": "華硝 日本橋店",
+    "name": "3 Chome-6-5 Nihonbashihoncho, Chuo City, Tokyo 103-0023日本",
+    "image": "https://image.xinu.ink/pic/data/179/images/3m7zobi-1754884408770.jpg",
+    "ep": "迪迦奥特曼第一季",
+    "geo": [
+      35.689,
+      139.7765
+    ]
   }
 ]

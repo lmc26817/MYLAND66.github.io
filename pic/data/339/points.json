@@ -411,5 +411,258 @@
       35.8478,
       139.3158
     ]
+  },
+  {
+    "id": "0721e4cc",
+    "name": "白樺湖",
+    "image": "https://image.xinu.ink/pic/data/339/images/0721e4cc_1754323913692.jpg",
+    "geo": [
+      36.1032,
+      138.2299
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.103235%2C138.22997&z=17"
+  },
+  {
+    "id": "9a31f6b7",
+    "name": "霧鐘塔",
+    "image": "https://image.xinu.ink/pic/data/339/images/9a31f6b7_1754323970105.jpg",
+    "geo": [
+      36.0949,
+      138.1634
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.094999%2C138.163462&z=17"
+  },
+  {
+    "id": "680663f7",
+    "name": "奥霧小屋",
+    "image": "https://image.xinu.ink/pic/data/339/images/680663f7_1754323996236.jpg",
+    "geo": [
+      36.1213,
+      138.1714
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.121358%2C138.171465&z=17"
+  },
+  {
+    "id": "bdd64175",
+    "name": "物見岩",
+    "image": "https://image.xinu.ink/pic/data/339/images/bdd64175_1754324011034.jpg",
+    "geo": [
+      36.1178,
+      138.1838
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.117887%2C138.183814&z=17"
+  },
+  {
+    "id": "afecad09",
+    "name": "木道",
+    "image": "https://image.xinu.ink/pic/data/339/images/afecad09_1754324068938.jpg",
+    "geo": [
+      36.1082,
+      138.1953
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.108271%2C138.195321&z=17"
+  },
+  {
+    "id": "36768083",
+    "name": "車山山頂",
+    "image": "https://image.xinu.ink/pic/data/339/images/36768083_1754324052898.jpg",
+    "geo": [
+      36.1031,
+      138.1968
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.10317%2C138.196871&z=17"
+  },
+  {
+    "id": "b3c87abd",
+    "name": "西口",
+    "image": "https://image.xinu.ink/pic/data/339/images/b3c87abd_1754489929445.jpg",
+    "geo": [
+      36.0913,
+      139.3626
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.09131%2C139.362645&z=17"
+  },
+  {
+    "id": "3fookll",
+    "name": "西口広場",
+    "image": "https://image.xinu.ink/pic/data/339/images/3fookll_1754489921013.jpg",
+    "geo": [
+      36.0912,
+      139.3626
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "851c20d6",
+    "name": "案内表示",
+    "image": "https://image.xinu.ink/pic/data/339/images/851c20d6_1754489078565.jpg",
+    "geo": [
+      36.0914,
+      139.363
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.091475%2C139.363064&z=17"
+  },
+  {
+    "id": "3b4619d2",
+    "name": "げんきもりもり号",
+    "image": "https://image.xinu.ink/pic/data/339/images/3b4619d2_1754489211885.jpg",
+    "geo": [
+      36.092,
+      139.3641
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.092003%2C139.364154&z=17"
+  },
+  {
+    "id": "7cef0198",
+    "name": "ピラミッドロープ",
+    "image": "https://image.xinu.ink/pic/data/339/images/7cef0198_1754489230557.jpg",
+    "geo": [
+      36.0925,
+      139.3654
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.092521%2C139.365486&z=17"
+  },
+  {
+    "id": "bd1fd28b",
+    "name": "斜面ジャンプだい",
+    "image": "https://image.xinu.ink/pic/data/339/images/bd1fd28b_1754489253125.jpg",
+    "geo": [
+      36.0928,
+      139.3643
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.092819%2C139.364307&z=17"
+  },
+  {
+    "id": "c4d39e6b",
+    "name": "トイレ",
+    "image": "https://image.xinu.ink/pic/data/339/images/c4d39e6b_1754489268309.jpg",
+    "geo": [
+      36.0929,
+      139.3646
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.092911%2C139.364696&z=17"
+  },
+  {
+    "id": "ed27ea52",
+    "name": "ぶらさがりシーソー",
+    "image": "https://image.xinu.ink/pic/data/339/images/ed27ea52_1754489301413.jpg",
+    "geo": [
+      36.0929,
+      139.3643
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.092989%2C139.364363&z=17"
+  },
+  {
+    "id": "474d51c5",
+    "name": "ローラー滑り台",
+    "image": "https://image.xinu.ink/pic/data/339/images/474d51c5_1754489334237.jpg",
+    "geo": [
+      36.092,
+      139.363
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.09206%2C139.363029&z=17"
+  },
+  {
+    "id": "ab61da20",
+    "name": "古鎌倉街道",
+    "image": "https://image.xinu.ink/pic/data/339/images/ab61da20_1754489360389.jpg",
+    "geo": [
+      36.0896,
+      139.3666
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.089641%2C139.36661&z=17"
+  },
+  {
+    "id": "2cf30833",
+    "name": "渓流広場",
+    "image": "https://image.xinu.ink/pic/data/339/images/2cf30833_1754489387589.jpg",
+    "geo": [
+      36.0895,
+      139.3699
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.089511%2C139.369935&z=17"
+  },
+  {
+    "id": "2ca5c1c9",
+    "name": "記念広場の何か",
+    "image": "https://image.xinu.ink/pic/data/339/images/2ca5c1c9_1754489414174.jpg",
+    "geo": [
+      36.0877,
+      139.3691
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.087717%2C139.369195&z=17"
+  },
+  {
+    "id": "027930a5",
+    "name": "あざみくぼ橋",
+    "image": "https://image.xinu.ink/pic/data/339/images/027930a5_1754489607934.jpg",
+    "geo": [
+      36.0788,
+      139.3677
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.078808%2C139.367795&z=17"
+  },
+  {
+    "id": "1a6ab35d",
+    "name": "ぽんぽこマウンテン",
+    "image": "https://image.xinu.ink/pic/data/339/images/1a6ab35d_1754489997461.jpg",
+    "geo": [
+      36.0779,
+      139.3699
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.077984%2C139.369973&z=17"
+  },
+  {
+    "id": "63df84a7",
+    "name": "展望レストラン",
+    "image": "https://image.xinu.ink/pic/data/339/images/63df84a7_1754489473389.jpg",
+    "geo": [
+      36.0759,
+      139.3637
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.075963%2C139.363799&z=17"
+  },
+  {
+    "id": "6bdf6698",
+    "name": "南口広場",
+    "image": "https://image.xinu.ink/pic/data/339/images/6bdf6698_1754489512661.jpg",
+    "geo": [
+      36.069,
+      139.3638
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1X6thz8327mocU-3hGNvUjb-FM5w&ll=36.069071%2C139.36382&z=17"
+  },
+  {
+    "id": "3fowq5j",
+    "name": "南口広場 喷泉",
+    "image": "https://image.xinu.ink/pic/data/339/images/3fowq5j_1754489563845.jpg",
+    "geo": [
+      36.069,
+      139.3638
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

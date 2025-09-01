@@ -1,0 +1,120 @@
+{
+  "id": 22660,
+  "cn": "女神异闻录4 黄金版",
+  "title": "ペルソナ4 ザ・ゴールデン",
+  "city": "山梨县",
+  "cover": "https://image.xinu.ink/pic/data/6201/images/22660_4bb11.jpg",
+  "geo": [
+    35.61101005145707,
+    139.17310699999996
+  ],
+  "zoom": 8.39,
+  "modified": 1755773740500,
+  "litePoints": [
+    {
+      "id": "3i88xwn",
+      "cn": "富士浅间神社",
+      "name": "富士浅间神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3i88xwn-1754644344063.jpg?plan=h160",
+      "geo": [
+        35.5003,
+        138.8001
+      ]
+    },
+    {
+      "id": "3i9ybdc",
+      "cn": "梅新",
+      "name": "梅进",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3i9ybdc-1754645904595.jpg?plan=h160",
+      "geo": [
+        35.4922,
+        138.7994
+      ]
+    },
+    {
+      "id": "3zosy0x",
+      "cn": "新仓山浅间公园",
+      "name": " 新倉山浅間公園 ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zosy0x-1755699024699.jpg?plan=h160",
+      "geo": [
+        35.5013,
+        138.8022
+      ]
+    },
+    {
+      "id": "3zqgjwc",
+      "cn": "穴守稻荷神社",
+      "name": "穴守稲荷神社",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zqgjwc-1755701505754.jpg?plan=h160",
+      "geo": [
+        35.4923,
+        138.799
+      ]
+    },
+    {
+      "id": "3zqtmiw",
+      "cn": "月之江书店",
+      "name": "月の江書店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zqtmiw-1755702115519.jpg?plan=h160",
+      "geo": [
+        35.4924,
+        138.8026
+      ]
+    },
+    {
+      "id": "3zqz4ww",
+      "cn": "月江寺大门商店街",
+      "name": "月江寺大门商店街",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zqz4ww-1755702416093.jpg?plan=h160",
+      "geo": [
+        35.4922,
+        138.8036
+      ]
+    },
+    {
+      "id": "3zr8epy",
+      "cn": "笛吹川",
+      "name": "笛吹川",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zr8epy-1755702847041.jpg?plan=h160",
+      "geo": [
+        35.6486,
+        138.6418
+      ]
+    },
+    {
+      "id": "3zrl14y",
+      "cn": "石和永旺商场",
+      "name": "イオン",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zrl14y-1755703593333.jpg?plan=h160",
+      "geo": [
+        35.6566,
+        138.6343
+      ]
+    },
+    {
+      "id": "3zs0mhm",
+      "cn": "加油站",
+      "name": "エネオス\nDr.​Drive​石和​店",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zs0mhm-1755704111746.jpg?plan=h160",
+      "geo": [
+        35.649,
+        138.6418
+      ]
+    },
+    {
+      "id": "3zs9317",
+      "cn": "西武池袋空中庭院",
+      "name": "西武池袋空中庭院",
+      "image": "https://image.anitabi.cn/user/0/bangumi/22660/points/3zs9317-1755704578501.jpg?plan=h160",
+      "geo": [
+        35.7296,
+        139.7118
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "name": "ペルソナ4 ザ・ゴールデン",
+  "name_cn": "女神异闻录4 黄金版",
+  "local_id": 6201
+}

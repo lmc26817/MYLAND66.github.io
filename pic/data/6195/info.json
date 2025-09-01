@@ -1,0 +1,111 @@
+{
+  "id": 1804,
+  "cn": "心跳回忆 Only Love",
+  "title": "ときめきメモリアル Only Love",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/6195/images/1804.jpg",
+  "color": "#c06889",
+  "geo": [
+    43.21161702880951,
+    141.75263230206838
+  ],
+  "zoom": 8.267,
+  "modified": 1754456569928,
+  "litePoints": [
+    {
+      "id": "5qrrvi6v",
+      "name": "JR札幌駅南口",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvi6v_1754455692863.jpg?plan=h160",
+      "geo": [
+        43.0672,
+        141.3504
+      ]
+    },
+    {
+      "id": "5qrrvhxe",
+      "name": "北海道庁",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvhxe_1754455708345.jpg?plan=h160",
+      "geo": [
+        43.0641,
+        141.349
+      ]
+    },
+    {
+      "id": "5qrrvj09",
+      "name": "札幌市時計台",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvj09_1754455722153.jpg?plan=h160",
+      "geo": [
+        43.0624,
+        141.3534
+      ]
+    },
+    {
+      "id": "5qrrviox",
+      "name": "大通公園",
+      "image": "https://image.anitabi.cn/points/1804/5qrrviox_1754455930969.jpg?plan=h160",
+      "geo": [
+        43.0607,
+        141.3526
+      ]
+    },
+    {
+      "id": "5qrrvilm",
+      "name": "サッポロビール園",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvilm_1754455976703.jpg?plan=h160",
+      "geo": [
+        43.0715,
+        141.3682
+      ]
+    },
+    {
+      "id": "3f4xduw",
+      "name": "サッポロ​ビール​博物館",
+      "image": "https://image.anitabi.cn/points/1804/3f4xduw_1754455990825.jpg?plan=h160",
+      "geo": [
+        43.0716,
+        141.3687
+      ]
+    },
+    {
+      "id": "5qrrvini",
+      "name": "JR函館本線",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvini_1754456013032.jpg?plan=h160",
+      "geo": [
+        43.1789,
+        141.0432
+      ]
+    },
+    {
+      "id": "5qrrvimm",
+      "name": "ＪＲ小樽駅",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvimm_1754456028089.jpg?plan=h160",
+      "geo": [
+        43.1976,
+        140.9941
+      ]
+    },
+    {
+      "id": "5qrrvisf",
+      "name": "三角市場",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvisf_1754456044105.jpg?plan=h160",
+      "geo": [
+        43.1981,
+        140.9938
+      ]
+    },
+    {
+      "id": "5qrrvk0u",
+      "name": "旧手宮線",
+      "image": "https://image.anitabi.cn/points/1804/5qrrvk0u_1754456066530.jpg?plan=h160",
+      "geo": [
+        43.199,
+        140.9987
+      ]
+    }
+  ],
+  "pointsLength": 20,
+  "imagesLength": 20,
+  "name": "ときめきメモリアル Only Love",
+  "name_cn": "心跳回忆 Only Love",
+  "local_id": 6195
+}

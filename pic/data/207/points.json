@@ -22,5 +22,122 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.624639%2C139.751804&z=17"
+  },
+  {
+    "id": "51i522n8g",
+    "cn": "天王州アイル大桥",
+    "name": "ポイントB",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522n8g-1754721005546.jpg",
+    "ep": null,
+    "geo": [
+      35.618,
+      139.7494
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.618065%2C139.749425&z=17"
+  },
+  {
+    "id": "51i522mp6",
+    "cn": "天王洲アイル大桥",
+    "name": "ポイントC",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522mp6-1754721553498.jpg",
+    "ep": null,
+    "geo": [
+      35.6185,
+      139.7493
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.618525%2C139.749334&z=17"
+  },
+  {
+    "id": "51i522n4o",
+    "cn": "天王洲高中原型",
+    "name": "ポイントD",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522n4o-1754723481970.jpg",
+    "ep": null,
+    "geo": [
+      35.6175,
+      139.7486
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.617559%2C139.748607&z=17"
+  },
+  {
+    "id": "51i522mxo",
+    "cn": "临海线天王州岛站B出口",
+    "name": "ポイントF",
+    "image": "https://image.xinu.ink/pic/data/207/images/51i522mxo-1754719897833.jpg",
+    "ep": null,
+    "geo": [
+      35.621,
+      139.7506
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.621006%2C139.750654&z=17"
+  },
+  {
+    "id": "3jjfmjk",
+    "cn": "天王洲公园河边座椅",
+    "name": "Tennōzu Park 天王洲公園",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jjfmjk-1754722254619.jpg",
+    "ep": null,
+    "geo": [
+      35.6185,
+      139.7489
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.618512%2C139.748984&z=17"
+  },
+  {
+    "id": "3jjmn8x",
+    "cn": "天王洲公园滑梯旁大树",
+    "name": "Tennōzu Park 天王洲公園",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jjmn8x-1754722570093.jpg",
+    "ep": null,
+    "geo": [
+      35.6185,
+      139.749
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.618582%2C139.749062&z=17"
+  },
+  {
+    "id": "3jjw68z",
+    "cn": "天王洲アイル桥中央",
+    "name": "アイル橋",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jjw68z-1754723025126.jpg",
+    "ep": null,
+    "geo": [
+      35.6182,
+      139.7493
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.618227%2C139.749374&z=17"
+  },
+  {
+    "id": "3jl6yic",
+    "cn": "东京单轨电车天王洲岛站",
+    "name": "Tennōzu Isle Station 天王洲アイル",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jl6yic-1754725406426.jpg",
+    "ep": null,
+    "geo": [
+      35.6232,
+      139.7504
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.623242%2C139.750449&z=17"
+  },
+  {
+    "id": "3jleug8",
+    "cn": "东京单轨电车线",
+    "name": "Tennōzu Isle Station 天王洲アイル",
+    "image": "https://image.xinu.ink/pic/data/207/images/3jleug8-1754725672307.jpg",
+    "ep": null,
+    "geo": [
+      35.623,
+      139.7505
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Y8CoeBh4gWe5DDItU7KNuyzXf9g&ll=35.623061%2C139.750534&z=17"
   }
 ]

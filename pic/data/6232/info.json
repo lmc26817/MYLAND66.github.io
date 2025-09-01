@@ -1,0 +1,57 @@
+{
+  "id": 491513,
+  "cn": "纯白交响曲",
+  "title": "ましろ色シンフォニー -Love is pure white-",
+  "city": "神户市",
+  "cover": "https://image.xinu.ink/pic/data/6232/images/491513_3xytx2t.jpg",
+  "color": "#8e8ec6",
+  "geo": [
+    34.6938590431199,
+    135.19136461231744
+  ],
+  "zoom": 15.884,
+  "modified": 1755650147157,
+  "litePoints": [
+    {
+      "id": "3xyw6ok",
+      "name": "神戸女子大学三宮キャンパス 教育センター",
+      "image": "https://image.anitabi.cn/points/491513/3xyw6ok_1755595497261.jpg?plan=h160",
+      "geo": [
+        34.6963,
+        135.1887
+      ]
+    },
+    {
+      "id": "3y0lm65",
+      "name": "生田神社",
+      "image": "https://image.anitabi.cn/points/491513/3y0lm65_1755597562785.jpg?plan=h160",
+      "geo": [
+        34.6946,
+        135.1907
+      ]
+    },
+    {
+      "id": "3y050xz",
+      "name": "【已拆除】JR三宮駅中央口南側広場",
+      "image": "https://image.anitabi.cn/points/491513/3y050xz_1755596844429.jpg?plan=h160",
+      "geo": [
+        34.6938,
+        135.1947
+      ]
+    },
+    {
+      "id": "3y0drld",
+      "name": "神戸三宮センター街",
+      "image": "https://image.anitabi.cn/points/491513/3y0drld_1755597210192.jpg?plan=h160",
+      "geo": [
+        34.6913,
+        135.1937
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "ましろ色シンフォニー -Love is pure white-",
+  "name_cn": "纯白交响曲",
+  "local_id": 6232
+}

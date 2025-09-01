@@ -1,0 +1,178 @@
+[
+  {
+    "id": "58085149",
+    "name": "舞浜大橋-JR京葉線江戸川橋梁",
+    "image": "https://image.xinu.ink/pic/data/6194/images/58085149_1754555808101.jpg",
+    "geo": [
+      35.639,
+      139.877
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.639023%2C139.877007&z=17"
+  },
+  {
+    "id": "a033d5e1",
+    "name": "旧江戸側河川敷",
+    "image": "https://image.xinu.ink/pic/data/6194/images/a033d5e1_1754555827975.jpg",
+    "geo": [
+      35.6401,
+      139.8781
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.640121%2C139.878101&z=17"
+  },
+  {
+    "id": "061af01e",
+    "name": "JR京葉線 舞浜駅",
+    "image": "https://image.xinu.ink/pic/data/6194/images/061af01e_1754560129308.jpg",
+    "geo": [
+      35.6362,
+      139.8835
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.636232%2C139.883552&z=17"
+  },
+  {
+    "id": "264f8770",
+    "name": "モノレール軌道",
+    "image": "https://image.xinu.ink/pic/data/6194/images/264f8770_1754556625910.jpg",
+    "geo": [
+      35.6116,
+      140.1193
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.611609%2C140.119345&z=17"
+  },
+  {
+    "id": "3gsu79g",
+    "name": "栄町駅",
+    "image": "https://image.xinu.ink/pic/data/6194/images/3gsu79g_1754556609991.jpg",
+    "geo": [
+      35.6129,
+      140.1185
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "95a4238e",
+    "name": "東京メトロ東西線 第一江戸川橋梁",
+    "image": "https://image.xinu.ink/pic/data/6194/images/95a4238e_1754555902460.jpg",
+    "geo": [
+      35.6638,
+      139.8868
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.663843%2C139.886856&z=17"
+  },
+  {
+    "id": "3f84a55b",
+    "name": "新橋",
+    "image": "https://image.xinu.ink/pic/data/6194/images/3f84a55b_1754560316347.jpg",
+    "geo": [
+      35.6625,
+      139.8916
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.66257%2C139.891641&z=17"
+  },
+  {
+    "id": "db46da00",
+    "name": "千葉駅バスターミナル",
+    "image": "https://image.xinu.ink/pic/data/6194/images/db46da00_1754556095911.jpg",
+    "geo": [
+      35.6124,
+      140.1146
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.612411%2C140.114602&z=17"
+  },
+  {
+    "id": "8c3bdcda",
+    "name": "地下道出口",
+    "image": "https://image.xinu.ink/pic/data/6194/images/8c3bdcda_1754556112485.jpg",
+    "geo": [
+      35.6122,
+      140.1159
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.612271%2C140.115917&z=17"
+  },
+  {
+    "id": "867b65ef",
+    "name": "もずく通り",
+    "image": "https://image.xinu.ink/pic/data/6194/images/867b65ef_1754560227266.jpg",
+    "geo": [
+      35.6125,
+      140.1185
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.612568%2C140.118561&z=17"
+  },
+  {
+    "id": "b17ccb0c",
+    "name": "モノレール軌道　その２",
+    "image": "https://image.xinu.ink/pic/data/6194/images/b17ccb0c_1754560000698.jpg",
+    "geo": [
+      35.6115,
+      140.1195
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.611513%2C140.119554&z=17"
+  },
+  {
+    "id": "c0d6357d",
+    "name": "セントラルアーチ",
+    "image": "https://image.xinu.ink/pic/data/6194/images/c0d6357d_1754555947102.jpg",
+    "geo": [
+      35.6105,
+      140.1199
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.610514%2C140.119972&z=17"
+  },
+  {
+    "id": "3c8808e2",
+    "name": "セントラルアーチ撮影ポイント",
+    "image": "https://image.xinu.ink/pic/data/6194/images/3c8808e2_1754555962933.jpg",
+    "geo": [
+      35.611,
+      140.1185
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.611011%2C140.11854&z=17"
+  },
+  {
+    "id": "1a416339",
+    "name": "富士見東電前交差点",
+    "image": "https://image.xinu.ink/pic/data/6194/images/1a416339_1754556065640.jpg",
+    "geo": [
+      35.6109,
+      140.1182
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=35.610998%2C140.118218&z=17"
+  },
+  {
+    "id": "3b70bec5",
+    "name": "洲崎灯台",
+    "image": "https://image.xinu.ink/pic/data/6194/images/3b70bec5_1754556300416.jpg",
+    "geo": [
+      34.9753,
+      139.7575
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=34.975307%2C139.757568&z=17"
+  },
+  {
+    "id": "bc874454",
+    "name": "洲崎灯台 付近の入り江",
+    "image": "https://image.xinu.ink/pic/data/6194/images/bc874454_1754556284619.jpg",
+    "geo": [
+      34.9745,
+      139.7596
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ROEDyK7sAiN4Qvzzxtdx_u1w88I&ll=34.974525%2C139.759644&z=17"
+  }
+]

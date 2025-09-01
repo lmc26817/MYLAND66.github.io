@@ -1,0 +1,134 @@
+[
+  {
+    "id": "3i88xwn",
+    "cn": "富士浅间神社",
+    "name": "富士浅间神社",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3i88xwn-1754644344063.jpg",
+    "ep": "狐狸神社",
+    "geo": [
+      35.5003,
+      138.8001
+    ]
+  },
+  {
+    "id": "3i9ybdc",
+    "cn": "梅新",
+    "name": "梅进",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3i9ybdc-1754645904595.jpg",
+    "ep": "商店街北侧",
+    "geo": [
+      35.4922,
+      138.7994
+    ]
+  },
+  {
+    "id": "3zosy0x",
+    "cn": "新仓山浅间公园",
+    "name": " 新倉山浅間公園 ",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zosy0x-1755699024699.jpg",
+    "ep": "高台",
+    "geo": [
+      35.5013,
+      138.8022
+    ]
+  },
+  {
+    "id": "3zqgjwc",
+    "cn": "穴守稻荷神社",
+    "name": "穴守稲荷神社",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zqgjwc-1755701505754.jpg",
+    "ep": "狐狸神社",
+    "geo": [
+      35.4923,
+      138.799
+    ]
+  },
+  {
+    "id": "3zqtmiw",
+    "cn": "月之江书店",
+    "name": "月の江書店",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zqtmiw-1755702115519.jpg",
+    "ep": "四目内堂书店",
+    "geo": [
+      35.4924,
+      138.8026
+    ]
+  },
+  {
+    "id": "3zqz4ww",
+    "cn": "月江寺大门商店街",
+    "name": "月江寺大门商店街",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zqz4ww-1755702416093.jpg",
+    "ep": "商店街招牌",
+    "geo": [
+      35.4922,
+      138.8036
+    ]
+  },
+  {
+    "id": "3zr8epy",
+    "cn": "笛吹川",
+    "name": "笛吹川",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zr8epy-1755702847041.jpg",
+    "ep": "鲛川河堤",
+    "geo": [
+      35.6486,
+      138.6418
+    ]
+  },
+  {
+    "id": "3zrl14y",
+    "cn": "石和永旺商场",
+    "name": "イオン",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zrl14y-1755703593333.jpg",
+    "ep": "junes",
+    "geo": [
+      35.6566,
+      138.6343
+    ]
+  },
+  {
+    "id": "3zs0mhm",
+    "cn": "加油站",
+    "name": "エネオス\nDr.​Drive​石和​店",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zs0mhm-1755704111746.jpg",
+    "ep": "加油站",
+    "geo": [
+      35.649,
+      138.6418
+    ]
+  },
+  {
+    "id": "3zs9317",
+    "cn": "西武池袋空中庭院",
+    "name": "西武池袋空中庭院",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zs9317-1755704578501.jpg",
+    "ep": "小队集结地",
+    "geo": [
+      35.7296,
+      139.7118
+    ]
+  },
+  {
+    "id": "3zso3o7",
+    "cn": "武藏野大学有明校区",
+    "name": "武藏野大学有明校区",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zso3o7-1755705324144.jpg",
+    "ep": "月光馆高中",
+    "geo": [
+      35.6306,
+      139.787
+    ]
+  },
+  {
+    "id": "3zo5qgn",
+    "cn": "石和温泉站",
+    "name": "石和温泉駅",
+    "image": "https://image.xinu.ink/pic/data/6201/images/3zo5qgn-1755698095513.jpg",
+    "ep": null,
+    "geo": [
+      35.6575,
+      138.6351
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "id": 12786,
+  "cn": "朝雾的巫女",
+  "title": "朝霧の巫女",
+  "city": "三次市",
+  "cover": "https://image.xinu.ink/pic/data/6199/images/12786.jpg",
+  "color": "#5555aa",
+  "geo": [
+    34.807214,
+    132.848482
+  ],
+  "modified": 1756281233798,
+  "litePoints": [
+    {
+      "id": "kpx6ogymg",
+      "name": "太歳神社",
+      "image": "https://image.anitabi.cn/points/12786/kpx6ogymg_1756279574240.jpg?plan=h160",
+      "geo": [
+        34.8188,
+        132.8453
+      ]
+    },
+    {
+      "id": "kpx6ogyge",
+      "name": "三次駅前",
+      "image": "https://image.anitabi.cn/points/12786/kpx6ogyge_1756279693418.jpg?plan=h160",
+      "geo": [
+        34.803,
+        132.8557
+      ]
+    },
+    {
+      "id": "49aqrum",
+      "name": "三次駅ホーム",
+      "image": "https://image.anitabi.cn/points/12786/49aqrum_1756279724688.jpg?plan=h160",
+      "geo": [
+        34.8026,
+        132.856
+      ]
+    },
+    {
+      "id": "kpx6ogzev",
+      "name": "イズミ（サングリーン）",
+      "image": "https://image.anitabi.cn/points/12786/kpx6ogzev_1756279793562.jpg?plan=h160",
+      "geo": [
+        34.804,
+        132.86
+      ]
+    },
+    {
+      "id": "kpx6ogx94",
+      "name": "熱田神宮",
+      "geo": [
+        35.1245,
+        136.9088
+      ]
+    },
+    {
+      "id": "kpx6ogxlu",
+      "name": "高谷山展望台",
+      "geo": [
+        34.796,
+        132.8244
+      ]
+    },
+    {
+      "id": "kpx6ogy7c",
+      "name": "CCPLAZA",
+      "geo": [
+        34.8034,
+        132.8511
+      ]
+    },
+    {
+      "id": "kpx6ogy1c",
+      "name": "歩道橋",
+      "geo": [
+        34.8114,
+        132.8443
+      ]
+    },
+    {
+      "id": "kpx6ogz8d",
+      "name": "巴橋",
+      "geo": [
+        34.8073,
+        132.8482
+      ]
+    },
+    {
+      "id": "kpx6ogyw5",
+      "name": "出会いの広場",
+      "geo": [
+        34.8049,
+        132.856
+      ]
+    }
+  ],
+  "pointsLength": 11,
+  "imagesLength": 4,
+  "name": "朝霧の巫女",
+  "name_cn": "朝雾的巫女",
+  "local_id": 6199
+}

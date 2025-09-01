@@ -1,0 +1,110 @@
+{
+  "id": 10843,
+  "cn": "白兔糖",
+  "title": "うさぎドロップ",
+  "city": "名古屋市",
+  "cover": "https://image.xinu.ink/pic/data/6198/images/10843.jpg",
+  "color": "#635547",
+  "geo": [
+    35.159003,
+    136.903478
+  ],
+  "modified": 1756289219069,
+  "litePoints": [
+    {
+      "id": "kpx6ogcec",
+      "name": "大須小学校周辺",
+      "image": "https://image.anitabi.cn/points/10843/kpx6ogcec_1756288665368.jpg?plan=h160",
+      "geo": [
+        35.1589,
+        136.8955
+      ]
+    },
+    {
+      "id": "kpx6ogds9",
+      "name": "国際センター駅１出口付近",
+      "image": "https://image.anitabi.cn/points/10843/kpx6ogds9_1756283562274.jpg?plan=h160",
+      "geo": [
+        35.1723,
+        136.8893
+      ]
+    },
+    {
+      "id": "kpx6ogdi9",
+      "name": "ユニクロ名古屋栄店",
+      "image": "https://image.anitabi.cn/points/10843/kpx6ogdi9_1756281709828.jpg?plan=h160",
+      "geo": [
+        35.1652,
+        136.9059
+      ]
+    },
+    {
+      "id": "kpx6ogdcx",
+      "name": "イオンタウン太閤ショッピングセンター",
+      "image": "https://image.anitabi.cn/points/10843/kpx6ogdcx_1756283946379.jpg?plan=h160",
+      "geo": [
+        35.1659,
+        136.8806
+      ]
+    },
+    {
+      "id": "kpx6oge2n",
+      "name": "名古屋駅（桜通線西改札口付近の階段）",
+      "image": "https://image.anitabi.cn/points/10843/kpx6oge2n_1756284135193.jpg?plan=h160",
+      "geo": [
+        35.1702,
+        136.881
+      ]
+    },
+    {
+      "id": "kpx6oge1p",
+      "name": "伏見駅４番線（鶴舞線）",
+      "image": "https://image.anitabi.cn/points/10843/kpx6oge1p_1756284256748.jpg?plan=h160",
+      "geo": [
+        35.1689,
+        136.8974
+      ]
+    },
+    {
+      "id": "kpx6ogea8",
+      "name": "八木兵株式会社",
+      "image": "https://image.anitabi.cn/points/10843/kpx6ogea8_1756281774252.jpg?plan=h160",
+      "geo": [
+        35.1721,
+        136.9
+      ]
+    },
+    {
+      "id": "kpx6oge1w",
+      "name": "名古屋駅（桜通線）",
+      "image": "https://image.anitabi.cn/points/10843/kpx6oge1w_1756284324442.jpg?plan=h160",
+      "geo": [
+        35.1705,
+        136.8822
+      ]
+    },
+    {
+      "id": "kpx6ogf7p",
+      "name": "円頓寺通",
+      "image": "https://image.anitabi.cn/points/10843/kpx6ogf7p_1756284009993.jpg?plan=h160",
+      "geo": [
+        35.1762,
+        136.8906
+      ]
+    },
+    {
+      "id": "kpx6ogfwu",
+      "name": "生鮮食品館サノヤ万松寺店",
+      "image": "https://image.anitabi.cn/points/10843/kpx6ogfwu_1756281600636.jpg?plan=h160",
+      "geo": [
+        35.1588,
+        136.9045
+      ]
+    }
+  ],
+  "pointsLength": 27,
+  "imagesLength": 14,
+  "name": "うさぎドロップ",
+  "name_cn": "白兔糖",
+  "local_id": 6198
+}

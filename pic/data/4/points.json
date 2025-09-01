@@ -122,5 +122,19 @@
       35.7146,
       139.6871
     ]
+  },
+  {
+    "id": "kpx6okwh4",
+    "cn": "林芙美子纪念馆",
+    "name": "林芙美子記念館",
+    "image": "https://image.xinu.ink/pic/data/4/images/kpx6okwh4-1754838542215.jpg",
+    "ep": null,
+    "s": "00:21:12",
+    "geo": [
+      35.7158,
+      139.6843
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15AkywObAP2TSUZLtjqYO5R_faaE&ll=35.71584%2C139.684301&z=17"
   }
 ]

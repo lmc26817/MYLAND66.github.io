@@ -1,0 +1,48 @@
+[
+  {
+    "id": "3xyw6ok",
+    "name": "神戸女子大学三宮キャンパス 教育センター",
+    "image": "https://image.xinu.ink/pic/data/6232/images/3xyw6ok_1755595497261.jpg",
+    "geo": [
+      34.6963,
+      135.1887
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3y0lm65",
+    "name": "生田神社",
+    "image": "https://image.xinu.ink/pic/data/6232/images/3y0lm65_1755597562785.jpg",
+    "geo": [
+      34.6946,
+      135.1907
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3y050xz",
+    "name": "【已拆除】JR三宮駅中央口南側広場",
+    "image": "https://image.xinu.ink/pic/data/6232/images/3y050xz_1755596844429.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      34.6938,
+      135.1947
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3y0drld",
+    "name": "神戸三宮センター街",
+    "image": "https://image.xinu.ink/pic/data/6232/images/3y0drld_1755597210192.jpg",
+    "geo": [
+      34.6913,
+      135.1937
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
+  }
+]

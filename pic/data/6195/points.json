@@ -1,0 +1,189 @@
+[
+  {
+    "id": "5qrrvi6v",
+    "name": "JR札幌駅南口",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvi6v_1754455692863.jpg",
+    "geo": [
+      43.0672,
+      141.3504
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.067242%2C141.350461&z=17"
+  },
+  {
+    "id": "5qrrvhxe",
+    "name": "北海道庁",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvhxe_1754455708345.jpg",
+    "geo": [
+      43.0641,
+      141.349
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.064122%2C141.349034&z=17"
+  },
+  {
+    "id": "5qrrvj09",
+    "name": "札幌市時計台",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvj09_1754455722153.jpg",
+    "geo": [
+      43.0624,
+      141.3534
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.062453%2C141.353401&z=17"
+  },
+  {
+    "id": "5qrrviox",
+    "name": "大通公園",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrviox_1754455930969.jpg",
+    "geo": [
+      43.0607,
+      141.3526
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.060701%2C141.352614&z=17"
+  },
+  {
+    "id": "5qrrvilm",
+    "name": "サッポロビール園",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvilm_1754455976703.jpg",
+    "geo": [
+      43.0715,
+      141.3682
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.071553%2C141.368239&z=17"
+  },
+  {
+    "id": "3f4xduw",
+    "name": "サッポロ​ビール​博物館",
+    "image": "https://image.xinu.ink/pic/data/6195/images/3f4xduw_1754455990825.jpg",
+    "geo": [
+      43.0716,
+      141.3687
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5qrrvini",
+    "name": "JR函館本線",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvini_1754456013032.jpg",
+    "geo": [
+      43.1789,
+      141.0432
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.178956%2C141.04324&z=17"
+  },
+  {
+    "id": "5qrrvimm",
+    "name": "ＪＲ小樽駅",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvimm_1754456028089.jpg",
+    "geo": [
+      43.1976,
+      140.9941
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.197676%2C140.994189&z=17"
+  },
+  {
+    "id": "5qrrvisf",
+    "name": "三角市場",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvisf_1754456044105.jpg",
+    "geo": [
+      43.1981,
+      140.9938
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.198139%2C140.993801&z=17"
+  },
+  {
+    "id": "5qrrvk0u",
+    "name": "旧手宮線",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvk0u_1754456066530.jpg",
+    "geo": [
+      43.199,
+      140.9987
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.199021%2C140.998773&z=17"
+  },
+  {
+    "id": "5qrrvjcx",
+    "name": "運河プラザ",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvjcx_1754456094428.jpg",
+    "geo": [
+      43.1999,
+      141.0008
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.199952%2C141.000836&z=17"
+  },
+  {
+    "id": "5qrrvk1d",
+    "name": "旧三井銀行小樽支店",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvk1d_1754456146688.jpg",
+    "geo": [
+      43.1974,
+      141.0014
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.197449%2C141.001464&z=17"
+  },
+  {
+    "id": "5qrrvjvd",
+    "name": "堺町通り",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvjvd_1754456154184.jpg",
+    "geo": [
+      43.1943,
+      141.006
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.194385%2C141.006037&z=17"
+  },
+  {
+    "id": "5qrrvjmk",
+    "name": "小樽運河",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvjmk_1754456176825.jpg",
+    "geo": [
+      43.1979,
+      141.003
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.197969%2C141.00303&z=17"
+  },
+  {
+    "id": "5qrrvjp1",
+    "name": "可否茶館小樽ファクトリー",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvjp1_1754456300745.jpg",
+    "geo": [
+      43.1939,
+      141.0066
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.193998%2C141.006611&z=17"
+  },
+  {
+    "id": "5qrrvk18",
+    "name": "五郎の石の家",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvk18_1754456525410.jpg",
+    "geo": [
+      43.3136,
+      142.5644
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.313641%2C142.564491&z=17"
+  },
+  {
+    "id": "5qrrvjum",
+    "name": "ふらのチーズ工房",
+    "image": "https://image.xinu.ink/pic/data/6195/images/5qrrvjum_1754456497049.jpg",
+    "geo": [
+      43.3211,
+      142.379
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Nnvm0MCG--0zRJ0SGS1IZvwgnhc&ll=43.321127%2C142.379077&z=17"
+  }
+]

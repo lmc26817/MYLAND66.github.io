@@ -547,5 +547,15 @@
     ],
     "origin": "Anitabi@卜卜口",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3jx379m",
+    "name": "出町ふたば",
+    "image": "https://image.xinu.ink/pic/data/286/images/3jx379m-1754745146774.jpg",
+    "ep": null,
+    "geo": [
+      35.03,
+      135.7696
+    ]
   }
 ]

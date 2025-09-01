@@ -1,0 +1,105 @@
+{
+  "id": 1147,
+  "cn": "ZEGAPAIN",
+  "title": "ゼーガペイン",
+  "city": "浦安市",
+  "cover": "https://image.xinu.ink/pic/data/6194/images/1147_DzZQ5.jpg",
+  "modified": 1754560382051,
+  "litePoints": [
+    {
+      "id": "58085149",
+      "name": "舞浜大橋-JR京葉線江戸川橋梁",
+      "image": "https://image.anitabi.cn/points/1147/58085149_1754555808101.jpg?plan=h160",
+      "geo": [
+        35.639,
+        139.877
+      ]
+    },
+    {
+      "id": "a033d5e1",
+      "name": "旧江戸側河川敷",
+      "image": "https://image.anitabi.cn/points/1147/a033d5e1_1754555827975.jpg?plan=h160",
+      "geo": [
+        35.6401,
+        139.8781
+      ]
+    },
+    {
+      "id": "061af01e",
+      "name": "JR京葉線 舞浜駅",
+      "image": "https://image.anitabi.cn/points/1147/061af01e_1754560129308.jpg?plan=h160",
+      "geo": [
+        35.6362,
+        139.8835
+      ]
+    },
+    {
+      "id": "264f8770",
+      "name": "モノレール軌道",
+      "image": "https://image.anitabi.cn/points/1147/264f8770_1754556625910.jpg?plan=h160",
+      "geo": [
+        35.6116,
+        140.1193
+      ]
+    },
+    {
+      "id": "3gsu79g",
+      "name": "栄町駅",
+      "image": "https://image.anitabi.cn/points/1147/3gsu79g_1754556609991.jpg?plan=h160",
+      "geo": [
+        35.6129,
+        140.1185
+      ]
+    },
+    {
+      "id": "95a4238e",
+      "name": "東京メトロ東西線 第一江戸川橋梁",
+      "image": "https://image.anitabi.cn/points/1147/95a4238e_1754555902460.jpg?plan=h160",
+      "geo": [
+        35.6638,
+        139.8868
+      ]
+    },
+    {
+      "id": "3f84a55b",
+      "name": "新橋",
+      "image": "https://image.anitabi.cn/points/1147/3f84a55b_1754560316347.jpg?plan=h160",
+      "geo": [
+        35.6625,
+        139.8916
+      ]
+    },
+    {
+      "id": "db46da00",
+      "name": "千葉駅バスターミナル",
+      "image": "https://image.anitabi.cn/points/1147/db46da00_1754556095911.jpg?plan=h160",
+      "geo": [
+        35.6124,
+        140.1146
+      ]
+    },
+    {
+      "id": "8c3bdcda",
+      "name": "地下道出口",
+      "image": "https://image.anitabi.cn/points/1147/8c3bdcda_1754556112485.jpg?plan=h160",
+      "geo": [
+        35.6122,
+        140.1159
+      ]
+    },
+    {
+      "id": "867b65ef",
+      "name": "もずく通り",
+      "image": "https://image.anitabi.cn/points/1147/867b65ef_1754560227266.jpg?plan=h160",
+      "geo": [
+        35.6125,
+        140.1185
+      ]
+    }
+  ],
+  "pointsLength": 18,
+  "imagesLength": 16,
+  "name": "ゼーガペイン",
+  "name_cn": "ZEGAPAIN",
+  "local_id": 6194
+}

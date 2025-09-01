@@ -10,5 +10,19 @@
       57.9981,
       28.0265
     ]
+  },
+  {
+    "id": "3f6fhet",
+    "cn": "斯巴斯克塔",
+    "name": "Спасская башня",
+    "image": "https://image.xinu.ink/pic/data/118/images/3f6fhet-1754458612693.jpg",
+    "ep": null,
+    "s": "1186",
+    "geo": [
+      55.7528,
+      37.6216
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
   }
 ]

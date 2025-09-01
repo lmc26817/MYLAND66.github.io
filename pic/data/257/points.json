@@ -653,5 +653,60 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.31332%2C140.586038&z=17"
+  },
+  {
+    "id": "biw9iug8s",
+    "name": "逃走３：米藤金物店前",
+    "image": "https://image.xinu.ink/pic/data/257/images/biw9iug8s_1755157654719.jpg",
+    "geo": [
+      36.3149,
+      140.5727
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.314931%2C140.572772&z=17"
+  },
+  {
+    "id": "biw9iug9w",
+    "name": "逃走４：加藤とうふ店前",
+    "image": "https://image.xinu.ink/pic/data/257/images/biw9iug9w_1755157709273.jpg",
+    "geo": [
+      36.315,
+      140.5733
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.315065%2C140.573333&z=17"
+  },
+  {
+    "id": "3qqqt9r",
+    "name": "逃走５：鴨志田商店前",
+    "image": "https://image.xinu.ink/pic/data/257/images/3qqqt9r_1755157773649.jpg",
+    "geo": [
+      36.315,
+      140.5738
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "biw9iug4t",
+    "name": "逃走５：肴屋本店",
+    "image": "https://image.xinu.ink/pic/data/257/images/biw9iug4t_1755157797561.jpg",
+    "geo": [
+      36.3149,
+      140.5739
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.314961%2C140.573992&z=17"
+  },
+  {
+    "id": "biw9iufzu",
+    "name": "大洗駅自転車駐車場前",
+    "image": "https://image.xinu.ink/pic/data/257/images/biw9iufzu_1755156417808.jpg",
+    "geo": [
+      36.3146,
+      140.5629
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1QfMavUkK3yzt8eMRnoewpX14MVo&ll=36.314611%2C140.562907&z=17"
   }
 ]

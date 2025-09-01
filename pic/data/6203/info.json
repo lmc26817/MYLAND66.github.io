@@ -1,0 +1,110 @@
+{
+  "id": 69944,
+  "cn": "跟班×服务",
+  "title": "サーバント×サービス",
+  "cover": "https://image.xinu.ink/pic/data/6203/images/69944.jpg",
+  "color": "#555555",
+  "cp": "サーバント×サービス",
+  "geo": [
+    42.999582,
+    141.443653
+  ],
+  "modified": 1754388210993,
+  "litePoints": [
+    {
+      "id": "b8c15c00",
+      "name": "白石区役所",
+      "image": "https://image.anitabi.cn/points/69944/b8c15c00_1754387284679.jpg?plan=h160",
+      "geo": [
+        43.0471,
+        141.4052
+      ]
+    },
+    {
+      "id": "87f9cfd1",
+      "name": "スターロード",
+      "image": "https://image.anitabi.cn/points/69944/87f9cfd1_1754387546830.jpg?plan=h160",
+      "geo": [
+        35.7049,
+        139.635
+      ]
+    },
+    {
+      "id": "077d39c0",
+      "name": "旧ロイヤルホスト1号店",
+      "image": "https://image.anitabi.cn/points/69944/077d39c0_1754387213413.jpg?plan=h160",
+      "geo": [
+        33.8586,
+        130.7542
+      ]
+    },
+    {
+      "id": "227d3d37",
+      "name": "イオン札幌桑園ショッピングセンター",
+      "image": "https://image.anitabi.cn/points/69944/227d3d37_1754387244159.jpg?plan=h160",
+      "geo": [
+        43.0698,
+        141.3316
+      ]
+    },
+    {
+      "id": "9e811149",
+      "name": "白石区役所前階段",
+      "image": "https://image.anitabi.cn/points/69944/9e811149_1754387301021.jpg?plan=h160",
+      "geo": [
+        43.0474,
+        141.405
+      ]
+    },
+    {
+      "id": "5738adf6",
+      "name": "杉並区役所",
+      "image": "https://image.anitabi.cn/points/69944/5738adf6_1754387164678.jpg?plan=h160",
+      "geo": [
+        35.6995,
+        139.6364
+      ]
+    },
+    {
+      "id": "ba599e6c",
+      "name": "杉並警察署前歩道橋",
+      "image": "https://image.anitabi.cn/points/69944/ba599e6c_1754388178186.jpg?plan=h160",
+      "geo": [
+        35.6989,
+        139.6368
+      ]
+    },
+    {
+      "id": "0759b65b",
+      "name": "JR札幌駅南口",
+      "image": "https://image.anitabi.cn/points/69944/0759b65b_1754387737425.jpg?plan=h160",
+      "geo": [
+        43.0673,
+        141.3502
+      ]
+    },
+    {
+      "id": "7645ad45",
+      "name": "札幌駅前通り",
+      "image": "https://image.anitabi.cn/points/69944/7645ad45_1754387785272.jpg?plan=h160",
+      "geo": [
+        43.0658,
+        141.3505
+      ]
+    },
+    {
+      "id": "e051ab98",
+      "name": "くしろ湿原ノロッコ号",
+      "image": "https://image.anitabi.cn/points/69944/e051ab98_1754388080661.jpg?plan=h160",
+      "geo": [
+        43.1006,
+        144.4477
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "name": "サーバント×サービス",
+  "name_cn": "跟班×服务",
+  "local_id": 6203
+}

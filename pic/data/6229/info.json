@@ -1,0 +1,96 @@
+{
+  "id": 465493,
+  "title": "anemoi",
+  "city": "日本",
+  "cover": "https://image.xinu.ink/pic/data/6229/images/465493_e3A48.jpg",
+  "modified": 1756061523454,
+  "litePoints": [
+    {
+      "id": "3wvutqu",
+      "name": "しょ​さん​べつ​天文台",
+      "image": "https://image.anitabi.cn/points/465493/3wvutqu_1755529130489.jpg?plan=h160",
+      "geo": [
+        44.5625,
+        141.7743
+      ]
+    },
+    {
+      "id": "3ww2h93",
+      "name": "苫前町​郷土​資料館",
+      "image": "https://image.anitabi.cn/points/465493/3ww2h93_1755529962285.jpg?plan=h160",
+      "geo": [
+        44.3076,
+        141.6586
+      ]
+    },
+    {
+      "id": "45kzsdu",
+      "cn": "苫前夕阳丘未来港公园",
+      "name": "とままえ夕陽ヶ丘未来港公園",
+      "image": "https://image.anitabi.cn/points/465493/45kzsdu_1756055080236.jpg?plan=h160",
+      "geo": [
+        44.3153,
+        141.6584
+      ]
+    },
+    {
+      "id": "45mmtbe",
+      "cn": "苫前夕阳丘白色沙滩",
+      "name": "とままえ夕陽ケ丘ホワイトビーチ",
+      "image": "https://image.anitabi.cn/points/465493/45mmtbe_1756057836311.jpg?plan=h160",
+      "geo": [
+        44.3159,
+        141.662
+      ]
+    },
+    {
+      "id": "45mprd4",
+      "name": "苫前夕陽ヶ丘風力発電所 ・ 風来望",
+      "image": "https://image.anitabi.cn/points/465493/45mprd4_1756057975205.jpg?plan=h160",
+      "geo": [
+        44.3168,
+        141.6643
+      ]
+    },
+    {
+      "id": "45n2ud1",
+      "name": "グリーンヒルウインドパーク",
+      "image": "https://image.anitabi.cn/points/465493/45n2ud1_1756058587661.jpg?plan=h160",
+      "geo": [
+        44.253,
+        141.6637
+      ]
+    },
+    {
+      "id": "45nk0bk",
+      "name": "道の駅 おびら鰊番屋",
+      "image": "https://image.anitabi.cn/points/465493/45nk0bk_1756059389345.jpg?plan=h160",
+      "geo": [
+        44.1372,
+        141.6549
+      ]
+    },
+    {
+      "id": "45nnfqy",
+      "name": "苫前郵便局",
+      "image": "https://image.anitabi.cn/points/465493/45nnfqy_1756059711840.jpg?plan=h160",
+      "geo": [
+        44.3074,
+        141.6534
+      ]
+    },
+    {
+      "id": "45ol5u1",
+      "name": "民宿30ノット",
+      "image": "https://image.anitabi.cn/points/465493/45ol5u1_1756061160877.jpg?plan=h160",
+      "geo": [
+        44.3135,
+        141.6614
+      ]
+    }
+  ],
+  "pointsLength": 12,
+  "imagesLength": 12,
+  "name": "anemoi",
+  "local_id": 6229
+}

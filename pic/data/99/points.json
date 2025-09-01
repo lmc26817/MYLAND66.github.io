@@ -290,5 +290,154 @@
       35.7299,
       139.7123
     ]
+  },
+  {
+    "id": "3c86aht",
+    "name": "首都高速5号池袋線",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c86aht_1754280035538.jpg",
+    "ep": 1,
+    "geo": [
+      35.7313,
+      139.7167
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c9cww6",
+    "name": "池袋水天宮",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c9cww6_1754282018829.jpg",
+    "ep": 3,
+    "geo": [
+      35.7331,
+      139.7134
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6ol5ab",
+    "name": "Milky Way",
+    "image": "https://image.xinu.ink/pic/data/99/images/kpx6ol5ab_1754279048103.jpg",
+    "geo": [
+      35.7294,
+      139.7142
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.729413%2C139.714202&z=17"
+  },
+  {
+    "id": "kpx6oldje",
+    "cn": "东京艺术剧场前",
+    "name": "待ち合わせにおススメなオブジェ",
+    "image": "https://image.xinu.ink/pic/data/99/images/kpx6oldje_1754281187737.jpg",
+    "geo": [
+      35.7302,
+      139.7087
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.730271%2C139.708737&z=17"
+  },
+  {
+    "id": "kpx6olgda",
+    "cn": "LOTTERIA 汉堡店",
+    "name": "ロッテリア",
+    "image": "https://image.xinu.ink/pic/data/99/images/kpx6olgda_1754279067233.jpg",
+    "geo": [
+      35.7296,
+      139.7143
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1vzhG57CN_1BdjW6NDHohJ27azJs&ll=35.729661%2C139.714315&z=17"
+  },
+  {
+    "id": "3c766uh",
+    "name": "西武池袋前",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c766uh_1754278466782.jpg",
+    "geo": [
+      35.7295,
+      139.712
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c7jch8",
+    "name": "卡拉OK池袋南口店",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c7jch8_1754278977880.jpg",
+    "geo": [
+      35.7271,
+      139.712
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c7v9om",
+    "name": "ニトリ前",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c7v9om_1754279585294.jpg",
+    "geo": [
+      35.73,
+      139.7165
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c8ftf2",
+    "name": "街心公园",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c8ftf2_1754280496075.jpg",
+    "geo": [
+      35.7307,
+      139.7149
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c8int2",
+    "name": "首都高速池袋口 高架",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c8int2_1754280643116.jpg",
+    "geo": [
+      35.7296,
+      139.7168
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c8k6ig",
+    "cn": "全家 sunshine西店",
+    "name": "ファミリー​マート​サンシャイン​西​店",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c8k6ig_1754280680346.jpg",
+    "geo": [
+      35.7295,
+      139.7171
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c96zan",
+    "cn": "Caffè Veloce池袋東口店",
+    "name": "カフェ･ベローチェ　東池袋一丁目店",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c96zan_1754281773123.jpg",
+    "geo": [
+      35.7329,
+      139.7147
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3c9adv6",
+    "name": "焼鳥亭まさ樹",
+    "image": "https://image.xinu.ink/pic/data/99/images/3c9adv6_1754281904365.jpg",
+    "geo": [
+      35.7332,
+      139.7142
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

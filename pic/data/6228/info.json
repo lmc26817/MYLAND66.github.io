@@ -1,0 +1,121 @@
+{
+  "id": 446185,
+  "cn": "放学后归宅日常",
+  "title": "放課後帰宅びより",
+  "city": "厚木市",
+  "cover": "https://image.xinu.ink/pic/data/6228/images/446185_e2ehh.jpg",
+  "geo": [
+    35.434802347850336,
+    139.37449694628117
+  ],
+  "zoom": 15.471,
+  "modified": 1756692532136,
+  "litePoints": [
+    {
+      "id": "4deiea4",
+      "name": "相模川三川合流地点河川敷西",
+      "image": "https://image.anitabi.cn/points/446185/4deiea4_1756529212080.jpg?plan=h160",
+      "geo": [
+        35.4472,
+        139.3687
+      ]
+    },
+    {
+      "id": "4dewy0m",
+      "cn": "相模川东岸 山羊除草作业区",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/446185/4dewy0m_1756528626493.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.4307,
+        139.3762
+      ]
+    },
+    {
+      "id": "4df3882",
+      "cn": "相模川东岸 山羊除草作业区 西眺",
+      "name": 3,
+      "image": "https://image.anitabi.cn/points/446185/4df3882_1756528893591.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.4311,
+        139.376
+      ]
+    },
+    {
+      "id": "4df6y1q",
+      "cn": "相模川东岸 山羊除草作业区 北眺",
+      "name": 3,
+      "image": "https://image.anitabi.cn/points/446185/4df6y1q_1756529191091.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.4311,
+        139.3766
+      ]
+    },
+    {
+      "id": "4dffw8j",
+      "name": "海老名運動公園",
+      "image": "https://image.anitabi.cn/points/446185/4dffw8j_1756529483951.jpg?plan=h160",
+      "ep": 16,
+      "geo": [
+        35.4314,
+        139.378
+      ]
+    },
+    {
+      "id": "4e38djf",
+      "name": "厚木市中央公園 游乐设施",
+      "image": "https://image.anitabi.cn/points/446185/4e38djf_1756569472981.jpg?plan=h160",
+      "geo": [
+        35.4439,
+        139.3629
+      ]
+    },
+    {
+      "id": "4g2qy5t",
+      "name": "厚木高 正门",
+      "image": "https://image.anitabi.cn/points/446185/4g2qy5t_1756689565451.jpg?plan=h160",
+      "ep": 20,
+      "geo": [
+        35.446,
+        139.3513
+      ]
+    },
+    {
+      "id": "4g31tyr",
+      "name": "市立中央図書館",
+      "image": "https://image.anitabi.cn/points/446185/4g31tyr_1756690072913.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.4512,
+        139.3859
+      ]
+    },
+    {
+      "id": "4g3dzpz",
+      "name": "相模\n大橋",
+      "image": "https://image.anitabi.cn/points/446185/4g3dzpz_1756690646829.jpg?plan=h160",
+      "ep": 8,
+      "geo": [
+        35.444,
+        139.3726
+      ]
+    },
+    {
+      "id": "4g3gcuz",
+      "name": "相模大橋 西南",
+      "image": "https://image.anitabi.cn/points/446185/4g3gcuz_1756690793716.jpg?plan=h160",
+      "ep": 6,
+      "geo": [
+        35.4434,
+        139.3711
+      ]
+    }
+  ],
+  "pointsLength": 41,
+  "imagesLength": 41,
+  "name": "放課後帰宅びより",
+  "name_cn": "放学后归宅日常",
+  "local_id": 6228
+}

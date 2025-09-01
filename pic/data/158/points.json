@@ -356,5 +356,59 @@
     ],
     "origin": "Anitabi@大耗子先生",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3a46seo",
+    "name": "ガスト 渋川店",
+    "image": "https://image.xinu.ink/pic/data/158/images/3a46seo_1754152418459.jpg",
+    "geo": [
+      36.4908,
+      139.003
+    ],
+    "originLink": "https://www.bilibili.com/video/BV1UdhbzxEGa/"
+  },
+  {
+    "id": "3a4mmp6",
+    "name": "渋川駅",
+    "image": "https://image.xinu.ink/pic/data/158/images/3a4mmp6_1754153175576.jpg",
+    "geo": [
+      36.4907,
+      139.0082
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3a4le2t",
+    "name": "渋川駅前",
+    "image": "https://image.xinu.ink/pic/data/158/images/3a4le2t_1754153099549.jpg",
+    "geo": [
+      36.4907,
+      139.0081
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3a4unv9",
+    "name": "高根展望台",
+    "image": "https://image.xinu.ink/pic/data/158/images/3a4unv9_1754153563244.jpg",
+    "geo": [
+      36.4926,
+      138.9058
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3a4zlq3",
+    "name": "榛名高原駅",
+    "image": "https://image.xinu.ink/pic/data/158/images/3a4zlq3_1754153757924.jpg",
+    "geo": [
+      36.4714,
+      138.8772
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

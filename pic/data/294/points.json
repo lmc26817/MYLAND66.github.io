@@ -855,5 +855,185 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=12A3la9wSYNTQUGQqsIDblqFUbN6xUYc&ll=35.684569%2C139.708484&z=17"
+  },
+  {
+    "id": "3epdin2",
+    "name": "中の池",
+    "image": "https://image.xinu.ink/pic/data/294/images/3epdin2_1754429849061.jpg",
+    "s": 35,
+    "geo": [
+      35.6834,
+      139.7104
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pb7wp6",
+    "name": "JR新宿駅13番線ホーム7号乗車口",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pb7wp6_1755071265716.jpg",
+    "s": 68,
+    "geo": [
+      35.6909,
+      139.7001
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pemrzr",
+    "name": "新宿駅東口改札",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pemrzr_1755076934194.jpg",
+    "s": 77,
+    "geo": [
+      35.6915,
+      139.7012
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pem7ap",
+    "name": "新宿駅東口",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pem7ap_1755076905733.jpg",
+    "s": 77,
+    "geo": [
+      35.6915,
+      139.7012
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pexhyb",
+    "name": "ルミネ新宿遠景",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pexhyb_1755077432559.jpg",
+    "s": 88,
+    "geo": [
+      35.6897,
+      139.706
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pfh07n",
+    "name": "新宿御苑 新宿門",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pfh07n_1755078453132.jpg",
+    "s": 101,
+    "geo": [
+      35.6886,
+      139.7071
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pgnkso",
+    "name": "東屋",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pgnkso_1755080331839.jpg",
+    "s": 219,
+    "geo": [
+      35.6847,
+      139.7081
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pe69cl",
+    "name": "JR新宿駅13番線ホーム",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pe69cl_1755076174382.jpg",
+    "s": 608,
+    "geo": [
+      35.6897,
+      139.7002
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3phablp",
+    "name": "武蔵野通り",
+    "image": "https://image.xinu.ink/pic/data/294/images/3phablp_1755081391595.jpg",
+    "s": 608,
+    "geo": [
+      35.6896,
+      139.702
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pmckoe",
+    "name": "新宿御苑俯瞰",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pmckoe_1755089922533.jpg",
+    "s": 624,
+    "geo": [
+      35.685,
+      139.7084
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pkzys0",
+    "name": "藤棚遠景",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pkzys0_1755087633325.jpg",
+    "s": 661,
+    "geo": [
+      35.6847,
+      139.7086
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pm20sc",
+    "name": "NTTドコモ代々木ビル",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pm20sc_1755089401877.jpg",
+    "s": 718,
+    "geo": [
+      35.6846,
+      139.7031
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pkxfz4",
+    "name": "千駄ヶ谷駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pkxfz4_1755087536580.jpg",
+    "s": 789,
+    "geo": [
+      35.6813,
+      139.711
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pmnyp5",
+    "name": "東屋俯瞰",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pmnyp5_1755090430245.jpg",
+    "s": 1249,
+    "geo": [
+      35.6848,
+      139.7082
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3pn858c",
+    "name": "藤棚",
+    "image": "https://image.xinu.ink/pic/data/294/images/3pn858c_1755091370541.jpg",
+    "s": 1793,
+    "geo": [
+      35.6847,
+      139.7083
+    ],
+    "origin": "Anitabi@Lilin",
+    "originURL": "https://anitabi.cn/"
   }
 ]

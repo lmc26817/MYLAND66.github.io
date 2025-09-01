@@ -2479,5 +2479,65 @@
     ],
     "origin": "Anitabi@LovelySummer Channel",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "3b21d50",
+    "cn": "草莓咖啡厅",
+    "name": "いちご.カフェ",
+    "image": "https://image.xinu.ink/pic/data/6019/images/3b21d50-1754209300436.jpg",
+    "ep": 11,
+    "s": 656,
+    "geo": [
+      35.6264,
+      138.5952
+    ]
+  },
+  {
+    "id": "4clquml",
+    "cn": "back country burgers",
+    "name": "バックカントリーバーガーズ",
+    "image": "https://image.xinu.ink/pic/data/6019/images/4clquml-1756479651861.jpg",
+    "ep": "ep04",
+    "s": 1313,
+    "geo": [
+      35.667,
+      138.5716
+    ]
+  },
+  {
+    "id": "4e1d7bj",
+    "cn": "日本最北端之地的碑",
+    "name": "日本最北端の地の碑",
+    "image": "https://image.xinu.ink/pic/data/6019/images/4e1d7bj-1756566357742.jpg",
+    "ep": "ep10",
+    "s": 1348,
+    "geo": [
+      45.5229,
+      141.9366
+    ],
+    "origin": "Anitabi@ratte",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "v9115bg1w",
+    "cn": "甲府站 北",
+    "name": "甲府駅",
+    "image": "https://image.xinu.ink/pic/data/6019/images/v9115bg1w_1746305221712_c16v9.jpg",
+    "ep": 4,
+    "geo": [
+      35.6675,
+      138.5698
+    ]
+  },
+  {
+    "id": "4clzxu4",
+    "cn": "甲府市立舞鶴小学校",
+    "name": "甲府市立舞鶴小学校",
+    "image": "https://image.xinu.ink/pic/data/6019/images/4clzxu4-1756480149960.jpg",
+    "ep": null,
+    "geo": [
+      35.6632,
+      138.565
+    ]
   }
 ]

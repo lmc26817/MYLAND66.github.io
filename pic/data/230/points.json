@@ -675,5 +675,69 @@
       36.1383,
       137.2516
     ]
+  },
+  {
+    "id": "42bcmtp",
+    "name": "赤保木公園停车场门口",
+    "image": "https://image.xinu.ink/pic/data/230/images/42bcmtp-1755857531158.jpg",
+    "ep": "EP11.5",
+    "s": 286,
+    "geo": [
+      36.1584,
+      137.2326
+    ],
+    "origin": "Anitabi@卜卜口",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "414wgnu",
+    "name": "バグパイプ",
+    "image": "https://image.xinu.ink/pic/data/230/images/414wgnu-1755786192062.jpg",
+    "ep": 3,
+    "s": 14,
+    "geo": [
+      36.1411,
+      137.259
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "415j01y",
+    "name": "古い町並（上三之町）",
+    "image": "https://image.xinu.ink/pic/data/230/images/415j01y-1755787235989.jpg",
+    "ep": 10,
+    "s": 1,
+    "geo": [
+      36.1415,
+      137.2595
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "415o1uc",
+    "name": "アルプス​展望​公園​スカイ​パーク",
+    "image": "https://image.xinu.ink/pic/data/230/images/415o1uc-1755787478773.jpg",
+    "ep": 18,
+    "s": 655,
+    "geo": [
+      36.1463,
+      137.2396
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "u3z4mo7nc",
+    "name": "一般​社団​法人​飛騨・​高山​観光​コンベンション​協会",
+    "image": "https://image.xinu.ink/pic/data/230/images/u3z4mo7nc-1755786535729.jpg",
+    "ep": null,
+    "geo": [
+      36.14,
+      137.2587
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

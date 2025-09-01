@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kpx6ogymg",
+    "name": "太歳神社",
+    "image": "https://image.xinu.ink/pic/data/6199/images/kpx6ogymg_1756279574240.jpg",
+    "geo": [
+      34.8188,
+      132.8453
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uBZ0lWVrPhyXdu2xQfrLCYdFja4&ll=34.81882%2C132.845333&z=17"
+  },
+  {
+    "id": "kpx6ogyge",
+    "name": "三次駅前",
+    "image": "https://image.xinu.ink/pic/data/6199/images/kpx6ogyge_1756279693418.jpg",
+    "geo": [
+      34.803,
+      132.8557
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uBZ0lWVrPhyXdu2xQfrLCYdFja4&ll=34.803012%2C132.855767&z=17"
+  },
+  {
+    "id": "49aqrum",
+    "name": "三次駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/6199/images/49aqrum_1756279724688.jpg",
+    "geo": [
+      34.8026,
+      132.856
+    ]
+  },
+  {
+    "id": "kpx6ogzev",
+    "name": "イズミ（サングリーン）",
+    "image": "https://image.xinu.ink/pic/data/6199/images/kpx6ogzev_1756279793562.jpg",
+    "geo": [
+      34.804,
+      132.86
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1uBZ0lWVrPhyXdu2xQfrLCYdFja4&ll=34.804008%2C132.860069&z=17"
+  }
+]

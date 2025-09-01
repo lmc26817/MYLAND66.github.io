@@ -571,5 +571,75 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.70382%2C139.81913&z=17"
+  },
+  {
+    "id": "kpx6okpo7",
+    "name": "世尊院前",
+    "image": "https://image.xinu.ink/pic/data/2/images/kpx6okpo7-1756065865812.jpg",
+    "ep": "未来福音 extra chorus",
+    "s": 1515,
+    "geo": [
+      35.7072,
+      139.6363
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Offj-VF1fI5N4zwlZ_-uAfoZGt4&ll=35.707299%2C139.636302&z=17"
+  },
+  {
+    "id": "45rnijq",
+    "cn": "壱番館 半蔵門店",
+    "name": "壱番館 半蔵門店",
+    "image": "https://image.xinu.ink/pic/data/2/images/45rnijq-1756066289444.jpg",
+    "ep": "未来福音",
+    "s": 922,
+    "geo": [
+      35.6866,
+      139.7402
+    ]
+  },
+  {
+    "id": "45rzwsu",
+    "cn": "ufotableCafe",
+    "name": "ufotableCafe",
+    "image": "https://image.xinu.ink/pic/data/2/images/45rzwsu-1756066946655.jpg",
+    "ep": "痛覺殘留",
+    "s": 61,
+    "geo": [
+      35.7096,
+      139.6547
+    ]
+  },
+  {
+    "id": "45s8hiy",
+    "name": "西口公園前マクドナルド",
+    "image": "https://image.xinu.ink/pic/data/2/images/45s8hiy-1756067250336.jpg",
+    "ep": "第二章 殺人考察（前）",
+    "s": 1335,
+    "geo": [
+      35.7305,
+      139.7076
+    ]
+  },
+  {
+    "id": "45sdtld",
+    "name": "光が丘地区区民館",
+    "image": "https://image.xinu.ink/pic/data/2/images/45sdtld-1756067694661.jpg",
+    "ep": "第一章 俯瞰風景",
+    "s": 2846,
+    "geo": [
+      35.7576,
+      139.6258
+    ]
+  },
+  {
+    "id": "45srpft",
+    "name": "車屋別館",
+    "image": "https://image.xinu.ink/pic/data/2/images/45srpft-1756068143872.jpg",
+    "ep": "未来福音",
+    "s": "1:18:23",
+    "geo": [
+      35.6928,
+      139.7024
+    ]
   }
 ]
