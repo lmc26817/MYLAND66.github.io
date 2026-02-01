@@ -29,5 +29,59 @@
       35.5342,
       138.775
     ]
+  },
+  {
+    "id": "8zvrxol",
+    "name": "六甲山上",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zvrxol-1766594424623.jpg",
+    "ep": "p14",
+    "s": "19:56",
+    "geo": [
+      34.7519,
+      135.237
+    ]
+  },
+  {
+    "id": "8zvz5kx",
+    "name": "六甲山缆车站",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zvz5kx-1766594663586.jpg",
+    "ep": "p14",
+    "s": "19：54",
+    "geo": [
+      34.7517,
+      135.2367
+    ]
+  },
+  {
+    "id": "8zwatjk",
+    "name": "武道馆",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zwatjk-1766595200243.jpg",
+    "ep": "p12",
+    "s": "21：39",
+    "geo": [
+      35.6933,
+      139.7501
+    ]
+  },
+  {
+    "id": "8zwmoxc",
+    "name": "武道馆旁",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zwmoxc-1766595790284.jpg",
+    "ep": "p12",
+    "s": "21：39",
+    "geo": [
+      35.6921,
+      139.7493
+    ]
+  },
+  {
+    "id": "8zz48d4",
+    "name": "伊豆山神社",
+    "image": "https://image.xinu.ink/pic/data/38/images/8zz48d4-1766599944882.jpg",
+    "ep": null,
+    "geo": [
+      35.115,
+      139.083
+    ]
   }
 ]

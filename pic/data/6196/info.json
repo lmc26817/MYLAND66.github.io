@@ -20,5 +20,8 @@
   "imagesLength": 1,
   "name": "鋼の錬金術師 シャンバラを征く者",
   "name_cn": "钢之炼金术师 香巴拉的征服者",
-  "local_id": 6196
+  "local_id": 6196,
+  "region": [
+    "慕尼黑"
+  ]
 }

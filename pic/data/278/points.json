@@ -840,5 +840,131 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.694216%2C135.78582&z=17"
+  },
+  {
+    "id": "eb2e5988",
+    "name": "聖心学園中等教育学校",
+    "image": "https://image.xinu.ink/pic/data/278/images/eb2e5988_1742916559638.jpg",
+    "ep": 1,
+    "s": 48,
+    "geo": [
+      34.4841,
+      135.7847
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.484119%2C135.784736&z=17"
+  },
+  {
+    "id": "1a00c48f",
+    "name": "奈良ホテル",
+    "image": "https://image.xinu.ink/pic/data/278/images/1a00c48f_1742916545499.jpg",
+    "ep": 1,
+    "s": 215,
+    "geo": [
+      34.6798,
+      135.834
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.679816%2C135.834054&z=17"
+  },
+  {
+    "id": "3af74e8d",
+    "name": "秋篠川サイクリングロード",
+    "image": "https://image.xinu.ink/pic/data/278/images/3af74e8d_1742916549858.jpg",
+    "ep": 1,
+    "s": 234,
+    "geo": [
+      34.6902,
+      135.787
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.690255%2C135.787035&z=17"
+  },
+  {
+    "id": "af2b618b",
+    "name": "大和西大寺駅5,6番ホーム",
+    "image": "https://image.xinu.ink/pic/data/278/images/af2b618b_1742916582198.jpg",
+    "ep": 1,
+    "s": 932,
+    "geo": [
+      34.6938,
+      135.7828
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.69381%2C135.782834&z=17"
+  },
+  {
+    "id": "fc98663d",
+    "name": "秋人自宅",
+    "image": "https://image.xinu.ink/pic/data/278/images/fc98663d_1742916584819.jpg",
+    "ep": 1,
+    "s": 962,
+    "geo": [
+      34.4841,
+      135.7841
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.48416%2C135.784165&z=17"
+  },
+  {
+    "id": "6ed2434a",
+    "name": "橿原神宮前駅駅前広場",
+    "image": "https://image.xinu.ink/pic/data/278/images/6ed2434a_1742916618667.jpg",
+    "ep": 2,
+    "s": 1219,
+    "geo": [
+      34.4838,
+      135.7936
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.483834%2C135.793673&z=17"
+  },
+  {
+    "id": "05768c03",
+    "name": "西大寺検車区",
+    "image": "https://image.xinu.ink/pic/data/278/images/05768c03_1742916638649.jpg",
+    "ep": 3,
+    "s": 597,
+    "geo": [
+      34.6893,
+      135.7867
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-_qFCWlAXDK_6PTEBDiqoUBinIIA9oU&ll=34.689367%2C135.786759&z=17"
+  },
+  {
+    "id": "90u70vy",
+    "name": "橿原神宮前駅北西側",
+    "image": "https://image.xinu.ink/pic/data/278/images/90u70vy-1766652108815.jpg",
+    "ep": 7,
+    "s": 431,
+    "geo": [
+      34.485,
+      135.7926
+    ]
+  },
+  {
+    "id": "a2wzg33e5",
+    "name": "聖心学園東側",
+    "image": "https://image.xinu.ink/pic/data/278/images/a2wzg33e5-1766646301480.jpg",
+    "ep": 11,
+    "s": 957,
+    "geo": [
+      34.4829,
+      135.7874
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1SbvMjWMnylIcC2Gk9mMdwi2fZjc&ll=34.482945%2C135.787472&z=17"
+  },
+  {
+    "id": "90t32ar",
+    "name": "平城3号歩行者専用道路 ローソン前",
+    "image": "https://image.xinu.ink/pic/data/278/images/90t32ar-1766650244898.jpg",
+    "ep": 11,
+    "s": 547,
+    "geo": [
+      34.7214,
+      135.7899
+    ]
   }
 ]

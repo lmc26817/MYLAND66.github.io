@@ -40,5 +40,72 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=34.964826%2C138.467581&z=17"
+  },
+  {
+    "id": "kpwmv1c3k",
+    "cn": "追分羊羹店",
+    "name": "追分羊かん",
+    "image": "https://image.xinu.ink/pic/data/163/images/kpwmv1c3k-1757846754753.jpg",
+    "ep": "樱桃小丸子2015剧场版映像特典：旅行小丸子",
+    "s": "09:45",
+    "geo": [
+      35.0143,
+      138.4721
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=35.014396%2C138.472154&z=17"
+  },
+  {
+    "id": "kpwmv1cnv",
+    "cn": "日本平動物園",
+    "name": "静岡市立 日本平動物園",
+    "image": "https://image.xinu.ink/pic/data/163/images/kpwmv1cnv-1757847233240.jpg",
+    "ep": "樱桃小丸子之富士山特辑",
+    "s": "15:10",
+    "geo": [
+      34.9801,
+      138.4397
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1MJi77IU-fkfY5PF9pCiejaxBTQk&ll=34.980112%2C138.439727&z=17"
+  },
+  {
+    "id": "7fynh5t",
+    "cn": "琴平乌冬本店",
+    "name": "こんぴら​うどん​本店",
+    "image": "https://image.xinu.ink/pic/data/163/images/7fynh5t-1763213074969.jpg",
+    "ep": null,
+    "geo": [
+      34.187,
+      133.8178
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7fyuqq9",
+    "cn": "金刀比罗宫第一级台阶",
+    "name": "こんぴらさん階段 1段目",
+    "image": "https://image.xinu.ink/pic/data/163/images/7fyuqq9-1763213532359.jpg",
+    "ep": null,
+    "geo": [
+      34.1867,
+      133.8176
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7fz1937",
+    "cn": "金刀比罗宫大门",
+    "name": "金刀比羅宮 大門",
+    "image": "https://image.xinu.ink/pic/data/163/images/7fz1937-1763213689638.jpg",
+    "ep": null,
+    "geo": [
+      34.1843,
+      133.8145
+    ],
+    "origin": "Anitabi@GhostFinal",
+    "originURL": "https://anitabi.cn/"
   }
 ]

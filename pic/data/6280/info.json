@@ -1,0 +1,76 @@
+{
+  "id": 92110,
+  "title": "神奇阿呦",
+  "city": "北京市",
+  "cover": "https://image.xinu.ink/pic/data/6280/images/92110_p8kZ1.jpg",
+  "modified": 1762936511350,
+  "litePoints": [
+    {
+      "id": "7b9fn68",
+      "name": "朝阳公园 激流勇进",
+      "image": "https://image.anitabi.cn/user/1065/bangumi/92110/points/7b9fn68-1762928979116.jpg?plan=h160",
+      "geo": [
+        39.9387,
+        116.4729
+      ]
+    },
+    {
+      "id": "7b9ktah",
+      "name": "朝阳公园 南大门",
+      "image": "https://image.anitabi.cn/user/1065/bangumi/92110/points/7b9ktah-1762929076827.jpg?plan=h160",
+      "geo": [
+        39.933,
+        116.4762
+      ]
+    },
+    {
+      "id": "7b9oj4y",
+      "name": "朝阳公园 南门大草坪",
+      "image": "https://image.anitabi.cn/user/1065/bangumi/92110/points/7b9oj4y-1762929353436.jpg?plan=h160",
+      "geo": [
+        39.9338,
+        116.4762
+      ]
+    },
+    {
+      "id": "7ba344e",
+      "name": "燕莎桥南",
+      "image": "https://image.anitabi.cn/user/1065/bangumi/92110/points/7ba344e-1762929921350.jpg?plan=h160",
+      "geo": [
+        39.946,
+        116.4565
+      ]
+    },
+    {
+      "id": "7babac6",
+      "name": "三里屯西六街西南角",
+      "image": "https://image.anitabi.cn/user/1065/bangumi/92110/points/7babac6-1762930299038.jpg?plan=h160",
+      "geo": [
+        39.9429,
+        116.4462
+      ]
+    },
+    {
+      "id": "7bahxqo",
+      "name": "历代帝王庙 路对面红墙背面",
+      "image": "https://image.anitabi.cn/user/1065/bangumi/92110/points/7bahxqo-1762930671231.jpg?plan=h160",
+      "geo": [
+        39.9223,
+        116.3611
+      ]
+    },
+    {
+      "id": "7bcdx32",
+      "name": "朝阳公园 跳伞观光塔",
+      "image": "https://image.anitabi.cn/user/1065/bangumi/92110/points/7bcdx32-1762933791621.jpg?plan=h160",
+      "geo": [
+        39.9377,
+        116.4769
+      ]
+    }
+  ],
+  "pointsLength": 9,
+  "imagesLength": 8,
+  "name": "神奇阿呦",
+  "local_id": 6280
+}

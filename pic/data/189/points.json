@@ -10,5 +10,39 @@
       43.1965,
       140.8548
     ]
+  },
+  {
+    "id": "8lo7k5z",
+    "name": "花園エリア",
+    "image": "https://image.xinu.ink/pic/data/189/images/8lo7k5z-1765735484227.jpg",
+    "ep": 1,
+    "s": "130",
+    "geo": [
+      43.1918,
+      140.9996
+    ]
+  },
+  {
+    "id": "8lpn3r3",
+    "cn": "Nikka威士忌余市蒸餾所工廠",
+    "name": "ニッカウヰスキー 余市蒸溜所",
+    "image": "https://image.xinu.ink/pic/data/189/images/8lpn3r3-1765737523428.jpg",
+    "ep": 1,
+    "s": "1865",
+    "geo": [
+      43.1872,
+      140.79
+    ]
+  },
+  {
+    "id": "8lpw3jv",
+    "name": "旧事務所",
+    "image": "https://image.xinu.ink/pic/data/189/images/8lpw3jv-1765738214117.jpg",
+    "ep": "1",
+    "s": "203",
+    "geo": [
+      43.1862,
+      140.7902
+    ]
   }
 ]

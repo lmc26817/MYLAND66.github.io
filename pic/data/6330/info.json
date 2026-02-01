@@ -1,0 +1,44 @@
+{
+  "id": 84873,
+  "cn": "漆黑的子弹",
+  "title": "ブラック・ブレット",
+  "cover": "https://image.xinu.ink/pic/data/6330/images/84873_8NvN2.jpg",
+  "cp": "ブレット",
+  "modified": 1767522606842,
+  "litePoints": [
+    {
+      "id": "9cvbw6y",
+      "name": "罗森前面的桥",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84873/points/9cvbw6y-1767379700786.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7034,
+        139.6132
+      ]
+    },
+    {
+      "id": "9cvh09c",
+      "name": "西郊旅馆",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84873/points/9cvh09c-1767379995085.jpg?plan=h160",
+      "ep": 2,
+      "geo": [
+        35.703,
+        139.6252
+      ]
+    },
+    {
+      "id": "9cvm0j0",
+      "name": "新宿都厅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/84873/points/9cvm0j0-1767380090008.jpg?plan=h160",
+      "geo": [
+        35.6896,
+        139.6917
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "ブラック・ブレット",
+  "name_cn": "漆黑的子弹",
+  "local_id": 6330
+}

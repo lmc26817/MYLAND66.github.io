@@ -106,5 +106,9 @@
   "imagesLength": 14,
   "name": "うさぎドロップ",
   "name_cn": "白兔糖",
-  "local_id": 6198
+  "local_id": 6198,
+  "region": [
+    "爱知县",
+    "东京都/東京都"
+  ]
 }

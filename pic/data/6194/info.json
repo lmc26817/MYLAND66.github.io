@@ -101,5 +101,9 @@
   "imagesLength": 16,
   "name": "ゼーガペイン",
   "name_cn": "ZEGAPAIN",
-  "local_id": 6194
+  "local_id": 6194,
+  "region": [
+    "千叶县",
+    "东京都/東京都"
+  ]
 }

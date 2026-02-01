@@ -653,5 +653,52 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5d9wjqb",
+    "name": "ノースコート",
+    "image": "https://image.xinu.ink/pic/data/69/images/5d9wjqb-1758696965066.jpg",
+    "ep": "9",
+    "s": "01：24",
+    "geo": [
+      35.044,
+      135.7919
+    ]
+  },
+  {
+    "id": "s8qpjgquv",
+    "name": "飛び出し注意看板（中野梓）",
+    "image": "https://image.xinu.ink/pic/data/69/images/s8qpjgquv-1758700886827.jpg",
+    "ep": null,
+    "geo": [
+      35.1976,
+      136.2305
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5p6aalz",
+    "name": "木屋町長浜ラーメン前",
+    "image": "https://image.xinu.ink/pic/data/69/images/5p6aalz-1759416526321.jpg",
+    "ep": "14",
+    "s": "16：27",
+    "geo": [
+      35.0086,
+      135.7704
+    ]
+  },
+  {
+    "id": "s9cnrj5kf",
+    "name": "豊郷小学校3F",
+    "image": "https://image.xinu.ink/pic/data/69/images/s9cnrj5kf_1737867150212.jpg",
+    "ep": 20,
+    "s": 1310,
+    "geo": [
+      35.2034,
+      136.2328
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -66,9 +66,13 @@
       ]
     }
   ],
-  "pointsLength": 5,
+  "pointsLength": 6,
   "imagesLength": 5,
   "name": "メカクシティアクターズ",
   "name_cn": "目隐都市的演绎者",
-  "local_id": 6204
+  "local_id": 6204,
+  "region": [
+    "东京都/東京都",
+    "神奈川縣"
+  ]
 }

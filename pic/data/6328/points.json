@@ -1,0 +1,469 @@
+[
+  {
+    "id": "9u6w9q5",
+    "name": "京王吉祥寺駅 北侧",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u6w9q5_1768426961090.jpg",
+    "ep": 9,
+    "geo": [
+      35.7035,
+      139.5798
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u6k8la",
+    "name": "吉祥寺駅北口駅前広場",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u6k8la_1768426409873.jpg",
+    "ep": 11,
+    "geo": [
+      35.7035,
+      139.5802
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u8nb5h",
+    "name": "ガスト吉祥寺店 前",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u8nb5h_1768429915016.jpg",
+    "ep": 17,
+    "geo": [
+      35.7043,
+      139.5809
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u8p6uk",
+    "name": "ガスト吉祥寺店 店内",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u8p6uk_1768429994702.jpg",
+    "ep": 17,
+    "geo": [
+      35.7044,
+      139.5811
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u6jso4",
+    "name": "吉祥寺駅 北口 附近",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u6jso4_1768426383250.jpg",
+    "ep": 11,
+    "geo": [
+      35.7033,
+      139.5804
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u6yl7i",
+    "name": "京王吉祥寺駅",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u6yl7i_1768427073253.jpg",
+    "ep": 14,
+    "geo": [
+      35.7031,
+      139.5806
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u6ur5l",
+    "name": "キラリナ​京王​吉祥寺 东侧",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u6ur5l_1768426924478.jpg",
+    "ep": 9,
+    "geo": [
+      35.7029,
+      139.5806
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u75i0z",
+    "name": "ヤマダデンキ LABI吉祥寺",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u75i0z_1768427407762.jpg",
+    "ep": 22,
+    "geo": [
+      35.7024,
+      139.5805
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u8hzoq",
+    "name": "吉祥寺駅 中央/总武线各站停车 站台",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u8hzoq_1768429654537.jpg",
+    "ep": 17,
+    "geo": [
+      35.7031,
+      139.5797
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u8k5yi",
+    "name": "吉祥寺駅 中央/总武线各站停车 电车内",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u8k5yi_1768429756264.jpg",
+    "ep": 17,
+    "geo": [
+      35.7031,
+      139.5799
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u9tjg8",
+    "name": "九段下駅",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u9tjg8_1768431881180.jpg",
+    "ep": 21,
+    "geo": [
+      35.6954,
+      139.7508
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u4maww",
+    "name": "神保町駅 A1出入口",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u4maww_1768423143450.jpg",
+    "ep": 23,
+    "geo": [
+      35.6957,
+      139.7558
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u461mk",
+    "name": "神保町駅 A2出入口",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u461mk_1768422389493.jpg",
+    "ep": 20,
+    "geo": [
+      35.696,
+      139.7557
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u7qmm8",
+    "name": "城南​信用金庫​九段​支店 前",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u7qmm8_1768428409272.jpg",
+    "ep": 11,
+    "geo": [
+      35.6957,
+      139.7554
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u3tji8",
+    "name": "タリーズコーヒー 神保町店",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u3tji8_1768422798236.jpg",
+    "ep": 21,
+    "geo": [
+      35.6955,
+      139.7556
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9twk9ve",
+    "name": "集英社 前 夕阳",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9twk9ve_1768409642837.jpg",
+    "ep": 16,
+    "geo": [
+      35.6953,
+      139.7556
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9tx3hw3",
+    "name": "集英社 前 昼",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9tx3hw3_1768410503986.jpg",
+    "ep": 6,
+    "geo": [
+      35.6953,
+      139.7556
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u7vtnz",
+    "name": "集英社 前 夜",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u7vtnz_1768428628184.jpg",
+    "ep": 11,
+    "geo": [
+      35.6954,
+      139.7555
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u4grdm",
+    "name": "集英社 前 斑马线",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u4grdm_1768422888867.jpg",
+    "ep": 21,
+    "geo": [
+      35.6952,
+      139.7556
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9twlkvs",
+    "name": "集英社 正门 前",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9twlkvs_1768409669902.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.6953,
+      139.7554
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u19k9u",
+    "name": "集英社 1F 大堂",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u19k9u_1768417505137.jpg",
+    "ep": 6,
+    "geo": [
+      35.6953,
+      139.7554
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u9xsuz",
+    "name": "集英社 1F 前台",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u9xsuz_1768432077088.jpg",
+    "ep": 22,
+    "geo": [
+      35.6953,
+      139.7553
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9twlfb2",
+    "name": "集英社 1F 相谈室",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9twlfb2_1768409663483.jpg",
+    "ep": 16,
+    "geo": [
+      35.6953,
+      139.7552
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u7p75r",
+    "name": "集英社 2F 会议室",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u7p75r_1768428321674.jpg",
+    "ep": 11,
+    "geo": [
+      35.6954,
+      139.7549
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u1k7wc",
+    "name": "集英社 4F 茶水间",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u1k7wc_1768418173428.jpg",
+    "ep": 6,
+    "geo": [
+      35.6954,
+      139.755
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u639rk",
+    "name": "集英社 4F 电梯间",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u639rk_1768425607867.jpg",
+    "ep": 14,
+    "geo": [
+      35.6954,
+      139.7551
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u1ytwm",
+    "name": "4F 週刊少年ジャンプ編集部",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u1ytwm_1768431985010.jpg",
+    "ep": 22,
+    "geo": [
+      35.6954,
+      139.7551
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u3eetq",
+    "name": "半藏门线 电车内",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u3eetq_1768421093965.jpg",
+    "ep": 13,
+    "geo": [
+      35.6958,
+      139.7562
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u9m986",
+    "name": "Daidoh Limited Building",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u9m986_1768431540068.jpg",
+    "ep": 22,
+    "geo": [
+      35.6996,
+      139.7696
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u2udqx",
+    "name": "北越谷駅",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u2udqx_1768420322903.jpg",
+    "ep": 6,
+    "geo": [
+      35.9022,
+      139.7797
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u2oexk",
+    "name": "北越谷駅以西",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u2oexk_1768419893177.jpg",
+    "ep": 2,
+    "geo": [
+      35.9023,
+      139.7785
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u2l7v7",
+    "name": "北越谷駅以北 河川",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u2l7v7_1768419763888.jpg",
+    "ep": "OP1",
+    "geo": [
+      35.9052,
+      139.7782
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u3cfms",
+    "name": "神明橋",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u3cfms_1768421022339.jpg",
+    "ep": 13,
+    "geo": [
+      35.8986,
+      139.7725
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u3f3q3",
+    "name": "东武晴空塔线 电车内",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u3f3q3_1768421121307.jpg",
+    "ep": 6,
+    "geo": [
+      35.9003,
+      139.7803
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u234cz",
+    "name": "新越谷VARIE（ヴァリエ）",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u234cz_1768418889399.jpg",
+    "ep": 16,
+    "geo": [
+      35.8753,
+      139.7903
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u4r9if",
+    "name": "もみじ山公園",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u4r9if_1768423400664.jpg",
+    "ep": 12,
+    "geo": [
+      35.7002,
+      139.5393
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9ua4kx7",
+    "name": "八王子駅北口",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9ua4kx7_1768432389581.jpg",
+    "ep": 15,
+    "geo": [
+      35.6564,
+      139.3391
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9ua62cf",
+    "name": "八王子駅 闸机",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9ua62cf_1768432468696.jpg",
+    "ep": 15,
+    "geo": [
+      35.6556,
+      139.3389
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9u7fym5",
+    "name": "ヤマダデンキ LABI吉祥寺（谷歌街景存档）",
+    "image": "https://image.xinu.ink/pic/data/6328/images/9u7fym5_1768427891901.jpg",
+    "geo": [
+      35.7023,
+      139.5805
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
+  }
+]

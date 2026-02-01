@@ -1037,5 +1037,38 @@
       35.6591,
       139.7007
     ]
+  },
+  {
+    "id": "93neueb",
+    "cn": "大通公园西4丁目喷泉",
+    "name": "大通公园西4丁目噴水",
+    "image": "https://image.xinu.ink/pic/data/6116/images/93neueb-1766822189814.jpg",
+    "ep": null,
+    "geo": [
+      43.0604,
+      141.3511
+    ]
+  },
+  {
+    "id": "93o0wbh",
+    "name": "すすきのビル",
+    "image": "https://image.xinu.ink/pic/data/6116/images/93o0wbh-1766823264733.jpg",
+    "ep": null,
+    "geo": [
+      43.0557,
+      141.3533
+    ]
+  },
+  {
+    "id": "93n1h05",
+    "cn": "札幌电视塔",
+    "name": "札幌テレビ塔",
+    "image": "https://image.xinu.ink/pic/data/6116/images/93n1h05-1766821609219.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      43.0609,
+      141.3536
+    ]
   }
 ]

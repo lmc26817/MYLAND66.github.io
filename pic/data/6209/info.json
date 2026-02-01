@@ -18,5 +18,8 @@
   "pointsLength": 1,
   "imagesLength": 1,
   "name": "端脑",
-  "local_id": 6209
+  "local_id": 6209,
+  "region": [
+    "河北区"
+  ]
 }

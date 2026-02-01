@@ -113,5 +113,9 @@
   "imagesLength": 14,
   "name": "はじめてのギャル",
   "name_cn": "第一次的辣妹",
-  "local_id": 6216
+  "local_id": 6216,
+  "region": [
+    "东京都/東京都",
+    "神奈川縣"
+  ]
 }

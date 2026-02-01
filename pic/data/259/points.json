@@ -190,5 +190,143 @@
       35.7147,
       139.7964
     ]
+  },
+  {
+    "id": "4hy7tv8",
+    "name": "仲見世会館",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hy7tv8_1756802906244.jpg",
+    "ep": 7,
+    "s": 970,
+    "geo": [
+      35.7124,
+      139.7966
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4hmbk6l",
+    "cn": "荒井文扇堂",
+    "name": "荒井文扇堂",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hmbk6l_1756802081168_c16v9.jpg",
+    "ep": "第七话",
+    "s": 1011,
+    "geo": [
+      35.7115,
+      139.7964
+    ]
+  },
+  {
+    "id": "4hmn6a3",
+    "cn": "浅草寺 本堂",
+    "name": "Senso-ji Hondo 浅草寺 本堂(観音堂)",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hmn6a3_1756802078445_c16v9.jpg",
+    "ep": "第七集",
+    "s": 1090,
+    "geo": [
+      35.7145,
+      139.7967
+    ]
+  },
+  {
+    "id": "4hxwgog",
+    "name": "晴空塔",
+    "image": "https://image.xinu.ink/pic/data/259/images/4hxwgog_1756802352309.jpg",
+    "ep": 7,
+    "s": 842,
+    "geo": [
+      35.7099,
+      139.812
+    ],
+    "origin": "Anitabi@Xmなのだ",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "9cuop62",
+    "name": "成田机场第1航站楼4F北登机口",
+    "image": "https://image.xinu.ink/pic/data/259/images/9cuop62-1767378662423.jpg",
+    "ep": 12,
+    "s": 1278,
+    "geo": [
+      35.765,
+      140.3846
+    ]
+  },
+  {
+    "id": "9jyf0xe",
+    "name": "车站前的座",
+    "image": "https://image.xinu.ink/pic/data/259/images/9jyf0xe-1767808086418.jpg",
+    "ep": 1,
+    "s": 676,
+    "geo": [
+      35.6168,
+      139.5646
+    ]
+  },
+  {
+    "id": "9jyk699",
+    "name": "车站前面",
+    "image": "https://image.xinu.ink/pic/data/259/images/9jyk699-1767808313488.jpg",
+    "ep": 1,
+    "s": 687,
+    "geo": [
+      35.6168,
+      139.5646
+    ]
+  },
+  {
+    "id": "9jyla3c",
+    "name": "车站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9jyla3c-1767808365354.jpg",
+    "ep": 1,
+    "s": 750,
+    "geo": [
+      35.6167,
+      139.5643
+    ]
+  },
+  {
+    "id": "9k0037t",
+    "name": "登户站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0037t-1767810770438.jpg",
+    "ep": 17,
+    "s": 691,
+    "geo": [
+      35.6203,
+      139.5702
+    ]
+  },
+  {
+    "id": "9k09lrs",
+    "name": "站前",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k09lrs-1767811185648.jpg",
+    "ep": 20,
+    "s": 819,
+    "geo": [
+      35.6168,
+      139.5643
+    ]
+  },
+  {
+    "id": "9k0t06o",
+    "name": "站内",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k0t06o-1767812077051.jpg",
+    "ep": 22,
+    "s": 920,
+    "geo": [
+      35.6173,
+      139.5646
+    ]
+  },
+  {
+    "id": "9k1238b",
+    "name": "站外",
+    "image": "https://image.xinu.ink/pic/data/259/images/9k1238b-1767812510087.jpg",
+    "ep": 24,
+    "s": 500,
+    "geo": [
+      35.6166,
+      139.5643
+    ]
   }
 ]

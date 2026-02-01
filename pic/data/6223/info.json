@@ -62,5 +62,8 @@
   "imagesLength": 5,
   "name": "ハッピーライヴ ショウアップ！",
   "name_cn": "Happy live show up!",
-  "local_id": 6223
+  "local_id": 6223,
+  "region": [
+    "莫斯科"
+  ]
 }

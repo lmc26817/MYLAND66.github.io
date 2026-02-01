@@ -664,5 +664,18 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7if2fw8",
+    "name": "西武池袋線 東飯能2号踏切",
+    "image": "https://image.xinu.ink/pic/data/339/images/7if2fw8-1763361680601.jpg",
+    "ep": 15,
+    "s": 410,
+    "geo": [
+      35.8557,
+      139.3245
+    ],
+    "origin": "谷歌街景",
+    "originLink": "https://www.google.com/maps/@35.8556281,139.3245225,3a,75y,211.91h,87.22t/data=!3m10!1e1!3m8!1s7tc99kB-PTXgzyIYpsINNw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7768229905424135%26panoid%3D7tc99kB-PTXgzyIYpsINNw%26yaw%3D211.90735302025513!7i16384!8i8192!9m2!1b1!2i28?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

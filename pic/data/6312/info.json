@@ -1,0 +1,108 @@
+{
+  "id": 255032,
+  "cn": "玉响未来",
+  "title": "タマユラミライ",
+  "city": "远野市",
+  "cover": "https://image.xinu.ink/pic/data/6312/images/255032_8h3k6bo.jpg",
+  "color": "#25a6e8",
+  "modified": 1765463080181,
+  "litePoints": [
+    {
+      "id": "8h3sewj",
+      "cn": "深野站前　桥",
+      "name": "深野駅前　橋",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h3sewj-1765458992390.jpg?plan=h160",
+      "geo": [
+        39.3286,
+        141.5289
+      ]
+    },
+    {
+      "id": "8h3zzkg",
+      "name": "大工町通り",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h3zzkg-1765459315929.jpg?plan=h160",
+      "geo": [
+        39.3322,
+        141.5277
+      ]
+    },
+    {
+      "id": "8h45k3v",
+      "name": "なべくら展望台前",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h45k3v-1765459542169.jpg?plan=h160",
+      "geo": [
+        39.3268,
+        141.5292
+      ]
+    },
+    {
+      "id": "8h43956",
+      "name": "なべくら展望台",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h43956-1765459617074.jpg?plan=h160",
+      "geo": [
+        39.3267,
+        141.529
+      ]
+    },
+    {
+      "id": "8h4f5uh",
+      "name": "南部神社　階段",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h4f5uh-1765459967863.jpg?plan=h160",
+      "geo": [
+        39.3274,
+        141.5283
+      ]
+    },
+    {
+      "id": "8h4hkby",
+      "name": "遠野高",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h4hkby-1765460116546.jpg?plan=h160",
+      "geo": [
+        39.3274,
+        141.5202
+      ]
+    },
+    {
+      "id": "8h4oyyi",
+      "name": "卯子酉神社",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h4oyyi-1765460443254.jpg?plan=h160",
+      "geo": [
+        39.3252,
+        141.5137
+      ]
+    },
+    {
+      "id": "8h4rv2j",
+      "name": "愛宕神社",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h4rv2j-1765460618748.jpg?plan=h160",
+      "geo": [
+        39.3252,
+        141.5113
+      ]
+    },
+    {
+      "id": "8h4wjl7",
+      "cn": "五百罗汉",
+      "name": "五百羅漢",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h4wjl7-1765460839918.jpg?plan=h160",
+      "geo": [
+        39.3229,
+        141.5123
+      ]
+    },
+    {
+      "id": "8h51njp",
+      "name": "程洞稲荷神社",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/255032/points/8h51njp-1765461021739.jpg?plan=h160",
+      "geo": [
+        39.3204,
+        141.5173
+      ]
+    }
+  ],
+  "pointsLength": 15,
+  "imagesLength": 15,
+  "name": "タマユラミライ",
+  "name_cn": "玉响未来",
+  "local_id": 6312
+}

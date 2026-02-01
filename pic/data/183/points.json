@@ -566,5 +566,38 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6u3rnne",
+    "name": "Horror Hotel",
+    "image": "https://image.xinu.ink/pic/data/183/images/6u3rnne-1761891413972.jpg",
+    "ep": null,
+    "s": "106：46",
+    "geo": [
+      50.8155,
+      -0.1376
+    ]
+  },
+  {
+    "id": "6u3z9mw",
+    "name": "Brighton Beach",
+    "image": "https://image.xinu.ink/pic/data/183/images/6u3z9mw-1761891763990.jpg",
+    "ep": null,
+    "s": "107：33",
+    "geo": [
+      50.8199,
+      -0.1448
+    ]
+  },
+  {
+    "id": "6u455dv",
+    "name": "Brighton Palace Pier",
+    "image": "https://image.xinu.ink/pic/data/183/images/6u455dv-1761891997146.jpg",
+    "ep": "",
+    "s": "107：37",
+    "geo": [
+      50.8155,
+      -0.1374
+    ]
   }
 ]

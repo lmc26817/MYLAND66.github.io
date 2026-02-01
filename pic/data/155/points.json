@@ -20,5 +20,60 @@
       35.7117,
       139.5659
     ]
+  },
+  {
+    "id": "5drrlh7",
+    "cn": "筑波中心（筑波站）空中走廊",
+    "name": "つくばセンター（つくば駅）ペデストリアンデッキ",
+    "image": "https://image.xinu.ink/pic/data/155/images/5drrlh7_1758816460678.jpg",
+    "ep": 12,
+    "s": 110,
+    "geo": [
+      36.0821,
+      140.1128
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5ds0waw",
+    "cn": "筑波中心（筑波站）１号公交站台",
+    "name": "つくばセンター（つくば駅）１番バスのりば",
+    "image": "https://image.xinu.ink/pic/data/155/images/5ds0waw_1758816476151.jpg",
+    "ep": 12,
+    "s": 113,
+    "geo": [
+      36.0824,
+      140.1121
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5a4lwy0",
+    "name": "筑波大学附属病院",
+    "image": "https://image.xinu.ink/pic/data/155/images/5a4lwy0_1758816502520.jpg",
+    "ep": 12,
+    "s": 559,
+    "geo": [
+      36.0925,
+      140.1022
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5a51url",
+    "cn": "筑波大学病院 公交站",
+    "name": "筑波大学病院 バス停",
+    "image": "https://image.xinu.ink/pic/data/155/images/5a51url_1758816526288.jpg",
+    "ep": 12,
+    "s": 597,
+    "geo": [
+      36.0918,
+      140.1013
+    ],
+    "origin": "Anitabi@Elm",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -218,5 +218,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1zv3z7n_V-PmJ96Gu6l1V3wtEYfoXjs4&ll=35.972049%2C138.460186&z=17"
+  },
+  {
+    "id": "88soau5",
+    "cn": "小樽市見晴町 16-16",
+    "name": "16-16 Miharashichō",
+    "image": "https://image.xinu.ink/pic/data/187/images/88soau5-1764957091983.jpg",
+    "ep": null,
+    "s": "11:23",
+    "geo": [
+      43.1369,
+      141.169
+    ]
   }
 ]

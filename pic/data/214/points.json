@@ -860,5 +860,51 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=15Qy6SU7DZZMc9TcObwvJonBsTGU&ll=36.482746%2C136.758234&z=17"
+  },
+  {
+    "id": "67n68bi",
+    "name": "青島パームビーチホテル",
+    "image": "https://image.xinu.ink/pic/data/214/images/67n68bi_1760533234763.jpg",
+    "geo": [
+      31.8065,
+      131.4617
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "67ncnjk",
+    "name": "弥生橋附近",
+    "image": "https://image.xinu.ink/pic/data/214/images/67ncnjk_1760533533520.jpg",
+    "geo": [
+      31.8031,
+      131.4695
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "67n8rzm",
+    "name": 132,
+    "image": "https://image.xinu.ink/pic/data/214/images/67n8rzm_1760533351914.jpg",
+    "geo": [
+      31.8022,
+      131.4687
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "67nc97d",
+    "name": "弥生橋",
+    "image": "https://image.xinu.ink/pic/data/214/images/67nc97d_1760533514349.jpg",
+    "ep": 14,
+    "s": 1005,
+    "geo": [
+      31.8028,
+      131.4707
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
   }
 ]

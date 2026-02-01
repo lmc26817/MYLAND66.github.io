@@ -1,0 +1,46 @@
+{
+  "id": 523964,
+  "cn": "舞台剧「五等分的新娘」",
+  "title": "舞台「五等分の花嫁」",
+  "cover": "https://image.xinu.ink/pic/data/6287/images/523964.jpg",
+  "color": "#aaaaaa",
+  "cp": "舞台五等分の花嫁",
+  "modified": 1763994371054,
+  "litePoints": [
+    {
+      "id": "7sdlrj9",
+      "name": "Cafeteria BREATH",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/523964/points/7sdlrj9-1763963772097.jpg?plan=h160",
+      "s": 178,
+      "geo": [
+        34.6691,
+        135.2027
+      ]
+    },
+    {
+      "id": "7se7p43",
+      "name": "聚楽園大仏",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/523964/points/7se7p43-1763964762868.jpg?plan=h160",
+      "s": 554,
+      "geo": [
+        35.0438,
+        136.9044
+      ]
+    },
+    {
+      "id": "7svtqjg",
+      "name": "ザ・​ライオンズミッドキャピタルタワー",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/523964/points/7svtqjg-1763994350797.jpg?plan=h160",
+      "s": 617,
+      "geo": [
+        35.1349,
+        136.9098
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 4,
+  "name": "舞台「五等分の花嫁」",
+  "name_cn": "舞台剧「五等分的新娘」",
+  "local_id": 6287
+}

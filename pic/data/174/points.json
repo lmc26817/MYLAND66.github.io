@@ -169,5 +169,449 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.698168%2C139.772229&z=17"
+  },
+  {
+    "id": "52brtwa",
+    "name": "千代田区立芳林公園",
+    "image": "https://image.xinu.ink/pic/data/174/images/52brtwa_1758034975982.jpg",
+    "ep": 8,
+    "s": 268,
+    "geo": [
+      35.7017,
+      139.7698
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6og6oy",
+    "name": "裏通り1(PCショップ)",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og6oy-1757949627518.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      35.7003,
+      139.7708
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.700392%2C139.770845&z=17"
+  },
+  {
+    "id": "kpx6og7md",
+    "name": "裏通り2(工事現場裏)",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og7md_1758034761720.jpg",
+    "geo": [
+      35.7002,
+      139.7704
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.700272%2C139.770405&z=17"
+  },
+  {
+    "id": "kpx6og887",
+    "name": "中央通り周辺1（高架下）",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og887-1757949714928.jpg",
+    "ep": null,
+    "geo": [
+      35.6986,
+      139.7712
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.698649%2C139.771272&z=17"
+  },
+  {
+    "id": "kpx6og86s",
+    "name": "中央通り周辺2（アニメ・漫画ショップ前）",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og86s-1757949908845.jpg",
+    "ep": null,
+    "geo": [
+      35.7009,
+      139.7715
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.700963%2C139.771526&z=17"
+  },
+  {
+    "id": "kpx6og826",
+    "name": "秋葉原駅周辺",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og826-1757950262612.jpg",
+    "ep": null,
+    "geo": [
+      35.6985,
+      139.7742
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.698558%2C139.774203&z=17"
+  },
+  {
+    "id": "kpx6og86k",
+    "name": "ヨドバシカメラマルチメディアＡｋｉｂａ",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og86k-1757951028305.jpg",
+    "ep": null,
+    "geo": [
+      35.6984,
+      139.7747
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.698469%2C139.774777&z=17"
+  },
+  {
+    "id": "kpx6og92j",
+    "name": "UDX ダイビル周辺3（陸橋下）",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og92j_1758034843350.jpg",
+    "ep": null,
+    "geo": [
+      35.6995,
+      139.7723
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.699558%2C139.772382&z=17"
+  },
+  {
+    "id": "kpx6og8t8",
+    "name": "TOKYO TIMES TOWER",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og8t8-1757951271718.jpg",
+    "ep": null,
+    "geo": [
+      35.7016,
+      139.7725
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.701638%2C139.772583&z=17"
+  },
+  {
+    "id": "kpx6og9zy",
+    "name": "コインロッカー",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og9zy-1757949613137.jpg",
+    "ep": null,
+    "geo": [
+      35.6992,
+      139.7717
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.699277%2C139.77176&z=17"
+  },
+  {
+    "id": "kpx6og9q1",
+    "name": "UDX ダイビル周辺1（カフェ前）",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6og9q1-1757950057728.jpg",
+    "ep": null,
+    "geo": [
+      35.7009,
+      139.7721
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ETfERFhxsc9JGJgsDVvh-qQidsU&ll=35.700906%2C139.77217&z=17"
+  },
+  {
+    "id": "50y1pgl",
+    "cn": "東京ビッグサイト",
+    "name": "东京国际展览中心",
+    "image": "https://image.xinu.ink/pic/data/174/images/50y1pgl-1757951467993.jpg",
+    "ep": null,
+    "geo": [
+      35.6321,
+      139.7921
+    ]
+  },
+  {
+    "id": "6ajpa27",
+    "name": "液晶工房（閉店）",
+    "image": "https://image.xinu.ink/pic/data/174/images/6ajpa27_1760708802981.jpg",
+    "ep": 1,
+    "geo": [
+      35.7026,
+      139.77
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6d84sth",
+    "name": "神田ふれあい橋",
+    "image": "https://image.xinu.ink/pic/data/174/images/6d84sth_1760870777760.jpg",
+    "ep": 2,
+    "geo": [
+      35.6968,
+      139.7732
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6ak6sry",
+    "name": "神林ビル",
+    "image": "https://image.xinu.ink/pic/data/174/images/6ak6sry_1760709627363.jpg",
+    "ep": 1,
+    "geo": [
+      35.6992,
+      139.7704
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6d7q8lb",
+    "name": "蔵前橋通り",
+    "image": "https://image.xinu.ink/pic/data/174/images/6d7q8lb_1760870092032.jpg",
+    "ep": 2,
+    "geo": [
+      35.7029,
+      139.7716
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6d7bfmd",
+    "name": "GiGO",
+    "image": "https://image.xinu.ink/pic/data/174/images/6d7bfmd_1760869402168.jpg",
+    "ep": 2,
+    "geo": [
+      35.6985,
+      139.7712
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6ajjjoh",
+    "name": "秋葉原​ラジオ​会館",
+    "image": "https://image.xinu.ink/pic/data/174/images/6ajjjoh_1760708538718.jpg",
+    "ep": 1,
+    "geo": [
+      35.6981,
+      139.7718
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6d9ccra",
+    "name": "オヤイデ電気",
+    "image": "https://image.xinu.ink/pic/data/174/images/6d9ccra_1760872835513.jpg",
+    "ep": 4,
+    "geo": [
+      35.6985,
+      139.7708
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6ajkkly",
+    "name": "アトレ秋葉原1",
+    "image": "https://image.xinu.ink/pic/data/174/images/6ajkkly_1760708584991.jpg",
+    "ep": 1,
+    "geo": [
+      35.6983,
+      139.7722
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6ajl3l5",
+    "name": "中央通り",
+    "image": "https://image.xinu.ink/pic/data/174/images/6ajl3l5_1760708634724.jpg",
+    "ep": 1,
+    "geo": [
+      35.6981,
+      139.7712
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6ajmz9u",
+    "name": "秋葉原駅（電気街口）",
+    "image": "https://image.xinu.ink/pic/data/174/images/6ajmz9u_1760708705152.jpg",
+    "ep": 1,
+    "geo": [
+      35.6993,
+      139.7726
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6akfpnx",
+    "name": "千代田区立芳林公園（存疑）",
+    "image": "https://image.xinu.ink/pic/data/174/images/6akfpnx_1760710035597.jpg",
+    "ep": 1,
+    "geo": [
+      35.7018,
+      139.7698
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6d8ff3p",
+    "name": "秋葉神社",
+    "image": "https://image.xinu.ink/pic/data/174/images/6d8ff3p_1760871265776.jpg",
+    "ep": 2,
+    "geo": [
+      35.7166,
+      139.7858
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6d9u8kp",
+    "name": "国際ビル",
+    "image": "https://image.xinu.ink/pic/data/174/images/6d9u8kp_1760873634755.jpg",
+    "ep": 4,
+    "geo": [
+      35.7012,
+      139.7709
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6ogavr",
+    "name": "私立東京電機大学",
+    "image": "https://image.xinu.ink/pic/data/174/images/kpx6ogavr_1760867710084.jpg",
+    "ep": 2,
+    "geo": [
+      35.6934,
+      139.7632
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5u3psrk",
+    "cn": "秋叶原广播会馆楼顶",
+    "name": "秋葉原ラジオ会館屋上",
+    "image": "https://image.xinu.ink/pic/data/174/images/5u3psrk_1759714539181.jpg",
+    "geo": [
+      35.698,
+      139.772
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5u41n79",
+    "cn": "秋叶原GAMERS小街",
+    "name": "秋葉原ゲーマー横",
+    "image": "https://image.xinu.ink/pic/data/174/images/5u41n79_1759715075299.jpg",
+    "geo": [
+      35.6984,
+      139.7714
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5u4656v",
+    "name": "UDX ダイビル周辺4（陸橋）",
+    "image": "https://image.xinu.ink/pic/data/174/images/5u4656v_1759715334417.jpg",
+    "geo": [
+      35.6996,
+      139.7726
+    ],
+    "origin": "Anitabi@落雪鸦杀",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6w6fg49",
+    "name": "昌平小",
+    "image": "https://image.xinu.ink/pic/data/174/images/6w6fg49_1762016769807.jpg",
+    "ep": 5,
+    "geo": [
+      35.7014,
+      139.77
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8r2oep4",
+    "name": "ボークス​秋葉原​ホビー​天国​2",
+    "image": "https://image.xinu.ink/pic/data/174/images/8r2oep4_1766061938438.jpg",
+    "ep": 2,
+    "geo": [
+      35.7,
+      139.7716
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8r2syaz",
+    "name": "新東ビル",
+    "image": "https://image.xinu.ink/pic/data/174/images/8r2syaz_1766062008152.jpg",
+    "ep": 2,
+    "geo": [
+      35.7025,
+      139.7717
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8r4mcpu",
+    "name": "橙幻郷",
+    "image": "https://image.xinu.ink/pic/data/174/images/8r4mcpu_1766064973255.jpg",
+    "ep": 6,
+    "geo": [
+      35.7005,
+      139.77
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6akjpbv",
+    "name": "千代田区立芳林公園（存疑）",
+    "image": "https://image.xinu.ink/pic/data/174/images/6akjpbv_1760710223858.jpg",
+    "ep": 1,
+    "geo": [
+      35.7017,
+      139.7699
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8r3bect",
+    "name": "（株）キッチンジロー 外神田店",
+    "image": "https://image.xinu.ink/pic/data/174/images/8r3bect_1766062769031.jpg",
+    "ep": 3,
+    "geo": [
+      35.6999,
+      139.7704
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8zt85c8",
+    "name": "マルツ",
+    "image": "https://image.xinu.ink/pic/data/174/images/8zt85c8_1766590115067.jpg",
+    "ep": 8,
+    "geo": [
+      35.7009,
+      139.7709
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "6w2vfyp",
+    "cn": "万世桥",
+    "name": 83,
+    "image": "https://image.xinu.ink/pic/data/174/images/6w2vfyp_1762010790549.jpg",
+    "ep": 4,
+    "geo": [
+      35.6969,
+      139.771
+    ],
+    "origin": "Anitabi@LovelySummer Channel",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -45,9 +45,12 @@
       ]
     }
   ],
-  "pointsLength": 6,
+  "pointsLength": 11,
   "imagesLength": 6,
   "name": "ビビッドレッド・オペレーション",
   "name_cn": "绯色战姬",
-  "local_id": 6202
+  "local_id": 6202,
+  "region": [
+    "大島支廳"
+  ]
 }

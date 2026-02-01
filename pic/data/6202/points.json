@@ -36,5 +36,106 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4g6iek3",
+    "name": "波浮西岸",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4g6iek3-1756695890240.jpg",
+    "ep": 1,
+    "s": 650,
+    "geo": [
+      34.6849,
+      139.4374
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4g9150d",
+    "name": "波布比咩命神社（特訓地点）",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4g9150d-1756700131123.jpg",
+    "ep": 4,
+    "s": 205,
+    "geo": [
+      34.6849,
+      139.4383
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4vwpq0t",
+    "name": "式根島野伏港",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4vwpq0t-1757646903964.jpg",
+    "ep": 6,
+    "s": 141,
+    "geo": [
+      34.3347,
+      139.2161
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4vxm7e8",
+    "name": "泊海水浴場",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4vxm7e8-1757648400772.jpg",
+    "ep": 6,
+    "s": 267,
+    "geo": [
+      34.3357,
+      139.212
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4wnk8lz",
+    "name": "筆島",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4wnk8lz-1757691990132.jpg",
+    "ep": 7,
+    "s": 22,
+    "geo": [
+      34.7063,
+      139.4451
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4g6x6k6",
+    "name": "一色研究所（設定位置）",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4g6x6k6-1756696593386.jpg",
+    "ep": 1,
+    "geo": [
+      34.6856,
+      139.4432
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4g747g4",
+    "name": "龍王崎灯台までの道路",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4g747g4-1756696914369.jpg",
+    "ep": 1,
+    "geo": [
+      34.6866,
+      139.4422
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4g78zta",
+    "name": "ショッピングセンター べにや",
+    "image": "https://image.xinu.ink/pic/data/6202/images/4g78zta-1756697134659.jpg",
+    "ep": 1,
+    "geo": [
+      34.7521,
+      139.3555
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

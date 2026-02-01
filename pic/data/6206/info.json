@@ -46,5 +46,9 @@
   "imagesLength": 6,
   "name": "月刊少女野崎くん",
   "name_cn": "月刊少女野崎君",
-  "local_id": 6206
+  "local_id": 6206,
+  "region": [
+    "东京都/東京都",
+    "埼玉县"
+  ]
 }

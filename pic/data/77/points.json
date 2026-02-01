@@ -233,5 +233,122 @@
     ],
     "origin": "Anitabi@LovelySummer Channel",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6oi1t8",
+    "name": "環八高架下",
+    "image": "https://image.xinu.ink/pic/data/77/images/kpx6oi1t8-1759998573367.jpg",
+    "ep": 7,
+    "s": 691,
+    "geo": [
+      35.7244,
+      139.6144
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.724407%2C139.614403&z=17"
+  },
+  {
+    "id": "kpx6oi4ho",
+    "name": "下井草五丁目交差点",
+    "image": "https://image.xinu.ink/pic/data/77/images/kpx6oi4ho-1760334009228.jpg",
+    "ep": 2,
+    "s": 122,
+    "geo": [
+      35.7233,
+      139.6142
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.723388%2C139.614263&z=17"
+  },
+  {
+    "id": "kpx6oi5ff",
+    "name": "井荻 踏み切り",
+    "image": "https://image.xinu.ink/pic/data/77/images/kpx6oi5ff-1760336952197.jpg",
+    "ep": 6,
+    "s": 30,
+    "geo": [
+      35.7249,
+      139.6099
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.724917%2C139.609958&z=17"
+  },
+  {
+    "id": "5yuovka",
+    "cn": "阿良良木历去找小忍遇到黑羽川",
+    "name": "埼玉超级竞技场A大门",
+    "image": "https://image.xinu.ink/pic/data/77/images/5yuovka-1760001838542.jpg",
+    "ep": 14,
+    "s": 754,
+    "geo": [
+      35.8945,
+      139.6303
+    ]
+  },
+  {
+    "id": "63yn0xp",
+    "name": "井荻駅 北口",
+    "image": "https://image.xinu.ink/pic/data/77/images/63yn0xp-1760310693411.jpg",
+    "ep": 16,
+    "s": 1180,
+    "geo": [
+      35.7247,
+      139.6144
+    ]
+  },
+  {
+    "id": "64ek92f",
+    "name": "井荻駅西武新宿線　踏切",
+    "image": "https://image.xinu.ink/pic/data/77/images/64ek92f-1760337395258.jpg",
+    "ep": 6,
+    "s": 25,
+    "geo": [
+      35.7247,
+      139.6124
+    ]
+  },
+  {
+    "id": "64e0q4u",
+    "name": "環八通り",
+    "image": "https://image.xinu.ink/pic/data/77/images/64e0q4u-1760336493766.jpg",
+    "ep": 7,
+    "s": 691,
+    "geo": [
+      35.7235,
+      139.6143
+    ]
+  },
+  {
+    "id": "64ctj95",
+    "name": "勝鬨橋より東側ヲ撮影 ",
+    "image": "https://image.xinu.ink/pic/data/77/images/64ctj95-1760334484313.jpg",
+    "ep": 1,
+    "s": 242,
+    "geo": [
+      35.6618,
+      139.7766
+    ]
+  },
+  {
+    "id": "64dds6s",
+    "name": "三鷹通り トンネル歩道",
+    "image": "https://image.xinu.ink/pic/data/77/images/64dds6s-1760335770969.jpg",
+    "ep": 1,
+    "s": 50,
+    "geo": [
+      35.7024,
+      139.5589
+    ]
+  },
+  {
+    "id": "6545k1x",
+    "name": "菅原城北大橋",
+    "image": "https://image.xinu.ink/pic/data/77/images/6545k1x-1760380364109.jpg",
+    "ep": 13,
+    "s": 1104,
+    "geo": [
+      34.7336,
+      135.5361
+    ]
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "id": 68812,
+  "cn": "物语系列 第二季",
+  "title": "〈物語〉シリーズ セカンドシーズン",
+  "cover": "https://image.xinu.ink/pic/data/6265/images/68812_4vgt1.jpg",
+  "cp": "シャフト",
+  "modified": 1760283491360,
+  "litePoints": [
+    {
+      "id": "106ft91p4a",
+      "cn": "【鬼物语】",
+      "name": "聖橋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/c6fef20e-1760063111515.jpg?plan=h160",
+      "ep": 1,
+      "s": 317,
+      "geo": [
+        35.6997,
+        139.7654
+      ]
+    },
+    {
+      "id": "5zm665f",
+      "name": "東京都渋谷区代々木駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/5zm665f-1760047882619.jpg?plan=h160",
+      "ep": 4,
+      "s": 1613,
+      "geo": [
+        35.6828,
+        139.7016
+      ]
+    },
+    {
+      "id": "5zmnk9o",
+      "cn": "千石抚子遇到忍野扇【囮物語】",
+      "name": "神宮前６丁目 中州北側",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/5zmnk9o-1760048697328.jpg?plan=h160",
+      "ep": 1,
+      "s": 471,
+      "geo": [
+        35.6647,
+        139.7033
+      ]
+    },
+    {
+      "id": "5zn3veq",
+      "cn": "【囮物語】",
+      "name": "江北橋通り",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/5zn3veq-1760049430071.jpg?plan=h160",
+      "ep": 2,
+      "s": 200,
+      "geo": [
+        35.7626,
+        139.7588
+      ]
+    },
+    {
+      "id": "5zomxj7",
+      "cn": "抚子大爷现身后离开学校走的路【囮物語】",
+      "name": "兵庫県神戸市北野異人館街北野通り仏蘭西館",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/5zomxj7-1760052039809.jpg?plan=h160",
+      "ep": 3,
+      "s": 1059,
+      "geo": [
+        34.7009,
+        135.1914
+      ]
+    },
+    {
+      "id": "62b0mo5",
+      "name": "八王子駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/62b0mo5-1760210529649.jpg?plan=h160",
+      "ep": 1,
+      "s": 372,
+      "geo": [
+        35.6568,
+        139.3394
+      ]
+    },
+    {
+      "id": "62bgewd",
+      "name": "遠州灘海浜公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/62bgewd-1760211248673.jpg?plan=h160",
+      "ep": 1,
+      "s": 782,
+      "geo": [
+        34.6682,
+        137.7481
+      ]
+    },
+    {
+      "id": "62bws40",
+      "name": "NTT幕張ビル前",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/62bws40-1760211994059.jpg?plan=h160",
+      "ep": 2,
+      "s": 237,
+      "geo": [
+        35.6518,
+        140.0395
+      ]
+    },
+    {
+      "id": "62c9h9z",
+      "name": "築港本町交差点",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/62c9h9z-1760212622774.jpg?plan=h160",
+      "ep": 3,
+      "s": 741,
+      "geo": [
+        33.6025,
+        130.4036
+      ]
+    },
+    {
+      "id": "62cs7bm",
+      "name": "八王子駅北口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/68812/points/62cs7bm-1760213566465.jpg?plan=h160",
+      "ep": 3,
+      "s": 745,
+      "geo": [
+        35.657,
+        139.3383
+      ]
+    }
+  ],
+  "pointsLength": 26,
+  "imagesLength": 18,
+  "name": "〈物語〉シリーズ セカンドシーズン",
+  "name_cn": "物语系列 第二季",
+  "local_id": 6265,
+  "region": [
+    "东京都/東京都",
+    "兵库县/兵庫縣",
+    "静冈县/靜岡縣",
+    "千叶县",
+    "福冈县"
+  ]
+}

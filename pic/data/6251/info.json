@@ -1,0 +1,77 @@
+{
+  "id": 403379,
+  "cn": "复仇者",
+  "title": "リベンジャー",
+  "city": "长崎市",
+  "cover": "https://image.xinu.ink/pic/data/6251/images/403379_D2ICB.jpg",
+  "cp": "REVENGER",
+  "modified": 1759148409893,
+  "litePoints": [
+    {
+      "id": "5i3vxt0",
+      "name": "中島川石橋群",
+      "image": "https://image.anitabi.cn/user/2198/bangumi/403379/points/5i3vxt0-1758989336466.jpg?plan=h160",
+      "ep": 1,
+      "s": 221,
+      "geo": [
+        32.749,
+        129.8827
+      ]
+    },
+    {
+      "id": "5kfwecu",
+      "cn": "眼镜桥",
+      "name": "眼鏡橋",
+      "image": "https://image.anitabi.cn/user/2198/bangumi/403379/points/5kfwecu-1759130407805.jpg?plan=h160",
+      "s": 32,
+      "geo": [
+        32.7471,
+        129.8799
+      ]
+    },
+    {
+      "id": "5i3lgm4",
+      "name": "風頭公園　展望台",
+      "image": "https://image.anitabi.cn/user/2198/bangumi/403379/points/5i3lgm4-1758988779482.jpg?plan=h160",
+      "ep": 3,
+      "s": 92,
+      "geo": [
+        32.7461,
+        129.8859
+      ]
+    },
+    {
+      "id": "5jhojp3",
+      "cn": "长崎奉行所立山役所 书院",
+      "name": "長崎奉行所立山役所 書院",
+      "image": "https://image.anitabi.cn/points/403379/5jhojp3_1759072923043.jpg?plan=h160",
+      "ep": 7,
+      "s": 1163,
+      "geo": [
+        32.7527,
+        129.8798
+      ]
+    },
+    {
+      "id": "5gmo6wm",
+      "cn": "林则徐销烟池旧址",
+      "name": "銷毀鴉片煙池",
+      "image": "https://image.anitabi.cn/user/2198/bangumi/403379/points/5gmo6wm-1758899827098.jpg?plan=h160",
+      "ep": 9,
+      "s": 378,
+      "geo": [
+        22.8269,
+        113.6552
+      ]
+    }
+  ],
+  "pointsLength": 6,
+  "imagesLength": 6,
+  "name": "リベンジャー",
+  "name_cn": "复仇者",
+  "local_id": 6251,
+  "region": [
+    "长崎县",
+    "东莞市"
+  ]
+}

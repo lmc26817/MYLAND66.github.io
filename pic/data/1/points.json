@@ -910,5 +910,302 @@
       35.5839,
       139.6726
     ]
+  },
+  {
+    "id": "9nyeymu",
+    "name": "上坡",
+    "image": "https://image.xinu.ink/pic/data/1/images/9nyeymu-1768049923346.jpg",
+    "ep": 24,
+    "s": 1159,
+    "geo": [
+      35.7742,
+      139.3545
+    ]
+  },
+  {
+    "id": "9nxusfk",
+    "name": "多摩堤通り",
+    "image": "https://image.xinu.ink/pic/data/1/images/9nxusfk-1768048989505.jpg",
+    "ep": 24,
+    "s": 1335,
+    "geo": [
+      35.583,
+      139.6729
+    ]
+  },
+  {
+    "id": "9o4v7jh",
+    "name": "女主家左面",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o4v7jh-1768060761890.jpg",
+    "ep": 1,
+    "s": 970,
+    "geo": [
+      35.7652,
+      139.3195
+    ]
+  },
+  {
+    "id": "9o4xk23",
+    "name": "女主家前",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o4xk23-1768060872041.jpg",
+    "ep": 1,
+    "s": 971,
+    "geo": [
+      35.7652,
+      139.3194
+    ]
+  },
+  {
+    "id": "9o530o3",
+    "name": "女主门口",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o530o3-1768061126357.jpg",
+    "ep": 2,
+    "s": 40,
+    "geo": [
+      35.7654,
+      139.3192
+    ]
+  },
+  {
+    "id": "9o5462z",
+    "name": "大运来了",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o5462z-1768061178244.jpg",
+    "ep": 2,
+    "s": 218,
+    "geo": [
+      35.5827,
+      139.6771
+    ]
+  },
+  {
+    "id": "9o54y6h",
+    "name": "大运",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o54y6h-1768061216094.jpg",
+    "ep": 2,
+    "s": 218,
+    "geo": [
+      35.5827,
+      139.6771
+    ]
+  },
+  {
+    "id": "9o5f4tq",
+    "name": "公园",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o5f4tq-1768061695395.jpg",
+    "ep": 2,
+    "s": 1078,
+    "geo": [
+      35.7653,
+      139.319
+    ]
+  },
+  {
+    "id": "9o62gib",
+    "name": "车站外",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o62gib-1768062777515.jpg",
+    "ep": 18,
+    "s": 389,
+    "geo": [
+      35.7588,
+      139.3163
+    ]
+  },
+  {
+    "id": "9o6h3qi",
+    "name": "下坡",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o6h3qi-1768063461209.jpg",
+    "ep": 18,
+    "s": 847,
+    "geo": [
+      35.7743,
+      139.3546
+    ]
+  },
+  {
+    "id": "9o764ds",
+    "name": "人行道",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o764ds-1768064629626.jpg",
+    "ep": 19,
+    "s": 366,
+    "geo": [
+      35.7726,
+      139.3541
+    ]
+  },
+  {
+    "id": "9o7m7lm",
+    "name": "早苗",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o7m7lm-1768065379330.jpg",
+    "ep": 8,
+    "s": 1053,
+    "geo": [
+      35.708,
+      139.7203
+    ]
+  },
+  {
+    "id": "9o7lqge",
+    "name": "全家",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o7lqge-1768065445190.jpg",
+    "ep": 8,
+    "s": 1056,
+    "geo": [
+      35.708,
+      139.7204
+    ]
+  },
+  {
+    "id": "9o7o8e0",
+    "name": "全家对面",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o7o8e0-1768065474838.jpg",
+    "ep": 8,
+    "s": 1067,
+    "geo": [
+      35.7081,
+      139.7203
+    ]
+  },
+  {
+    "id": "9o7z3lj",
+    "name": "上学路",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o7z3lj-1768065986199.jpg",
+    "ep": 23,
+    "s": 37,
+    "geo": [
+      35.7717,
+      139.3565
+    ]
+  },
+  {
+    "id": "9o7zwmt",
+    "name": "上学",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o7zwmt-1768066020071.jpg",
+    "ep": 23,
+    "s": 20,
+    "geo": [
+      35.7717,
+      139.3565
+    ]
+  },
+  {
+    "id": "9tv19jb",
+    "name": "反光鏡",
+    "image": "https://image.xinu.ink/pic/data/1/images/9tv19jb-1768407048254.jpg",
+    "ep": 17,
+    "s": 552,
+    "geo": [
+      35.7622,
+      139.3695
+    ]
+  },
+  {
+    "id": "9tvcpd9",
+    "name": "朋也與智代",
+    "image": "https://image.xinu.ink/pic/data/1/images/9tvcpd9-1768407578543.jpg",
+    "ep": 17,
+    "s": 570,
+    "geo": [
+      35.7621,
+      139.3704
+    ]
+  },
+  {
+    "id": "9ov4z04",
+    "name": "停车场",
+    "image": "https://image.xinu.ink/pic/data/1/images/9ov4z04-1768104884717.jpg",
+    "ep": 10,
+    "s": 751,
+    "geo": [
+      35.5864,
+      139.6762
+    ]
+  },
+  {
+    "id": "9ouxe2f",
+    "name": "根据前面的黄色房子以及人行道来拍摄",
+    "image": "https://image.xinu.ink/pic/data/1/images/9ouxe2f-1768104533700.jpg",
+    "ep": 1,
+    "s": 518,
+    "geo": [
+      35.7636,
+      139.3711
+    ]
+  },
+  {
+    "id": "9ouo7hh",
+    "name": "人行道前",
+    "image": "https://image.xinu.ink/pic/data/1/images/9ouo7hh-1768104105207.jpg",
+    "ep": 18,
+    "s": 446,
+    "geo": [
+      35.7714,
+      139.3562
+    ]
+  },
+  {
+    "id": "9ouhr9x",
+    "name": "和智代回家路",
+    "image": "https://image.xinu.ink/pic/data/1/images/9ouhr9x-1768103808356.jpg",
+    "ep": 17,
+    "s": 576,
+    "geo": [
+      35.762,
+      139.3703
+    ]
+  },
+  {
+    "id": "9oudd8k",
+    "name": "根据黄色的房子来拍摄",
+    "image": "https://image.xinu.ink/pic/data/1/images/9oudd8k-1768103604700.jpg",
+    "ep": 17,
+    "s": 575,
+    "geo": [
+      35.7621,
+      139.3704
+    ]
+  },
+  {
+    "id": "9ou2j6c",
+    "name": "岸3-33-3",
+    "image": "https://image.xinu.ink/pic/data/1/images/9ou2j6c-1768103099005.jpg",
+    "ep": 17,
+    "s": 556,
+    "geo": [
+      35.7621,
+      139.3685
+    ]
+  },
+  {
+    "id": "9ohzjsa",
+    "name": "吉野岳地蔵堂",
+    "image": "https://image.xinu.ink/pic/data/1/images/9ohzjsa-1768082797292.jpg",
+    "ep": 12,
+    "s": 1046,
+    "geo": [
+      35.7682,
+      139.3551
+    ]
+  },
+  {
+    "id": "9o0dct8",
+    "name": "早稻田大前",
+    "image": "https://image.xinu.ink/pic/data/1/images/9o0dct8-1768053243916.jpg",
+    "ep": 24,
+    "s": 880,
+    "geo": [
+      35.7082,
+      139.7204
+    ]
+  },
+  {
+    "id": "9nzkj4g",
+    "name": "楼梯",
+    "image": "https://image.xinu.ink/pic/data/1/images/9nzkj4g-1768051864934.jpg",
+    "ep": 10,
+    "s": 288,
+    "geo": [
+      35.7762,
+      139.3499
+    ]
   }
 ]

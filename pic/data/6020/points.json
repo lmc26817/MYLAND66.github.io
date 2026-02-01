@@ -57,5 +57,244 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81kth34",
+    "name": "国鉄C56形蒸気機関車 C56-96 野辺山",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81kth34_1764520120785.jpg",
+    "ep": "ED",
+    "s": 6183,
+    "geo": [
+      35.9563,
+      138.4734
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vrtffg",
+    "name": "野辺山駅",
+    "image": "https://image.xinu.ink/pic/data/6020/images/1vrtffg_1764519677963.jpg",
+    "ep": "ED",
+    "s": 6186,
+    "geo": [
+      35.9553,
+      138.4743
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81b9b0n",
+    "name": "野辺山宇宙電波観測所 45m観測棟",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81b9b0n_1764503988761.jpg",
+    "ep": 0,
+    "s": 153,
+    "geo": [
+      35.9447,
+      138.472
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81brmb8",
+    "cn": "日比谷公园 第一花坛",
+    "name": "日比谷公園　第一花壇",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81brmb8_1764504870775.jpg",
+    "ep": 0,
+    "s": 625,
+    "geo": [
+      35.6748,
+      139.7578
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81c2pj5",
+    "cn": "日比谷公园",
+    "name": "日比谷公園",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81c2pj5_1764505360962.jpg",
+    "ep": 0,
+    "s": 636,
+    "geo": [
+      35.6751,
+      139.7583
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vre5e8",
+    "name": "霞ケ関駅",
+    "image": "https://image.xinu.ink/pic/data/6020/images/1vre5e8_1764517114933.jpg",
+    "ep": 0,
+    "s": 719,
+    "geo": [
+      35.675,
+      139.7515
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vqta4s",
+    "name": "佐久平​駅",
+    "image": "https://image.xinu.ink/pic/data/6020/images/1vqta4s_1764517292899.jpg",
+    "ep": 0,
+    "s": 1093,
+    "geo": [
+      36.2779,
+      138.4644
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81j8a3x",
+    "name": "佐久平​駅 蓼科口",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81j8a3x_1764517383823.jpg",
+    "ep": 0,
+    "s": 1108,
+    "geo": [
+      36.2777,
+      138.4646
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vqtq2d",
+    "name": "佐久平​駅 幸せの鐘",
+    "image": "https://image.xinu.ink/pic/data/6020/images/1vqtq2d_1764517544257.jpg",
+    "ep": 0,
+    "s": 1131,
+    "geo": [
+      36.2776,
+      138.4644
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81jpiiu",
+    "name": "野辺山宇宙電波観測所 守衛所前",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81jpiiu_1764518247616.jpg",
+    "ep": 0,
+    "s": 1891,
+    "geo": [
+      35.9403,
+      138.4687
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81jq05w",
+    "name": "野辺山宇宙電波観測所 守衛所",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81jq05w_1764518340753.jpg",
+    "ep": 0,
+    "s": 1896,
+    "geo": [
+      35.9405,
+      138.4689
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81jicj0",
+    "name": "長野県警察本部",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81jicj0_1764517865315.jpg",
+    "ep": 0,
+    "s": 1617,
+    "geo": [
+      36.6509,
+      138.1812
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vryp7a",
+    "name": "甲府刑務所",
+    "image": "https://image.xinu.ink/pic/data/6020/images/1vryp7a_1764518595861.jpg",
+    "ep": 0,
+    "s": 2601,
+    "geo": [
+      35.61,
+      138.5612
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "81kdepw",
+    "name": "大本願",
+    "image": "https://image.xinu.ink/pic/data/6020/images/81kdepw_1764519333202.jpg",
+    "ep": 0,
+    "s": 4440,
+    "geo": [
+      36.6582,
+      138.1871
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1vrigll",
+    "name": "善光寺",
+    "image": "https://image.xinu.ink/pic/data/6020/images/1vrigll_1764518874620.jpg",
+    "ep": 0,
+    "s": 4443,
+    "geo": [
+      36.6613,
+      138.1876
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8eah75o",
+    "cn": "霞关站 丸之内线1站台西侧",
+    "name": "霞ケ関駅  丸ノ内線 1番線ホーム（西側）",
+    "image": "https://image.xinu.ink/pic/data/6020/images/8eah75o_1765288923117.jpg",
+    "ep": 0,
+    "s": 900,
+    "geo": [
+      35.6746,
+      139.7518
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8eb3jai",
+    "cn": "警视厅本部厅舍正门",
+    "name": "警視庁本部庁舎前",
+    "image": "https://image.xinu.ink/pic/data/6020/images/8eb3jai_1765289813159.jpg",
+    "ep": 0,
+    "s": 1163,
+    "geo": [
+      35.6771,
+      139.7528
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8o7knwc",
+    "cn": "东京站21站台",
+    "name": "東京駅　21番線",
+    "image": "https://image.xinu.ink/pic/data/6020/images/8o7knwc_1765888552885.jpg",
+    "ep": 0,
+    "s": 1210,
+    "geo": [
+      35.6822,
+      139.7677
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
   }
 ]

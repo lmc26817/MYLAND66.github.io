@@ -230,5 +230,149 @@
       36.3404,
       139.181
     ]
+  },
+  {
+    "id": "58uzlx6",
+    "cn": "天满神社门前鸟居",
+    "name": "天満神社",
+    "image": "https://image.xinu.ink/pic/data/169/images/58uzlx6-1758430945841.jpg",
+    "ep": "日常 第19话",
+    "s": "15分39秒",
+    "geo": [
+      35.6563,
+      139.3281
+    ]
+  },
+  {
+    "id": "58vos4e",
+    "cn": "天满神社世界和平杆",
+    "name": "天満神社",
+    "image": "https://image.xinu.ink/pic/data/169/images/58vos4e-1758431267357.jpg",
+    "ep": "日常第十九话",
+    "s": "17:34",
+    "geo": [
+      35.6563,
+      139.3282
+    ]
+  },
+  {
+    "id": "58vyjls",
+    "cn": "天満神社奉纳箱前",
+    "name": "天満神社",
+    "image": "https://image.xinu.ink/pic/data/169/images/58vyjls-1758431684153.jpg",
+    "ep": "19话",
+    "s": "16:34",
+    "geo": [
+      35.6563,
+      139.3282
+    ]
+  },
+  {
+    "id": "58w4ijl",
+    "cn": "天满神社门前",
+    "name": "天満神社门前",
+    "image": "https://image.xinu.ink/pic/data/169/images/58w4ijl-1758431956896.jpg",
+    "ep": "第19话",
+    "s": "16:16",
+    "geo": [
+      35.6563,
+      139.3282
+    ]
+  },
+  {
+    "id": "58w93fq",
+    "cn": "天满神社的铃铛",
+    "name": "天満神社",
+    "image": "https://image.xinu.ink/pic/data/169/images/58w93fq-1758432217763.jpg",
+    "ep": "第19话",
+    "s": "16:53",
+    "geo": [
+      35.6563,
+      139.3282
+    ]
+  },
+  {
+    "id": "58weopc",
+    "cn": "天满神社前",
+    "name": "天満神社",
+    "image": "https://image.xinu.ink/pic/data/169/images/58weopc-1758432434617.jpg",
+    "ep": "第19话",
+    "s": "15:52",
+    "geo": [
+      35.6563,
+      139.3282
+    ]
+  },
+  {
+    "id": "59h5jpi",
+    "cn": "舶来茶屋天正庵路口",
+    "name": "舶来茶屋天正庵",
+    "image": "https://image.xinu.ink/pic/data/169/images/59h5jpi-1758467278140.jpg",
+    "ep": "第10话",
+    "s": "2:55",
+    "geo": [
+      35.6518,
+      139.3396
+    ]
+  },
+  {
+    "id": "59hfaq3",
+    "cn": "舶来茶屋天正庵门前",
+    "name": "舶来茶屋天正庵",
+    "image": "https://image.xinu.ink/pic/data/169/images/59hfaq3-1758467729756.jpg",
+    "ep": "第10话",
+    "s": "3:50",
+    "geo": [
+      35.6518,
+      139.3396
+    ]
+  },
+  {
+    "id": "59hyvpm",
+    "cn": "尾形商店贩卖机前",
+    "name": "尾形商店",
+    "image": "https://image.xinu.ink/pic/data/169/images/59hyvpm-1758468644022.jpg",
+    "ep": "第16话",
+    "s": "8:28",
+    "geo": [
+      35.6528,
+      139.3435
+    ]
+  },
+  {
+    "id": "59i90kb",
+    "cn": "尾形商店对面",
+    "name": "尾形商店",
+    "image": "https://image.xinu.ink/pic/data/169/images/59i90kb-1758469127481.jpg",
+    "ep": "第16话",
+    "s": "9:16",
+    "geo": [
+      35.6528,
+      139.3435
+    ]
+  },
+  {
+    "id": "59iew5y",
+    "cn": "笹原幸治郎家前",
+    "name": "笹原幸治郎家前",
+    "image": "https://image.xinu.ink/pic/data/169/images/59iew5y-1758469395586.jpg",
+    "ep": "第16话",
+    "s": "8:08",
+    "geo": [
+      35.6529,
+      139.3435
+    ]
+  },
+  {
+    "id": "59ij6jh",
+    "cn": "尾形商店贩卖机",
+    "name": "尾形商店",
+    "image": "https://image.xinu.ink/pic/data/169/images/59ij6jh-1758469588680.jpg",
+    "ep": "第16话",
+    "s": "12:18",
+    "geo": [
+      35.6528,
+      139.3435
+    ]
   }
 ]

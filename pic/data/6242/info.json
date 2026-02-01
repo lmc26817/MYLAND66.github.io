@@ -1,0 +1,38 @@
+{
+  "id": 3321,
+  "title": "蓬莱人形　～ Dolls in Pseudo Paradise",
+  "city": "台湾省",
+  "cover": "https://image.xinu.ink/pic/data/6242/images/3321_rrYJL.jpg",
+  "cp": "上海アリス幻樂団",
+  "modified": 1759149448655,
+  "litePoints": [
+    {
+      "id": "5gk82xt",
+      "cn": "可园 壶中天",
+      "name": "可園 壺中天",
+      "image": "https://image.anitabi.cn/user/2198/bangumi/3321/points/5gk82xt-1758895722201.jpg?plan=h160",
+      "geo": [
+        23.0442,
+        113.7385
+      ]
+    },
+    {
+      "id": "5i4v2f7",
+      "cn": "林本源园邸 方鉴斋",
+      "name": "林本源園邸 方鑑齋",
+      "image": "https://image.anitabi.cn/user/2198/bangumi/3321/points/5i4v2f7-1758991426623.jpg?plan=h160",
+      "geo": [
+        25.0101,
+        121.4555
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "蓬莱人形　～ Dolls in Pseudo Paradise",
+  "local_id": 6242,
+  "region": [
+    "东莞市",
+    "新北市"
+  ]
+}

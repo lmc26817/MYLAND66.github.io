@@ -1,0 +1,114 @@
+{
+  "id": 203861,
+  "cn": "超自然9人组",
+  "title": "Occultic;Nine -オカルティック・ナイン-",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6309/images/203861.jpg",
+  "color": "#eab515",
+  "cp": "Project OC9",
+  "modified": 1765423930996,
+  "litePoints": [
+    {
+      "id": "8e03k8g",
+      "name": "上石神井 踏切",
+      "image": "https://image.anitabi.cn/points/203861/8e03k8g_1765333678095.jpg?plan=h160",
+      "geo": [
+        35.7265,
+        139.5886
+      ]
+    },
+    {
+      "id": "8e075j5",
+      "name": "三鷹跨線人道橋",
+      "image": "https://image.anitabi.cn/points/203861/8e075j5_1765333833711.jpg?plan=h160",
+      "geo": [
+        35.7022,
+        139.5553
+      ]
+    },
+    {
+      "id": "8e08f00",
+      "name": "吉祥寺サンロード商店街",
+      "image": "https://image.anitabi.cn/points/203861/8e08f00_1765333805916.jpg?plan=h160",
+      "geo": [
+        35.7037,
+        139.5797
+      ]
+    },
+    {
+      "id": "8e09xce",
+      "name": "吉祥寺駅",
+      "image": "https://image.anitabi.cn/points/203861/8e09xce_1765333848526.jpg?plan=h160",
+      "geo": [
+        35.7033,
+        139.5806
+      ]
+    },
+    {
+      "id": "8e0c0fs",
+      "name": "CAFE☆BAR BLOOMOON 1",
+      "image": "https://image.anitabi.cn/points/203861/8e0c0fs_1765333856945.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7041,
+        139.5824
+      ]
+    },
+    {
+      "id": "4y8ofmqs8",
+      "cn": "井之头公园",
+      "name": "井の頭公園",
+      "image": "https://image.anitabi.cn/points/203861/4y8ofmqs8_1765333865198.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.7002,
+        139.5752
+      ]
+    },
+    {
+      "id": "8e0h3lq",
+      "name": "井の頭公園 橋",
+      "image": "https://image.anitabi.cn/points/203861/8e0h3lq_1765333879873.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6994,
+        139.5755
+      ]
+    },
+    {
+      "id": "8e0qgsm",
+      "name": "井之頭弁財天 大盛寺",
+      "image": "https://image.anitabi.cn/points/203861/8e0qgsm_1765333889559.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6992,
+        139.5748
+      ]
+    },
+    {
+      "id": "8e0wtif",
+      "name": "井の頭公園 野外ステージ",
+      "image": "https://image.anitabi.cn/points/203861/8e0wtif_1765333898807.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6998,
+        139.5787
+      ]
+    },
+    {
+      "id": "8e14n8k",
+      "name": "井の頭公園 ベンチ",
+      "image": "https://image.anitabi.cn/points/203861/8e14n8k_1765334295432.jpg?plan=h160",
+      "ep": 1,
+      "geo": [
+        35.6992,
+        139.5789
+      ]
+    }
+  ],
+  "pointsLength": 68,
+  "imagesLength": 68,
+  "name": "Occultic;Nine -オカルティック・ナイン-",
+  "name_cn": "超自然9人组",
+  "local_id": 6309
+}

@@ -238,5 +238,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.634299%2C139.792072&z=17"
+  },
+  {
+    "id": "kpx6oqcfp",
+    "name": "成田空港第2ビル",
+    "image": "https://image.xinu.ink/pic/data/146/images/kpx6oqcfp-1758382972535.jpg",
+    "ep": "15",
+    "geo": [
+      35.7733,
+      140.3883
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1Mdo14FcTQHyfl4nRkr_rQcO4t1g&ll=35.773371%2C140.388376&z=17"
   }
 ]

@@ -1,0 +1,27 @@
+{
+  "id": 203526,
+  "cn": "来自深渊",
+  "title": "メイドインアビス",
+  "cover": "https://image.xinu.ink/pic/data/6281/images/203526_q2P6P.jpg",
+  "cp": "メイドインアビス",
+  "modified": 1763161846290,
+  "litePoints": [
+    {
+      "id": "7cwk9qo",
+      "cn": "青岛",
+      "name": "青ヶ島",
+      "image": "https://image.anitabi.cn/user/0/bangumi/203526/points/7cwk9qo-1763028142166.jpg?plan=h160",
+      "ep": 8,
+      "s": 193,
+      "geo": [
+        32.4529,
+        139.7681
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "メイドインアビス",
+  "name_cn": "来自深渊",
+  "local_id": 6281
+}

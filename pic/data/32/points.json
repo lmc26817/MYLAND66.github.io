@@ -36,5 +36,395 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.703127%2C139.579622&z=17"
+  },
+  {
+    "id": "kpx6opqyg",
+    "name": "高知城本丸前",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opqyg_1757136174836.jpg",
+    "geo": [
+      33.5611,
+      133.5321
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.561152%2C133.532145&z=17"
+  },
+  {
+    "id": "kpx6opqkn",
+    "name": "高知追手前高 正門",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opqkn_1757136394698.jpg",
+    "geo": [
+      33.5613,
+      133.5366
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.561361%2C133.536614&z=17"
+  },
+  {
+    "id": "5m7748h",
+    "name": "高知追手前高 侧向",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7748h_1759236639562.jpg",
+    "geo": [
+      33.5613,
+      133.5367
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4nguol4",
+    "name": "高知追手前高 塔楼",
+    "image": "https://image.xinu.ink/pic/data/32/images/4nguol4_1757136570324.jpg",
+    "geo": [
+      33.5615,
+      133.5365
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4nh2l98",
+    "name": "高知追手前高 走廊",
+    "image": "https://image.xinu.ink/pic/data/32/images/4nh2l98_1757137633281.jpg",
+    "geo": [
+      33.5616,
+      133.5367
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5m7culm",
+    "name": "帯屋町二丁目商店街2",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7culm_1759236881933.jpg",
+    "geo": [
+      33.56,
+      133.5362
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6oprws",
+    "name": "ポポロ東宝小径",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oprws_1759237119681.jpg",
+    "geo": [
+      33.5613,
+      133.5402
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.561345%2C133.540272&z=17"
+  },
+  {
+    "id": "kpx6opsik",
+    "name": "帯屋町通1stアーケード",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opsik_1757137165965.jpg",
+    "geo": [
+      33.5608,
+      133.5404
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.560831%2C133.540406&z=17"
+  },
+  {
+    "id": "5m7gd8j",
+    "name": "帯屋町一丁目商店街",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7gd8j_1759237046221.jpg",
+    "geo": [
+      33.5608,
+      133.5405
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6oprwh",
+    "name": "はりまや橋交差点より",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oprwh_1759237275944.jpg",
+    "geo": [
+      33.5601,
+      133.5429
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6opsob",
+    "name": "はりまや橋",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opsob_1759237230964.jpg",
+    "geo": [
+      33.5596,
+      133.5428
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6optby",
+    "name": "カラオケセントラル",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6optby_1759237337325.jpg",
+    "ep": null,
+    "geo": [
+      33.5603,
+      133.5415
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.560316%2C133.541535&z=17"
+  },
+  {
+    "id": "kpx6opu2a",
+    "name": "天神大橋坂道",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opu2a-1757071153846.jpg",
+    "ep": null,
+    "geo": [
+      33.5558,
+      133.5375
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.555835%2C133.537576&z=17"
+  },
+  {
+    "id": "kpx6opuhg",
+    "cn": "天神大橋",
+    "name": "拓が自転車で渡った橋",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opuhg-1757071168320.jpg",
+    "ep": null,
+    "geo": [
+      33.5551,
+      133.5375
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.555129%2C133.537541&z=17"
+  },
+  {
+    "id": "kpx6opvfk",
+    "name": "記念碑",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opvfk-1757071754352.jpg",
+    "ep": null,
+    "geo": [
+      33.5544,
+      133.5374
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.554454%2C133.537463&z=17"
+  },
+  {
+    "id": "kpx6opv9o",
+    "cn": "天神桥附近的停车场",
+    "name": "天神橋付近の駐車場付近より",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opv9o-1759235861993.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      33.5544,
+      133.537
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.554434%2C133.537088&z=17"
+  },
+  {
+    "id": "kpx6opvu4",
+    "name": "杜崎家付近",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opvu4_1757138164282.jpg",
+    "geo": [
+      33.5454,
+      133.5707
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.545468%2C133.570713&z=17"
+  },
+  {
+    "id": "kpx6opwsp",
+    "name": "防波堤",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opwsp-1757071684563.jpg",
+    "ep": null,
+    "geo": [
+      33.3244,
+      133.2344
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.324414%2C133.234457&z=17"
+  },
+  {
+    "id": "kpx6opxa2",
+    "name": "夕焼けを見た防波堤",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opxa2-1757071669652.jpg",
+    "ep": null,
+    "geo": [
+      33.3244,
+      133.237
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.324445%2C133.237069&z=17"
+  },
+  {
+    "id": "kpx6opyla",
+    "name": "散歩立体交差",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opyla_1757137924530.jpg",
+    "geo": [
+      35.6906,
+      139.6936
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.69063%2C139.693627&z=17"
+  },
+  {
+    "id": "4nhp8n9",
+    "name": "東京​都庁​第一​庁舎（在建）",
+    "image": "https://image.xinu.ink/pic/data/32/images/4nhp8n9_1757137944769.jpg",
+    "geo": [
+      35.6894,
+      139.6917
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6opy4i",
+    "name": "小田急乗り場",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opy4i_1757137987935.jpg",
+    "geo": [
+      35.6897,
+      139.7
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.689705%2C139.70004&z=17"
+  },
+  {
+    "id": "kpx6opza7",
+    "cn": "里伽子父亲所在的公寓",
+    "name": "父親マンション",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opza7_1757137761888.jpg",
+    "geo": [
+      35.6419,
+      139.5988
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.641946%2C139.59883&z=17"
+  },
+  {
+    "id": "kpx6opz7y",
+    "name": "成城学園坂道",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opz7y_1757137624677.jpg",
+    "geo": [
+      35.646,
+      139.6014
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.64605%2C139.601418&z=17"
+  },
+  {
+    "id": "4me7nkb",
+    "name": "高知空港　エレベーター",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me7nkb-1757071628429.jpg",
+    "ep": null,
+    "geo": [
+      33.5474,
+      133.6742
+    ]
+  },
+  {
+    "id": "4me6j86",
+    "name": "高知空港　搭乗手続き",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me6j86-1757071594786.jpg",
+    "ep": null,
+    "geo": [
+      33.5474,
+      133.6743
+    ]
+  },
+  {
+    "id": "4me4fld",
+    "name": "高知空港　公衆電話1",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me4fld-1757071475501.jpg",
+    "ep": null,
+    "geo": [
+      33.5476,
+      133.6741
+    ]
+  },
+  {
+    "id": "4me3450",
+    "name": "高知空港　公衆電話",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me3450-1757071445037.jpg",
+    "ep": null,
+    "geo": [
+      33.5476,
+      133.6741
+    ]
+  },
+  {
+    "id": "4me533h",
+    "name": "高知空港　通路",
+    "image": "https://image.xinu.ink/pic/data/32/images/4me533h-1757071539830.jpg",
+    "ep": null,
+    "geo": [
+      33.5475,
+      133.674
+    ]
+  },
+  {
+    "id": "4mdzr6q",
+    "name": "高知空港入口",
+    "image": "https://image.xinu.ink/pic/data/32/images/4mdzr6q-1757071300638.jpg",
+    "ep": null,
+    "geo": [
+      33.5475,
+      133.6743
+    ]
+  },
+  {
+    "id": "5m6vdai",
+    "name": "高知城俯瞰",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m6vdai_1759236207116.jpg",
+    "geo": [
+      33.5606,
+      133.5315
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5m7dmg3",
+    "name": "帯屋町二丁目商店街1",
+    "image": "https://image.xinu.ink/pic/data/32/images/5m7dmg3_1759236914763.jpg",
+    "geo": [
+      33.56,
+      133.5361
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "kpx6opykf",
+    "name": "Hyatt Regency Tokyo ホテル全景",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opykf_1765524624143.jpg",
+    "geo": [
+      35.691,
+      139.6922
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.691032%2C139.692262&z=17"
+  },
+  {
+    "id": "kpx6opytc",
+    "name": "都議会前　散歩",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6opytc_1765524733615.jpg",
+    "geo": [
+      35.6896,
+      139.6927
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=35.689688%2C139.692771&z=17"
+  },
+  {
+    "id": "kpx6oq09b",
+    "name": "西徳善八幡宮　空港から杜崎家",
+    "image": "https://image.xinu.ink/pic/data/32/images/kpx6oq09b_1765524815552.jpg",
+    "geo": [
+      33.5414,
+      133.6995
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1as07yl8uPooR1X0KpmrACA-ppbs&ll=33.541486%2C133.699544&z=17"
   }
 ]

@@ -1,0 +1,92 @@
+{
+  "id": 517057,
+  "cn": "【我推的孩子】 第三季",
+  "title": "【推しの子】 第3期",
+  "cover": "https://image.xinu.ink/pic/data/6344/images/517057_257ad.jpg",
+  "cp": "【推しの子】",
+  "modified": 1769810731205,
+  "litePoints": [
+    {
+      "id": "acnk5nh",
+      "name": "渋谷スクランブル交差点",
+      "image": "https://image.anitabi.cn/user/2192/bangumi/517057/points/acnk5nh-1769543429620.jpg?plan=h160",
+      "ep": 1,
+      "s": 276,
+      "geo": [
+        35.6594,
+        139.7005
+      ]
+    },
+    {
+      "id": "acnqxqr",
+      "name": "田道広場公園",
+      "image": "https://image.anitabi.cn/user/2192/bangumi/517057/points/acnqxqr-1769543665638.jpg?plan=h160",
+      "ep": 1,
+      "s": 282,
+      "geo": [
+        35.636,
+        139.7086
+      ]
+    },
+    {
+      "id": "acnuzh0",
+      "name": "三田丘の上公園",
+      "image": "https://image.anitabi.cn/user/2192/bangumi/517057/points/acnuzh0-1769543892257.jpg?plan=h160",
+      "ep": 1,
+      "s": 689,
+      "geo": [
+        35.6402,
+        139.714
+      ]
+    },
+    {
+      "id": "aco69ie",
+      "name": "(株)TBSホールディングス",
+      "image": "https://image.anitabi.cn/user/2192/bangumi/517057/points/aco69ie-1769544393630.jpg?plan=h160",
+      "ep": 1,
+      "s": 1153,
+      "geo": [
+        35.6715,
+        139.7352
+      ]
+    },
+    {
+      "id": "acocsw2",
+      "name": "市ヶ谷フィッシュセンター",
+      "image": "https://image.anitabi.cn/user/2192/bangumi/517057/points/acocsw2-1769544684911.jpg?plan=h160",
+      "ep": 2,
+      "s": 186,
+      "geo": [
+        35.6921,
+        139.7358
+      ]
+    },
+    {
+      "id": "ad5znzs",
+      "name": "国際展示場駅",
+      "image": "https://image.anitabi.cn/user/2192/bangumi/517057/points/ad5znzs-1769574308638.jpg?plan=h160",
+      "ep": 2,
+      "s": 1345,
+      "geo": [
+        35.6338,
+        139.7915
+      ]
+    },
+    {
+      "id": "ad629ou",
+      "name": "東京ビッグサイト　南展示棟2F",
+      "image": "https://image.anitabi.cn/user/2192/bangumi/517057/points/ad629ou-1769574441143.jpg?plan=h160",
+      "ep": 2,
+      "s": 1352,
+      "geo": [
+        35.6273,
+        139.7952
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "name": "【推しの子】 第3期",
+  "name_cn": "【我推的孩子】 第三季",
+  "local_id": 6344
+}

@@ -739,5 +739,18 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7ek5c0br",
+    "name": "12 话场景（桥）",
+    "image": "https://image.xinu.ink/pic/data/230/images/7ek5c0br-1765471151303.jpg",
+    "ep": 12,
+    "s": 47,
+    "geo": [
+      36.086,
+      137.2507
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1-xhK9xXBighgJMVK-M8OxkKh5i4&ll=36.086017%2C137.250765&z=17"
   }
 ]

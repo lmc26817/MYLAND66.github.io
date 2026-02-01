@@ -122,9 +122,13 @@
       ]
     }
   ],
-  "pointsLength": 20,
+  "pointsLength": 10,
   "imagesLength": 9,
   "name": "こちら葛飾区亀有公園前派出所",
   "name_cn": "乌龙派出所",
-  "local_id": 6197
+  "local_id": 6197,
+  "region": [
+    "京都府",
+    "东京都/東京都"
+  ]
 }

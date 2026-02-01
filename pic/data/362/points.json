@@ -32,5 +32,48 @@
     ],
     "origin": "Anitabi@喔喔酱",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7qzwfnd",
+    "cn": "上学路",
+    "name": "思明南路",
+    "image": "https://image.xinu.ink/pic/data/362/images/7qzwfnd-1763880511824.jpg",
+    "ep": null,
+    "geo": [
+      24.4427,
+      118.0881
+    ]
+  },
+  {
+    "id": "9icej5h",
+    "name": "紫阳金利屋",
+    "image": "https://image.xinu.ink/pic/data/362/images/9icej5h-1767710857206.jpg",
+    "ep": null,
+    "s": 30,
+    "geo": [
+      30.5372,
+      114.2966
+    ]
+  },
+  {
+    "id": "9icvrbn",
+    "name": "紫阳公园",
+    "image": "https://image.xinu.ink/pic/data/362/images/9icvrbn-1767711802269.jpg",
+    "ep": null,
+    "geo": [
+      30.5327,
+      114.2997
+    ]
+  },
+  {
+    "id": "a9k0fiw",
+    "name": "天津医科大学研究院",
+    "image": "https://image.xinu.ink/pic/data/362/images/a9k0fiw-1769356027364.jpg",
+    "ep": null,
+    "s": 5,
+    "geo": [
+      39.105,
+      117.1772
+    ]
   }
 ]

@@ -512,5 +512,27 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1cr8fxbmEdOWXpV7pNUGYS38Kbf8&ll=36.077943%2C139.719602&z=17"
+  },
+  {
+    "id": "63hiyfm",
+    "name": "日高屋大宮西口店",
+    "image": "https://image.xinu.ink/pic/data/10/images/63hiyfm-1760281925907.jpg",
+    "ep": "15",
+    "s": "610",
+    "geo": [
+      35.9044,
+      139.6231
+    ]
+  },
+  {
+    "id": "63i020h",
+    "name": "兼六園",
+    "image": "https://image.xinu.ink/pic/data/10/images/63i020h-1760282713517.jpg",
+    "ep": "22",
+    "s": "1105",
+    "geo": [
+      36.5631,
+      136.6627
+    ]
   }
 ]

@@ -82,5 +82,9 @@
   "imagesLength": 7,
   "name": "アクションヒロイン チアフルーツ",
   "name_cn": "动作女主 水果应援团",
-  "local_id": 6217
+  "local_id": 6217,
+  "region": [
+    "夷隅郡",
+    "千叶县"
+  ]
 }

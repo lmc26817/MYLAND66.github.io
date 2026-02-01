@@ -2563,5 +2563,93 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1Lzk9kGUgtjJzqjpFcba29uybjxI&ll=30.532511%2C130.970383&z=17"
+  },
+  {
+    "id": "95k6en5",
+    "name": "JR大宮駅　19番線ホーム　新宿側先端",
+    "image": "https://image.xinu.ink/pic/data/55/images/95k6en5-1766937635418.jpg",
+    "ep": 5,
+    "s": 649,
+    "geo": [
+      35.9054,
+      139.6237
+    ]
+  },
+  {
+    "id": "95k8zau",
+    "name": "LUMINE大宮店",
+    "image": "https://image.xinu.ink/pic/data/55/images/95k8zau-1766937737237.jpg",
+    "ep": 5,
+    "s": 654,
+    "geo": [
+      35.907,
+      139.6246
+    ]
+  },
+  {
+    "id": "95kc37w",
+    "name": "JR大宮駅　中央改札口前",
+    "image": "https://image.xinu.ink/pic/data/55/images/95kc37w-1766937881763.jpg",
+    "ep": 5,
+    "s": 660,
+    "geo": [
+      35.9064,
+      139.6244
+    ]
+  },
+  {
+    "id": "95kggv0",
+    "name": "JR大宮駅　9番線ホーム　案内版",
+    "image": "https://image.xinu.ink/pic/data/55/images/95kggv0-1766938092532.jpg",
+    "ep": 5,
+    "s": 666,
+    "geo": [
+      35.9069,
+      139.6239
+    ]
+  },
+  {
+    "id": "95khhca",
+    "name": "JR大宮駅　9番線ホーム　電光掲示板",
+    "image": "https://image.xinu.ink/pic/data/55/images/95khhca-1766938134157.jpg",
+    "ep": 5,
+    "s": 674,
+    "geo": [
+      35.9058,
+      139.6242
+    ]
+  },
+  {
+    "id": "95kkie7",
+    "name": "JR久喜駅　2番線ホーム",
+    "image": "https://image.xinu.ink/pic/data/55/images/95kkie7-1766938276276.jpg",
+    "ep": 5,
+    "s": 730,
+    "geo": [
+      36.0648,
+      139.6768
+    ]
+  },
+  {
+    "id": "95kek12",
+    "name": "JR大宮駅　新幹線ホーム",
+    "image": "https://image.xinu.ink/pic/data/55/images/95kek12-1766937997058.jpg",
+    "ep": 5,
+    "s": 664,
+    "geo": [
+      35.9076,
+      139.6235
+    ]
+  },
+  {
+    "id": "95klrb5",
+    "name": "JR久喜駅　1番線ホーム(2)",
+    "image": "https://image.xinu.ink/pic/data/55/images/95klrb5-1766938332533.jpg",
+    "ep": 5,
+    "s": 742,
+    "geo": [
+      36.0657,
+      139.6772
+    ]
   }
 ]

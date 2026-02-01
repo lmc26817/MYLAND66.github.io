@@ -89,8 +89,12 @@
       ]
     }
   ],
-  "pointsLength": 12,
+  "pointsLength": 10,
   "imagesLength": 12,
   "name": "anemoi",
-  "local_id": 6229
+  "local_id": 6229,
+  "region": [
+    "苫前郡",
+    "留萌郡"
+  ]
 }

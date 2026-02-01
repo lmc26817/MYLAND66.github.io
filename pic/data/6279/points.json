@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5op0oth",
+    "cn": "成蹊学園前",
+    "name": "成蹊学園ケヤキ並木",
+    "image": "https://image.xinu.ink/pic/data/6279/images/5op0oth_1759387475184.jpg",
+    "ep": "先导PV",
+    "s": 4,
+    "geo": [
+      35.7103,
+      139.5726
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5nt035t",
+    "cn": "西武新宿站前",
+    "name": "西武新宿駅前",
+    "image": "https://image.xinu.ink/pic/data/6279/images/5nt035t-1759333729915.jpg",
+    "ep": "先导PV",
+    "s": 5,
+    "geo": [
+      35.6938,
+      139.7005
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5opqit4",
+    "cn": "犬吠站",
+    "name": "犬吠駅",
+    "image": "https://image.xinu.ink/pic/data/6279/images/5opqit4_1759388711510.jpg",
+    "ep": "先导PV",
+    "s": 34,
+    "geo": [
+      35.7063,
+      140.861
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5opwwax",
+    "cn": "金泽八景站",
+    "name": "金沢八景駅",
+    "image": "https://image.xinu.ink/pic/data/6279/images/5opwwax_1759388992370.jpg",
+    "ep": "先导PV",
+    "s": 37,
+    "geo": [
+      35.3312,
+      139.6201
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5opjser",
+    "cn": "江迎川桥",
+    "name": "江迎川橋梁",
+    "image": "https://image.xinu.ink/pic/data/6279/images/5opjser_1759388395374.jpg",
+    "ep": "先导PV",
+    "s": 41,
+    "geo": [
+      33.3033,
+      129.634
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5ntx2o5",
+    "cn": "坂田站",
+    "name": "坂田駅",
+    "image": "https://image.xinu.ink/pic/data/6279/images/5ntx2o5_1759335239104.jpg",
+    "ep": "先导PV",
+    "s": 53,
+    "geo": [
+      35.3359,
+      136.2877
+    ],
+    "origin": "Anitabi@末日晴空SR",
+    "originURL": "https://anitabi.cn/"
+  }
+]

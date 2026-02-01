@@ -1,0 +1,104 @@
+{
+  "id": 10086,
+  "cn": "四叶妹妹！",
+  "title": "よつばと!",
+  "city": "兵库县",
+  "cover": "https://image.xinu.ink/pic/data/6261/images/10086_e981v.jpg",
+  "modified": 1760379970731,
+  "litePoints": [
+    {
+      "id": "0866f609",
+      "cn": "石神井公园站北",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/10086/0866f609_1760313975279.jpg?plan=h160",
+      "geo": [
+        35.7449,
+        139.6064
+      ]
+    },
+    {
+      "id": "640rri5",
+      "cn": "うなぎ乃助 石神井公園店",
+      "name": 94,
+      "image": "https://image.anitabi.cn/points/10086/640rri5_1760314220980.jpg?plan=h160",
+      "geo": [
+        35.7448,
+        139.6061
+      ]
+    },
+    {
+      "id": "f0bb10a8",
+      "name": "LIVIN OZ大泉",
+      "image": "https://image.anitabi.cn/points/10086/f0bb10a8_1760313919648.jpg?plan=h160",
+      "geo": [
+        35.7516,
+        139.5958
+      ]
+    },
+    {
+      "id": "c6a31b48",
+      "name": "石神井図書館改築しちゃいました",
+      "image": "https://image.anitabi.cn/points/10086/c6a31b48_1760379943031.jpg?plan=h160",
+      "geo": [
+        35.7362,
+        139.5997
+      ]
+    },
+    {
+      "id": "a4ec3055",
+      "name": "2巻P068",
+      "geo": [
+        35.743,
+        139.6053
+      ]
+    },
+    {
+      "id": "84205cc0",
+      "name": "2巻P070",
+      "geo": [
+        35.7433,
+        139.6059
+      ]
+    },
+    {
+      "id": "cb6a3025",
+      "name": "2巻P076",
+      "geo": [
+        35.7437,
+        139.6075
+      ]
+    },
+    {
+      "id": "3b7c6a9f",
+      "name": "3巻P093",
+      "geo": [
+        35.7445,
+        139.6064
+      ]
+    },
+    {
+      "id": "7f63ad56",
+      "name": "3巻P094～098",
+      "geo": [
+        35.7438,
+        139.607
+      ]
+    },
+    {
+      "id": "69007732",
+      "name": "3巻P114～P130",
+      "geo": [
+        35.7009,
+        139.5711
+      ]
+    }
+  ],
+  "pointsLength": 96,
+  "imagesLength": 6,
+  "name": "よつばと!",
+  "name_cn": "四叶妹妹！",
+  "local_id": 6261,
+  "region": [
+    "东京都/東京都"
+  ]
+}

@@ -30,5 +30,9 @@
   "imagesLength": 2,
   "name": "国民老公带回家",
   "name_cn": "国民老公带回家",
-  "local_id": 6213
+  "local_id": 6213,
+  "region": [
+    "上城区",
+    "朝阳区"
+  ]
 }

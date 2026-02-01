@@ -77,5 +77,10 @@
   "imagesLength": 5,
   "name": "全职高手",
   "name_cn": "全职高手",
-  "local_id": 6212
+  "local_id": 6212,
+  "region": [
+    "西湖区",
+    "上城区",
+    "市南区"
+  ]
 }

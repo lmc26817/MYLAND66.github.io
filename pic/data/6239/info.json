@@ -24,9 +24,13 @@
       ]
     }
   ],
-  "pointsLength": 2,
+  "pointsLength": 7,
   "imagesLength": 2,
   "name": "ライムライト・レモネードジャム",
   "name_cn": "LimeLight Lemonade Jam",
-  "local_id": 6239
+  "local_id": 6239,
+  "region": [
+    "兵库县/兵庫縣",
+    "香川县"
+  ]
 }

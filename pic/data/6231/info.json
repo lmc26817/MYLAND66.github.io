@@ -111,5 +111,9 @@
   "imagesLength": 11,
   "name": "Kingdom Come: Deliverance II",
   "name_cn": "天国：拯救2",
-  "local_id": 6231
+  "local_id": 6231,
+  "region": [
+    "Střední Čechy",
+    "Liberecký kraj"
+  ]
 }

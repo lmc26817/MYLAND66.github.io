@@ -48,5 +48,40 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.659129%2C139.729727&z=17"
+  },
+  {
+    "id": "kpx6oi0yq",
+    "name": "代官山 交差点",
+    "image": "https://image.xinu.ink/pic/data/216/images/kpx6oi0yq-1760042843889.jpg",
+    "ep": 6,
+    "s": 1298,
+    "geo": [
+      35.6497,
+      139.7052
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=15w0Vv1JUp8AEjH01_I4tZarrumA&ll=35.649716%2C139.705295&z=17"
+  },
+  {
+    "id": "5zj0z4y",
+    "name": "代官山 交差路口",
+    "image": "https://image.xinu.ink/pic/data/216/images/5zj0z4y-1760042578449.jpg",
+    "ep": 6,
+    "s": 1282,
+    "geo": [
+      35.6497,
+      139.7053
+    ]
+  },
+  {
+    "id": "5zjm1ty",
+    "name": "みなとのてんらんかい 代官山店",
+    "image": "https://image.xinu.ink/pic/data/216/images/5zjm1ty-1760043631704.jpg",
+    "ep": 6,
+    "s": 1351,
+    "geo": [
+      35.6498,
+      139.7053
+    ]
   }
 ]

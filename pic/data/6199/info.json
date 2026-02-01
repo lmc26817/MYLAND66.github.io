@@ -100,5 +100,8 @@
   "imagesLength": 4,
   "name": "朝霧の巫女",
   "name_cn": "朝雾的巫女",
-  "local_id": 6199
+  "local_id": 6199,
+  "region": [
+    "广岛县"
+  ]
 }

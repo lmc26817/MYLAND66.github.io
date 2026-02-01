@@ -455,5 +455,120 @@
       35.6512,
       140.0391
     ]
+  },
+  {
+    "id": "956ab1ac",
+    "name": "「稲毛高校前」交差点",
+    "image": "https://image.xinu.ink/pic/data/284/images/956ab1ac_1767024520596.jpg",
+    "ep": 2,
+    "s": 987,
+    "geo": [
+      35.6202,
+      140.0696
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1BrgWbK2y4Jk7srdCNdfvTmrUXbk&ll=35.620243%2C140.069635&z=17"
+  },
+  {
+    "id": "fbfe8e33",
+    "name": "稲毛海岸駅前マリンピア",
+    "image": "https://image.xinu.ink/pic/data/284/images/fbfe8e33_1767024978239.jpg",
+    "ep": 5,
+    "s": 165,
+    "geo": [
+      35.6293,
+      140.0733
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1BrgWbK2y4Jk7srdCNdfvTmrUXbk&ll=35.629346%2C140.073396&z=17"
+  },
+  {
+    "id": "bc0317db",
+    "name": "富士通幕張システムラボラトリ",
+    "image": "https://image.xinu.ink/pic/data/284/images/bc0317db-1766881559664.jpg",
+    "ep": 5,
+    "s": 1314,
+    "geo": [
+      35.653,
+      140.0377
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1BrgWbK2y4Jk7srdCNdfvTmrUXbk&ll=35.653018%2C140.037758&z=17"
+  },
+  {
+    "id": "96zypmd",
+    "name": "富士通​幕張​システムラボラトリ",
+    "image": "https://image.xinu.ink/pic/data/284/images/96zypmd_1767024634865.jpg",
+    "ep": 5,
+    "s": 1278,
+    "geo": [
+      35.6533,
+      140.0383
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "75052137",
+    "name": "「メッセモール」交差点",
+    "image": "https://image.xinu.ink/pic/data/284/images/75052137_1767024776333.jpg",
+    "ep": 5,
+    "s": 1319,
+    "geo": [
+      35.6511,
+      140.039
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1BrgWbK2y4Jk7srdCNdfvTmrUXbk&ll=35.651174%2C140.039069&z=17"
+  },
+  {
+    "id": "970dof0",
+    "name": "稲毛高校前",
+    "image": "https://image.xinu.ink/pic/data/284/images/970dof0_1767025356245.jpg",
+    "ep": 1,
+    "s": 1393,
+    "geo": [
+      35.6188,
+      140.0679
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "970fl1a",
+    "name": "稲毛高校駅(バス停)",
+    "image": "https://image.xinu.ink/pic/data/284/images/970fl1a_1767025438014.jpg",
+    "ep": 1,
+    "s": 1399,
+    "geo": [
+      35.6205,
+      140.0694
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "970jkq8",
+    "name": "セントラル​パーク​イースト​幕張​パーク​タワー",
+    "image": "https://image.xinu.ink/pic/data/284/images/970jkq8_1767025593406.jpg",
+    "ep": 11,
+    "s": 206,
+    "geo": [
+      35.644,
+      140.0459
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "532b5ed9",
+    "name": "イオンタワーと京葉線高架",
+    "image": "https://image.xinu.ink/pic/data/284/images/532b5ed9_1768636489633.jpg",
+    "geo": [
+      35.6502,
+      140.0381
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1BrgWbK2y4Jk7srdCNdfvTmrUXbk&ll=35.650287%2C140.038117&z=17"
   }
 ]

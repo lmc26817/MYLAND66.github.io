@@ -1,0 +1,307 @@
+[
+  {
+    "id": "106ft91p4a",
+    "cn": "【鬼物语】",
+    "name": "聖橋",
+    "image": "https://image.xinu.ink/pic/data/6265/images/c6fef20e-1760063111515.jpg",
+    "ep": 1,
+    "s": 317,
+    "geo": [
+      35.6997,
+      139.7654
+    ]
+  },
+  {
+    "id": "5zm665f",
+    "name": "東京都渋谷区代々木駅",
+    "image": "https://image.xinu.ink/pic/data/6265/images/5zm665f-1760047882619.jpg",
+    "ep": 4,
+    "s": 1613,
+    "geo": [
+      35.6828,
+      139.7016
+    ]
+  },
+  {
+    "id": "5zmnk9o",
+    "cn": "千石抚子遇到忍野扇【囮物語】",
+    "name": "神宮前６丁目 中州北側",
+    "image": "https://image.xinu.ink/pic/data/6265/images/5zmnk9o-1760048697328.jpg",
+    "ep": 1,
+    "s": 471,
+    "geo": [
+      35.6647,
+      139.7033
+    ]
+  },
+  {
+    "id": "5zn3veq",
+    "cn": "【囮物語】",
+    "name": "江北橋通り",
+    "image": "https://image.xinu.ink/pic/data/6265/images/5zn3veq-1760049430071.jpg",
+    "ep": 2,
+    "s": 200,
+    "geo": [
+      35.7626,
+      139.7588
+    ]
+  },
+  {
+    "id": "5zomxj7",
+    "cn": "抚子大爷现身后离开学校走的路【囮物語】",
+    "name": "兵庫県神戸市北野異人館街北野通り仏蘭西館",
+    "image": "https://image.xinu.ink/pic/data/6265/images/5zomxj7-1760052039809.jpg",
+    "ep": 3,
+    "s": 1059,
+    "geo": [
+      34.7009,
+      135.1914
+    ]
+  },
+  {
+    "id": "62b0mo5",
+    "name": "八王子駅",
+    "image": "https://image.xinu.ink/pic/data/6265/images/62b0mo5-1760210529649.jpg",
+    "ep": 1,
+    "s": 372,
+    "geo": [
+      35.6568,
+      139.3394
+    ]
+  },
+  {
+    "id": "62bgewd",
+    "name": "遠州灘海浜公園",
+    "image": "https://image.xinu.ink/pic/data/6265/images/62bgewd-1760211248673.jpg",
+    "ep": 1,
+    "s": 782,
+    "geo": [
+      34.6682,
+      137.7481
+    ]
+  },
+  {
+    "id": "62bws40",
+    "name": "NTT幕張ビル前",
+    "image": "https://image.xinu.ink/pic/data/6265/images/62bws40-1760211994059.jpg",
+    "ep": 2,
+    "s": 237,
+    "geo": [
+      35.6518,
+      140.0395
+    ]
+  },
+  {
+    "id": "62c9h9z",
+    "name": "築港本町交差点",
+    "image": "https://image.xinu.ink/pic/data/6265/images/62c9h9z-1760212622774.jpg",
+    "ep": 3,
+    "s": 741,
+    "geo": [
+      33.6025,
+      130.4036
+    ]
+  },
+  {
+    "id": "62cs7bm",
+    "name": "八王子駅北口",
+    "image": "https://image.xinu.ink/pic/data/6265/images/62cs7bm-1760213566465.jpg",
+    "ep": 3,
+    "s": 745,
+    "geo": [
+      35.657,
+      139.3383
+    ]
+  },
+  {
+    "id": "62db2ba",
+    "name": "西武園ゆうえんち周辺",
+    "image": "https://image.xinu.ink/pic/data/6265/images/62db2ba-1760214384975.jpg",
+    "ep": 2,
+    "s": 255,
+    "geo": [
+      35.7664,
+      139.4459
+    ]
+  },
+  {
+    "id": "62dsrim",
+    "name": "紫泉書道教室旁的路口",
+    "image": "https://image.xinu.ink/pic/data/6265/images/62dsrim-1760215292291.jpg",
+    "ep": 2,
+    "s": 606,
+    "geo": [
+      35.7149,
+      139.7151
+    ]
+  },
+  {
+    "id": "97nmzo4",
+    "cn": "千本鸟居下的贝木",
+    "name": "伏見稲荷神社千本鸟居",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97nmzo4-1767064541648.jpg",
+    "ep": 1,
+    "s": 14,
+    "geo": [
+      34.9669,
+      135.7746
+    ]
+  },
+  {
+    "id": "97ok77f",
+    "cn": "贝木在八坂神社",
+    "name": "八坂神社",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97ok77f-1767066016034.jpg",
+    "ep": 1,
+    "s": 180,
+    "geo": [
+      35.0036,
+      135.7783
+    ]
+  },
+  {
+    "id": "97p423j",
+    "cn": "贝木在石塀小路",
+    "name": "石塀小路",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97p423j-1767066913145.jpg",
+    "ep": 1,
+    "s": 317,
+    "geo": [
+      35,
+      135.7795
+    ]
+  },
+  {
+    "id": "97q2f15",
+    "cn": "战场原在那霸空港",
+    "name": "那霸空港",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97q2f15-1767068488178.jpg",
+    "ep": 1,
+    "s": 416,
+    "geo": [
+      26.2067,
+      127.651
+    ]
+  },
+  {
+    "id": "97qs9ku",
+    "cn": "战场原与贝木约在这家餐厅见面",
+    "name": "那霸空港ロイヤルコーヒーショップ",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97qs9ku-1767069753857.jpg",
+    "ep": "1",
+    "s": "779",
+    "geo": [
+      26.2064,
+      127.6516
+    ]
+  },
+  {
+    "id": "97r4d8m",
+    "cn": "空镜头",
+    "name": "首里城",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97r4d8m-1767070325980.jpg",
+    "ep": 2,
+    "s": 115,
+    "geo": [
+      26.2169,
+      127.719
+    ]
+  },
+  {
+    "id": "97v4e07",
+    "cn": "晚上战场原与贝木碰面",
+    "name": "吉祥寺駅内中央改札",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97v4e07-1767077031563.jpg",
+    "ep": 3,
+    "s": 158,
+    "geo": [
+      35.7032,
+      139.5802
+    ]
+  },
+  {
+    "id": "97vfkf9",
+    "cn": "贝木在石神井公園駅",
+    "name": "石神井公園駅",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97vfkf9-1767077545780.jpg",
+    "ep": 2,
+    "s": 495,
+    "geo": [
+      35.7438,
+      139.6063
+    ]
+  },
+  {
+    "id": "97vzwu2",
+    "cn": "贝木在三鷹駅与战场原通电话",
+    "name": "三鷹駅みずほ銀行ATM（三鷹支店）前",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97vzwu2-1767078435934.jpg",
+    "ep": 2,
+    "s": 514,
+    "geo": [
+      35.7022,
+      139.5607
+    ]
+  },
+  {
+    "id": "97w9kpw",
+    "cn": "贝木在神田駅付近与战场原通话",
+    "name": "神田駅付近",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97w9kpw-1767078873531.jpg",
+    "ep": 2,
+    "s": 778,
+    "geo": [
+      35.6932,
+      139.7715
+    ]
+  },
+  {
+    "id": "97x47qc",
+    "cn": "贝木在函館金森倉庫与战场原通话",
+    "name": "函館金森倉庫エリア",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97x47qc-1767080400519.jpg",
+    "ep": 2,
+    "s": 867,
+    "geo": [
+      41.7671,
+      140.7171
+    ]
+  },
+  {
+    "id": "97yo02v",
+    "cn": "斧乃木在星巴克门口遇到贝木",
+    "name": "東急百貨店スタバ前",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97yo02v-1767082991261.jpg",
+    "ep": 3,
+    "s": 806,
+    "geo": [
+      35.7053,
+      139.5774
+    ]
+  },
+  {
+    "id": "97z5s4u",
+    "cn": "贝木给抚子买酒的地方",
+    "name": "兵庫県西宮市ミルコート",
+    "image": "https://image.xinu.ink/pic/data/6265/images/97z5s4u-1767084065012.jpg",
+    "ep": 4,
+    "s": 893,
+    "geo": [
+      34.7419,
+      135.3309
+    ]
+  },
+  {
+    "id": "9g7mvpg",
+    "name": "東急百貨店スタバ前",
+    "image": "https://image.xinu.ink/pic/data/6265/images/9g7mvpg-1767581705799.jpg",
+    "ep": 3,
+    "s": 1008,
+    "geo": [
+      35.7053,
+      139.5775
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

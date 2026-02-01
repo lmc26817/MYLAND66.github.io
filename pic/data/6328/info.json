@@ -1,0 +1,120 @@
+{
+  "id": 3428,
+  "cn": "爆漫王 / 食梦者",
+  "title": "バクマン。",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6328/images/3428.jpg",
+  "color": "#634763",
+  "geo": [
+    35.90711,
+    139.778892
+  ],
+  "modified": 1768433136779,
+  "litePoints": [
+    {
+      "id": "9u6w9q5",
+      "name": "京王吉祥寺駅 北侧",
+      "image": "https://image.anitabi.cn/points/3428/9u6w9q5_1768426961090.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.7035,
+        139.5798
+      ]
+    },
+    {
+      "id": "9u6k8la",
+      "name": "吉祥寺駅北口駅前広場",
+      "image": "https://image.anitabi.cn/points/3428/9u6k8la_1768426409873.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.7035,
+        139.5802
+      ]
+    },
+    {
+      "id": "9u8nb5h",
+      "name": "ガスト吉祥寺店 前",
+      "image": "https://image.anitabi.cn/points/3428/9u8nb5h_1768429915016.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.7043,
+        139.5809
+      ]
+    },
+    {
+      "id": "9u8p6uk",
+      "name": "ガスト吉祥寺店 店内",
+      "image": "https://image.anitabi.cn/points/3428/9u8p6uk_1768429994702.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.7044,
+        139.5811
+      ]
+    },
+    {
+      "id": "9u6jso4",
+      "name": "吉祥寺駅 北口 附近",
+      "image": "https://image.anitabi.cn/points/3428/9u6jso4_1768426383250.jpg?plan=h160",
+      "ep": 11,
+      "geo": [
+        35.7033,
+        139.5804
+      ]
+    },
+    {
+      "id": "9u6yl7i",
+      "name": "京王吉祥寺駅",
+      "image": "https://image.anitabi.cn/points/3428/9u6yl7i_1768427073253.jpg?plan=h160",
+      "ep": 14,
+      "geo": [
+        35.7031,
+        139.5806
+      ]
+    },
+    {
+      "id": "9u6ur5l",
+      "name": "キラリナ​京王​吉祥寺 东侧",
+      "image": "https://image.anitabi.cn/points/3428/9u6ur5l_1768426924478.jpg?plan=h160",
+      "ep": 9,
+      "geo": [
+        35.7029,
+        139.5806
+      ]
+    },
+    {
+      "id": "9u75i0z",
+      "name": "ヤマダデンキ LABI吉祥寺",
+      "image": "https://image.anitabi.cn/points/3428/9u75i0z_1768427407762.jpg?plan=h160",
+      "ep": 22,
+      "geo": [
+        35.7024,
+        139.5805
+      ]
+    },
+    {
+      "id": "9u8hzoq",
+      "name": "吉祥寺駅 中央/总武线各站停车 站台",
+      "image": "https://image.anitabi.cn/points/3428/9u8hzoq_1768429654537.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.7031,
+        139.5797
+      ]
+    },
+    {
+      "id": "9u8k5yi",
+      "name": "吉祥寺駅 中央/总武线各站停车 电车内",
+      "image": "https://image.anitabi.cn/points/3428/9u8k5yi_1768429756264.jpg?plan=h160",
+      "ep": 17,
+      "geo": [
+        35.7031,
+        139.5799
+      ]
+    }
+  ],
+  "pointsLength": 338,
+  "imagesLength": 338,
+  "name": "バクマン。",
+  "name_cn": "爆漫王 / 食梦者",
+  "local_id": 6328
+}

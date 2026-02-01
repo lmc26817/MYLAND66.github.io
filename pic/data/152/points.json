@@ -10,5 +10,71 @@
     ],
     "origin": "Anitabi@Zyglisfer",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "60vfx5g",
+    "name": "PalaceSide大厦",
+    "image": "https://image.xinu.ink/pic/data/152/images/60vfx5g-1760123899669.jpg",
+    "ep": "1",
+    "s": "2495",
+    "geo": [
+      35.6909,
+      139.7567
+    ]
+  },
+  {
+    "id": "60vscdn",
+    "name": "神奈川県川崎市サンケミカル株式会社",
+    "image": "https://image.xinu.ink/pic/data/152/images/60vscdn-1760124593318.jpg",
+    "ep": "1",
+    "s": "366",
+    "geo": [
+      35.5188,
+      139.7512
+    ]
+  },
+  {
+    "id": "60wki63",
+    "name": "JXTGエネルギー川崎製造所   ",
+    "image": "https://image.xinu.ink/pic/data/152/images/60wki63-1760125810001.jpg",
+    "ep": "1",
+    "s": "381",
+    "geo": [
+      35.5194,
+      139.7724
+    ]
+  },
+  {
+    "id": "60ww09f",
+    "name": "サンアロマー(株) ",
+    "image": "https://image.xinu.ink/pic/data/152/images/60ww09f-1760126314569.jpg",
+    "ep": "1",
+    "s": "400",
+    "geo": [
+      35.5155,
+      139.7518
+    ]
+  },
+  {
+    "id": "60xawnq",
+    "name": "JFEスチール東日本製鉄所 ",
+    "image": "https://image.xinu.ink/pic/data/152/images/60xawnq-1760127045028.jpg",
+    "ep": "1",
+    "s": "420",
+    "geo": [
+      35.4712,
+      139.7089
+    ]
+  },
+  {
+    "id": "60xu3iy",
+    "name": "東扇島西公園",
+    "image": "https://image.xinu.ink/pic/data/152/images/60xu3iy-1760127900159.jpg",
+    "ep": "1",
+    "s": "636",
+    "geo": [
+      35.4866,
+      139.7443
+    ]
   }
 ]

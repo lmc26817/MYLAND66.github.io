@@ -387,5 +387,207 @@
     ],
     "origin": "Anitabi@鸟之诗",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "5z3hugd",
+    "name": "白野江小学2",
+    "image": "https://image.xinu.ink/pic/data/3/images/5z3hugd_1760018637542.jpg",
+    "geo": [
+      33.9383,
+      131.0083
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "1a9bf04c",
+    "name": "御崎神社海边鸟居",
+    "image": "https://image.xinu.ink/pic/data/3/images/1a9bf04c_1766550639726.jpg",
+    "ep": 2,
+    "s": 1073,
+    "geo": [
+      33.8961,
+      135.12
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=17mMhYSmV2I0skjewp51sNESk_B8&ll=33.896124%2C135.120059&z=17"
+  },
+  {
+    "id": "88oil86",
+    "name": "美凪飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88oil86_1764949926109.jpg",
+    "geo": [
+      35.6505,
+      134.6335
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88pc8jn",
+    "name": "桥",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pc8jn_1764950906107.jpg",
+    "geo": [
+      35.6444,
+      134.6123
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88pfcr9",
+    "name": "堤防",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pfcr9_1764951053811.jpg",
+    "geo": [
+      35.6419,
+      134.6129
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88pjtm4",
+    "name": "田间道路",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pjtm4_1764951268010.jpg",
+    "geo": [
+      35.6358,
+      134.6322
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88pfxrx",
+    "name": "往人飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88pfxrx_1764951083817.jpg",
+    "geo": [
+      35.6419,
+      134.6128
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88ost5x",
+    "name": "往人观铃寻布偶",
+    "image": "https://image.xinu.ink/pic/data/3/images/88ost5x_1764950018695.jpg",
+    "geo": [
+      35.6417,
+      134.6294
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88otyw8",
+    "name": "观铃飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88otyw8_1764950059006.jpg",
+    "geo": [
+      35.6417,
+      134.6296
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88oydgf",
+    "cn": "香住公民馆",
+    "name": "美凪回想シーンの火の見櫓",
+    "image": "https://image.xinu.ink/pic/data/3/images/88oydgf_1764950259744.jpg",
+    "geo": [
+      35.6391,
+      134.6287
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88p1xac",
+    "name": "佳乃飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88p1xac_1764950520150.jpg",
+    "geo": [
+      35.6399,
+      134.6266
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88p6eqa",
+    "name": "神奈飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88p6eqa_1764950668891.jpg",
+    "geo": [
+      35.6426,
+      134.632
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88p9llo",
+    "name": "小滿飛び出し",
+    "image": "https://image.xinu.ink/pic/data/3/images/88p9llo_1764950784820.jpg",
+    "geo": [
+      35.636,
+      134.6229
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88paka2",
+    "name": "香住滨",
+    "image": "https://image.xinu.ink/pic/data/3/images/88paka2_1764950837537.jpg",
+    "geo": [
+      35.6407,
+      134.6171
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88ovean",
+    "name": "布偶",
+    "image": "https://image.xinu.ink/pic/data/3/images/88ovean_1764950118132.jpg",
+    "geo": [
+      35.6418,
+      134.6294
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "88ovl76",
+    "name": "船着所",
+    "image": "https://image.xinu.ink/pic/data/3/images/88ovl76_1764950138781.jpg",
+    "geo": [
+      35.6422,
+      134.6297
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8h4qlzg",
+    "cn": "石盆",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/3/images/8h4qlzg_1765460499614.jpg",
+    "geo": [
+      35.4918,
+      135.7393
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8h4qruv",
+    "name": "空印寺",
+    "image": "https://image.xinu.ink/pic/data/3/images/8h4qruv_1765460508764.jpg",
+    "geo": [
+      35.4916,
+      135.7385
+    ],
+    "origin": "Anitabi@大吉山展望台",
+    "originURL": "https://anitabi.cn/"
   }
 ]

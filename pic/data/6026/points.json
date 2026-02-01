@@ -1313,5 +1313,32 @@
     ],
     "origin": "Anitabi@AmaiAya",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4mgo6qq",
+    "cn": "镜岛大桥高架下",
+    "name": "鏡島大橋高架下",
+    "image": "https://image.xinu.ink/pic/data/6026/images/4mgo6qq_1757075764584.jpg",
+    "ep": 18,
+    "s": 610,
+    "geo": [
+      35.417,
+      136.7279
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4meu6hf",
+    "name": "cafe CACHE-CACHE",
+    "image": "https://image.xinu.ink/pic/data/6026/images/4meu6hf_1757072863023.jpg",
+    "ep": 19,
+    "s": 418,
+    "geo": [
+      35.4247,
+      136.7254
+    ],
+    "origin": "Anitabi@AmaiAya",
+    "originURL": "https://anitabi.cn/"
   }
 ]

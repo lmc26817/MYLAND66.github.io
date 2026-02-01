@@ -410,5 +410,16 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "91ccs1g",
+    "cn": "箱根Turn pike 小田原收費站",
+    "name": "アネスト岩田箱根ターンパイク 小田原料金所",
+    "image": "https://image.xinu.ink/pic/data/158/images/91ccs1g-1766682716331.jpg",
+    "ep": "11",
+    "geo": [
+      35.2422,
+      139.1405
+    ]
   }
 ]

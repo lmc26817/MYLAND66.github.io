@@ -1,0 +1,50 @@
+{
+  "id": 1942,
+  "cn": "魔卡少女樱 被封印的卡片",
+  "title": "劇場版カードキャプターさくら 封印されたカード",
+  "cover": "https://image.xinu.ink/pic/data/6327/images/1942_ZEhhi.jpg",
+  "modified": 1768662134604,
+  "litePoints": [
+    {
+      "id": "9u1ynkw",
+      "cn": "他们坐的旋转木马",
+      "name": "丰岛游乐园的旋转木马",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1942/points/9u1ynkw-1768418843964.jpg?plan=h160",
+      "ep": 1,
+      "s": 2196,
+      "geo": [
+        35.7454,
+        139.6461
+      ]
+    },
+    {
+      "id": "9u1tnol",
+      "cn": "小樱和小狼感受到库洛牌的气息追到镜子屋中",
+      "name": "丰岛游乐园镜子屋",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1942/points/9u1tnol-1768418549311.jpg?plan=h160",
+      "ep": 1,
+      "s": 2357,
+      "geo": [
+        35.7459,
+        139.6451
+      ]
+    },
+    {
+      "id": "9u0r7qu",
+      "cn": "小樱和小狼坐的摩天轮",
+      "name": "荒川遊園地観覧車",
+      "image": "https://image.anitabi.cn/user/0/bangumi/1942/points/9u0r7qu-1768416861066.jpg?plan=h160",
+      "ep": 1,
+      "s": 2241,
+      "geo": [
+        35.7536,
+        139.7583
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "劇場版カードキャプターさくら 封印されたカード",
+  "name_cn": "魔卡少女樱 被封印的卡片",
+  "local_id": 6327
+}

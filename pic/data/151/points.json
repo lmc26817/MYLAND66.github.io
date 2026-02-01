@@ -172,5 +172,100 @@
       36.3619,
       139.4948
     ]
+  },
+  {
+    "id": "59j8pi7",
+    "cn": "桦崎八幡宫前",
+    "name": "桦崎八幡宫",
+    "image": "https://image.xinu.ink/pic/data/151/images/59j8pi7-1758470784213.jpg",
+    "ep": 7,
+    "s": 783,
+    "geo": [
+      36.3618,
+      139.4948
+    ]
+  },
+  {
+    "id": "59jeul6",
+    "cn": "桦崎八幡宫神社台阶",
+    "name": "桦崎八幡宫",
+    "image": "https://image.xinu.ink/pic/data/151/images/59jeul6-1758471068137.jpg",
+    "ep": 7,
+    "s": 205,
+    "geo": [
+      36.3618,
+      139.4948
+    ]
+  },
+  {
+    "id": "59jw8qc",
+    "cn": "桦崎八幡宫停车场",
+    "name": "桦崎八幡宫驻车场",
+    "image": "https://image.xinu.ink/pic/data/151/images/59jw8qc-1758471886009.jpg",
+    "ep": 9,
+    "s": 1055,
+    "geo": [
+      36.3618,
+      139.4948
+    ]
+  },
+  {
+    "id": "5az1x2c",
+    "cn": "新仲見世商店街门口",
+    "name": "新仲見世商店街",
+    "image": "https://image.xinu.ink/pic/data/151/images/5az1x2c-1758557868746.jpg",
+    "ep": 11,
+    "s": 250,
+    "geo": [
+      35.7119,
+      139.7955
+    ]
+  },
+  {
+    "id": "5azgd2g",
+    "cn": "春日野医院前",
+    "name": "春日野医院",
+    "image": "https://image.xinu.ink/pic/data/151/images/5azgd2g-1758558498590.jpg",
+    "ep": 8,
+    "s": 1117,
+    "geo": [
+      36.3662,
+      139.4945
+    ]
+  },
+  {
+    "id": "5azyaot",
+    "cn": "虚构的橞见站",
+    "name": "橞见駅",
+    "image": "https://image.xinu.ink/pic/data/151/images/5azyaot-1758559332959.jpg",
+    "ep": 1,
+    "s": 191,
+    "geo": [
+      36.3586,
+      139.492
+    ]
+  },
+  {
+    "id": "5b0cqfo",
+    "cn": "大木奈商店",
+    "name": "北の郷農産物直売所（大木奈商店）",
+    "image": "https://image.xinu.ink/pic/data/151/images/5b0cqfo-1758560016543.jpg",
+    "ep": 1,
+    "s": 301,
+    "geo": [
+      36.3569,
+      139.4927
+    ]
+  },
+  {
+    "id": "5aycp3w",
+    "cn": "日常通学路",
+    "name": "日常通学路",
+    "image": "https://image.xinu.ink/pic/data/151/images/5aycp3w-1758556718606.jpg",
+    "ep": null,
+    "geo": [
+      36.3617,
+      139.5027
+    ]
   }
 ]

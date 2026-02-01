@@ -107,5 +107,10 @@
   "imagesLength": 20,
   "name": "ときめきメモリアル Only Love",
   "name_cn": "心跳回忆 Only Love",
-  "local_id": 6195
+  "local_id": 6195,
+  "region": [
+    "虻田郡",
+    "石狩振興局",
+    "上川綜合振興局"
+  ]
 }

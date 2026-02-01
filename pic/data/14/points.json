@@ -264,5 +264,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.405892%2C138.244395&z=17"
+  },
+  {
+    "id": "a86t1rm9",
+    "name": "校庭",
+    "image": "https://image.xinu.ink/pic/data/14/images/a86t1rm9_1764047952201.jpg",
+    "geo": [
+      36.2302,
+      137.9823
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1UxpskiWKjEF5nogQX_zksDMcwGQ&ll=36.230237%2C137.982364&z=17"
   }
 ]

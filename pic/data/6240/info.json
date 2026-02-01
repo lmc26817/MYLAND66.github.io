@@ -71,5 +71,8 @@
   "imagesLength": 6,
   "name": "札幌乙女ごはん。",
   "name_cn": "札幌少女饭",
-  "local_id": 6240
+  "local_id": 6240,
+  "region": [
+    "石狩振興局"
+  ]
 }

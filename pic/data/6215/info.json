@@ -47,9 +47,12 @@
       ]
     }
   ],
-  "pointsLength": 4,
+  "pointsLength": 19,
   "imagesLength": 4,
   "name": "ゲーマーズ!",
   "name_cn": "GAMERS电玩咖",
-  "local_id": 6215
+  "local_id": 6215,
+  "region": [
+    "吾妻郡"
+  ]
 }

@@ -245,5 +245,85 @@
     ],
     "origin": "Anitabi@concert",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4qb3qxq",
+    "cn": "Doutor Coffee",
+    "name": "ドトール​コーヒー​ショップ​本厚木​一番街​店",
+    "image": "https://image.xinu.ink/pic/data/6228/images/4qb3qxq_1757308289237.jpg",
+    "geo": [
+      35.4416,
+      139.3649
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4qb4xw5",
+    "name": "本厚木​一番街​",
+    "image": "https://image.xinu.ink/pic/data/6228/images/4qb4xw5_1757308324827.jpg",
+    "geo": [
+      35.4416,
+      139.3648
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4g5rbof",
+    "cn": "伊势原站 南",
+    "name": 42,
+    "image": "https://image.xinu.ink/pic/data/6228/images/4g5rbof_1756694649216.jpg",
+    "geo": [
+      35.3954,
+      139.3133
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4gg3e91",
+    "name": "本厚木駅 北",
+    "image": "https://image.xinu.ink/pic/data/6228/images/4gg3e91_1756712009305.jpg",
+    "geo": [
+      35.4398,
+      139.3641
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4q8srhp",
+    "name": "本厚木駅 北口",
+    "image": "https://image.xinu.ink/pic/data/6228/images/4q8srhp_1757304399703.jpg",
+    "geo": [
+      35.4396,
+      139.3642
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4q8ki05",
+    "name": "ルネ本厚木",
+    "image": "https://image.xinu.ink/pic/data/6228/images/4q8ki05_1757304173430.jpg",
+    "geo": [
+      35.4385,
+      139.3594
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4qaylva",
+    "cn": "相模线 札口",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/6228/images/4qaylva_1757308076129.jpg",
+    "geo": [
+      35.4398,
+      139.3787
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
   }
 ]

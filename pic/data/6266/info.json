@@ -1,0 +1,29 @@
+{
+  "id": 88869,
+  "cn": "古树旋律",
+  "title": "Deemo",
+  "city": "台湾省",
+  "cover": "https://image.xinu.ink/pic/data/6266/images/88869.jpg",
+  "color": "#806a2a",
+  "cp": "2013 Rayark Inc.",
+  "modified": 1761731280730,
+  "litePoints": [
+    {
+      "id": "6qkh7im",
+      "name": "國立臺灣大學醫學院附設醫院",
+      "image": "https://image.anitabi.cn/user/2090/bangumi/88869/points/6qkh7im-1761677829631.jpg?plan=h160",
+      "geo": [
+        25.0408,
+        121.5185
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "Deemo",
+  "name_cn": "古树旋律",
+  "local_id": 6266,
+  "region": [
+    "臺北市"
+  ]
+}

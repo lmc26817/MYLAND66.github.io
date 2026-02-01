@@ -468,5 +468,49 @@
     ],
     "origin": "Anitabi@Xmなのだ",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4glv6oi",
+    "name": "超炮S的开场空镜",
+    "image": "https://image.xinu.ink/pic/data/282/images/4glv6oi-1756721869036.jpg",
+    "ep": "EP1",
+    "s": "2",
+    "geo": [
+      35.6236,
+      139.4239
+    ]
+  },
+  {
+    "id": "5zdusbe",
+    "name": "JTB トラベルゲート立川",
+    "image": "https://image.xinu.ink/pic/data/282/images/5zdusbe-1760033990780.jpg",
+    "ep": 13,
+    "s": 1321,
+    "geo": [
+      35.699,
+      139.4128
+    ]
+  },
+  {
+    "id": "5zh17pn",
+    "name": "東京都赤十字血液センター 立川事業所",
+    "image": "https://image.xinu.ink/pic/data/282/images/5zh17pn-1760039355353.jpg",
+    "ep": 11,
+    "s": 1117,
+    "geo": [
+      35.7071,
+      139.408
+    ]
+  },
+  {
+    "id": "5zhn0fa",
+    "name": "东京地方裁判所立川支部北侧人行道",
+    "image": "https://image.xinu.ink/pic/data/282/images/5zhn0fa-1760040357897.jpg",
+    "ep": 18,
+    "s": 323,
+    "geo": [
+      35.7127,
+      139.4106
+    ]
   }
 ]

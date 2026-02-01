@@ -1,0 +1,29 @@
+{
+  "id": 442114,
+  "cn": "罗小黑战记2",
+  "title": "罗小黑战记2",
+  "city": "中国",
+  "cover": "https://image.xinu.ink/pic/data/6277/images/442114_nSSO1.jpg",
+  "color": "#314041",
+  "modified": 1761401912530,
+  "litePoints": [
+    {
+      "id": "6m0abnl",
+      "name": "黄河会馆",
+      "image": "https://image.anitabi.cn/points/442114/6m0abnl_1761401864352.jpg?plan=h160",
+      "s": 1707,
+      "geo": [
+        78.9233,
+        11.9345
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "罗小黑战记2",
+  "name_cn": "罗小黑战记2",
+  "local_id": 6277,
+  "region": [
+    "斯瓦尔巴特和扬马延"
+  ]
+}

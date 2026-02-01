@@ -1,0 +1,52 @@
+{
+  "id": 245671,
+  "cn": "我们的七日战争",
+  "title": "ぼくらの7日間戦争",
+  "city": "北海道",
+  "cover": "https://image.xinu.ink/pic/data/6282/images/245671_vHT3U.jpg",
+  "cp": "ぼくらの7日間戦争",
+  "modified": 1762967007477,
+  "litePoints": [
+    {
+      "id": "7bv3ox2",
+      "name": "住友赤平炭鉱立坑櫓",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/245671/points/7bv3ox2-1762965320825.jpg?plan=h160",
+      "geo": [
+        43.5481,
+        142.0562
+      ]
+    },
+    {
+      "id": "7bvahei",
+      "name": "北海道夕張高等学校",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/245671/points/7bvahei-1762965549106.jpg?plan=h160",
+      "geo": [
+        42.9802,
+        142.0051
+      ]
+    },
+    {
+      "id": "7bvdt4m",
+      "name": "そば​天国​南清水沢​駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/245671/points/7bvdt4m-1762965695932.jpg?plan=h160",
+      "geo": [
+        42.9852,
+        142.0066
+      ]
+    },
+    {
+      "id": "7bw18om",
+      "name": "夕張市​石炭​博物館模擬坑道",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/245671/points/7bw18om-1762966783744.jpg?plan=h160",
+      "geo": [
+        43.0682,
+        141.989
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "ぼくらの7日間戦争",
+  "name_cn": "我们的七日战争",
+  "local_id": 6282
+}

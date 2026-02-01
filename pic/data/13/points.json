@@ -1003,5 +1003,16 @@
     ],
     "origin": "Anitabi@Zyglisfer",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "8s6ralh",
+    "name": "白川八幡宮",
+    "image": "https://image.xinu.ink/pic/data/13/images/8s6ralh-1766129084784.jpg",
+    "ep": 13,
+    "s": 798,
+    "geo": [
+      36.2547,
+      136.9058
+    ]
   }
 ]

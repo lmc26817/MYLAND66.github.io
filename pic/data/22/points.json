@@ -25,5 +25,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1hiCvYIJmmv_9al6R2cc-3p4BmZ8&ll=25.108622%2C121.843606&z=17"
+  },
+  {
+    "id": "6o8o3ac",
+    "cn": "爱宕念佛寺",
+    "name": "愛宕念仏寺",
+    "image": "https://image.xinu.ink/pic/data/22/images/6o8o3ac-1761536843536.jpg",
+    "ep": null,
+    "geo": [
+      35.0316,
+      135.6612
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1hiCvYIJmmv_9al6R2cc-3p4BmZ8&ll=35.031602%2C135.661215&z=17"
   }
 ]

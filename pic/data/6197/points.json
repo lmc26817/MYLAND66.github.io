@@ -100,5 +100,17 @@
       35.0119,
       135.7513
     ]
+  },
+  {
+    "id": "kpx6ojcle",
+    "name": "両津勘吉像",
+    "image": "https://image.xinu.ink/pic/data/6197/images/kpx6ojcle-1760336372762.jpg",
+    "ep": null,
+    "geo": [
+      35.7668,
+      139.8478
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1GX6sLwM-N3tmipbw70jvPiAKUcM&ll=35.766851%2C139.847814&z=17"
   }
 ]

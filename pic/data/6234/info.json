@@ -26,9 +26,12 @@
       ]
     }
   ],
-  "pointsLength": 4,
+  "pointsLength": 3,
   "imagesLength": 4,
   "name": "雨と君と",
   "name_cn": "和雨和你",
-  "local_id": 6234
+  "local_id": 6234,
+  "region": [
+    "东京都/東京都"
+  ]
 }

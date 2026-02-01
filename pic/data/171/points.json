@@ -150,5 +150,19 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1gsdJOds6VdMF_Zh0MJGbra0DwNU&ll=35.672315%2C139.479954&z=17"
+  },
+  {
+    "id": "kpx6og45n",
+    "cn": "立川站月台",
+    "name": "立川駅ホーム",
+    "image": "https://image.xinu.ink/pic/data/171/images/kpx6og45n-1763892798682.jpg",
+    "ep": "+smile 1",
+    "s": 1274,
+    "geo": [
+      35.6978,
+      139.4139
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1gsdJOds6VdMF_Zh0MJGbra0DwNU&ll=35.697896%2C139.413956&z=17"
   }
 ]

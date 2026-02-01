@@ -34,5 +34,41 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "967seds",
+    "cn": "学生会下榻的酒店",
+    "name": "晴海グランドホテル",
+    "image": "https://image.xinu.ink/pic/data/6140/images/967seds-1766977453050.jpg",
+    "ep": 7,
+    "s": 718,
+    "geo": [
+      35.6548,
+      139.78
+    ]
+  },
+  {
+    "id": "968abz7",
+    "cn": "学生会众人在自动贩卖机前买喝的",
+    "name": "アクアシティお台場・自販機前",
+    "image": "https://image.xinu.ink/pic/data/6140/images/968abz7-1766978330852.jpg",
+    "ep": 7,
+    "s": 1215,
+    "geo": [
+      35.6267,
+      139.7725
+    ]
+  },
+  {
+    "id": "968rsow",
+    "cn": "学生会5人合影",
+    "name": "青海駅南出口",
+    "image": "https://image.xinu.ink/pic/data/6140/images/968rsow-1766979078955.jpg",
+    "ep": 7,
+    "s": 1288,
+    "geo": [
+      35.6247,
+      139.7817
+    ]
   }
 ]
