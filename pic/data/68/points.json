@@ -20,5 +20,31 @@
       35.6621,
       139.6802
     ]
+  },
+  {
+    "id": "aj3sr15",
+    "cn": "都立旧岩崎邸庭園",
+    "name": "都立旧岩崎邸庭園",
+    "image": "https://image.xinu.ink/pic/data/68/images/aj3sr15-1769933470353.jpg",
+    "ep": null,
+    "geo": [
+      35.7096,
+      139.7675
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aj3unfa",
+    "cn": "都立旧岩崎邸庭園大厅",
+    "name": "都立旧岩崎邸庭園大厅",
+    "image": "https://image.xinu.ink/pic/data/68/images/aj3unfa-1769933561685.jpg",
+    "ep": null,
+    "geo": [
+      35.7096,
+      139.7672
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
   }
 ]

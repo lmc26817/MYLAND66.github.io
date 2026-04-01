@@ -332,5 +332,42 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1EfmWkl6hOVLB8n-DKIrQnFZYl64&ll=37.396142%2C140.375308&z=17"
+  },
+  {
+    "id": "kpx6otz8v",
+    "name": "若松城（鶴ヶ城）天守閣",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otz8v_1774018708833.jpg",
+    "ep": 3,
+    "s": 842,
+    "geo": [
+      37.4882,
+      139.9296
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EfmWkl6hOVLB8n-DKIrQnFZYl64&ll=37.488276%2C139.929686&z=17"
+  },
+  {
+    "id": "kpx6otssr",
+    "name": "ビッグアイ22F展望室",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otssr_1772971028868.jpg",
+    "ep": 1,
+    "geo": [
+      37.3996,
+      140.388
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EfmWkl6hOVLB8n-DKIrQnFZYl64&ll=37.399687%2C140.388064&z=17"
+  },
+  {
+    "id": "kpx6otu4c",
+    "name": "安積国造神社",
+    "image": "https://image.xinu.ink/pic/data/333/images/kpx6otu4c_1774018686361.jpg",
+    "ep": "OP1",
+    "geo": [
+      37.3986,
+      140.3819
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1EfmWkl6hOVLB8n-DKIrQnFZYl64&ll=37.398665%2C140.38197&z=17"
   }
 ]

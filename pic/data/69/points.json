@@ -700,5 +700,18 @@
     ],
     "origin": "Anitabi@甜食伯爵",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "auicpi3",
+    "name": "京都丹後鉄道 由良川橋",
+    "image": "https://image.xinu.ink/pic/data/69/images/auicpi3-1770623101014.jpg",
+    "ep": 4,
+    "s": 475,
+    "geo": [
+      35.5108,
+      135.288
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

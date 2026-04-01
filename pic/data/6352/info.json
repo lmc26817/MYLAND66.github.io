@@ -1,0 +1,95 @@
+{
+  "id": 213816,
+  "cn": "ReLIFE 完结篇",
+  "title": "ReLIFE 完結編",
+  "cover": "https://image.xinu.ink/pic/data/6352/images/213816_y91Nb.jpg",
+  "cp": "リライフ研究所",
+  "modified": 1770491885320,
+  "litePoints": [
+    {
+      "id": "as901t0",
+      "name": "青海站",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/as901t0-1770486386038.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.6251,
+        139.7814
+      ]
+    },
+    {
+      "id": "as99d1f",
+      "name": "商场二楼",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/as99d1f-1770486791234.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.6253,
+        139.7809
+      ]
+    },
+    {
+      "id": "as91pe4",
+      "name": "东京电讯站",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/as91pe4-1770486445119.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.6269,
+        139.7793
+      ]
+    },
+    {
+      "id": "as9bk1n",
+      "name": "商场",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/as9bk1n-1770486907971.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.6253,
+        139.7809
+      ]
+    },
+    {
+      "id": "as9cu17",
+      "name": "商场前",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/as9cu17-1770486951858.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.6262,
+        139.7805
+      ]
+    },
+    {
+      "id": "as9f7sa",
+      "name": "楼梯前",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/as9f7sa-1770487063320.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.6262,
+        139.7805
+      ]
+    },
+    {
+      "id": "asa0es8",
+      "name": "deai bridge",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/asa0es8-1770488071722.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.625,
+        139.7776
+      ]
+    },
+    {
+      "id": "asa76by",
+      "name": "桥",
+      "image": "https://image.anitabi.cn/user/2205/bangumi/213816/points/asa76by-1770488373948.jpg?plan=h160",
+      "ep": 3,
+      "geo": [
+        35.625,
+        139.7774
+      ]
+    }
+  ],
+  "pointsLength": 13,
+  "imagesLength": 13,
+  "name": "ReLIFE 完結編",
+  "name_cn": "ReLIFE 完结篇",
+  "local_id": 6352
+}

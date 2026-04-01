@@ -117,5 +117,49 @@
       139.8926
     ],
     "originLink": "https://blog.goo.ne.jp/kai881/e/167faef86ed8ab1a7f79da35e4c5c2b6"
+  },
+  {
+    "id": "bq8ckuf",
+    "name": "ブロック塀",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8ckuf-1772541133266.jpg",
+    "ep": 12,
+    "s": 628,
+    "geo": [
+      35.9636,
+      139.0586
+    ]
+  },
+  {
+    "id": "bq8m2w3",
+    "name": "光西寺",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8m2w3-1772541565663.jpg",
+    "ep": 4,
+    "s": 969,
+    "geo": [
+      35.9625,
+      139.0579
+    ]
+  },
+  {
+    "id": "bq8ngpl",
+    "name": "土留",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8ngpl-1772541917533.jpg",
+    "ep": 12,
+    "s": 592,
+    "geo": [
+      35.9623,
+      139.0585
+    ]
+  },
+  {
+    "id": "bq8v7x0",
+    "name": "石龍山橋立堂付近 三叉路",
+    "image": "https://image.xinu.ink/pic/data/325/images/bq8v7x0-1772542006047.jpg",
+    "ep": 4,
+    "s": 954,
+    "geo": [
+      35.961,
+      139.0603
+    ]
   }
 ]

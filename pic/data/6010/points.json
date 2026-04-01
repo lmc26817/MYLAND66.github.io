@@ -48,5 +48,31 @@
     ],
     "origin": "Anitabi@Lilin",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "akw0mgh",
+    "name": "多摩​中央​警察署​向陽台​駐在所",
+    "image": "https://image.xinu.ink/pic/data/6010/images/akw0mgh_1770041521983.jpg",
+    "ep": 5,
+    "s": 4486,
+    "geo": [
+      35.6397,
+      139.4872
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "almvzkz",
+    "name": "ファインタワー",
+    "image": "https://image.xinu.ink/pic/data/6010/images/almvzkz_1770086431224.jpg",
+    "ep": 5.1,
+    "s": 4306,
+    "geo": [
+      35.6416,
+      139.4877
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -20,5 +20,81 @@
       34.967,
       135.7745
     ]
+  },
+  {
+    "id": "bajynsd",
+    "name": "新宿コマ劇場",
+    "image": "https://image.xinu.ink/pic/data/5995/images/bajynsd-1771593329479.jpg",
+    "ep": 8,
+    "s": 169,
+    "geo": [
+      35.6949,
+      139.7014
+    ]
+  },
+  {
+    "id": "band9rj",
+    "name": "銀座四丁目",
+    "image": "https://image.xinu.ink/pic/data/5995/images/band9rj-1771598921675.jpg",
+    "ep": 9,
+    "s": 188,
+    "geo": [
+      35.6712,
+      139.765
+    ]
+  },
+  {
+    "id": "bann93e",
+    "name": "阿佐谷パールセンター 商店街",
+    "image": "https://image.xinu.ink/pic/data/5995/images/bann93e-1771599442138.jpg",
+    "ep": 9,
+    "s": 577,
+    "geo": [
+      35.7043,
+      139.6366
+    ]
+  },
+  {
+    "id": "bbbogeo",
+    "name": "渋谷スクランブル交差点",
+    "image": "https://image.xinu.ink/pic/data/5995/images/bbbogeo-1771639733124.jpg",
+    "ep": 11,
+    "s": 115,
+    "geo": [
+      35.6594,
+      139.7005
+    ]
+  },
+  {
+    "id": "bberxnw",
+    "name": "三ノ輪橋駅",
+    "image": "https://image.xinu.ink/pic/data/5995/images/bberxnw-1771644946218.jpg",
+    "ep": 13,
+    "s": 814,
+    "geo": [
+      35.7325,
+      139.791
+    ]
+  },
+  {
+    "id": "bbeybw4",
+    "name": "梅沢写真会館",
+    "image": "https://image.xinu.ink/pic/data/5995/images/bbeybw4-1771645330655.jpg",
+    "ep": 13,
+    "s": 815,
+    "geo": [
+      35.7319,
+      139.7924
+    ]
+  },
+  {
+    "id": "bd0mjyh",
+    "name": "センターホテル 東京",
+    "image": "https://image.xinu.ink/pic/data/5995/images/bd0mjyh-1771742194905.jpg",
+    "ep": 22,
+    "geo": [
+      35.6793,
+      139.776
+    ]
   }
 ]

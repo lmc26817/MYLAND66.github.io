@@ -697,5 +697,18 @@
       35.684,
       139.702
     ]
+  },
+  {
+    "id": "as81y50",
+    "name": "楼梯后",
+    "image": "https://image.xinu.ink/pic/data/58/images/as81y50-1770484769199.jpg",
+    "ep": 24,
+    "s": "13：14",
+    "geo": [
+      35.6063,
+      139.5424
+    ],
+    "origin": "Anitabi@采钦佩",
+    "originURL": "https://anitabi.cn/"
   }
 ]

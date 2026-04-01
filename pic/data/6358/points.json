@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ahp0zn1",
+    "name": "下北沢南口商店街",
+    "image": "https://image.xinu.ink/pic/data/6358/images/ahp0zn1-1769848224222.jpg",
+    "ep": null,
+    "geo": [
+      35.6599,
+      139.6673
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ahp47rg",
+    "name": "下北沢駅東口前",
+    "image": "https://image.xinu.ink/pic/data/6358/images/ahp47rg-1769848308419.jpg",
+    "ep": null,
+    "geo": [
+      35.6616,
+      139.6677
+    ],
+    "origin": "Anitabi@Azusa",
+    "originURL": "https://anitabi.cn/"
+  }
+]

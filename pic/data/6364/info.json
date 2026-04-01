@@ -1,0 +1,26 @@
+{
+  "id": 4256,
+  "cn": "复苏的天空 -救援之翼-",
+  "title": "よみがえる空 -RESCUE WINGS-",
+  "cover": "https://image.xinu.ink/pic/data/6364/images/4256_D17Cj.jpg",
+  "modified": 1774327637849,
+  "litePoints": [
+    {
+      "id": "cjry8fo",
+      "cn": "小松站",
+      "name": "小松駅",
+      "image": "https://image.anitabi.cn/user/2191/bangumi/4256/points/cjry8fo-1774327589977.jpg?plan=h160",
+      "ep": 1,
+      "s": 68,
+      "geo": [
+        36.402,
+        136.4522
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "よみがえる空 -RESCUE WINGS-",
+  "name_cn": "复苏的天空 -救援之翼-",
+  "local_id": 6364
+}

@@ -110,5 +110,140 @@
     ],
     "origin": "Anitabi@和泉Ciao",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aj3chxn",
+    "cn": "苫前町乡土资料馆",
+    "name": "苫前町乡土资料馆",
+    "image": "https://image.xinu.ink/pic/data/6229/images/aj3chxn-1769932682727.jpg",
+    "ep": null,
+    "geo": [
+      44.3077,
+      141.6582
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aj3f739",
+    "cn": "苫前町",
+    "name": "苫前町",
+    "image": "https://image.xinu.ink/pic/data/6229/images/aj3f739-1769932792399.jpg",
+    "ep": null,
+    "geo": [
+      44.3583,
+      141.6934
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aj3iw3x",
+    "cn": "上平模范牧场",
+    "name": "上平模范牧场",
+    "image": "https://image.xinu.ink/pic/data/6229/images/aj3iw3x-1769932983749.jpg",
+    "ep": null,
+    "geo": [
+      44.2538,
+      141.6603
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "akbktyg",
+    "name": "古丹別​バス​ターミナル",
+    "image": "https://image.xinu.ink/pic/data/6229/images/akbktyg-1770006950668.jpg",
+    "ep": null,
+    "geo": [
+      44.261,
+      141.7113
+    ]
+  },
+  {
+    "id": "akbru8e",
+    "name": "日本海オロロンライン",
+    "image": "https://image.xinu.ink/pic/data/6229/images/akbru8e-1770007286827.jpg",
+    "ep": null,
+    "geo": [
+      44.3137,
+      141.6612
+    ]
+  },
+  {
+    "id": "akcasus",
+    "name": "オロロンライン",
+    "image": "https://image.xinu.ink/pic/data/6229/images/akcasus-1770008171999.jpg",
+    "ep": null,
+    "geo": [
+      44.3584,
+      141.6934
+    ]
+  },
+  {
+    "id": "alulys2",
+    "cn": "有明邮便局",
+    "name": "有明郵便局",
+    "image": "https://image.xinu.ink/pic/data/6229/images/alulys2-1770099399990.jpg",
+    "ep": null,
+    "geo": [
+      44.449,
+      141.7584
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "alunuhj",
+    "cn": "しょさんべつ天文台",
+    "name": "しょさんべつ天文台",
+    "image": "https://image.xinu.ink/pic/data/6229/images/alunuhj-1770099474221.jpg",
+    "ep": null,
+    "geo": [
+      44.5627,
+      141.7745
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "alv8zs1",
+    "cn": "栄浜公交站",
+    "name": "栄浜",
+    "image": "https://image.xinu.ink/pic/data/6229/images/alv8zs1-1770100476959.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      44.3138,
+      141.6612
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "alve9sm",
+    "cn": "とままえ夕陽ヶ丘未来港公園",
+    "name": "とままえ夕陽ヶ丘未来港公園",
+    "image": "https://image.xinu.ink/pic/data/6229/images/alve9sm-1770100953108.jpg",
+    "ep": null,
+    "geo": [
+      44.315,
+      141.6559
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "aj3p9sv",
+    "cn": "苫前町",
+    "name": "苫前町",
+    "image": "https://image.xinu.ink/pic/data/6229/images/aj3p9sv-1769933266128.jpg",
+    "ep": null,
+    "geo": [
+      44.3166,
+      141.6661
+    ],
+    "origin": "Anitabi@calmコム",
+    "originURL": "https://anitabi.cn/"
   }
 ]

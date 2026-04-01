@@ -267,5 +267,18 @@
       36.3617,
       139.5027
     ]
+  },
+  {
+    "id": "c96fbue",
+    "name": "下彦間地区",
+    "image": "https://image.xinu.ink/pic/data/151/images/c96fbue_1773686747249.jpg",
+    "ep": 3,
+    "s": 873,
+    "geo": [
+      36.4004,
+      139.5053
+    ],
+    "origin": "Anitabi@澄蔦",
+    "originURL": "https://anitabi.cn/"
   }
 ]

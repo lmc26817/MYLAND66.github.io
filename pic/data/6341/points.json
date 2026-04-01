@@ -560,5 +560,51 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.678407%2C135.203747&z=17"
+  },
+  {
+    "id": "0b0c4157",
+    "name": "祇園祭ぎゃらりぃ",
+    "image": "https://image.xinu.ink/pic/data/6341/images/0b0c4157_1770539607012.jpg",
+    "geo": [
+      35.0035,
+      135.7767
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=35.00356%2C135.776711&z=17"
+  },
+  {
+    "id": "9d7abbff",
+    "name": "菓子屋 のな",
+    "image": "https://image.xinu.ink/pic/data/6341/images/9d7abbff_1770539208297.jpg",
+    "geo": [
+      34.9976,
+      135.7527
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.997661%2C135.752705&z=17"
+  },
+  {
+    "id": "183260a1",
+    "name": "有馬温泉",
+    "image": "https://image.xinu.ink/pic/data/6341/images/183260a1_1770539562048.jpg",
+    "geo": [
+      34.7978,
+      135.2476
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.797808%2C135.247696&z=17"
+  },
+  {
+    "id": "5572650f",
+    "name": "平等院",
+    "image": "https://image.xinu.ink/pic/data/6341/images/5572650f-1774413541301.jpg",
+    "ep": "1",
+    "s": "1098",
+    "geo": [
+      34.8892,
+      135.8076
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.889291%2C135.807678&z=17"
   }
 ]

@@ -878,5 +878,19 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=11WqY_NJMSuFuizuuaF_bsNiBYFU&ll=34.760583%2C135.324641&z=17"
+  },
+  {
+    "id": "kgo1gby0s",
+    "cn": "长门有希家的大楼",
+    "name": "長門マンション",
+    "image": "https://image.xinu.ink/pic/data/123/images/kgo1gby0s-1740741244168.jpg",
+    "ep": null,
+    "s": 6618,
+    "geo": [
+      34.7586,
+      135.3315
+    ],
+    "origin": "Anitabi@凉宫春日应援团",
+    "originURL": "https://anitabi.cn/"
   }
 ]

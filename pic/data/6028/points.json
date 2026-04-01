@@ -30,5 +30,17 @@
       36.3577,
       138.6984
     ]
+  },
+  {
+    "id": "bnnmpk2",
+    "name": "伊良湖港",
+    "image": "https://image.xinu.ink/pic/data/6028/images/bnnmpk2_1772385373939.jpg",
+    "ep": "PV1",
+    "geo": [
+      34.5791,
+      137.0169
+    ],
+    "origin": "Anitabi@甜食伯爵",
+    "originURL": "https://anitabi.cn/"
   }
 ]

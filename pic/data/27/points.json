@@ -1611,5 +1611,101 @@
     ],
     "origin": "Anitabi@Niamos!",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "7fddb7e3",
+    "name": "和歌山港フェリー乗り場",
+    "image": "https://image.xinu.ink/pic/data/27/images/7fddb7e3_1770630818652.jpg",
+    "ep": 6,
+    "s": 548,
+    "geo": [
+      34.2172,
+      135.1438
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1ahAUCM1WnNfaTKj8U4lHQeFhMFt2Qqs&ll=34.217222%2C135.143889&z=17"
+  },
+  {
+    "id": "p52ppjg4e",
+    "cn": "甲阳园站前",
+    "name": "甲陽園駅前",
+    "image": "https://image.xinu.ink/pic/data/27/images/p52ppjg4e-1729068870393.jpg",
+    "ep": 1,
+    "s": 20,
+    "geo": [
+      34.7611,
+      135.3298
+    ]
+  },
+  {
+    "id": "p611wwhqb",
+    "cn": "上学路阶梯",
+    "name": "登校路階段",
+    "image": "https://image.xinu.ink/pic/data/27/images/p611wwhqb-1729143512078.jpg",
+    "ep": 1,
+    "s": 28,
+    "geo": [
+      34.7604,
+      135.3293
+    ]
+  },
+  {
+    "id": "suxhqllx6",
+    "name": "阿虚上学路上经过的加油站",
+    "image": "https://image.xinu.ink/pic/data/27/images/suxhqllx6-1739558424158.jpg",
+    "ep": "EP1",
+    "s": 60,
+    "geo": [
+      34.7608,
+      135.3198
+    ]
+  },
+  {
+    "id": "suxyix3l7",
+    "name": "阿虚上学经过的银水桥",
+    "image": "https://image.xinu.ink/pic/data/27/images/suxyix3l7_1770632075156.jpg",
+    "ep": 13,
+    "s": 4,
+    "geo": [
+      34.7606,
+      135.3244
+    ]
+  },
+  {
+    "id": "uzazp9gs6",
+    "name": "マンション​古田​清​苑",
+    "image": "https://image.xinu.ink/pic/data/27/images/uzazp9gs6-1745543402205.jpg",
+    "ep": 9,
+    "s": 672,
+    "geo": [
+      34.7525,
+      135.3167
+    ]
+  },
+  {
+    "id": "9zpqze5",
+    "name": "マクドナルド\n西宮​アクタ​店",
+    "image": "https://image.xinu.ink/pic/data/27/images/9zpqze5_1768760972489.jpg",
+    "ep": 5,
+    "s": 1003,
+    "geo": [
+      34.7467,
+      135.3573
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "bt1lr5r",
+    "name": "フェリーくまの",
+    "image": "https://image.xinu.ink/pic/data/27/images/bt1lr5r_1772713436084.jpg",
+    "ep": 6,
+    "s": 256,
+    "geo": [
+      13.7538,
+      121.0426
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

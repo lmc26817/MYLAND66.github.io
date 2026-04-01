@@ -137,5 +137,83 @@
     ],
     "origin": "Anitabi@うに",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ch3efd3",
+    "name": "波浮港バス停前",
+    "image": "https://image.xinu.ink/pic/data/6202/images/ch3efd3-1774165390930.jpg",
+    "ep": 12,
+    "s": 1530,
+    "geo": [
+      34.6877,
+      139.4394
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ch33kft",
+    "name": "ショッピングセンター べにや",
+    "image": "https://image.xinu.ink/pic/data/6202/images/ch33kft-1774164881659.jpg",
+    "ep": 12,
+    "s": 1454,
+    "geo": [
+      34.7521,
+      139.3555
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ch2xq2k",
+    "name": "山頂口 第二休憩所 付近",
+    "image": "https://image.xinu.ink/pic/data/6202/images/ch2xq2k-1774164637848.jpg",
+    "ep": 10,
+    "s": 1289,
+    "geo": [
+      34.7374,
+      139.3802
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ch35vyk",
+    "name": "松泉堂 店前",
+    "image": "https://image.xinu.ink/pic/data/6202/images/ch35vyk-1774164986935.jpg",
+    "ep": 12,
+    "s": 1461,
+    "geo": [
+      34.6872,
+      139.4397
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ch2fyby",
+    "name": "三原山山頂口 展望広場",
+    "image": "https://image.xinu.ink/pic/data/6202/images/ch2fyby-1774163773065.jpg",
+    "ep": 10,
+    "s": 1013,
+    "geo": [
+      34.7386,
+      139.3812
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ch23x21",
+    "name": "一色研究所からの道",
+    "image": "https://image.xinu.ink/pic/data/6202/images/ch23x21-1774163228965.jpg",
+    "ep": 7,
+    "s": 971,
+    "geo": [
+      34.6865,
+      139.4423
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

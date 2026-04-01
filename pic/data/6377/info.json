@@ -1,0 +1,34 @@
+{
+  "id": 628184,
+  "cn": "【动画MV】人生不易部！「Dou-Da? DOING!」【生如百戏难！LOVELIVE! 青鸟】",
+  "title": "【アニメーションMV】いきづらい部！「Dou-Da? DOING!」【イキヅライブ！ LOVELIVE! BLUEBIRD】",
+  "cover": "https://image.xinu.ink/pic/data/6377/images/628184_VxsBc.jpg",
+  "cp": "プロジェクトイキヅライブ！",
+  "modified": 1774802579349,
+  "litePoints": [
+    {
+      "id": "crmhh2t",
+      "name": "小舟渡駅",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/628184/points/crmhh2t-1774802133889.jpg?plan=h160",
+      "geo": [
+        36.0755,
+        136.4336
+      ]
+    },
+    {
+      "id": "crmpgm3",
+      "cn": "越中岛公园",
+      "name": "越中島公園",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/628184/points/crmpgm3-1774802537355.jpg?plan=h160",
+      "geo": [
+        35.6709,
+        139.7886
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "【アニメーションMV】いきづらい部！「Dou-Da? DOING!」【イキヅライブ！ LOVELIVE! BLUEBIRD】",
+  "name_cn": "【动画MV】人生不易部！「Dou-Da? DOING!」【生如百戏难！LOVELIVE! 青鸟】",
+  "local_id": 6377
+}

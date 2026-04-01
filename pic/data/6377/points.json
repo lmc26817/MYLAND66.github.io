@@ -1,0 +1,28 @@
+[
+  {
+    "id": "crmhh2t",
+    "name": "小舟渡駅",
+    "image": "https://image.xinu.ink/pic/data/6377/images/crmhh2t-1774802133889.jpg",
+    "ep": "",
+    "s": "",
+    "geo": [
+      36.0755,
+      136.4336
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "crmpgm3",
+    "cn": "越中岛公园",
+    "name": "越中島公園",
+    "image": "https://image.xinu.ink/pic/data/6377/images/crmpgm3-1774802537355.jpg",
+    "ep": "",
+    "geo": [
+      35.6709,
+      139.7886
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  }
+]

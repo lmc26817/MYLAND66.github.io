@@ -1,0 +1,33 @@
+{
+  "id": 515869,
+  "cn": "剧场版 我心里危险的东西",
+  "title": "劇場版 僕の心のヤバイやつ",
+  "cover": "https://image.xinu.ink/pic/data/6358/images/515869_048JP.jpg",
+  "cp": "僕ヤバ",
+  "modified": 1769961330966,
+  "litePoints": [
+    {
+      "id": "ahp0zn1",
+      "name": "下北沢南口商店街",
+      "image": "https://image.anitabi.cn/user/2173/bangumi/515869/points/ahp0zn1-1769848224222.jpg?plan=h160",
+      "geo": [
+        35.6599,
+        139.6673
+      ]
+    },
+    {
+      "id": "ahp47rg",
+      "name": "下北沢駅東口前",
+      "image": "https://image.anitabi.cn/user/2173/bangumi/515869/points/ahp47rg-1769848308419.jpg?plan=h160",
+      "geo": [
+        35.6616,
+        139.6677
+      ]
+    }
+  ],
+  "pointsLength": 2,
+  "imagesLength": 2,
+  "name": "劇場版 僕の心のヤバイやつ",
+  "name_cn": "剧场版 我心里危险的东西",
+  "local_id": 6358
+}

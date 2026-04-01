@@ -1,0 +1,47 @@
+{
+  "id": 548818,
+  "cn": "金牌得主 第二季",
+  "title": "メダリスト 第2期",
+  "city": "名古屋市",
+  "cover": "https://image.xinu.ink/pic/data/6359/images/548818_iLSG6.jpg",
+  "color": "#00d0d4",
+  "cp": "メダリスト",
+  "modified": 1772162619256,
+  "litePoints": [
+    {
+      "id": "bjy4gks",
+      "name": "愛・地球博記念公園 アイススケート場",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/548818/points/bjy4gks-1772161568376.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.1749,
+        137.0888
+      ]
+    },
+    {
+      "id": "bjyx2ma",
+      "name": "愛・地球博記念公園 アイススケート場　ゲート",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/548818/points/bjyx2ma-1772162519382.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.174,
+        137.0889
+      ]
+    },
+    {
+      "id": "bjyz5xg",
+      "name": "愛・​地球​博​記念​公園​アイス​スケート場　場内",
+      "image": "https://image.anitabi.cn/user/1073/bangumi/548818/points/bjyz5xg-1772162568916.jpg?plan=h160",
+      "ep": 18,
+      "geo": [
+        35.1743,
+        137.0885
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 3,
+  "name": "メダリスト 第2期",
+  "name_cn": "金牌得主 第二季",
+  "local_id": 6359
+}

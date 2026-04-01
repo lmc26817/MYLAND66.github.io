@@ -44,5 +44,30 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1J_jpU0zlRRQcHe02eYsCOljh0iQ&ll=35.736289%2C139.599751&z=17"
+  },
+  {
+    "id": "12c3bb4e",
+    "cn": "the 100 stores",
+    "name": "2巻P068",
+    "image": "https://image.xinu.ink/pic/data/6261/images/12c3bb4e-1774404931682.jpg",
+    "ep": null,
+    "geo": [
+      35.743,
+      139.6052
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J_jpU0zlRRQcHe02eYsCOljh0iQ&ll=35.743077%2C139.60521&z=17"
+  },
+  {
+    "id": "84205cc0",
+    "name": "2巻P070",
+    "image": "https://image.xinu.ink/pic/data/6261/images/84205cc0-1774405064524.jpg",
+    "ep": null,
+    "geo": [
+      35.7433,
+      139.6059
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1J_jpU0zlRRQcHe02eYsCOljh0iQ&ll=35.743314%2C139.605913&z=17"
   }
 ]
