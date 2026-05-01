@@ -1207,5 +1207,61 @@
       35.7762,
       139.3499
     ]
+  },
+  {
+    "id": "dcxr9ms",
+    "cn": "タイムズ雑司ヶ谷第4",
+    "name": "タイムズ雑司ヶ谷第4",
+    "image": "https://image.xinu.ink/pic/data/1/images/dcxr9ms-1776090834034.jpg",
+    "ep": "19",
+    "s": "",
+    "geo": [
+      35.7208,
+      139.7163
+    ]
+  },
+  {
+    "id": "dcxuf4f",
+    "cn": "新屋酒店",
+    "name": "新屋酒店",
+    "image": "https://image.xinu.ink/pic/data/1/images/dcxuf4f-1776090987090.jpg",
+    "ep": "19",
+    "geo": [
+      35.7208,
+      139.7163
+    ]
+  },
+  {
+    "id": "dcxvpxs",
+    "cn": "はや川提灯店",
+    "name": "はや川提灯店",
+    "image": "https://image.xinu.ink/pic/data/1/images/dcxvpxs-1776091039771.jpg",
+    "ep": "19",
+    "geo": [
+      35.7207,
+      139.7163
+    ]
+  },
+  {
+    "id": "dgplhe8",
+    "cn": "タイムズ雑司が谷第４",
+    "name": "タイムズ雑司が谷第４",
+    "image": "https://image.xinu.ink/pic/data/1/images/dgplhe8-1776319032656.jpg",
+    "ep": "19",
+    "geo": [
+      35.7208,
+      139.7163
+    ]
+  },
+  {
+    "id": "dgppl7g",
+    "cn": "SPACEZⅡ",
+    "name": "SPACEZⅡ",
+    "image": "https://image.xinu.ink/pic/data/1/images/dgppl7g-1776319168466.jpg",
+    "ep": "19",
+    "geo": [
+      35.7209,
+      139.7163
+    ]
   }
 ]

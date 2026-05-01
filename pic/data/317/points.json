@@ -117,5 +117,38 @@
       34.6972,
       135.1806
     ]
+  },
+  {
+    "id": "dsnwzgw",
+    "cn": "代代木公园（变成植物的白线）",
+    "name": "植物になった白線",
+    "image": "https://image.xinu.ink/pic/data/317/images/dsnwzgw-1777041846935.jpg",
+    "ep": "第一季第2集",
+    "geo": [
+      35.6692,
+      139.7011
+    ]
+  },
+  {
+    "id": "dso5jr9",
+    "cn": "天桥下指示牌旁边",
+    "name": "代代木公园天桥下",
+    "image": "https://image.xinu.ink/pic/data/317/images/dso5jr9-1777042203442.jpg",
+    "ep": "第一季第2集",
+    "geo": [
+      35.6691,
+      139.7014
+    ]
+  },
+  {
+    "id": "dsoalli",
+    "cn": "代代木公园天桥下，指示牌旁边",
+    "name": "代代木公园天桥下",
+    "image": "https://image.xinu.ink/pic/data/317/images/dsoalli-1777042493852.jpg",
+    "ep": null,
+    "geo": [
+      35.6691,
+      139.7015
+    ]
   }
 ]

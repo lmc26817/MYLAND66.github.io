@@ -1238,5 +1238,336 @@
     ],
     "origin": "Anitabi@月即别",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cys1vjv",
+    "name": "鬼ノ城",
+    "image": "https://image.xinu.ink/pic/data/52/images/cys1vjv-1775234741697.jpg",
+    "ep": 408,
+    "geo": [
+      34.7257,
+      133.7621
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cysm4f8",
+    "name": "総社​吉備路​文化​館",
+    "image": "https://image.xinu.ink/pic/data/52/images/cysm4f8-1775235666291.jpg",
+    "ep": 408,
+    "geo": [
+      34.6689,
+      133.7872
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cysrsfx",
+    "cn": "冈山站",
+    "name": "岡山駅",
+    "image": "https://image.xinu.ink/pic/data/52/images/cysrsfx-1775235933560.jpg",
+    "ep": 408,
+    "geo": [
+      34.6661,
+      133.9182
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cysxzus",
+    "cn": "仓敷站北口",
+    "name": "倉敷駅北口",
+    "image": "https://image.xinu.ink/pic/data/52/images/cysxzus-1775236233078.jpg",
+    "ep": 408,
+    "geo": [
+      34.6028,
+      133.7646
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyszqtd",
+    "name": "倉敷みらい公園（倉敷チボリ公園跡地）",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyszqtd-1775236311108.jpg",
+    "ep": 408,
+    "geo": [
+      34.6025,
+      133.7629
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyt9ch6",
+    "name": "倉敷美観地区（大原美術館）",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyt9ch6-1775236739972.jpg",
+    "ep": 408,
+    "geo": [
+      34.5964,
+      133.7708
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cytfly1",
+    "cn": "仓敷考古馆（中桥）",
+    "name": "倉敷考古館（中橋）",
+    "image": "https://image.xinu.ink/pic/data/52/images/cytfly1-1775237086120.jpg",
+    "ep": 408,
+    "geo": [
+      34.5958,
+      133.7718
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cytq3r2",
+    "name": "橘香​堂 ​美観​地区​店",
+    "image": "https://image.xinu.ink/pic/data/52/images/cytq3r2-1775237541990.jpg",
+    "ep": 408,
+    "geo": [
+      34.5969,
+      133.7696
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyu7dqs",
+    "cn": "大桥家住宅",
+    "name": "大橋家住宅",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyu7dqs-1775238360654.jpg",
+    "ep": 408,
+    "geo": [
+      34.5968,
+      133.7684
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyucwy0",
+    "cn": "仓敷常春藤广场(Ivy Square)",
+    "name": "倉敷​アイビー​スクエア",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyucwy0-1775238587053.jpg",
+    "ep": 408,
+    "geo": [
+      34.5948,
+      133.7734
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyv0e5m",
+    "name": "倉敷美観地区 今橋",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyv0e5m-1775239705926.jpg",
+    "ep": 409,
+    "geo": [
+      34.5964,
+      133.7709
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyv7gds",
+    "cn": "蝙蝠冢古坟",
+    "name": "こうもり塚古墳",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyv7gds-1775240031475.jpg",
+    "ep": 409,
+    "geo": [
+      34.6675,
+      133.7866
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyv7p5r",
+    "name": "備中国分寺 五重塔",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyv7p5r-1775240140375.jpg",
+    "ep": 409,
+    "geo": [
+      34.666,
+      133.7813
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyvkti3",
+    "name": "吉備津神社入口",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyvkti3-1775240645564.jpg",
+    "ep": 409,
+    "geo": [
+      34.6713,
+      133.8508
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "cyvmffb",
+    "cn": "大原美术馆",
+    "name": "大原美術館",
+    "image": "https://image.xinu.ink/pic/data/52/images/cyvmffb-1775240727824.jpg",
+    "ep": 409,
+    "geo": [
+      34.5961,
+      133.7706
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2f0saa",
+    "name": "出雲空港",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2f0saa-1775454711307.jpg",
+    "ep": 453,
+    "geo": [
+      35.415,
+      132.8858
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2fctr0",
+    "name": "出雲大社 大鳥居",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2fctr0-1775455271582.jpg",
+    "ep": 453,
+    "geo": [
+      35.3913,
+      132.6873
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2ffgl1",
+    "name": "出雲大社参道",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2ffgl1-1775455395198.jpg",
+    "ep": 453,
+    "geo": [
+      35.4,
+      132.6857
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2fhvg2",
+    "name": "出雲大社 拝殿",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2fhvg2-1775455501341.jpg",
+    "ep": 453,
+    "geo": [
+      35.401,
+      132.6855
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2fsw6a",
+    "name": "古代​出雲​歴史​博物館",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2fsw6a-1775456005523.jpg",
+    "ep": 453,
+    "geo": [
+      35.3988,
+      132.6887
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2gnh5o",
+    "name": "猪目洞窟",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2gnh5o-1775457454161.jpg",
+    "ep": 453,
+    "geo": [
+      35.4419,
+      132.7083
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2grdlk",
+    "name": "稲佐の浜",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2grdlk-1775457618900.jpg",
+    "ep": 453,
+    "geo": [
+      35.4003,
+      132.6724
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2gsyam",
+    "name": "出雲警察署",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2gsyam-1775457683394.jpg",
+    "ep": 453,
+    "geo": [
+      35.3604,
+      132.7458
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2gw1uv",
+    "name": "出雲文化伝承館",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2gw1uv-1775457834557.jpg",
+    "ep": 453,
+    "geo": [
+      35.3819,
+      132.7144
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2gy1vx",
+    "name": "日の出館",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2gy1vx-1775457998662.jpg",
+    "ep": 453,
+    "geo": [
+      35.395,
+      132.6868
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2h127a",
+    "name": "旧JR大社駅",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2h127a-1775458075022.jpg",
+    "ep": 454,
+    "geo": [
+      35.3866,
+      132.6902
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "d2h39jq",
+    "name": "出雲日御碕灯台",
+    "image": "https://image.xinu.ink/pic/data/52/images/d2h39jq-1775458176131.jpg",
+    "ep": 454,
+    "geo": [
+      35.4336,
+      132.6292
+    ],
+    "origin": "Anitabi@月即别",
+    "originURL": "https://anitabi.cn/"
   }
 ]

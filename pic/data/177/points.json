@@ -116,5 +116,17 @@
       34.6775,
       135.2049
     ]
+  },
+  {
+    "id": "dwczzxr",
+    "cn": "札幌音乐厅Kitara",
+    "name": "コンサート​ホール​キタラ",
+    "image": "https://image.xinu.ink/pic/data/177/images/dwczzxr_1777265315915.jpg",
+    "geo": [
+      43.0442,
+      141.3526
+    ],
+    "origin": "Anitabi@Niamos!",
+    "originURL": "https://anitabi.cn/"
   }
 ]

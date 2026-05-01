@@ -1,0 +1,62 @@
+{
+  "id": 270739,
+  "cn": "舰队Collection 总有一天，在那片海",
+  "title": "「艦これ」いつかあの海で",
+  "cover": "https://image.xinu.ink/pic/data/6379/images/270739_55LdC.jpg",
+  "cp": "艦これ第二水雷戦隊",
+  "modified": 1777170117164,
+  "litePoints": [
+    {
+      "id": "ds6xh4z",
+      "cn": "弓张山展望台",
+      "name": "弓張岳展望台",
+      "image": "https://image.anitabi.cn/user/0/bangumi/270739/points/ds6xh4z-1777013234661.jpg?plan=h160",
+      "ep": 4,
+      "s": 1218,
+      "geo": [
+        33.1797,
+        129.7013
+      ]
+    },
+    {
+      "id": "ds60i4v",
+      "cn": "针尾送信所",
+      "name": "針尾送信所",
+      "image": "https://image.anitabi.cn/user/0/bangumi/270739/points/ds60i4v-1777012459812.jpg?plan=h160",
+      "ep": 4,
+      "geo": [
+        33.0666,
+        129.7515
+      ]
+    },
+    {
+      "id": "ds6nl4x",
+      "cn": "海上自卫队 佐世保史料馆",
+      "name": "海上自衛隊 佐世保史料館（旧佐世保水交社)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/270739/points/ds6nl4x-1777012859750.jpg?plan=h160",
+      "ep": 4,
+      "s": 1017,
+      "geo": [
+        33.1738,
+        129.7135
+      ]
+    },
+    {
+      "id": "ds6t0dn",
+      "cn": "佐世保市民文化大厅（旧佐世保镇守府凯旋纪念馆）",
+      "name": "旧佐世保鎮守府凱旋記念館（佐世保市民文化ホール）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/270739/points/ds6t0dn-1777013040570.jpg?plan=h160",
+      "ep": 4,
+      "s": 1020,
+      "geo": [
+        33.1737,
+        129.7147
+      ]
+    }
+  ],
+  "pointsLength": 4,
+  "imagesLength": 4,
+  "name": "「艦これ」いつかあの海で",
+  "name_cn": "舰队Collection 总有一天，在那片海",
+  "local_id": 6379
+}

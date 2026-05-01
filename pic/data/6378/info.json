@@ -1,0 +1,114 @@
+{
+  "id": 382,
+  "cn": "萤火虫之墓",
+  "title": "火垂るの墓",
+  "cover": "https://image.xinu.ink/pic/data/6378/images/382_MjyM2.jpg",
+  "modified": 1775750422297,
+  "litePoints": [
+    {
+      "id": "d6096g1",
+      "cn": "JR三宮站",
+      "name": "JR三宮站",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d6096g1-1775672448884.jpg?plan=h160",
+      "geo": [
+        34.6947,
+        135.1944
+      ]
+    },
+    {
+      "id": "d60spjy",
+      "cn": "神戶三宮（阪急）",
+      "name": "神戶三宮（阪急）",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d60spjy-1775672687849.jpg?plan=h160",
+      "geo": [
+        34.6946,
+        135.1939
+      ]
+    },
+    {
+      "id": "d60yuq1",
+      "cn": "石屋川公園",
+      "name": "石屋川公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d60yuq1-1775672964032.jpg?plan=h160",
+      "geo": [
+        34.7147,
+        135.2491
+      ]
+    },
+    {
+      "id": "d610zr2",
+      "cn": "神戸市立御影公会堂",
+      "name": "市立御影公会堂",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d610zr2-1775673067037.jpg?plan=h160",
+      "geo": [
+        34.716,
+        135.2493
+      ]
+    },
+    {
+      "id": "d612bez",
+      "cn": "神戸市立御影小学校",
+      "name": "御影小",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d612bez-1775673128800.jpg?plan=h160",
+      "geo": [
+        34.7147,
+        135.2514
+      ]
+    },
+    {
+      "id": "d613ztj",
+      "cn": "兵庫県立御影高等学校",
+      "name": "御影高",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d613ztj-1775673205170.jpg?plan=h160",
+      "geo": [
+        34.7168,
+        135.2505
+      ]
+    },
+    {
+      "id": "d6178x1",
+      "cn": "Kohorogi Bridge",
+      "name": "こほろぎばし",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d6178x1-1775673358036.jpg?plan=h160",
+      "geo": [
+        34.7434,
+        135.3289
+      ]
+    },
+    {
+      "id": "d61944f",
+      "cn": "夙川",
+      "name": "夙川",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d61944f-1775673455403.jpg?plan=h160",
+      "geo": [
+        34.7423,
+        135.3278
+      ]
+    },
+    {
+      "id": "d61dgsc",
+      "cn": "ロイヤルハイム夙川(附近)",
+      "name": "ロイヤルハイム夙川(附近)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d61dgsc-1775673708006.jpg?plan=h160",
+      "geo": [
+        34.7469,
+        135.3333
+      ]
+    },
+    {
+      "id": "d61iuma",
+      "cn": "オレンジ司法書士事務所(附近)",
+      "name": "オレンジ司法書士事務所(附近)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/382/points/d61iuma-1775673883208.jpg?plan=h160",
+      "geo": [
+        34.747,
+        135.3338
+      ]
+    }
+  ],
+  "pointsLength": 17,
+  "imagesLength": 17,
+  "name": "火垂るの墓",
+  "name_cn": "萤火虫之墓",
+  "local_id": 6378
+}

@@ -606,5 +606,128 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.889291%2C135.807678&z=17"
+  },
+  {
+    "id": "fb80b5ed",
+    "name": "Bhagavan",
+    "image": "https://image.xinu.ink/pic/data/6341/images/fb80b5ed_1776603289112.jpg",
+    "geo": [
+      35.0226,
+      135.6744
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=35.022696%2C135.674476&z=17"
+  },
+  {
+    "id": "309eb074",
+    "name": "京都駅中央口",
+    "image": "https://image.xinu.ink/pic/data/6341/images/309eb074_1776603314879.jpg",
+    "geo": [
+      34.9862,
+      135.7589
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.986214%2C135.758901&z=17"
+  },
+  {
+    "id": "27a73fc1",
+    "name": "暁の広場",
+    "image": "https://image.xinu.ink/pic/data/6341/images/27a73fc1_1776603182712.jpg",
+    "geo": [
+      34.7029,
+      135.4954
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.702971%2C135.495453&z=17"
+  },
+  {
+    "id": "bb575e85",
+    "name": "グラングリーン大阪",
+    "image": "https://image.xinu.ink/pic/data/6341/images/bb575e85-1776584294326.jpg",
+    "ep": null,
+    "s": "1:07:50",
+    "geo": [
+      34.7024,
+      135.4913
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.702458%2C135.491396&z=17"
+  },
+  {
+    "id": "83f27341",
+    "name": "たこ家道頓堀くくる宗右衛門町店",
+    "image": "https://image.xinu.ink/pic/data/6341/images/83f27341_1776603212037.jpg",
+    "geo": [
+      34.6692,
+      135.5031
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.669209%2C135.503126&z=17"
+  },
+  {
+    "id": "a6d6abb8",
+    "name": "梅田歩道橋",
+    "image": "https://image.xinu.ink/pic/data/6341/images/a6d6abb8_1776604415263.jpg",
+    "geo": [
+      34.7022,
+      135.4982
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.702262%2C135.498245&z=17"
+  },
+  {
+    "id": "0780d1a2",
+    "name": "土佐堀川遊歩道",
+    "image": "https://image.xinu.ink/pic/data/6341/images/0780d1a2_1776604449724.jpg",
+    "geo": [
+      34.6928,
+      135.5042
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.692829%2C135.504291&z=17"
+  },
+  {
+    "id": "e75bdfd5",
+    "name": "中之島バラ園",
+    "image": "https://image.xinu.ink/pic/data/6341/images/e75bdfd5_1776604563188.jpg",
+    "geo": [
+      34.6923,
+      135.5078
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.692393%2C135.507887&z=17"
+  },
+  {
+    "id": "f4db79b3",
+    "name": "てんしばゲート（天王寺動物園）",
+    "image": "https://image.xinu.ink/pic/data/6341/images/f4db79b3_1776603142120.jpg",
+    "geo": [
+      34.6488,
+      135.5097
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.648852%2C135.509763&z=17"
+  },
+  {
+    "id": "4ac0aeb4",
+    "name": "難波橋",
+    "image": "https://image.xinu.ink/pic/data/6341/images/4ac0aeb4_1776604475247.jpg",
+    "geo": [
+      34.6925,
+      135.5068
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.69254%2C135.506878&z=17"
+  },
+  {
+    "id": "6ca2f417",
+    "name": "高浜岸壁",
+    "image": "https://image.xinu.ink/pic/data/6341/images/6ca2f417_1776603034292.jpg",
+    "geo": [
+      34.6806,
+      135.1849
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tCqJ_fvsc2mwfOHms7QeEkKWFG-KvD4&ll=34.680601%2C135.184925&z=17"
   }
 ]

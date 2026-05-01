@@ -752,5 +752,16 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1-xhK9xXBighgJMVK-M8OxkKh5i4&ll=36.086017%2C137.250765&z=17"
+  },
+  {
+    "id": "cwuduh0",
+    "cn": "岐阜县高山水位观测站",
+    "name": "岐阜県高山水位観測所",
+    "image": "https://image.xinu.ink/pic/data/230/images/cwuduh0-1775118071002.jpg",
+    "ep": "OP",
+    "geo": [
+      36.1453,
+      137.2578
+    ]
   }
 ]

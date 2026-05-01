@@ -92,5 +92,40 @@
       48.803,
       44.6216
     ]
+  },
+  {
+    "id": "dsgvxvo",
+    "cn": "诺曼底",
+    "name": "Normandy",
+    "image": "https://image.xinu.ink/pic/data/319/images/dsgvxvo-1777030039266.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      49.2427,
+      -0.8727
+    ]
+  },
+  {
+    "id": "dtr35ib",
+    "cn": "拉多加湖",
+    "name": "Ладожское озеро",
+    "image": "https://image.xinu.ink/pic/data/319/images/dtr35ib-1777107539985.jpg",
+    "ep": null,
+    "s": "",
+    "geo": [
+      59.8916,
+      31.2662
+    ]
+  },
+  {
+    "id": "dy0tw5d",
+    "cn": "科隆",
+    "name": "Cologne",
+    "image": "https://image.xinu.ink/pic/data/319/images/dy0tw5d-1777365769290.jpg",
+    "ep": null,
+    "geo": [
+      50.9362,
+      6.9631
+    ]
   }
 ]

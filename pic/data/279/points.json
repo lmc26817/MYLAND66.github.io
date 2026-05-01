@@ -483,5 +483,17 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1yjZUbvfXNwpnwYgoHbPpiWJnbRM&ll=35.698893%2C139.76488&z=17"
+  },
+  {
+    "id": "d57lrnk",
+    "name": "昌平橋東橋詰広場",
+    "image": "https://image.xinu.ink/pic/data/279/images/d57lrnk-1775623656876.jpg",
+    "ep": "错觉CROSSROADS 单曲封面",
+    "geo": [
+      35.6984,
+      139.7691
+    ],
+    "origin": "Anitabi@うに",
+    "originURL": "https://anitabi.cn/"
   }
 ]

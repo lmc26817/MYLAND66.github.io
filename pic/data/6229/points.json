@@ -245,5 +245,70 @@
     ],
     "origin": "Anitabi@calmコム",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "duzl6dh",
+    "cn": "砂川服务区（上行）",
+    "name": "砂川サービスエリア (上り)",
+    "image": "https://image.xinu.ink/pic/data/6229/images/duzl6dh-1777182467913.jpg",
+    "ep": "小咏线",
+    "s": "Chapter11",
+    "geo": [
+      43.5291,
+      141.9295
+    ]
+  },
+  {
+    "id": "dkswd6a",
+    "cn": "風雪の塔",
+    "name": "風雪の塔",
+    "image": "https://image.xinu.ink/pic/data/6229/images/dkswd6a-1776566446158.jpg",
+    "ep": null,
+    "geo": [
+      45.3314,
+      142.1752
+    ]
+  },
+  {
+    "id": "dm5fsj3",
+    "name": "セイコー​マート​むら​い​苫前​店",
+    "image": "https://image.xinu.ink/pic/data/6229/images/dm5fsj3-1776647931349.jpg",
+    "ep": null,
+    "geo": [
+      44.3072,
+      141.6541
+    ]
+  },
+  {
+    "id": "dw7wfau",
+    "cn": "冈山站前广场",
+    "name": "桃太郎像",
+    "image": "https://image.xinu.ink/pic/data/6229/images/dw7wfau-1777256775188.jpg",
+    "ep": null,
+    "geo": [
+      34.6657,
+      133.9186
+    ]
+  },
+  {
+    "id": "dw8207f",
+    "cn": "风雪之塔",
+    "name": "風雪の塔",
+    "image": "https://image.xinu.ink/pic/data/6229/images/dw8207f-1777257352004.jpg",
+    "ep": null,
+    "geo": [
+      45.3314,
+      142.1753
+    ]
+  },
+  {
+    "id": "dw8hbvu",
+    "name": "オトンルイ風力発電所",
+    "image": "https://image.xinu.ink/pic/data/6229/images/dw8hbvu-1777257904316.jpg",
+    "ep": null,
+    "geo": [
+      44.9565,
+      141.7063
+    ]
   }
 ]
