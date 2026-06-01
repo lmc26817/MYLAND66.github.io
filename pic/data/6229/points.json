@@ -310,5 +310,65 @@
       44.9565,
       141.7063
     ]
+  },
+  {
+    "id": "dymy0us",
+    "name": "栄浜",
+    "image": "https://image.xinu.ink/pic/data/6229/images/dymy0us-1777403023820.jpg",
+    "ep": null,
+    "geo": [
+      44.3126,
+      141.6678
+    ],
+    "origin": "ltype",
+    "originLink": "https://x.com/310kattun/status/2049073623382765753?s=20"
+  },
+  {
+    "id": "e891wdq",
+    "name": "砂川SA（下行）",
+    "image": "https://image.xinu.ink/pic/data/6229/images/e891wdq-1777984258865.jpg",
+    "ep": null,
+    "geo": [
+      43.5284,
+      141.9279
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "eh2oy6v",
+    "name": "小林牧場",
+    "image": "https://image.xinu.ink/pic/data/6229/images/eh2oy6v-1778517791594.jpg",
+    "ep": null,
+    "geo": [
+      44.3049,
+      141.674
+    ],
+    "origin": "Anitabi@suichan1oshi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ez1mr3g",
+    "name": "去真澄町的路",
+    "image": "https://image.xinu.ink/pic/data/6229/images/ez1mr3g-1779604399655.jpg",
+    "ep": "",
+    "geo": [
+      44.3006,
+      141.6752
+    ],
+    "origin": "Anitabi@Sora",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ez1whl4",
+    "name": "とままえ夕陽ケ丘ホワイトビーチ",
+    "image": "https://image.xinu.ink/pic/data/6229/images/ez1whl4-1779604905732.jpg",
+    "ep": "",
+    "geo": [
+      44.3155,
+      141.6617
+    ],
+    "origin": "Anitabi@Sora",
+    "originURL": "https://anitabi.cn/"
   }
 ]

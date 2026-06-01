@@ -83,5 +83,17 @@
       35.6498,
       139.7053
     ]
+  },
+  {
+    "id": "f90wrht",
+    "name": "大阪芸術大学クラブハウス",
+    "image": "https://image.xinu.ink/pic/data/216/images/f90wrht-1780207826818.jpg",
+    "ep": null,
+    "geo": [
+      34.5121,
+      135.6317
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ewwkujt",
+    "name": "伊根町​観光​案内​所",
+    "image": "https://image.xinu.ink/pic/data/6404/images/ewwkujt_1779474952770.jpg",
+    "geo": [
+      35.6756,
+      135.2875
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ewwlgwv",
+    "cn": "灯塔",
+    "name": "",
+    "image": "https://image.xinu.ink/pic/data/6404/images/ewwlgwv_1779474987021.jpg",
+    "geo": [
+      35.6654,
+      135.2873
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ewx1plm",
+    "name": "日出駅 伊根湾めぐり遊覧船",
+    "image": "https://image.xinu.ink/pic/data/6404/images/ewx1plm_1779475792143.jpg",
+    "geo": [
+      35.6705,
+      135.2773
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "ewxb4fb",
+    "name": "伊根站",
+    "image": "https://image.xinu.ink/pic/data/6404/images/ewxb4fb_1779476817868.jpg",
+    "geo": [
+      35.6761,
+      135.2873
+    ],
+    "origin": "Anitabi@concert",
+    "originURL": "https://anitabi.cn/"
+  }
+]

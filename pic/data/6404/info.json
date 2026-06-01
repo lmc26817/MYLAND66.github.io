@@ -1,0 +1,52 @@
+{
+  "id": 418367,
+  "cn": "海滨的鲨鱼女仆",
+  "title": "渚のサーメイド",
+  "city": "京丹后市",
+  "cover": "https://image.xinu.ink/pic/data/6404/images/418367_20q9t.jpg",
+  "modified": 1779476822443,
+  "litePoints": [
+    {
+      "id": "ewwkujt",
+      "name": "伊根町​観光​案内​所",
+      "image": "https://image.anitabi.cn/points/418367/ewwkujt_1779474952770.jpg?plan=h160",
+      "geo": [
+        35.6756,
+        135.2875
+      ]
+    },
+    {
+      "id": "ewwlgwv",
+      "cn": "灯塔",
+      "name": "",
+      "image": "https://image.anitabi.cn/points/418367/ewwlgwv_1779474987021.jpg?plan=h160",
+      "geo": [
+        35.6654,
+        135.2873
+      ]
+    },
+    {
+      "id": "ewx1plm",
+      "name": "日出駅 伊根湾めぐり遊覧船",
+      "image": "https://image.anitabi.cn/points/418367/ewx1plm_1779475792143.jpg?plan=h160",
+      "geo": [
+        35.6705,
+        135.2773
+      ]
+    },
+    {
+      "id": "ewxb4fb",
+      "name": "伊根站",
+      "image": "https://image.anitabi.cn/points/418367/ewxb4fb_1779476817868.jpg?plan=h160",
+      "geo": [
+        35.6761,
+        135.2873
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "渚のサーメイド",
+  "name_cn": "海滨的鲨鱼女仆",
+  "local_id": 6404
+}

@@ -763,5 +763,19 @@
       36.1453,
       137.2578
     ]
+  },
+  {
+    "id": "e5ab45x",
+    "cn": "緞治橋交叉點",
+    "name": "緞治橋交叉點",
+    "image": "https://image.xinu.ink/pic/data/230/images/e5ab45x-1777804987014.jpg",
+    "ep": "18",
+    "s": "23:31",
+    "geo": [
+      36.143,
+      137.2576
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

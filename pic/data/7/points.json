@@ -520,5 +520,19 @@
       32.1648,
       130.7892
     ]
+  },
+  {
+    "id": "e6tzr1o",
+    "cn": "松谷梯田观景台",
+    "name": "松谷梯田観景台",
+    "image": "https://image.xinu.ink/pic/data/7/images/e6tzr1o-1777898822092.jpg",
+    "ep": 7,
+    "s": 201,
+    "geo": [
+      32.2288,
+      130.6651
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f83oa22",
+    "name": "鉄道​博物館​(本館)",
+    "image": "https://image.xinu.ink/pic/data/6399/images/f83oa22-1780153762031.jpg",
+    "ep": "1",
+    "s": "811",
+    "geo": [
+      35.9208,
+      139.6181
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f85cwht",
+    "name": "黒松本舗 草月",
+    "image": "https://image.xinu.ink/pic/data/6399/images/f85cwht-1780154845500.jpg",
+    "ep": 66,
+    "s": 615,
+    "geo": [
+      35.7633,
+      139.7291
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f85n3mt",
+    "name": "地蔵坂の子育て地蔵尊",
+    "image": "https://image.xinu.ink/pic/data/6399/images/f85n3mt-1780155587059.jpg",
+    "ep": 66,
+    "s": 720,
+    "geo": [
+      35.7625,
+      139.7273
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f85wvs1",
+    "name": "秋田駅東口",
+    "image": "https://image.xinu.ink/pic/data/6399/images/f85wvs1-1780155952585.jpg",
+    "ep": 3,
+    "s": 764,
+    "geo": [
+      39.7167,
+      140.131
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f867sk7",
+    "name": "北とぴあ",
+    "image": "https://image.xinu.ink/pic/data/6399/images/f867sk7-1780156345680.jpg",
+    "ep": 48,
+    "s": 600,
+    "geo": [
+      35.7549,
+      139.7365
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  }
+]

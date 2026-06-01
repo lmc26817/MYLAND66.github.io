@@ -1,0 +1,25 @@
+{
+  "id": 4829,
+  "cn": "萝莉的时间 OAD",
+  "title": "こどものじかん OAD",
+  "cover": "https://image.xinu.ink/pic/data/6392/images/4829_f57s9ld.jpg",
+  "color": "#bf8040",
+  "modified": 1780018276822,
+  "litePoints": [
+    {
+      "id": "f56mr8x",
+      "name": "関町北４丁目",
+      "image": "https://image.anitabi.cn/user/0/bangumi/4829/points/f56mr8x-1779975583498.jpg?plan=h160",
+      "s": 1152,
+      "geo": [
+        35.728,
+        139.5735
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "こどものじかん OAD",
+  "name_cn": "萝莉的时间 OAD",
+  "local_id": 6392
+}

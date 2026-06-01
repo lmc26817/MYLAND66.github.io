@@ -1,0 +1,107 @@
+{
+  "id": 551918,
+  "cn": "JOJO的奇妙冒险 飙马野郎",
+  "title": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+  "city": "北美洲",
+  "cover": "https://image.xinu.ink/pic/data/6409/images/551918_xZf5d.jpg",
+  "color": "#a7d7d8",
+  "cp": "ジョジョの奇妙な冒険SBR",
+  "modified": 1779892564549,
+  "litePoints": [
+    {
+      "id": "304cc676",
+      "name": "Pacific Beach",
+      "image": "https://image.anitabi.cn/points/551918/304cc676_1777820327537.jpg?plan=h160",
+      "geo": [
+        32.7956,
+        -117.2577
+      ]
+    },
+    {
+      "id": "207cd7c0",
+      "name": "Hotel del Coronado",
+      "image": "https://image.anitabi.cn/points/551918/207cd7c0_1777820332504.jpg?plan=h160",
+      "geo": [
+        32.6805,
+        -117.1783
+      ]
+    },
+    {
+      "id": "773e27db",
+      "name": "San Xavier del Bac Mission",
+      "image": "https://image.anitabi.cn/points/551918/773e27db_1777820336181.jpg?plan=h160",
+      "geo": [
+        32.1072,
+        -111.008
+      ]
+    },
+    {
+      "id": "648940f9",
+      "name": "Sonoran Desert",
+      "image": "https://image.anitabi.cn/points/551918/648940f9_1777820338894.jpg?plan=h160",
+      "geo": [
+        32.9167,
+        -112.6674
+      ]
+    },
+    {
+      "id": "302965d7",
+      "name": "U.S. Route 8",
+      "image": "https://image.anitabi.cn/points/551918/302965d7_1777820341460.jpg?plan=h160",
+      "geo": [
+        32.7091,
+        -114.945
+      ]
+    },
+    {
+      "id": "a01333ba",
+      "name": "First Mesa",
+      "image": "https://image.anitabi.cn/points/551918/a01333ba_1777820347501.jpg?plan=h160",
+      "geo": [
+        35.8366,
+        -110.3816
+      ]
+    },
+    {
+      "id": "76d8d6c3",
+      "name": "Flagstaff",
+      "image": "https://image.anitabi.cn/points/551918/76d8d6c3_1777820393773.jpg?plan=h160",
+      "geo": [
+        35.1982,
+        -111.6514
+      ]
+    },
+    {
+      "id": "cbd4ac60",
+      "name": "Spider Rock",
+      "image": "https://image.anitabi.cn/points/551918/cbd4ac60_1777820402506.jpg?plan=h160",
+      "geo": [
+        36.1083,
+        -109.3507
+      ]
+    },
+    {
+      "id": "21b49c64",
+      "name": "Monument Vally",
+      "image": "https://image.anitabi.cn/points/551918/21b49c64_1777820429001.jpg?plan=h160",
+      "geo": [
+        36.9385,
+        -110.0917
+      ]
+    },
+    {
+      "id": "530cc64a",
+      "name": "West Mitten Butte",
+      "image": "https://image.anitabi.cn/points/551918/530cc64a_1777820440212.jpg?plan=h160",
+      "geo": [
+        36.9904,
+        -110.0956
+      ]
+    }
+  ],
+  "pointsLength": 58,
+  "imagesLength": 57,
+  "name": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+  "name_cn": "JOJO的奇妙冒险 飙马野郎",
+  "local_id": 6409
+}

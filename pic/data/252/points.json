@@ -229,5 +229,31 @@
       35.6977,
       139.8136
     ]
+  },
+  {
+    "id": "4uiqctfz9",
+    "name": "県立千葉商業高校前",
+    "image": "https://image.xinu.ink/pic/data/252/images/4uiqctfz9-1778690695161.jpg",
+    "ep": 8,
+    "s": 255,
+    "geo": [
+      35.6204,
+      140.1096
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "4uiqctfoq",
+    "name": "出前専門そば処一蕎",
+    "image": "https://image.xinu.ink/pic/data/252/images/4uiqctfoq-1778688722355.jpg",
+    "ep": 8,
+    "s": 480,
+    "geo": [
+      35.6158,
+      140.1175
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

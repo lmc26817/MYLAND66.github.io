@@ -105,5 +105,18 @@
       39.9071,
       116.4756
     ]
+  },
+  {
+    "id": "egugn9p",
+    "name": "北京动物园 正门",
+    "image": "https://image.xinu.ink/pic/data/6280/images/egugn9p-1778503961609.jpg",
+    "ep": "8",
+    "s": "02:18",
+    "geo": [
+      39.9374,
+      116.3334
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

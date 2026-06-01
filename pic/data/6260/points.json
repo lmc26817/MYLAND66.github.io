@@ -11,5 +11,33 @@
     ],
     "origin": "Anitabi@大吉山展望台",
     "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9g89k4",
+    "cn": "涩谷站",
+    "name": "渋谷駅前",
+    "image": "https://image.xinu.ink/pic/data/6260/images/f9g89k4-1780233564238.jpg",
+    "ep": "EP.26",
+    "s": "37:46",
+    "geo": [
+      35.6594,
+      139.7004
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f9gevp7",
+    "cn": "惠比寿站",
+    "name": "恵比寿",
+    "image": "https://image.xinu.ink/pic/data/6260/images/f9gevp7-1780233894279.jpg",
+    "ep": "EP.26",
+    "s": "30:03",
+    "geo": [
+      35.6466,
+      139.7101
+    ],
+    "origin": "Anitabi",
+    "originURL": "https://anitabi.cn/"
   }
 ]

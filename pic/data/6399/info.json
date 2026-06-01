@@ -1,0 +1,70 @@
+{
+  "id": 227240,
+  "cn": "新干线变形机器人",
+  "title": "新幹線変形ロボ シンカリオン",
+  "cover": "https://image.xinu.ink/pic/data/6399/images/227240_6ee3O.jpg",
+  "cp": "TBS",
+  "modified": 1780238968391,
+  "litePoints": [
+    {
+      "id": "f83oa22",
+      "name": "鉄道​博物館​(本館)",
+      "image": "https://image.anitabi.cn/user/0/bangumi/227240/points/f83oa22-1780153762031.jpg?plan=h160",
+      "ep": 1,
+      "s": 811,
+      "geo": [
+        35.9208,
+        139.6181
+      ]
+    },
+    {
+      "id": "f85cwht",
+      "name": "黒松本舗 草月",
+      "image": "https://image.anitabi.cn/user/0/bangumi/227240/points/f85cwht-1780154845500.jpg?plan=h160",
+      "ep": 66,
+      "s": 615,
+      "geo": [
+        35.7633,
+        139.7291
+      ]
+    },
+    {
+      "id": "f85n3mt",
+      "name": "地蔵坂の子育て地蔵尊",
+      "image": "https://image.anitabi.cn/user/0/bangumi/227240/points/f85n3mt-1780155587059.jpg?plan=h160",
+      "ep": 66,
+      "s": 720,
+      "geo": [
+        35.7625,
+        139.7273
+      ]
+    },
+    {
+      "id": "f85wvs1",
+      "name": "秋田駅東口",
+      "image": "https://image.anitabi.cn/user/0/bangumi/227240/points/f85wvs1-1780155952585.jpg?plan=h160",
+      "ep": 3,
+      "s": 764,
+      "geo": [
+        39.7167,
+        140.131
+      ]
+    },
+    {
+      "id": "f867sk7",
+      "name": "北とぴあ",
+      "image": "https://image.anitabi.cn/user/0/bangumi/227240/points/f867sk7-1780156345680.jpg?plan=h160",
+      "ep": 48,
+      "s": 600,
+      "geo": [
+        35.7549,
+        139.7365
+      ]
+    }
+  ],
+  "pointsLength": 5,
+  "imagesLength": 5,
+  "name": "新幹線変形ロボ シンカリオン",
+  "name_cn": "新干线变形机器人",
+  "local_id": 6399
+}

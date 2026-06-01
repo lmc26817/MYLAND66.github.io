@@ -1,0 +1,47 @@
+[
+  {
+    "id": "f0xyz6y",
+    "cn": "滨之宫站",
+    "name": "浜の宮駅",
+    "image": "https://image.xinu.ink/pic/data/6403/images/f0xyz6y-1779719246598.jpg",
+    "ep": "10集　流转的思绪",
+    "s": "11:56",
+    "geo": [
+      34.7409,
+      134.8337
+    ],
+    "origin": "Anitabi",
+    "originLink": "https://www.kobe-np.co.jp/news/sougou/202212/0015914309.shtml",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f289y28",
+    "cn": "滨之宫公园",
+    "name": "浜の宮公園",
+    "image": "https://image.xinu.ink/pic/data/6403/images/f289y28-1779796942634.jpg",
+    "ep": "10集　流传的想法",
+    "s": "11:59",
+    "geo": [
+      34.7354,
+      134.8347
+    ],
+    "origin": "Anitabi",
+    "originLink": "https://www.kobe-np.co.jp/news/sougou/202212/0015914309.shtml",
+    "originURL": "https://anitabi.cn/"
+  },
+  {
+    "id": "f28j897",
+    "cn": "加古川市立滨之宫小学",
+    "name": "加古川市立浜の宮小学校",
+    "image": "https://image.xinu.ink/pic/data/6403/images/f28j897-1779797430559.jpg",
+    "ep": "10集　流传的想法",
+    "s": "12:03",
+    "geo": [
+      34.7371,
+      134.8345
+    ],
+    "origin": "Anitabi",
+    "originLink": "https://www.kobe-np.co.jp/news/sougou/202212/0015914309.shtml",
+    "originURL": "https://anitabi.cn/"
+  }
+]

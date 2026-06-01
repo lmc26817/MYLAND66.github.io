@@ -1,0 +1,24 @@
+{
+  "id": 975,
+  "cn": "航海王",
+  "title": "ONE PIECE",
+  "cover": "https://image.xinu.ink/pic/data/6388/images/975_YKuWd.jpg",
+  "modified": 1777644178431,
+  "litePoints": [
+    {
+      "id": "e25cwjs",
+      "name": "东塔",
+      "image": "https://image.anitabi.cn/user/0/bangumi/975/points/e25cwjs-1777615247994.jpg?plan=h160",
+      "ep": 518,
+      "geo": [
+        28.0303,
+        120.6445
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "ONE PIECE",
+  "name_cn": "航海王",
+  "local_id": 6388
+}

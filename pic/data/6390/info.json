@@ -1,0 +1,66 @@
+{
+  "id": 3631,
+  "cn": "东之伊甸 剧场版I The King of Eden",
+  "title": "東のエデン 劇場版I The King of Eden",
+  "cover": "https://image.xinu.ink/pic/data/6390/images/3631_ek0pS.jpg",
+  "modified": 1778301331360,
+  "litePoints": [
+    {
+      "id": "ed9bseo",
+      "cn": "大中央车站",
+      "name": "Grand Central Terminal",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3631/points/ed9bseo-1778287243548.jpg?plan=h160",
+      "s": 158,
+      "geo": [
+        40.7523,
+        -73.9783
+      ]
+    },
+    {
+      "id": "ed9pssr",
+      "cn": "布鲁克林大桥公园",
+      "name": "Brooklyn Bridge Park",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3631/points/ed9pssr-1778287725141.jpg?plan=h160",
+      "s": 1580,
+      "geo": [
+        40.7034,
+        -73.9953
+      ]
+    },
+    {
+      "id": "ed9xzgn",
+      "name": "No.1 Front Street",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3631/points/ed9xzgn-1778288121352.jpg?plan=h160",
+      "geo": [
+        40.7025,
+        -73.9933
+      ]
+    },
+    {
+      "id": "eda8lpq",
+      "cn": "喜来登酒店 (纽约时代广场)",
+      "name": "Sheraton New York Times Square Hotel",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3631/points/eda8lpq-1778288601070.jpg?plan=h160",
+      "s": 1108,
+      "geo": [
+        40.7623,
+        -73.9815
+      ]
+    },
+    {
+      "id": "eda2ei7",
+      "name": "Jane's Carousel",
+      "image": "https://image.anitabi.cn/user/0/bangumi/3631/points/eda2ei7-1778288307856.jpg?plan=h160",
+      "s": 3946,
+      "geo": [
+        40.7044,
+        -73.9924
+      ]
+    }
+  ],
+  "pointsLength": 7,
+  "imagesLength": 7,
+  "name": "東のエデン 劇場版I The King of Eden",
+  "name_cn": "东之伊甸 剧场版I The King of Eden",
+  "local_id": 6390
+}

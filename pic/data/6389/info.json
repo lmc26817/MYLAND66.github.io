@@ -1,0 +1,24 @@
+{
+  "id": 2667,
+  "cn": "机动战士Z高达",
+  "title": "機動戦士Ζガンダム",
+  "cover": "https://image.xinu.ink/pic/data/6389/images/9622_2P229.jpg",
+  "modified": 1779623200321,
+  "litePoints": [
+    {
+      "id": "ev6me4j",
+      "cn": "乞力马扎罗基地",
+      "name": "乞力马扎罗山",
+      "image": "https://image.anitabi.cn/user/0/bangumi/2667/points/ev6me4j-1779370937607.jpg?plan=h160",
+      "geo": [
+        -3.059,
+        37.3563
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "機動戦士Ζガンダム",
+  "name_cn": "机动战士Z高达",
+  "local_id": 6389
+}

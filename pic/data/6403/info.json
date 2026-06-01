@@ -1,0 +1,45 @@
+{
+  "id": 349441,
+  "cn": "机动战士高达 水星的魔女",
+  "title": "機動戦士ガンダム 水星の魔女",
+  "cover": "https://image.xinu.ink/pic/data/6403/images/349441.jpg",
+  "cp": "MBS",
+  "modified": 1779805566664,
+  "litePoints": [
+    {
+      "id": "f0xyz6y",
+      "cn": "滨之宫站",
+      "name": "浜の宮駅",
+      "image": "https://image.anitabi.cn/user/0/bangumi/349441/points/f0xyz6y-1779719246598.jpg?plan=h160",
+      "geo": [
+        34.7409,
+        134.8337
+      ]
+    },
+    {
+      "id": "f289y28",
+      "cn": "滨之宫公园",
+      "name": "浜の宮公園",
+      "image": "https://image.anitabi.cn/user/0/bangumi/349441/points/f289y28-1779796942634.jpg?plan=h160",
+      "geo": [
+        34.7354,
+        134.8347
+      ]
+    },
+    {
+      "id": "f28j897",
+      "cn": "加古川市立滨之宫小学",
+      "name": "加古川市立浜の宮小学校",
+      "image": "https://image.anitabi.cn/user/0/bangumi/349441/points/f28j897-1779797430559.jpg?plan=h160",
+      "geo": [
+        34.7371,
+        134.8345
+      ]
+    }
+  ],
+  "pointsLength": 3,
+  "imagesLength": 3,
+  "name": "機動戦士ガンダム 水星の魔女",
+  "name_cn": "机动战士高达 水星的魔女",
+  "local_id": 6403
+}

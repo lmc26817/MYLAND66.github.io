@@ -120,5 +120,18 @@
     ],
     "origin": "Google Maps",
     "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.539784%2C130.96007&z=17"
+  },
+  {
+    "id": "d4w21un77",
+    "name": "中央種子島高校：中庭（ロボ部部室前）",
+    "image": "https://image.xinu.ink/pic/data/248/images/d4w21un77-1779878872012.jpg",
+    "ep": "1",
+    "s": "3:48",
+    "geo": [
+      30.5414,
+      130.961
+    ],
+    "origin": "Google Maps",
+    "originURL": "https://www.google.com/maps/d/viewer?mid=1tiOp1zfOAc3gI-YbLWnIKlVCw_I&ll=30.541482%2C130.961086&z=17"
   }
 ]

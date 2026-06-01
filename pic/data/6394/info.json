@@ -1,0 +1,33 @@
+{
+  "id": 23686,
+  "cn": "刀剑神域",
+  "title": "ソードアート・オンライン",
+  "city": "东京都",
+  "cover": "https://image.xinu.ink/pic/data/6394/images/23686.jpg",
+  "color": "#2a6a80",
+  "geo": [
+    35.58752496624119,
+    139.68865760288372
+  ],
+  "zoom": 9.777,
+  "modified": 1779734614571,
+  "litePoints": [
+    {
+      "id": "ez7q2qv",
+      "cn": "ミュージェン/Myujen",
+      "name": "Raekoja plats",
+      "image": "https://image.anitabi.cn/user/0/bangumi/23686/points/ez7q2qv-1779614767586.jpg?plan=h160",
+      "ep": 3,
+      "s": 812,
+      "geo": [
+        59.4374,
+        24.7444
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "ソードアート・オンライン",
+  "name_cn": "刀剑神域",
+  "local_id": 6394
+}

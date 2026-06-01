@@ -1,0 +1,24 @@
+{
+  "id": 10417,
+  "cn": "进化战记",
+  "title": "ベターマン",
+  "cover": "https://image.xinu.ink/pic/data/6393/images/10417_08V64.jpg",
+  "cp": "1999 サンライズ",
+  "modified": 1779374392309,
+  "litePoints": [
+    {
+      "id": "ev5fzlp",
+      "name": "阿旃陀石窟",
+      "image": "https://image.anitabi.cn/user/0/bangumi/10417/points/ev5fzlp-1779368924328.jpg?plan=h160",
+      "geo": [
+        20.5506,
+        75.7076
+      ]
+    }
+  ],
+  "pointsLength": 1,
+  "imagesLength": 1,
+  "name": "ベターマン",
+  "name_cn": "进化战记",
+  "local_id": 6393
+}
