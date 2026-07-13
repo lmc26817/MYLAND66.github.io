@@ -524954,5 +524954,704 @@
       }
     ],
     "inform": "https://image.xinu.ink/pic/data/6424/points.json"
+  },
+  "6425": {
+    "name": "氷の城壁",
+    "name_cn": "冰之城墙",
+    "cover": "https://image.xinu.ink/pic/data/6425/images/1.jpg",
+    "theme_color": "#b3a89f",
+    "points": [
+      {
+        "id": "v8sog3kd",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "ls45ga64",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "yxhg0jqp",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "mcy5kvan",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "bkxwohl5",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "jxmtyaiw",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "onkygz4w",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "zehp4553",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "alukgcpt",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "i1fihfd3",
+        "name": "阿賀沢紅茶",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "2in97eiu",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "y99gj0ou",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "0f7j3ctb",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "w5457jb0",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "gf1r9d8g",
+        "name": "阿賀沢紅茶",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "4g4emvwv",
+        "name": "阿賀沢紅茶",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "o3jp83ec",
+        "name": "阿賀沢紅茶",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "jnouspvd",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "f3gsg0ba",
+        "name": "阿賀沢紅茶",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "12h7rl23",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "ah7op53m",
+        "name": "2026/7/13",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "qmv9647c",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "4ftq8761",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "1gi2f57y",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "z7d0kip9",
+        "name": "Overview",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "chcjlvxq",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "h4s7oxd6",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "xmx6y744",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "djuaow5a",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "xessvvp6",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "dogtq20g",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "mz8gyse9",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "it14vtvf",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "4mdrnyc8",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "6ml7pdse",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "t8bmpnum",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "ovva6f8o",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "z5dnarry",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "u10uv26u",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "cywdlv80",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "7xy5eux6",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "0omvgxiu",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "v08finoe",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "khauwpbx",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "wlxramof",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "pt850xxk",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "bttlvyzt",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "2j0b898b",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "opevl4ky",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "jhkw9nxu",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "d9mtakr0",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "5s1it0kj",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "qa16rmte",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "z412bo6j",
+        "name": "ブラジリアンパーク鷲羽山ハイランド",
+        "image": "",
+        "ep": "10",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "kvqsu4a5",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "rxd18tbw",
+        "name": "「正反対な君と僕」",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "tshbc214",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "dsriws73",
+        "name": "正反対な君と僕 第2期",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "v5dcyz9b",
+        "name": "シーン別",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "zeoa2d6e",
+        "name": "シーン別",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "btmtb46s",
+        "name": "シーン別",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "z8r3v23i",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "gstdd6s0",
+        "name": "シーン別",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "dz215c13",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "0b7k2uzi",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "t36ahtvf",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "3mnm37xm",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "65n4h8rg",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "xehe4rcp",
+        "name": "Unknown Location",
+        "image": "",
+        "ep": "",
+        "geo": [
+          0,
+          0
+        ]
+      }
+    ],
+    "inform": "https://image.xinu.ink/pic/data/6425/points.json"
   }
 }
